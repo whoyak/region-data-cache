@@ -103,9 +103,26 @@
       "base_layer_percentage": 66,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "KHB",
+      "region_name": "Хабаровский край",
+      "base_layer": "KHB Базовый слой 24.12.2025 17:00:\n\n1) HB0770 2025-12-24T15:44:48\nPower Да; Посещение Нет; WO Нет\n2) HB0942 2025-12-24T16:21:28\nPower Да; Посещение Нет; WO Нет\n3) HB1016 2025-12-24T09:58:33\nPower Да; Посещение Нет; WO Есть\n4) HB0298 2025-12-24T16:21:28\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KHB Неприоритетные технологии 24.12.2025 17:00:\n\nНедоступно LTE1800:\n1) HB0770\n2) HB0942\n3) HB1016\n4) HB0298\nНедоступно LTE2300:\n1) HB0005\n",
+      "base_layer_count": 4,
+      "total_bs_count": 6,
+      "power_problems": 1,
+      "non_priority_percentage": 34,
+      "timestamp": "17:00:16",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T17:00:16.887462",
+      "created_at": "2025-12-24T17:00:43.248800",
+      "base_layer_percentage": 66,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 6,
-  "timestamp": "2025-12-24T16:52:39.086762",
+  "count": 7,
+  "timestamp": "2025-12-24T17:00:47.214486",
   "error": null
 }
