@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
+      "region_name": "Мордовия",
+      "base_layer": "MRD Базовый слой 24.12.2025 15:53:\n\n1) MV0420 2025-12-24T15:11:35\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 13\nБазовый слой: 1/13\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) MV0420\nНедоступно 3G:\n1) MV1505\n2) MV0420\n3) MV0130\nНедоступно LTE800:\n1) MV0420\nНедоступно LTE2100:\n1) MV0164\n2) MV0420\nНедоступно LTE2300:\n1) MV0071\n2) MV0349\n3) MV0468\n4) MV0030\n5) MV0420\n6) MV0125\n7) MV0035\n8) MV0348\n9) MV0241\n10) MV0181\n",
+      "base_layer_count": 1,
+      "total_bs_count": 13,
       "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416722",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.248009",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499198",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155553",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984874",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406572",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412802",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082629",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "MRD",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484694",
-      "base_layer_percentage": 0
+      "non_priority_percentage": 93,
+      "timestamp": "15:53:16",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:16.160483",
+      "created_at": "2025-12-24T15:53:19.287102",
+      "base_layer_percentage": 7,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485039",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384997",
   "error": null
 }
