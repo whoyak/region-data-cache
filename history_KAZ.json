@@ -4,106 +4,23 @@
   "history": [
     {
       "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416036",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "KAZ",
+      "region_name": "Казань",
+      "base_layer": "KAZ Базовый слой 24.12.2025 15:52:\n\n1) TT1228 2025-12-19T12:23:56\nPower Да; Посещение Нет; WO Есть\n2) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\n3) TT0766 2025-12-24T15:38:58\nPower Да; Посещение Нет; WO Есть\n4) TT1305 2025-12-21T12:09:59\nPower Нет; Посещение Нет; WO Нет\n\nВсего BS: 46\nБазовый слой: 4/46\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- TT1305; wo Нет;Время 2025-12-21 11:06:48\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KAZ Неприоритетные технологии 24.12.2025 15:52:\n\nНедоступно LTE1800:\n1) TT1305\nНедоступно 3G:\n1) TT1055\n2) TT1248\n3) TT1305\nНедоступно LTE800:\n1) TT1305\nНедоступно LTE2100:\n1) TT1248\n2) TT1305\nНедоступно LTE2300:\n1) TT1007\n2) TT0840\n3) TT2130\n4) TT0373\n5) TT1133\n6) TT0842\n7) TT1024\n",
       "base_layer_count": 4,
-      "total_bs_count": 44,
+      "total_bs_count": 46,
       "power_problems": 1,
-      "non_priority_percentage": 91,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247619",
-      "base_layer_percentage": 9
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 4,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 91,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498530",
-      "base_layer_percentage": 9
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.154764",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983428",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.405482",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.410529",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.081581",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 44,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.483884",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "KAZ",
-      "base_layer_count": 5,
-      "total_bs_count": 45,
-      "power_problems": 1,
-      "non_priority_percentage": 89,
-      "timestamp": "15:32:40",
-      "created_at": "2025-12-24T15:32:40.153045",
-      "base_layer_percentage": 11
+      "non_priority_percentage": 92,
+      "timestamp": "15:52:56",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:52:56.989601",
+      "created_at": "2025-12-24T15:53:19.286642",
+      "base_layer_percentage": 8,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
-  "count": 10,
-  "timestamp": "2025-12-24T15:32:40.154374",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384910",
   "error": null
 }
