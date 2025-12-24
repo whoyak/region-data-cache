@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "VLA",
-      "base_layer_count": 0,
-      "total_bs_count": 13,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416654",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "VLA",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247970",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "VLA",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499126",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "VLA",
+      "region_name": "Владимирская область",
+      "base_layer": "VLA Базовый слой 24.12.2025 15:53:\n\n\nВсего BS: 12\nБазовый слой: 0/12\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- VL0241; wo Нет;Время 2025-12-23 02:49:49\n- VL0464; wo Нет;Время 2025-12-21 16:16:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLA Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно 3G:\n1) VL0246\n2) VL0241\n3) VL0464\nНедоступно LTE800:\n1) VL0187\n2) VL0816\n3) VL0464\nНедоступно LTE2300:\n1) VL0188\n2) VL0559\n3) VL0187\n4) VL0816\n5) VL0076\n6) VL0943\n7) VL0937\n8) VL0037\n9) VL0045\n",
       "base_layer_count": 0,
       "total_bs_count": 12,
       "power_problems": 3,
       "non_priority_percentage": 100,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155453",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "VLA",
-      "base_layer_count": 1,
-      "total_bs_count": 14,
-      "power_problems": 5,
-      "non_priority_percentage": 93,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984327",
-      "base_layer_percentage": 7
-    },
-    {
-      "region_code": "VLA",
-      "base_layer_count": 0,
-      "total_bs_count": 15,
-      "power_problems": 5,
-      "non_priority_percentage": 100,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406482",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "VLA",
-      "base_layer_count": 0,
-      "total_bs_count": 15,
-      "power_problems": 5,
-      "non_priority_percentage": 100,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412619",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "VLA",
-      "base_layer_count": 0,
-      "total_bs_count": 15,
-      "power_problems": 3,
-      "non_priority_percentage": 100,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082548",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "VLA",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 3,
-      "non_priority_percentage": 100,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484608",
-      "base_layer_percentage": 0
+      "timestamp": "15:53:14",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:14.095289",
+      "created_at": "2025-12-24T15:53:19.287053",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485025",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384988",
   "error": null
 }
