@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "LIP",
-      "base_layer_count": 3,
-      "total_bs_count": 4,
-      "power_problems": 2,
-      "non_priority_percentage": 25,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416711",
-      "base_layer_percentage": 75
-    },
-    {
-      "region_code": "LIP",
-      "base_layer_count": 3,
-      "total_bs_count": 4,
-      "power_problems": 2,
-      "non_priority_percentage": 25,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.248002",
-      "base_layer_percentage": 75
-    },
-    {
-      "region_code": "LIP",
-      "base_layer_count": 3,
-      "total_bs_count": 4,
-      "power_problems": 2,
-      "non_priority_percentage": 25,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499186",
-      "base_layer_percentage": 75
-    },
-    {
-      "region_code": "LIP",
-      "base_layer_count": 3,
-      "total_bs_count": 5,
-      "power_problems": 2,
-      "non_priority_percentage": 40,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155539",
-      "base_layer_percentage": 60
-    },
-    {
-      "region_code": "LIP",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984858",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "LIP",
+      "region_name": "Липецкая область",
+      "base_layer": "LIP Базовый слой 24.12.2025 15:53:\n\n1) LI0276 2025-12-20T15:48:13\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 6\nБазовый слой: 1/6\nВсего активных POWER на сети: 2\n\n3 приоритет:\n- LI0089; wo Есть;Время 2025-12-23 19:12:54\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "LIP Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) LI0276\nНедоступно 3G:\n1) LI0089\n2) LI0276\nНедоступно LTE800:\n1) LI0259\nНедоступно LTE2300:\n1) LI0916\n2) LI0148\n",
       "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406557",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "LIP",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412776",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "LIP",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082615",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "LIP",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484680",
-      "base_layer_percentage": 33
+      "total_bs_count": 6,
+      "power_problems": 2,
+      "non_priority_percentage": 84,
+      "timestamp": "15:53:15",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:15.789395",
+      "created_at": "2025-12-24T15:53:19.287094",
+      "base_layer_percentage": 16,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485037",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384996",
   "error": null
 }
