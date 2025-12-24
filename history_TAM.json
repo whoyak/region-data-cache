@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "TAM",
-      "base_layer_count": 1,
-      "total_bs_count": 8,
-      "power_problems": 1,
-      "non_priority_percentage": 88,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416767",
-      "base_layer_percentage": 12
-    },
-    {
-      "region_code": "TAM",
-      "base_layer_count": 1,
-      "total_bs_count": 8,
-      "power_problems": 1,
-      "non_priority_percentage": 88,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.248035",
-      "base_layer_percentage": 12
-    },
-    {
-      "region_code": "TAM",
-      "base_layer_count": 1,
-      "total_bs_count": 8,
-      "power_problems": 0,
-      "non_priority_percentage": 88,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499245",
-      "base_layer_percentage": 12
-    },
-    {
-      "region_code": "TAM",
-      "base_layer_count": 1,
-      "total_bs_count": 9,
-      "power_problems": 0,
-      "non_priority_percentage": 89,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155606",
-      "base_layer_percentage": 11
-    },
-    {
-      "region_code": "TAM",
+      "region_name": "Тамбовская область",
+      "base_layer": "TAM Базовый слой 24.12.2025 15:53:\n\n\nВсего BS: 7\nБазовый слой: 0/7\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE2300:\n1) TM0949\n",
       "base_layer_count": 0,
       "total_bs_count": 7,
       "power_problems": 0,
       "non_priority_percentage": 100,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984931",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "TAM",
-      "base_layer_count": 0,
-      "total_bs_count": 7,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406629",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "TAM",
-      "base_layer_count": 0,
-      "total_bs_count": 7,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412901",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "TAM",
-      "base_layer_count": 0,
-      "total_bs_count": 7,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082684",
-      "base_layer_percentage": 0
-    },
-    {
-      "region_code": "TAM",
-      "base_layer_count": 0,
-      "total_bs_count": 7,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484749",
-      "base_layer_percentage": 0
+      "timestamp": "15:53:17",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:17.502187",
+      "created_at": "2025-12-24T15:53:19.287135",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485049",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.385004",
   "error": null
 }
