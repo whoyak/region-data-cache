@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "PNZ",
-      "base_layer_count": 5,
-      "total_bs_count": 10,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416744",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "PNZ",
-      "base_layer_count": 6,
-      "total_bs_count": 11,
-      "power_problems": 1,
-      "non_priority_percentage": 46,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.248021",
-      "base_layer_percentage": 54
-    },
-    {
-      "region_code": "PNZ",
-      "base_layer_count": 6,
-      "total_bs_count": 11,
-      "power_problems": 1,
-      "non_priority_percentage": 46,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499221",
-      "base_layer_percentage": 54
-    },
-    {
-      "region_code": "PNZ",
-      "base_layer_count": 5,
-      "total_bs_count": 8,
-      "power_problems": 1,
-      "non_priority_percentage": 38,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155579",
-      "base_layer_percentage": 62
-    },
-    {
-      "region_code": "PNZ",
-      "base_layer_count": 5,
-      "total_bs_count": 8,
-      "power_problems": 1,
-      "non_priority_percentage": 38,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984902",
-      "base_layer_percentage": 62
-    },
-    {
-      "region_code": "PNZ",
-      "base_layer_count": 4,
-      "total_bs_count": 9,
-      "power_problems": 1,
-      "non_priority_percentage": 56,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406600",
-      "base_layer_percentage": 44
-    },
-    {
-      "region_code": "PNZ",
-      "base_layer_count": 4,
-      "total_bs_count": 9,
-      "power_problems": 1,
-      "non_priority_percentage": 56,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412851",
-      "base_layer_percentage": 44
-    },
-    {
-      "region_code": "PNZ",
-      "base_layer_count": 4,
-      "total_bs_count": 9,
-      "power_problems": 1,
-      "non_priority_percentage": 56,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082657",
-      "base_layer_percentage": 44
-    },
-    {
-      "region_code": "PNZ",
+      "region_name": "Пензенская область",
+      "base_layer": "PNZ Базовый слой 24.12.2025 15:53:\n\n1) PN0720 2025-12-24T15:41:07\nPower Нет; Посещение Да; WO Есть\n2) PN0832 2025-12-24T06:33:39\nPower Да; Посещение Нет; WO Есть\n3) PN0942 2025-12-23T11:02:37\nPower Да; Посещение Нет; WO Есть\n4) PN0895 2025-12-23T10:40:37\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 8\nБазовый слой: 4/8\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- PN0301; wo Нет;Время 2025-12-24 13:10:20\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) PN0832\n2) PN0895\nНедоступно 3G:\n1) PN0182\n2) PN0832\n3) PN0942\n4) PN0895\n5) PN0301\nНедоступно LTE800:\n1) PN0832\n2) PN0895\nНедоступно LTE2100:\n1) PN0832\n2) PN0942\n3) PN0895\nНедоступно LTE2300:\n1) PN1263\n",
       "base_layer_count": 4,
       "total_bs_count": 8,
       "power_problems": 1,
       "non_priority_percentage": 50,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484721",
-      "base_layer_percentage": 50
+      "timestamp": "15:53:16",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:16.839083",
+      "created_at": "2025-12-24T15:53:19.287119",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485044",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.385000",
   "error": null
 }
