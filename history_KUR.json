@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "KUR",
+      "region_name": "Курская область",
+      "base_layer": "KUR Базовый слой 24.12.2025 15:53:\n\n1) KU0930 2025-12-22T14:58:58\nPower Да; Посещение Нет; WO Есть\n2) KU1359 2025-12-02T13:32:45\nPower Да; Посещение Нет; WO Нет\n3) KU0150 2025-12-15T22:50:49\nPower Да; Посещение Нет; WO Нет\n4) KU1575 2025-12-06T11:11:30\nPower Нет; Посещение Нет; WO Нет\n5) KU0140 2025-12-24T14:58:34\nPower Да; Посещение Да; WO Есть\n6) KU0048 2025-12-16T15:54:11\nPower Да; Посещение Нет; WO Нет\n7) KU1112 2025-12-24T08:49:41\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 26\nБазовый слой: 7/26\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KU1575; wo Нет;Время 2025-12-24 09:03:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KUR Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) KU0930\n2) KU1359\n3) KU0150\n4) KU1575\n5) KU0140\n6) KU1112\nНедоступно 3G:\n1) KU0058\n2) KU1575\n3) KU0140\nНедоступно LTE800:\n1) KU0058\nНедоступно LTE2600:\n1) KU0048\nНедоступно LTE2100:\n1) KU0140\nНедоступно LTE2300:\n1) KU2021\n2) KU0224\n3) KU2101\n4) KU0140\n5) KU2031\n6) KU2040\n7) KU0039\n",
       "base_layer_count": 7,
-      "total_bs_count": 29,
-      "power_problems": 2,
-      "non_priority_percentage": 76,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416699",
-      "base_layer_percentage": 24
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 9,
-      "total_bs_count": 29,
+      "total_bs_count": 26,
       "power_problems": 1,
-      "non_priority_percentage": 69,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247996",
-      "base_layer_percentage": 31
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 9,
-      "total_bs_count": 29,
-      "power_problems": 1,
-      "non_priority_percentage": 69,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499174",
-      "base_layer_percentage": 31
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 8,
-      "total_bs_count": 28,
-      "power_problems": 1,
-      "non_priority_percentage": 72,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155526",
-      "base_layer_percentage": 28
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 8,
-      "total_bs_count": 28,
-      "power_problems": 1,
-      "non_priority_percentage": 72,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984841",
-      "base_layer_percentage": 28
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 9,
-      "total_bs_count": 29,
-      "power_problems": 1,
-      "non_priority_percentage": 69,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406543",
-      "base_layer_percentage": 31
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 9,
-      "total_bs_count": 29,
-      "power_problems": 1,
-      "non_priority_percentage": 69,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412743",
-      "base_layer_percentage": 31
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 9,
-      "total_bs_count": 29,
-      "power_problems": 1,
-      "non_priority_percentage": 69,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082602",
-      "base_layer_percentage": 31
-    },
-    {
-      "region_code": "KUR",
-      "base_layer_count": 8,
-      "total_bs_count": 27,
-      "power_problems": 1,
-      "non_priority_percentage": 71,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484665",
-      "base_layer_percentage": 29
+      "non_priority_percentage": 74,
+      "timestamp": "15:53:15",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:15.445402",
+      "created_at": "2025-12-24T15:53:19.287086",
+      "base_layer_percentage": 26,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485035",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384994",
   "error": null
 }
