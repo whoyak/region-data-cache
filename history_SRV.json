@@ -460,9 +460,26 @@
       "base_layer_percentage": 12,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "SRV",
+      "region_name": "Саратовская область",
+      "base_layer": "SRV Базовый слой 24.12.2025 21:29:\n\n1) SV1772 2025-12-24T17:57:28\nPower Да; Посещение Нет; WO Есть\n2) SV1778 2025-12-24T17:16:23\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SRV Неприоритетные технологии 24.12.2025 21:29:\n\nНедоступно LTE1800:\n1) SV1772\n2) SV1778\nНедоступно 3G:\n1) SV0041\n2) SV1817\nНедоступно LTE800:\n1) SV0853\n2) SV1545\nНедоступно LTE2600:\n1) SV0041\nНедоступно LTE2100:\n1) SV2100\n2) SV0041\nНедоступно LTE2300:\n1) SV0688\n2) SV1793\n3) SV1775\n4) SV0806\n5) SV0445\n6) SV0231\n7) SV0175\n8) SV1778\n9) SV0452\n",
+      "base_layer_count": 2,
+      "total_bs_count": 16,
+      "power_problems": 0,
+      "non_priority_percentage": 88,
+      "timestamp": "21:29:25",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T21:29:25.141109",
+      "created_at": "2025-12-24T21:29:27.660066",
+      "base_layer_percentage": 12,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 27,
-  "timestamp": "2025-12-24T21:16:31.735105",
+  "count": 28,
+  "timestamp": "2025-12-24T21:29:33.967873",
   "error": null
 }
