@@ -23,23 +23,31 @@
         "base_layer_percentage": 50,
         "power_problems": 0,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432510",
+        "total_bs_count": 3,
+        "base_layer_count": 2,
+        "base_layer_percentage": 66,
+        "power_problems": 0,
+        "non_priority_percentage": 34
       }
     ],
     "current": {
       "success": true,
       "region_code": "BRT",
       "region_name": "Бурятия",
-      "base_layer": "BRT Базовый слой 24.12.2025 13:41:\n\n1) ZB1572 2025-12-21T17:10:10\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 0\n",
-      "non_priority": "BRT Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:38",
+      "base_layer": "BRT Базовый слой 24.12.2025 13:47:\n\n1) BU0173 2025-12-24T13:22:22\nPower Да; Посещение Нет; WO Есть\n2) ZB1572 2025-12-21T17:10:10\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 3\nБазовый слой: 2/3\nВсего активных POWER на сети: 0\n",
+      "non_priority": "BRT Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:24",
       "stats": {
-        "total_bs": 2,
-        "base_layer_count": 1,
+        "total_bs": 3,
+        "base_layer_count": 2,
         "power_problems": 0,
-        "non_priority_percentage": 50
+        "non_priority_percentage": 34
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:38.544184",
+      "collected_at": "2025-12-24T13:47:24.583403",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -67,23 +75,31 @@
         "base_layer_percentage": 13,
         "power_problems": 3,
         "non_priority_percentage": 87
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432544",
+        "total_bs_count": 56,
+        "base_layer_count": 5,
+        "base_layer_percentage": 8,
+        "power_problems": 3,
+        "non_priority_percentage": 92
       }
     ],
     "current": {
       "success": true,
       "region_code": "IRK",
       "region_name": "Иркутская область",
-      "base_layer": "IRK Базовый слой 24.12.2025 13:41:\n\n1) IR2248 2025-12-24T09:10:56\nPower Да; Посещение Да; WO Есть\n2) YA1055 2025-12-24T11:40:39\nPower Да; Посещение Нет; WO Есть\n3) YA2326 2025-12-21T09:28:10\nPower Да; Посещение Нет; WO Нет\n4) IR0256 2025-12-24T12:24:59\nPower Нет; Посещение Нет; WO Нет\n5) IR0351 2025-12-24T12:33:21\nPower Да; Посещение Нет; WO Нет\n6) YA0760 2025-12-19T09:40:31\nPower Да; Посещение Нет; WO Нет\n7) IR1795 2025-12-24T12:46:24\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 53\nБазовый слой: 7/53\nВсего активных POWER на сети: 3\n",
-      "non_priority": "IRK Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:39",
+      "base_layer": "IRK Базовый слой 24.12.2025 13:47:\n\n1) IR2248 2025-12-24T13:22:29\nPower Да; Посещение Да; WO Есть\n2) YA1055 2025-12-24T11:40:39\nPower Да; Посещение Нет; WO Есть\n3) YA2326 2025-12-21T09:28:10\nPower Да; Посещение Нет; WO Нет\n4) YA0760 2025-12-19T09:40:31\nPower Да; Посещение Нет; WO Нет\n5) IR1795 2025-12-24T12:46:24\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 56\nБазовый слой: 5/56\nВсего активных POWER на сети: 3\n",
+      "non_priority": "IRK Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:25",
       "stats": {
-        "total_bs": 53,
-        "base_layer_count": 7,
+        "total_bs": 56,
+        "base_layer_count": 5,
         "power_problems": 3,
-        "non_priority_percentage": 87
+        "non_priority_percentage": 92
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:39.086093",
+      "collected_at": "2025-12-24T13:47:25.127983",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -111,15 +127,23 @@
         "base_layer_percentage": 100,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432554",
+        "total_bs_count": 1,
+        "base_layer_count": 1,
+        "base_layer_percentage": 100,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "KAM",
       "region_name": "Камчатский край",
-      "base_layer": "KAM Базовый слой 24.12.2025 13:41:\n\n1) KM0013 2025-11-17T09:28:46\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 0\n",
-      "non_priority": "KAM Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:39",
+      "base_layer": "KAM Базовый слой 24.12.2025 13:47:\n\n1) KM0013 2025-11-17T09:28:46\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "KAM Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:25",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 1,
@@ -127,7 +151,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:39.616098",
+      "collected_at": "2025-12-24T13:47:25.659179",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -155,23 +179,31 @@
         "base_layer_percentage": 25,
         "power_problems": 1,
         "non_priority_percentage": 75
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432559",
+        "total_bs_count": 3,
+        "base_layer_count": 1,
+        "base_layer_percentage": 33,
+        "power_problems": 0,
+        "non_priority_percentage": 67
       }
     ],
     "current": {
       "success": true,
       "region_code": "KHB",
       "region_name": "Хабаровский край",
-      "base_layer": "KHB Базовый слой 24.12.2025 13:41:\n\n1) HB1016 2025-12-24T09:58:33\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 4\nБазовый слой: 1/4\nВсего активных POWER на сети: 1\n",
-      "non_priority": "KHB Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:40",
+      "base_layer": "KHB Базовый слой 24.12.2025 13:47:\n\n1) HB1016 2025-12-24T09:58:33\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 3\nБазовый слой: 1/3\nВсего активных POWER на сети: 0\n",
+      "non_priority": "KHB Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:26",
       "stats": {
-        "total_bs": 4,
+        "total_bs": 3,
         "base_layer_count": 1,
-        "power_problems": 1,
-        "non_priority_percentage": 75
+        "power_problems": 0,
+        "non_priority_percentage": 67
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:40.160468",
+      "collected_at": "2025-12-24T13:47:26.204343",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -199,23 +231,31 @@
         "base_layer_percentage": 50,
         "power_problems": 0,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432563",
+        "total_bs_count": 3,
+        "base_layer_count": 1,
+        "base_layer_percentage": 33,
+        "power_problems": 0,
+        "non_priority_percentage": 67
       }
     ],
     "current": {
       "success": true,
       "region_code": "SAH",
       "region_name": "Сахалинская область",
-      "base_layer": "SAH Базовый слой 24.12.2025 13:41:\n\n1) SA0177 2025-12-21T10:49:50\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 0\n",
-      "non_priority": "SAH Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:40",
+      "base_layer": "SAH Базовый слой 24.12.2025 13:47:\n\n1) SA0177 2025-12-21T10:49:50\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 3\nБазовый слой: 1/3\nВсего активных POWER на сети: 0\n",
+      "non_priority": "SAH Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:26",
       "stats": {
-        "total_bs": 2,
+        "total_bs": 3,
         "base_layer_count": 1,
         "power_problems": 0,
-        "non_priority_percentage": 50
+        "non_priority_percentage": 67
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:40.688168",
+      "collected_at": "2025-12-24T13:47:26.746352",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -243,23 +283,31 @@
         "base_layer_percentage": 33,
         "power_problems": 0,
         "non_priority_percentage": 67
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432567",
+        "total_bs_count": 5,
+        "base_layer_count": 3,
+        "base_layer_percentage": 60,
+        "power_problems": 0,
+        "non_priority_percentage": 40
       }
     ],
     "current": {
       "success": true,
       "region_code": "VLD",
       "region_name": "Владивосток",
-      "base_layer": "VLD Базовый слой 24.12.2025 13:41:\n\n1) VV0456 2025-12-04T16:20:13\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 3\nБазовый слой: 1/3\nВсего активных POWER на сети: 0\n",
-      "non_priority": "VLD Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:41",
+      "base_layer": "VLD Базовый слой 24.12.2025 13:47:\n\n1) VV0487 2025-12-24T13:13:44\nPower Да; Посещение Нет; WO Есть\n2) VV0614 2025-12-24T13:13:41\nPower Да; Посещение Нет; WO Есть\n3) VV0456 2025-12-04T16:20:13\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 5\nБазовый слой: 3/5\nВсего активных POWER на сети: 0\n",
+      "non_priority": "VLD Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:27",
       "stats": {
-        "total_bs": 3,
-        "base_layer_count": 1,
+        "total_bs": 5,
+        "base_layer_count": 3,
         "power_problems": 0,
-        "non_priority_percentage": 67
+        "non_priority_percentage": 40
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:41.239702",
+      "collected_at": "2025-12-24T13:47:27.277827",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -287,15 +335,23 @@
         "base_layer_percentage": 100,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432571",
+        "total_bs_count": 1,
+        "base_layer_count": 1,
+        "base_layer_percentage": 100,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "BIR",
       "region_name": "Биробиджан",
-      "base_layer": "BIR Базовый слой 24.12.2025 13:41:\n\n1) BI0108 2025-12-24T09:04:13\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 0\n",
-      "non_priority": "BIR Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:41",
+      "base_layer": "BIR Базовый слой 24.12.2025 13:47:\n\n1) BI0108 2025-12-24T09:04:13\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "BIR Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:27",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 1,
@@ -303,7 +359,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:41.769216",
+      "collected_at": "2025-12-24T13:47:27.809356",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -331,15 +387,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432575",
+        "total_bs_count": 0,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "AND",
       "region_name": "Андомский",
-      "base_layer": "AND Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
-      "non_priority": "AND Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:42",
+      "base_layer": "AND Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
+      "non_priority": "AND Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:28",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -347,7 +411,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:42.295397",
+      "collected_at": "2025-12-24T13:47:28.342606",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -375,15 +439,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432579",
+        "total_bs_count": 0,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "MGD",
       "region_name": "Магаданская область",
-      "base_layer": "MGD Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
-      "non_priority": "MGD Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:42",
+      "base_layer": "MGD Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
+      "non_priority": "MGD Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:28",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -391,7 +463,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:42.823182",
+      "collected_at": "2025-12-24T13:47:28.886986",
       "macroregion": "Байкал и Дальний Восток"
     }
   },
@@ -419,23 +491,31 @@
         "base_layer_percentage": 60,
         "power_problems": 3,
         "non_priority_percentage": 40
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432583",
+        "total_bs_count": 5,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 2,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "CHV",
       "region_name": "Чувашия",
-      "base_layer": "CHV Базовый слой 24.12.2025 13:41:\n\n1) CV0509 2025-12-24T11:58:01\nPower Да; Посещение Нет; WO Нет\n2) CV0388 2025-12-24T12:19:32\nPower Нет; Посещение Нет; WO Есть\n3) CV1159 2025-12-24T10:53:01\nPower Да; Посещение Да; WO Есть\n\nВсего BS: 5\nБазовый слой: 3/5\nВсего активных POWER на сети: 3\n",
-      "non_priority": "CHV Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:43",
+      "base_layer": "CHV Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 5\nБазовый слой: 0/5\nВсего активных POWER на сети: 2\n",
+      "non_priority": "CHV Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:29",
       "stats": {
         "total_bs": 5,
-        "base_layer_count": 3,
-        "power_problems": 3,
-        "non_priority_percentage": 40
+        "base_layer_count": 0,
+        "power_problems": 2,
+        "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:43.347581",
+      "collected_at": "2025-12-24T13:47:29.419803",
       "macroregion": "Волга"
     }
   },
@@ -463,23 +543,31 @@
         "base_layer_percentage": 18,
         "power_problems": 0,
         "non_priority_percentage": 82
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432587",
+        "total_bs_count": 15,
+        "base_layer_count": 5,
+        "base_layer_percentage": 33,
+        "power_problems": 0,
+        "non_priority_percentage": 67
       }
     ],
     "current": {
       "success": true,
       "region_code": "IZH",
       "region_name": "Ижевск",
-      "base_layer": "IZH Базовый слой 24.12.2025 13:41:\n\n1) IZ0484 2025-12-23T10:42:21\nPower Да; Посещение Нет; WO Нет\n2) IZ0690 2025-12-24T01:43:19\nPower Да; Посещение Да; WO Есть\n3) IZ0615 2025-12-24T08:31:05\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 16\nБазовый слой: 3/16\nВсего активных POWER на сети: 0\n",
-      "non_priority": "IZH Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:43",
+      "base_layer": "IZH Базовый слой 24.12.2025 13:47:\n\n1) IZ0484 2025-12-23T10:42:21\nPower Да; Посещение Нет; WO Нет\n2) IZ0690 2025-12-24T01:43:19\nPower Да; Посещение Да; WO Есть\n3) IZ0615 2025-12-24T08:31:05\nPower Да; Посещение Нет; WO Есть\n4) IZ0102 2025-12-24T13:38:41\nPower Да; Посещение Нет; WO Нет\n5) IZ0424 2025-12-24T13:31:52\nPower Да; Посещение Да; WO Есть\n\nВсего BS: 15\nБазовый слой: 5/15\nВсего активных POWER на сети: 0\n",
+      "non_priority": "IZH Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:29",
       "stats": {
-        "total_bs": 16,
-        "base_layer_count": 3,
+        "total_bs": 15,
+        "base_layer_count": 5,
         "power_problems": 0,
-        "non_priority_percentage": 82
+        "non_priority_percentage": 67
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:43.897107",
+      "collected_at": "2025-12-24T13:47:29.966688",
       "macroregion": "Урал"
     }
   },
@@ -507,23 +595,31 @@
         "base_layer_percentage": 7,
         "power_problems": 1,
         "non_priority_percentage": 93
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432592",
+        "total_bs_count": 44,
+        "base_layer_count": 5,
+        "base_layer_percentage": 11,
+        "power_problems": 1,
+        "non_priority_percentage": 89
       }
     ],
     "current": {
       "success": true,
       "region_code": "KAZ",
       "region_name": "Казань",
-      "base_layer": "KAZ Базовый слой 24.12.2025 13:41:\n\n1) TT1228 2025-12-19T12:23:56\nPower Да; Посещение Нет; WO Есть\n2) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\n3) TT1305 2025-12-21T12:09:59\nPower Нет; Посещение Нет; WO Нет\n\nВсего BS: 42\nБазовый слой: 3/42\nВсего активных POWER на сети: 1\n",
-      "non_priority": "KAZ Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:44",
+      "base_layer": "KAZ Базовый слой 24.12.2025 13:47:\n\n1) TT1055 2025-12-24T13:36:26\nPower Да; Посещение Нет; WO Нет\n2) TT1228 2025-12-19T12:23:56\nPower Да; Посещение Нет; WO Есть\n3) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\n4) TT0766 2025-12-24T13:16:12\nPower Да; Посещение Нет; WO Нет\n5) TT1305 2025-12-21T12:09:59\nPower Нет; Посещение Нет; WO Нет\n\nВсего BS: 44\nБазовый слой: 5/44\nВсего активных POWER на сети: 1\n",
+      "non_priority": "KAZ Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:30",
       "stats": {
-        "total_bs": 42,
-        "base_layer_count": 3,
+        "total_bs": 44,
+        "base_layer_count": 5,
         "power_problems": 1,
-        "non_priority_percentage": 93
+        "non_priority_percentage": 89
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:44.436423",
+      "collected_at": "2025-12-24T13:47:30.598882",
       "macroregion": "Волга"
     }
   },
@@ -551,23 +647,31 @@
         "base_layer_percentage": 26,
         "power_problems": 4,
         "non_priority_percentage": 74
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432595",
+        "total_bs_count": 21,
+        "base_layer_count": 5,
+        "base_layer_percentage": 23,
+        "power_problems": 4,
+        "non_priority_percentage": 77
       }
     ],
     "current": {
       "success": true,
       "region_code": "NIN",
       "region_name": "Нижний Новгород",
-      "base_layer": "NIN Базовый слой 24.12.2025 13:41:\n\n1) NN0687 2025-12-24T06:35:39\nPower Да; Посещение Нет; WO Нет\n2) NN1964 2025-12-24T13:04:35\nPower Нет; Посещение Нет; WO Есть\n3) NN0893 2025-12-24T13:07:13\nPower Нет; Посещение Нет; WO Есть\n4) NO0809 2025-12-24T05:07:27\nPower Да; Посещение Да; WO Есть\n5) NN2718 2025-12-24T10:56:44\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 19\nБазовый слой: 5/19\nВсего активных POWER на сети: 4\n",
-      "non_priority": "NIN Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:44",
+      "base_layer": "NIN Базовый слой 24.12.2025 13:47:\n\n1) NN0687 2025-12-24T06:35:39\nPower Да; Посещение Нет; WO Нет\n2) NN1964 2025-12-24T13:04:35\nPower Нет; Посещение Нет; WO Есть\n3) NN0893 2025-12-24T13:07:13\nPower Нет; Посещение Нет; WO Есть\n4) NO0809 2025-12-24T05:07:27\nPower Да; Посещение Да; WO Есть\n5) NN2718 2025-12-24T10:56:44\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 21\nБазовый слой: 5/21\nВсего активных POWER на сети: 4\n",
+      "non_priority": "NIN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:31",
       "stats": {
-        "total_bs": 19,
+        "total_bs": 21,
         "base_layer_count": 5,
         "power_problems": 4,
-        "non_priority_percentage": 74
+        "non_priority_percentage": 77
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:44.971333",
+      "collected_at": "2025-12-24T13:47:31.165245",
       "macroregion": "Волга"
     }
   },
@@ -595,23 +699,31 @@
         "base_layer_percentage": 50,
         "power_problems": 4,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432599",
+        "total_bs_count": 55,
+        "base_layer_count": 25,
+        "base_layer_percentage": 45,
+        "power_problems": 4,
+        "non_priority_percentage": 55
       }
     ],
     "current": {
       "success": true,
       "region_code": "SAM",
       "region_name": "Самара",
-      "base_layer": "SAM Базовый слой 24.12.2025 13:41:\n\n1) SR1699 2025-12-24T07:34:18\nPower Да; Посещение Да; WO Есть\n2) SR0934 2025-12-24T13:17:56\nPower Да; Посещение Да; WO Есть\n3) SR1736 2025-11-27T14:39:27\nPower Да; Посещение Нет; WO Нет\n4) SR1712 2025-12-15T06:15:08\nPower Да; Посещение Нет; WO Нет\n5) SR0669 2025-12-24T12:12:45\nPower Нет; Посещение Нет; WO Нет\n6) SR1260 2025-12-02T20:09:59\nPower Да; Посещение Нет; WO Нет\n7) SR0419 2025-12-05T06:08:39\nPower Да; Посещение Нет; WO Нет\n8) SR1604 2025-11-27T14:31:42\nPower Да; Посещение Нет; WO Нет\n9) SR1772 2025-12-02T20:08:04\nPower Да; Посещение Нет; WO Нет\n10) SR1782 2025-12-14T12:48:25\nPower Да; Посещение Нет; WO Есть\n11) SR0922 2025-12-15T01:15:58\nPower Да; Посещение Нет; WO Нет\n12) SR0171 2025-12-24T12:07:49\nPower Да; Посещение Нет; WO Нет\n13) SR1709 2025-11-27T14:35:22\nPower Да; Посещение Нет; WO Нет\n14) SR1765 2025-11-27T14:51:22\nPower Да; Посещение Нет; WO Нет\n15) SR1759 2025-11-27T14:48:34\nPower Да; Посещение Нет; WO Есть\n16) SR0408 2025-12-24T10:21:00\nPower Да; Посещение Нет; WO Есть\n17) SR1773 2025-12-04T20:59:27\nPower Да; Посещение Нет; WO Нет\n18) SR1788 2025-12-01T10:52:39\nPower Да; Посещение Нет; WO Нет\n19) SR1254 2025-12-24T09:33:09\nPower Да; Посещение Нет; WO Нет\n20) SR0116 2025-12-24T07:34:18\nPower Да; Посещение Нет; WO Нет\n21) SR1052 2025-12-14T04:06:06\nPower Да; Посещение Нет; WO Нет\n22) SR1238 2025-12-21T20:38:30\nPower Да; Посещение Нет; WO Нет\n23) SR1783 2025-12-14T16:04:01\nPower Да; Посещение Нет; WO Нет\n24) SR1284 2025-12-20T04:38:24\nPower Да; Посещение Нет; WO Нет\n25) SR1700 2025-12-05T02:32:14\nPower Да; Посещение Нет; WO Нет\n26) SR1533 2025-12-24T12:59:36\nPower Да; Посещение Нет; WO Есть\n27) SR1420 2025-12-24T13:07:55\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 54\nБазовый слой: 27/54\nВсего активных POWER на сети: 4\n",
-      "non_priority": "SAM Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:45",
+      "base_layer": "SAM Базовый слой 24.12.2025 13:47:\n\n1) SR1699 2025-12-24T07:34:18\nPower Да; Посещение Да; WO Есть\n2) SR0934 2025-12-24T13:17:56\nPower Да; Посещение Да; WO Есть\n3) SR1736 2025-11-27T14:39:27\nPower Да; Посещение Нет; WO Нет\n4) SR1712 2025-12-15T06:15:08\nPower Да; Посещение Нет; WO Нет\n5) SR1260 2025-12-02T20:09:59\nPower Да; Посещение Нет; WO Нет\n6) SR0419 2025-12-05T06:08:39\nPower Да; Посещение Нет; WO Нет\n7) SR1604 2025-11-27T14:31:42\nPower Да; Посещение Нет; WO Нет\n8) SR1772 2025-12-02T20:08:04\nPower Да; Посещение Нет; WO Нет\n9) SR1782 2025-12-14T12:48:25\nPower Да; Посещение Нет; WO Есть\n10) SR0922 2025-12-15T01:15:58\nPower Да; Посещение Нет; WO Нет\n11) SR0171 2025-12-24T12:07:49\nPower Да; Посещение Нет; WO Нет\n12) SR1709 2025-11-27T14:35:22\nPower Да; Посещение Нет; WO Нет\n13) SR1765 2025-11-27T14:51:22\nPower Да; Посещение Нет; WO Нет\n14) SR1759 2025-11-27T14:48:34\nPower Да; Посещение Нет; WO Есть\n15) SR0408 2025-12-24T10:21:00\nPower Да; Посещение Нет; WO Есть\n16) SR1773 2025-12-04T20:59:27\nPower Да; Посещение Нет; WO Нет\n17) SR1788 2025-12-01T10:52:39\nPower Да; Посещение Нет; WO Нет\n18) SR1254 2025-12-24T09:33:09\nPower Да; Посещение Нет; WO Нет\n19) SR0116 2025-12-24T07:34:18\nPower Да; Посещение Нет; WO Нет\n20) SR1052 2025-12-14T04:06:06\nPower Да; Посещение Нет; WO Нет\n21) SR1238 2025-12-21T20:38:30\nPower Да; Посещение Нет; WO Нет\n22) SR1783 2025-12-14T16:04:01\nPower Да; Посещение Нет; WO Нет\n23) SR1284 2025-12-20T04:38:24\nPower Да; Посещение Нет; WO Нет\n24) SR1700 2025-12-05T02:32:14\nPower Да; Посещение Нет; WO Нет\n25) SR1533 2025-12-24T12:59:36\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 55\nБазовый слой: 25/55\nВсего активных POWER на сети: 4\n",
+      "non_priority": "SAM Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:31",
       "stats": {
-        "total_bs": 54,
-        "base_layer_count": 27,
+        "total_bs": 55,
+        "base_layer_count": 25,
         "power_problems": 4,
-        "non_priority_percentage": 50
+        "non_priority_percentage": 55
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:45.507693",
+      "collected_at": "2025-12-24T13:47:31.692795",
       "macroregion": "Волга"
     }
   },
@@ -639,15 +751,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432603",
+        "total_bs_count": 1,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "YOL",
       "region_name": "Йошкар-Ола",
-      "base_layer": "YOL Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 0\n",
-      "non_priority": "YOL Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:46",
+      "base_layer": "YOL Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "YOL Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:32",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -655,7 +775,7 @@
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:46.030916",
+      "collected_at": "2025-12-24T13:47:32.243499",
       "macroregion": "Волга"
     }
   },
@@ -683,15 +803,23 @@
         "base_layer_percentage": 0,
         "power_problems": 1,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432606",
+        "total_bs_count": 1,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 1,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "KIR",
       "region_name": "Киров",
-      "base_layer": "KIR Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 1\n",
-      "non_priority": "KIR Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:46",
+      "base_layer": "KIR Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 1\n",
+      "non_priority": "KIR Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:32",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -699,7 +827,7 @@
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:46.607547",
+      "collected_at": "2025-12-24T13:47:32.773524",
       "macroregion": "Волга"
     }
   },
@@ -727,23 +855,31 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432609",
+        "total_bs_count": 1,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "ULN",
       "region_name": "Ульяновск",
-      "base_layer": "ULN Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 2\nБазовый слой: 0/2\nВсего активных POWER на сети: 0\n",
-      "non_priority": "ULN Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:47",
+      "base_layer": "ULN Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "ULN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:33",
       "stats": {
-        "total_bs": 2,
+        "total_bs": 1,
         "base_layer_count": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:47.136963",
+      "collected_at": "2025-12-24T13:47:33.368633",
       "macroregion": "Волга"
     }
   },
@@ -771,23 +907,31 @@
         "base_layer_percentage": 41,
         "power_problems": 9,
         "non_priority_percentage": 59
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432612",
+        "total_bs_count": 23,
+        "base_layer_count": 11,
+        "base_layer_percentage": 47,
+        "power_problems": 8,
+        "non_priority_percentage": 53
       }
     ],
     "current": {
       "success": true,
       "region_code": "CNT",
       "region_name": "Центральный округ Москвы",
-      "base_layer": "CNT Базовый слой 24.12.2025 13:41:\n\n1) MS0820 2025-12-24T10:37:27\nPower Да; Посещение Нет; WO Нет\n2) MC4898 2025-12-23T20:46:48\nPower Да; Посещение Нет; WO Нет\n3) MS5463 2025-12-24T12:55:00\nPower Нет; Посещение Нет; WO Нет\n4) MC4188 2025-12-24T09:33:39\nPower Да; Посещение Да; WO Нет\n5) MS2765 2025-12-24T12:49:45\nPower Да; Посещение Нет; WO Нет\n6) MC0561 2025-12-23T12:47:41\nPower Да; Посещение Нет; WO Нет\n7) MS4066 2025-12-24T04:36:42\nPower Нет; Посещение Да; WO Нет\n8) MS4497 2025-12-24T00:27:14\nPower Да; Посещение Нет; WO Нет\n9) MS2830 2025-12-24T01:00:04\nPower Да; Посещение Нет; WO Нет\n10) MS2972 2025-12-24T00:05:48\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 24\nБазовый слой: 10/24\nВсего активных POWER на сети: 9\n",
-      "non_priority": "CNT Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:47",
+      "base_layer": "CNT Базовый слой 24.12.2025 13:47:\n\n1) MS0820 2025-12-24T10:37:27\nPower Да; Посещение Нет; WO Нет\n2) MC4898 2025-12-23T20:46:48\nPower Да; Посещение Нет; WO Нет\n3) MS5463 2025-12-24T12:55:00\nPower Нет; Посещение Нет; WO Нет\n4) MC4188 2025-12-24T09:33:39\nPower Да; Посещение Да; WO Нет\n5) MS2765 2025-12-24T13:33:06\nPower Да; Посещение Нет; WO Нет\n6) MC0561 2025-12-23T12:47:41\nPower Да; Посещение Нет; WO Нет\n7) MS4066 2025-12-24T04:36:42\nPower Нет; Посещение Да; WO Нет\n8) MS4497 2025-12-24T00:27:14\nPower Да; Посещение Нет; WO Нет\n9) MS2830 2025-12-24T01:00:04\nPower Да; Посещение Нет; WO Нет\n10) MC1383 2025-12-24T13:38:28\nPower Нет; Посещение Нет; WO Нет\n11) MS2972 2025-12-24T00:05:48\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 23\nБазовый слой: 11/23\nВсего активных POWER на сети: 8\n",
+      "non_priority": "CNT Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:33",
       "stats": {
-        "total_bs": 24,
-        "base_layer_count": 10,
-        "power_problems": 9,
-        "non_priority_percentage": 59
+        "total_bs": 23,
+        "base_layer_count": 11,
+        "power_problems": 8,
+        "non_priority_percentage": 53
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:47.671567",
+      "collected_at": "2025-12-24T13:47:33.902154",
       "macroregion": "Москва"
     }
   },
@@ -815,23 +959,31 @@
         "base_layer_percentage": 6,
         "power_problems": 4,
         "non_priority_percentage": 94
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432615",
+        "total_bs_count": 115,
+        "base_layer_count": 7,
+        "base_layer_percentage": 6,
+        "power_problems": 6,
+        "non_priority_percentage": 94
       }
     ],
     "current": {
       "success": true,
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 24.12.2025 13:41:\n\n1) MO6386 2025-12-24T12:29:07\nPower Да; Посещение Да; WO Нет\n2) MS3809 2025-12-21T20:35:58\nPower Да; Посещение Нет; WO Нет\n3) MO1223 2025-12-24T12:24:59\nPower Да; Посещение Нет; WO Нет\n4) MR5710 2025-12-24T13:08:49\nPower Нет; Посещение Нет; WO Нет\n5) MS3049 2025-12-21T21:06:56\nPower Да; Посещение Нет; WO Нет\n6) MO0440 2025-12-24T11:30:21\nPower Да; Посещение Нет; WO Нет\n7) MR2654 2025-12-24T10:59:21\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 114\nБазовый слой: 7/114\nВсего активных POWER на сети: 4\n",
-      "non_priority": "NEA Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:48",
+      "base_layer": "NEA Базовый слой 24.12.2025 13:47:\n\n1) MO6386 2025-12-24T12:29:07\nPower Да; Посещение Да; WO Нет\n2) MS3809 2025-12-21T20:35:58\nPower Да; Посещение Нет; WO Нет\n3) MO1223 2025-12-24T12:24:59\nPower Да; Посещение Нет; WO Нет\n4) MR5710 2025-12-24T13:08:49\nPower Нет; Посещение Нет; WO Нет\n5) MS3049 2025-12-21T21:06:56\nPower Да; Посещение Нет; WO Нет\n6) MO0440 2025-12-24T11:30:21\nPower Да; Посещение Нет; WO Нет\n7) MR2654 2025-12-24T10:59:21\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 115\nБазовый слой: 7/115\nВсего активных POWER на сети: 6\n",
+      "non_priority": "NEA Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:34",
       "stats": {
-        "total_bs": 114,
+        "total_bs": 115,
         "base_layer_count": 7,
-        "power_problems": 4,
+        "power_problems": 6,
         "non_priority_percentage": 94
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:48.211383",
+      "collected_at": "2025-12-24T13:47:34.511434",
       "macroregion": "Москва"
     }
   },
@@ -859,23 +1011,31 @@
         "base_layer_percentage": 25,
         "power_problems": 1,
         "non_priority_percentage": 75
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432619",
+        "total_bs_count": 47,
+        "base_layer_count": 11,
+        "base_layer_percentage": 23,
+        "power_problems": 3,
+        "non_priority_percentage": 77
       }
     ],
     "current": {
       "success": true,
       "region_code": "NWS",
       "region_name": "Северо-Западный округ Москвы",
-      "base_layer": "NWS Базовый слой 24.12.2025 13:41:\n\n1) MC3350 2025-12-24T02:23:40\nPower Да; Посещение Нет; WO Нет\n2) MR2109 2025-12-24T11:29:00\nPower Да; Посещение Нет; WO Нет\n3) MO5703 2025-12-24T09:46:27\nPower Да; Посещение Да; WO Нет\n4) MS4892 2025-12-24T13:05:28\nPower Да; Посещение Нет; WO Нет\n5) MO1395 2025-12-24T09:19:21\nPower Да; Посещение Нет; WO Нет\n6) MS0888 2025-12-24T11:39:31\nPower Да; Посещение Нет; WO Нет\n7) MS3403 2025-12-24T11:39:31\nPower Да; Посещение Нет; WO Нет\n8) MC3243 2025-12-24T12:05:00\nPower Да; Посещение Нет; WO Нет\n9) MS5458 2025-12-24T12:05:00\nPower Да; Посещение Нет; WO Нет\n10) MS4592 2025-12-23T10:11:52\nPower Да; Посещение Нет; WO Нет\n11) MC2857 2025-12-23T04:44:43\nPower Да; Посещение Нет; WO Нет\n12) MO3370 2025-12-24T11:09:33\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 47\nБазовый слой: 12/47\nВсего активных POWER на сети: 1\n",
-      "non_priority": "NWS Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:48",
+      "base_layer": "NWS Базовый слой 24.12.2025 13:47:\n\n1) MO4993 2025-12-24T13:34:43\nPower Да; Посещение Нет; WO Нет\n2) MC3350 2025-12-24T02:23:40\nPower Да; Посещение Нет; WO Нет\n3) MR2109 2025-12-24T11:29:00\nPower Да; Посещение Нет; WO Нет\n4) MO1395 2025-12-24T09:19:21\nPower Да; Посещение Нет; WO Нет\n5) MS0888 2025-12-24T11:39:31\nPower Да; Посещение Да; WO Нет\n6) MC3232 2025-12-24T13:37:08\nPower Да; Посещение Нет; WO Нет\n7) MS3403 2025-12-24T11:39:31\nPower Да; Посещение Нет; WO Нет\n8) MS4592 2025-12-23T10:11:52\nPower Да; Посещение Нет; WO Нет\n9) MS3849 2025-12-24T13:17:39\nPower Нет; Посещение Нет; WO Нет\n10) MC2857 2025-12-23T04:44:43\nPower Да; Посещение Нет; WO Нет\n11) MO3370 2025-12-24T11:09:33\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 47\nБазовый слой: 11/47\nВсего активных POWER на сети: 3\n",
+      "non_priority": "NWS Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:35",
       "stats": {
         "total_bs": 47,
-        "base_layer_count": 12,
-        "power_problems": 1,
-        "non_priority_percentage": 75
+        "base_layer_count": 11,
+        "power_problems": 3,
+        "non_priority_percentage": 77
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:48.757689",
+      "collected_at": "2025-12-24T13:47:35.049628",
       "macroregion": "Москва"
     }
   },
@@ -903,23 +1063,31 @@
         "base_layer_percentage": 4,
         "power_problems": 6,
         "non_priority_percentage": 96
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432622",
+        "total_bs_count": 67,
+        "base_layer_count": 4,
+        "base_layer_percentage": 5,
+        "power_problems": 6,
+        "non_priority_percentage": 95
       }
     ],
     "current": {
       "success": true,
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 24.12.2025 13:41:\n\n1) MO2867 2025-12-24T02:58:27\nPower Да; Посещение Нет; WO Нет\n2) MO4979 2025-12-22T10:38:56\nPower Нет; Посещение Нет; WO Нет\n3) MS2095 2025-12-24T12:24:54\nPower Да; Посещение Да; WO Нет\n\nВсего BS: 69\nБазовый слой: 3/69\nВсего активных POWER на сети: 6\n",
-      "non_priority": "SEA Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:49",
+      "base_layer": "SEA Базовый слой 24.12.2025 13:47:\n\n1) MO2867 2025-12-24T02:58:27\nPower Да; Посещение Нет; WO Нет\n2) MO4097 2025-12-24T13:28:38\nPower Нет; Посещение Нет; WO Нет\n3) MO4979 2025-12-22T10:38:56\nPower Нет; Посещение Нет; WO Нет\n4) MO4734 2025-12-24T13:38:52\nPower Нет; Посещение Нет; WO Нет\n\nВсего BS: 67\nБазовый слой: 4/67\nВсего активных POWER на сети: 6\n",
+      "non_priority": "SEA Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:35",
       "stats": {
-        "total_bs": 69,
-        "base_layer_count": 3,
+        "total_bs": 67,
+        "base_layer_count": 4,
         "power_problems": 6,
-        "non_priority_percentage": 96
+        "non_priority_percentage": 95
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:49.287381",
+      "collected_at": "2025-12-24T13:47:35.589370",
       "macroregion": "Москва"
     }
   },
@@ -947,23 +1115,31 @@
         "base_layer_percentage": 8,
         "power_problems": 1,
         "non_priority_percentage": 92
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432625",
+        "total_bs_count": 75,
+        "base_layer_count": 8,
+        "base_layer_percentage": 10,
+        "power_problems": 2,
+        "non_priority_percentage": 90
       }
     ],
     "current": {
       "success": true,
       "region_code": "SWS",
       "region_name": "Юго-Западный округ Москвы",
-      "base_layer": "SWS Базовый слой 24.12.2025 13:41:\n\n1) MR5359 2025-12-21T21:04:51\nPower Да; Посещение Да; WO Есть\n2) MC4985 2025-12-21T17:13:58\nPower Да; Посещение Да; WO Есть\n3) MO5114 2025-12-23T13:57:47\nPower Нет; Посещение Нет; WO Нет\n4) MR5741 2025-12-24T00:32:19\nPower Да; Посещение Да; WO Нет\n5) MS4216 2025-12-24T11:55:56\nPower Да; Посещение Да; WO Нет\n6) MS1142 2025-12-24T08:46:34\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 74\nБазовый слой: 6/74\nВсего активных POWER на сети: 1\n",
-      "non_priority": "SWS Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:49",
+      "base_layer": "SWS Базовый слой 24.12.2025 13:47:\n\n1) MO5114 2025-12-23T13:57:47\nPower Нет; Посещение Нет; WO Нет\n2) MC4985 2025-12-21T17:13:58\nPower Да; Посещение Да; WO Есть\n3) MR5359 2025-12-21T21:04:51\nPower Да; Посещение Да; WO Есть\n4) MO2788 2025-12-24T13:23:36\nPower Да; Посещение Нет; WO Нет\n5) MR5741 2025-12-24T00:32:19\nPower Да; Посещение Да; WO Нет\n6) MS4216 2025-12-24T11:55:56\nPower Да; Посещение Да; WO Нет\n7) MS1142 2025-12-24T08:46:34\nPower Да; Посещение Нет; WO Нет\n8) MO0973 2025-12-24T13:23:37\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 75\nБазовый слой: 8/75\nВсего активных POWER на сети: 2\n",
+      "non_priority": "SWS Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:36",
       "stats": {
-        "total_bs": 74,
-        "base_layer_count": 6,
-        "power_problems": 1,
-        "non_priority_percentage": 92
+        "total_bs": 75,
+        "base_layer_count": 8,
+        "power_problems": 2,
+        "non_priority_percentage": 90
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:49.821458",
+      "collected_at": "2025-12-24T13:47:36.178481",
       "macroregion": "Москва"
     }
   },
@@ -991,23 +1167,31 @@
         "base_layer_percentage": 30,
         "power_problems": 4,
         "non_priority_percentage": 70
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432628",
+        "total_bs_count": 11,
+        "base_layer_count": 3,
+        "base_layer_percentage": 27,
+        "power_problems": 4,
+        "non_priority_percentage": 73
       }
     ],
     "current": {
       "success": true,
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 24.12.2025 13:41:\n\n1) AR0967 2025-12-24T13:17:42\nPower Нет; Посещение Нет; WO Нет\n2) AR0250 2025-12-20T08:07:43\nPower Нет; Посещение Нет; WO Нет\n3) AR0709 2025-12-21T16:11:12\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 10\nБазовый слой: 3/10\nВсего активных POWER на сети: 4\n",
-      "non_priority": "ARH Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:50",
+      "base_layer": "ARH Базовый слой 24.12.2025 13:47:\n\n1) AR0967 2025-12-24T13:17:43\nPower Нет; Посещение Нет; WO Нет\n2) AR0250 2025-12-20T08:07:43\nPower Нет; Посещение Нет; WO Нет\n3) AR0709 2025-12-21T16:11:12\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 11\nБазовый слой: 3/11\nВсего активных POWER на сети: 4\n",
+      "non_priority": "ARH Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:36",
       "stats": {
-        "total_bs": 10,
+        "total_bs": 11,
         "base_layer_count": 3,
         "power_problems": 4,
-        "non_priority_percentage": 70
+        "non_priority_percentage": 73
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:50.343198",
+      "collected_at": "2025-12-24T13:47:36.790364",
       "macroregion": "Северо-запад"
     }
   },
@@ -1035,23 +1219,31 @@
         "base_layer_percentage": 50,
         "power_problems": 1,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432631",
+        "total_bs_count": 2,
+        "base_layer_count": 1,
+        "base_layer_percentage": 50,
+        "power_problems": 0,
+        "non_priority_percentage": 50
       }
     ],
     "current": {
       "success": true,
       "region_code": "KLN",
       "region_name": "Калининградская область",
-      "base_layer": "KLN Базовый слой 24.12.2025 13:41:\n\n1) KN1419 2025-12-24T10:11:30\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 1\n",
-      "non_priority": "KLN Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:50",
+      "base_layer": "KLN Базовый слой 24.12.2025 13:47:\n\n1) KN1419 2025-12-24T10:11:30\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:37",
       "stats": {
         "total_bs": 2,
         "base_layer_count": 1,
-        "power_problems": 1,
+        "power_problems": 0,
         "non_priority_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:50.871486",
+      "collected_at": "2025-12-24T13:47:37.432287",
       "macroregion": "Северо-запад"
     }
   },
@@ -1079,23 +1271,31 @@
         "base_layer_percentage": 50,
         "power_problems": 1,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432635",
+        "total_bs_count": 2,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 1,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "MUR",
       "region_name": "Мурманская область",
-      "base_layer": "MUR Базовый слой 24.12.2025 13:41:\n\n1) MU0342 2025-12-23T14:41:39\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 1\n",
-      "non_priority": "MUR Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:51",
+      "base_layer": "MUR Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 2\nБазовый слой: 0/2\nВсего активных POWER на сети: 1\n",
+      "non_priority": "MUR Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:38",
       "stats": {
         "total_bs": 2,
-        "base_layer_count": 1,
+        "base_layer_count": 0,
         "power_problems": 1,
-        "non_priority_percentage": 50
+        "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:51.397555",
+      "collected_at": "2025-12-24T13:47:38.055854",
       "macroregion": "Северо-запад"
     }
   },
@@ -1123,15 +1323,23 @@
         "base_layer_percentage": 25,
         "power_problems": 0,
         "non_priority_percentage": 75
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432638",
+        "total_bs_count": 4,
+        "base_layer_count": 1,
+        "base_layer_percentage": 25,
+        "power_problems": 0,
+        "non_priority_percentage": 75
       }
     ],
     "current": {
       "success": true,
       "region_code": "NOV",
       "region_name": "Новгородская область",
-      "base_layer": "NOV Базовый слой 24.12.2025 13:41:\n\n1) VN0275 2025-12-24T13:09:57\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 4\nБазовый слой: 1/4\nВсего активных POWER на сети: 0\n",
-      "non_priority": "NOV Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:51",
+      "base_layer": "NOV Базовый слой 24.12.2025 13:47:\n\n1) VN0275 2025-12-24T13:09:57\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 4\nБазовый слой: 1/4\nВсего активных POWER на сети: 0\n",
+      "non_priority": "NOV Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:38",
       "stats": {
         "total_bs": 4,
         "base_layer_count": 1,
@@ -1139,7 +1347,7 @@
         "non_priority_percentage": 75
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:51.927011",
+      "collected_at": "2025-12-24T13:47:38.663808",
       "macroregion": "Северо-запад"
     }
   },
@@ -1167,15 +1375,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432641",
+        "total_bs_count": 1,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:52",
+      "base_layer": "PSK Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:39",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -1183,7 +1399,7 @@
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:52.452305",
+      "collected_at": "2025-12-24T13:47:39.276526",
       "macroregion": "Северо-запад"
     }
   },
@@ -1211,15 +1427,23 @@
         "base_layer_percentage": 100,
         "power_problems": 1,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432644",
+        "total_bs_count": 1,
+        "base_layer_count": 1,
+        "base_layer_percentage": 100,
+        "power_problems": 1,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "PZV",
       "region_name": "Петрозаводск",
-      "base_layer": "PZV Базовый слой 24.12.2025 13:41:\n\n1) PZ0095 2025-12-24T13:15:35\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 1\n",
-      "non_priority": "PZV Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:52",
+      "base_layer": "PZV Базовый слой 24.12.2025 13:47:\n\n1) PZ0095 2025-12-24T13:15:35\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 1\n",
+      "non_priority": "PZV Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:39",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 1,
@@ -1227,7 +1451,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:52.978186",
+      "collected_at": "2025-12-24T13:47:39.878912",
       "macroregion": "Северо-запад"
     }
   },
@@ -1255,23 +1479,31 @@
         "base_layer_percentage": 62,
         "power_problems": 1,
         "non_priority_percentage": 38
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432648",
+        "total_bs_count": 9,
+        "base_layer_count": 5,
+        "base_layer_percentage": 55,
+        "power_problems": 1,
+        "non_priority_percentage": 45
       }
     ],
     "current": {
       "success": true,
       "region_code": "SPE",
       "region_name": "Санкт-Петербург Восток",
-      "base_layer": "SPE Базовый слой 24.12.2025 13:41:\n\n1) SP0375 2025-12-10T18:02:19\nPower Нет; Посещение Нет; WO Есть\n2) SP0348 2025-12-22T15:58:50\nPower Да; Посещение Нет; WO Есть\n3) LE2760 2025-12-24T12:44:49\nPower Да; Посещение Нет; WO Есть\n4) SP1094 2025-12-24T11:42:18\nPower Да; Посещение Нет; WO Нет\n5) SP1460 2025-12-24T12:54:55\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 8\nБазовый слой: 5/8\nВсего активных POWER на сети: 1\n",
-      "non_priority": "SPE Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:53",
+      "base_layer": "SPE Базовый слой 24.12.2025 13:47:\n\n1) SP0375 2025-12-10T18:02:19\nPower Нет; Посещение Нет; WO Есть\n2) SP0348 2025-12-22T15:58:50\nPower Да; Посещение Нет; WO Есть\n3) LE2760 2025-12-24T12:44:49\nPower Да; Посещение Нет; WO Есть\n4) SP1094 2025-12-24T11:42:18\nPower Да; Посещение Нет; WO Есть\n5) SP1460 2025-12-24T12:54:55\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 9\nБазовый слой: 5/9\nВсего активных POWER на сети: 1\n",
+      "non_priority": "SPE Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:40",
       "stats": {
-        "total_bs": 8,
+        "total_bs": 9,
         "base_layer_count": 5,
         "power_problems": 1,
-        "non_priority_percentage": 38
+        "non_priority_percentage": 45
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:53.510529",
+      "collected_at": "2025-12-24T13:47:40.487922",
       "macroregion": "Северо-запад"
     }
   },
@@ -1299,23 +1531,31 @@
         "base_layer_percentage": 27,
         "power_problems": 5,
         "non_priority_percentage": 73
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432651",
+        "total_bs_count": 9,
+        "base_layer_count": 3,
+        "base_layer_percentage": 33,
+        "power_problems": 5,
+        "non_priority_percentage": 67
       }
     ],
     "current": {
       "success": true,
       "region_code": "SPN",
       "region_name": "Санкт-Петербург Север",
-      "base_layer": "SPN Базовый слой 24.12.2025 13:41:\n\n1) LE2228 2025-12-24T12:00:56\nPower Нет; Посещение Нет; WO Есть\n2) LE1364 2025-12-24T12:57:52\nPower Да; Посещение Да; WO Есть\n3) LE1381 2025-12-24T13:20:56\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 11\nБазовый слой: 3/11\nВсего активных POWER на сети: 5\n",
-      "non_priority": "SPN Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:54",
+      "base_layer": "SPN Базовый слой 24.12.2025 13:47:\n\n1) LE2228 2025-12-24T12:00:56\nPower Нет; Посещение Нет; WO Есть\n2) LE1364 2025-12-24T12:57:52\nPower Да; Посещение Да; WO Есть\n3) LE1381 2025-12-24T13:20:56\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 9\nБазовый слой: 3/9\nВсего активных POWER на сети: 5\n",
+      "non_priority": "SPN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:41",
       "stats": {
-        "total_bs": 11,
+        "total_bs": 9,
         "base_layer_count": 3,
         "power_problems": 5,
-        "non_priority_percentage": 73
+        "non_priority_percentage": 67
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:54.032973",
+      "collected_at": "2025-12-24T13:47:41.105515",
       "macroregion": "Северо-запад"
     }
   },
@@ -1343,23 +1583,31 @@
         "base_layer_percentage": 37,
         "power_problems": 1,
         "non_priority_percentage": 63
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432654",
+        "total_bs_count": 5,
+        "base_layer_count": 3,
+        "base_layer_percentage": 60,
+        "power_problems": 2,
+        "non_priority_percentage": 40
       }
     ],
     "current": {
       "success": true,
       "region_code": "SPS",
       "region_name": "Санкт-Петербург Юг",
-      "base_layer": "SPS Базовый слой 24.12.2025 13:41:\n\n1) SP2469 2025-12-24T11:31:53\nPower Да; Посещение Да; WO Есть\n2) SP0061 2025-11-27T08:15:51\nPower Да; Посещение Нет; WO Нет\n3) LE0699 2025-12-24T13:01:25\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 8\nБазовый слой: 3/8\nВсего активных POWER на сети: 1\n",
-      "non_priority": "SPS Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:54",
+      "base_layer": "SPS Базовый слой 24.12.2025 13:47:\n\n1) SP2469 2025-12-24T11:31:53\nPower Да; Посещение Да; WO Есть\n2) SP0061 2025-11-27T08:15:51\nPower Да; Посещение Нет; WO Нет\n3) LE0699 2025-12-24T13:01:25\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 5\nБазовый слой: 3/5\nВсего активных POWER на сети: 2\n",
+      "non_priority": "SPS Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:41",
       "stats": {
-        "total_bs": 8,
+        "total_bs": 5,
         "base_layer_count": 3,
-        "power_problems": 1,
-        "non_priority_percentage": 63
+        "power_problems": 2,
+        "non_priority_percentage": 40
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:54.573570",
+      "collected_at": "2025-12-24T13:47:41.715317",
       "macroregion": "Северо-запад"
     }
   },
@@ -1387,23 +1635,31 @@
         "base_layer_percentage": 33,
         "power_problems": 1,
         "non_priority_percentage": 67
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432657",
+        "total_bs_count": 4,
+        "base_layer_count": 2,
+        "base_layer_percentage": 50,
+        "power_problems": 1,
+        "non_priority_percentage": 50
       }
     ],
     "current": {
       "success": true,
       "region_code": "SPW",
       "region_name": "Санкт-Петербург Запад",
-      "base_layer": "SPW Базовый слой 24.12.2025 13:41:\n\n1) SP1726 2025-11-25T17:33:51\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 3\nБазовый слой: 1/3\nВсего активных POWER на сети: 1\n",
-      "non_priority": "SPW Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:55",
+      "base_layer": "SPW Базовый слой 24.12.2025 13:47:\n\n1) SP1010 2025-12-24T13:19:25\nPower Да; Посещение Да; WO Есть\n2) SP1726 2025-11-25T17:33:51\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 4\nБазовый слой: 2/4\nВсего активных POWER на сети: 1\n",
+      "non_priority": "SPW Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:43",
       "stats": {
-        "total_bs": 3,
-        "base_layer_count": 1,
+        "total_bs": 4,
+        "base_layer_count": 2,
         "power_problems": 1,
-        "non_priority_percentage": 67
+        "non_priority_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:55.105279",
+      "collected_at": "2025-12-24T13:47:43.333473",
       "macroregion": "Северо-запад"
     }
   },
@@ -1431,15 +1687,23 @@
         "base_layer_percentage": 50,
         "power_problems": 1,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432661",
+        "total_bs_count": 2,
+        "base_layer_count": 1,
+        "base_layer_percentage": 50,
+        "power_problems": 1,
+        "non_priority_percentage": 50
       }
     ],
     "current": {
       "success": true,
       "region_code": "VOL",
       "region_name": "Вологда",
-      "base_layer": "VOL Базовый слой 24.12.2025 13:41:\n\n1) VG1288 2025-12-24T12:12:12\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 1\n",
-      "non_priority": "VOL Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:55",
+      "base_layer": "VOL Базовый слой 24.12.2025 13:47:\n\n1) VG1288 2025-12-24T12:12:12\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 1\n",
+      "non_priority": "VOL Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:43",
       "stats": {
         "total_bs": 2,
         "base_layer_count": 1,
@@ -1447,7 +1711,7 @@
         "non_priority_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:55.628585",
+      "collected_at": "2025-12-24T13:47:43.946265",
       "macroregion": "Северо-запад"
     }
   },
@@ -1475,15 +1739,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432664",
+        "total_bs_count": 0,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "NEN",
       "region_name": "Ненецкий автономный округ",
-      "base_layer": "NEN Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
-      "non_priority": "NEN Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:56",
+      "base_layer": "NEN Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
+      "non_priority": "NEN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:44",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -1491,7 +1763,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:56.152155",
+      "collected_at": "2025-12-24T13:47:44.563753",
       "macroregion": "Северо-запад"
     }
   },
@@ -1519,15 +1791,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432667",
+        "total_bs_count": 0,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "BRN",
       "region_name": "Барнаул",
-      "base_layer": "BRN Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
-      "non_priority": "BRN Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:56",
+      "base_layer": "BRN Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:45",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -1535,7 +1815,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:56.687735",
+      "collected_at": "2025-12-24T13:47:45.169901",
       "macroregion": "Сибирь"
     }
   },
@@ -1563,15 +1843,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432669",
+        "total_bs_count": 1,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "KHA",
       "region_name": "Красноярский край",
-      "base_layer": "KHA Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 0\n",
-      "non_priority": "KHA Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:57",
+      "base_layer": "KHA Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "KHA Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:45",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -1579,7 +1867,7 @@
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:57.211377",
+      "collected_at": "2025-12-24T13:47:45.792493",
       "macroregion": "Сибирь"
     }
   },
@@ -1607,23 +1895,31 @@
         "base_layer_percentage": 50,
         "power_problems": 2,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432672",
+        "total_bs_count": 17,
+        "base_layer_count": 5,
+        "base_layer_percentage": 29,
+        "power_problems": 3,
+        "non_priority_percentage": 71
       }
     ],
     "current": {
       "success": true,
       "region_code": "KRS",
       "region_name": "Красноярск",
-      "base_layer": "KRS Базовый слой 24.12.2025 13:41:\n\n1) KA0949 2025-11-28T14:39:56\nPower Да; Посещение Нет; WO Нет\n2) KA2030 2025-12-24T12:02:52\nPower Нет; Посещение Нет; WO Есть\n3) KA2742 2025-12-24T06:47:59\nPower Да; Посещение Нет; WO Есть\n4) KA2290 2025-12-24T13:05:22\nPower Да; Посещение Нет; WO Нет\n5) KA2275 2025-12-24T13:05:22\nPower Да; Посещение Нет; WO Нет\n6) KA1756 2025-12-24T12:32:24\nPower Да; Посещение Нет; WO Есть\n7) KA2690 2025-12-24T07:06:56\nPower Да; Посещение Нет; WO Есть\n8) KA0647 2025-12-24T13:04:26\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 16\nБазовый слой: 8/16\nВсего активных POWER на сети: 2\n",
-      "non_priority": "KRS Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:57",
+      "base_layer": "KRS Базовый слой 24.12.2025 13:47:\n\n1) KA0949 2025-11-28T14:39:56\nPower Да; Посещение Нет; WO Нет\n2) KA2030 2025-12-24T12:02:52\nPower Нет; Посещение Нет; WO Есть\n3) KA2742 2025-12-24T06:47:59\nPower Да; Посещение Нет; WO Есть\n4) KA1756 2025-12-24T12:32:24\nPower Да; Посещение Нет; WO Есть\n5) KA2690 2025-12-24T07:06:56\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 17\nБазовый слой: 5/17\nВсего активных POWER на сети: 3\n",
+      "non_priority": "KRS Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:46",
       "stats": {
-        "total_bs": 16,
-        "base_layer_count": 8,
-        "power_problems": 2,
-        "non_priority_percentage": 50
+        "total_bs": 17,
+        "base_layer_count": 5,
+        "power_problems": 3,
+        "non_priority_percentage": 71
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:57.751079",
+      "collected_at": "2025-12-24T13:47:46.408507",
       "macroregion": "Сибирь"
     }
   },
@@ -1651,23 +1947,31 @@
         "base_layer_percentage": 62,
         "power_problems": 1,
         "non_priority_percentage": 38
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432675",
+        "total_bs_count": 6,
+        "base_layer_count": 5,
+        "base_layer_percentage": 83,
+        "power_problems": 1,
+        "non_priority_percentage": 17
       }
     ],
     "current": {
       "success": true,
       "region_code": "NSK",
       "region_name": "Новосибирская область",
-      "base_layer": "NSK Базовый слой 24.12.2025 13:41:\n\n1) NS1862 2025-12-24T09:47:02\nPower Нет; Посещение Да; WO Есть\n2) NS1420 2025-12-24T11:45:02\nPower Да; Посещение Нет; WO Есть\n3) NS2356 2025-12-24T13:01:58\nPower Да; Посещение Да; WO Нет\n4) NS0909 2025-12-24T12:10:35\nPower Да; Посещение Нет; WO Есть\n5) NS0969 2025-12-22T19:32:32\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 8\nБазовый слой: 5/8\nВсего активных POWER на сети: 1\n",
-      "non_priority": "NSK Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:58",
+      "base_layer": "NSK Базовый слой 24.12.2025 13:47:\n\n1) NS1862 2025-12-24T09:47:02\nPower Нет; Посещение Нет; WO Есть\n2) NS1420 2025-12-24T11:45:02\nPower Да; Посещение Нет; WO Есть\n3) NS2356 2025-12-24T13:01:58\nPower Да; Посещение Да; WO Нет\n4) NS0909 2025-12-24T12:10:35\nPower Да; Посещение Нет; WO Есть\n5) NS0969 2025-12-22T19:32:32\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 6\nБазовый слой: 5/6\nВсего активных POWER на сети: 1\n",
+      "non_priority": "NSK Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:47",
       "stats": {
-        "total_bs": 8,
+        "total_bs": 6,
         "base_layer_count": 5,
         "power_problems": 1,
-        "non_priority_percentage": 38
+        "non_priority_percentage": 17
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:58.294231",
+      "collected_at": "2025-12-24T13:47:47.024766",
       "macroregion": "Сибирь"
     }
   },
@@ -1695,23 +1999,31 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432678",
+        "total_bs_count": 4,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 1,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "OMS",
       "region_name": "Омская область",
-      "base_layer": "OMS Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 4\nБазовый слой: 0/4\nВсего активных POWER на сети: 0\n",
-      "non_priority": "OMS Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:58",
+      "base_layer": "OMS Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 4\nБазовый слой: 0/4\nВсего активных POWER на сети: 1\n",
+      "non_priority": "OMS Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:47",
       "stats": {
         "total_bs": 4,
         "base_layer_count": 0,
-        "power_problems": 0,
+        "power_problems": 1,
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:58.854602",
+      "collected_at": "2025-12-24T13:47:47.645282",
       "macroregion": "Сибирь"
     }
   },
@@ -1739,15 +2051,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432681",
+        "total_bs_count": 0,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "TYV",
       "region_name": "Тыва",
-      "base_layer": "TYV Базовый слой 24.12.2025 13:41:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
-      "non_priority": "TYV Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:59",
+      "base_layer": "TYV Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
+      "non_priority": "TYV Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:48",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -1755,7 +2075,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:59.390158",
+      "collected_at": "2025-12-24T13:47:48.257513",
       "macroregion": "Сибирь"
     }
   },
@@ -1783,15 +2103,23 @@
         "base_layer_percentage": 100,
         "power_problems": 1,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432684",
+        "total_bs_count": 1,
+        "base_layer_count": 1,
+        "base_layer_percentage": 100,
+        "power_problems": 1,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "GRN",
       "region_name": "Горно-Алтайск",
-      "base_layer": "GRN Базовый слой 24.12.2025 13:41:\n\n1) GA0344 2025-12-24T12:56:33\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 1\n",
-      "non_priority": "GRN Неприоритетные технологии 24.12.2025 13:41:\n\n",
-      "timestamp": "13:41:59",
+      "base_layer": "GRN Базовый слой 24.12.2025 13:47:\n\n1) GA0344 2025-12-24T12:56:33\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 1\n",
+      "non_priority": "GRN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:48",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 1,
@@ -1799,7 +2127,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:41:59.963567",
+      "collected_at": "2025-12-24T13:47:48.869141",
       "macroregion": "Сибирь"
     }
   },
@@ -1827,23 +2155,31 @@
         "base_layer_percentage": 50,
         "power_problems": 0,
         "non_priority_percentage": 50
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432688",
+        "total_bs_count": 1,
+        "base_layer_count": 1,
+        "base_layer_percentage": 100,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "KEM",
       "region_name": "Кемеровская область",
-      "base_layer": "KEM Базовый слой 24.12.2025 13:42:\n\n1) KE2646 2025-12-12T21:38:55\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 0\n",
-      "non_priority": "KEM Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:00",
+      "base_layer": "KEM Базовый слой 24.12.2025 13:47:\n\n1) KE2646 2025-12-12T21:38:55\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "KEM Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:49",
       "stats": {
-        "total_bs": 2,
+        "total_bs": 1,
         "base_layer_count": 1,
         "power_problems": 0,
-        "non_priority_percentage": 50
+        "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:00.591680",
+      "collected_at": "2025-12-24T13:47:49.481894",
       "macroregion": "Сибирь"
     }
   },
@@ -1871,23 +2207,31 @@
         "base_layer_percentage": 33,
         "power_problems": 1,
         "non_priority_percentage": 67
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432690",
+        "total_bs_count": 2,
+        "base_layer_count": 1,
+        "base_layer_percentage": 50,
+        "power_problems": 1,
+        "non_priority_percentage": 50
       }
     ],
     "current": {
       "success": true,
       "region_code": "TOM",
       "region_name": "Томская область",
-      "base_layer": "TOM Базовый слой 24.12.2025 13:42:\n\n1) TO0260 2025-12-24T10:38:26\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 3\nБазовый слой: 1/3\nВсего активных POWER на сети: 1\n",
-      "non_priority": "TOM Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:01",
+      "base_layer": "TOM Базовый слой 24.12.2025 13:47:\n\n1) TO0260 2025-12-24T10:38:26\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 1\n",
+      "non_priority": "TOM Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:50",
       "stats": {
-        "total_bs": 3,
+        "total_bs": 2,
         "base_layer_count": 1,
         "power_problems": 1,
-        "non_priority_percentage": 67
+        "non_priority_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:01.169443",
+      "collected_at": "2025-12-24T13:47:50.103042",
       "macroregion": "Сибирь"
     }
   },
@@ -1915,23 +2259,31 @@
         "base_layer_percentage": 14,
         "power_problems": 3,
         "non_priority_percentage": 86
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432693",
+        "total_bs_count": 40,
+        "base_layer_count": 5,
+        "base_layer_percentage": 12,
+        "power_problems": 3,
+        "non_priority_percentage": 88
       }
     ],
     "current": {
       "success": true,
       "region_code": "CHE",
       "region_name": "Челябинская область",
-      "base_layer": "CHE Базовый слой 24.12.2025 13:42:\n\n1) CH0392 2025-12-21T20:31:54\nPower Да; Посещение Нет; WO Нет\n2) CH2416 2025-12-14T12:57:28\nPower Да; Посещение Нет; WO Нет\n3) CH2517 2025-12-21T18:54:13\nPower Нет; Посещение Нет; WO Нет\n4) CH0197 2025-12-24T13:19:42\nPower Нет; Посещение Нет; WO Нет\n5) CH1215 2025-12-24T10:59:13\nPower Да; Посещение Да; WO Нет\n6) CH0568 2025-12-24T11:10:24\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 41\nБазовый слой: 6/41\nВсего активных POWER на сети: 3\n",
-      "non_priority": "CHE Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:01",
+      "base_layer": "CHE Базовый слой 24.12.2025 13:47:\n\n1) CH0392 2025-12-21T20:31:54\nPower Да; Посещение Нет; WO Нет\n2) CH2416 2025-12-14T12:57:28\nPower Да; Посещение Нет; WO Нет\n3) CH2517 2025-12-21T18:54:13\nPower Нет; Посещение Нет; WO Нет\n4) CH1215 2025-12-24T10:59:13\nPower Да; Посещение Да; WO Нет\n5) CH0568 2025-12-24T11:10:24\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 40\nБазовый слой: 5/40\nВсего активных POWER на сети: 3\n",
+      "non_priority": "CHE Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:50",
       "stats": {
-        "total_bs": 41,
-        "base_layer_count": 6,
+        "total_bs": 40,
+        "base_layer_count": 5,
         "power_problems": 3,
-        "non_priority_percentage": 86
+        "non_priority_percentage": 88
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:01.714755",
+      "collected_at": "2025-12-24T13:47:50.722510",
       "macroregion": "Урал"
     }
   },
@@ -1959,23 +2311,31 @@
         "base_layer_percentage": 36,
         "power_problems": 2,
         "non_priority_percentage": 64
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432696",
+        "total_bs_count": 13,
+        "base_layer_count": 4,
+        "base_layer_percentage": 30,
+        "power_problems": 3,
+        "non_priority_percentage": 70
       }
     ],
     "current": {
       "success": true,
       "region_code": "EKT",
       "region_name": "Екатеринбург",
-      "base_layer": "EKT Базовый слой 24.12.2025 13:42:\n\n1) EK2030 2025-12-24T10:36:09\nPower Да; Посещение Нет; WO Нет\n2) EK2581 2025-12-21T16:25:30\nPower Нет; Посещение Нет; WO Есть\n3) EK2232 2025-12-21T17:08:00\nPower Да; Посещение Нет; WO Есть\n4) EK2485 2025-12-24T09:10:20\nPower Да; Посещение Да; WO Нет\n\nВсего BS: 11\nБазовый слой: 4/11\nВсего активных POWER на сети: 2\n",
-      "non_priority": "EKT Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:02",
+      "base_layer": "EKT Базовый слой 24.12.2025 13:47:\n\n1) EK2232 2025-12-21T17:08:00\nPower Да; Посещение Нет; WO Есть\n2) EK2581 2025-12-21T16:25:30\nPower Нет; Посещение Нет; WO Есть\n3) EK2030 2025-12-24T10:36:09\nPower Да; Посещение Нет; WO Нет\n4) EK2485 2025-12-24T09:10:20\nPower Да; Посещение Да; WO Нет\n\nВсего BS: 13\nБазовый слой: 4/13\nВсего активных POWER на сети: 3\n",
+      "non_priority": "EKT Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:51",
       "stats": {
-        "total_bs": 11,
+        "total_bs": 13,
         "base_layer_count": 4,
-        "power_problems": 2,
-        "non_priority_percentage": 64
+        "power_problems": 3,
+        "non_priority_percentage": 70
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:02.250534",
+      "collected_at": "2025-12-24T13:47:51.342686",
       "macroregion": "Урал"
     }
   },
@@ -2003,23 +2363,31 @@
         "base_layer_percentage": 25,
         "power_problems": 0,
         "non_priority_percentage": 75
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432700",
+        "total_bs_count": 3,
+        "base_layer_count": 1,
+        "base_layer_percentage": 33,
+        "power_problems": 0,
+        "non_priority_percentage": 67
       }
     ],
     "current": {
       "success": true,
       "region_code": "HAN",
       "region_name": "Ханты-Мансийский АО",
-      "base_layer": "HAN Базовый слой 24.12.2025 13:42:\n\n1) HM2423 2025-12-24T10:13:17\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 4\nБазовый слой: 1/4\nВсего активных POWER на сети: 0\n",
-      "non_priority": "HAN Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:02",
+      "base_layer": "HAN Базовый слой 24.12.2025 13:47:\n\n1) HM2423 2025-12-24T10:13:17\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 3\nБазовый слой: 1/3\nВсего активных POWER на сети: 0\n",
+      "non_priority": "HAN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:51",
       "stats": {
-        "total_bs": 4,
+        "total_bs": 3,
         "base_layer_count": 1,
         "power_problems": 0,
-        "non_priority_percentage": 75
+        "non_priority_percentage": 67
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:02.785534",
+      "collected_at": "2025-12-24T13:47:51.880766",
       "macroregion": "Урал"
     }
   },
@@ -2047,15 +2415,23 @@
         "base_layer_percentage": 100,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432703",
+        "total_bs_count": 1,
+        "base_layer_count": 1,
+        "base_layer_percentage": 100,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "KOM",
       "region_name": "Коми",
-      "base_layer": "KOM Базовый слой 24.12.2025 13:42:\n\n1) KO0545 2025-12-21T20:55:05\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 0\n",
-      "non_priority": "KOM Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:03",
+      "base_layer": "KOM Базовый слой 24.12.2025 13:47:\n\n1) KO0545 2025-12-21T20:55:05\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 1\nБазовый слой: 1/1\nВсего активных POWER на сети: 0\n",
+      "non_priority": "KOM Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:52",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 1,
@@ -2063,7 +2439,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:03.323258",
+      "collected_at": "2025-12-24T13:47:52.434416",
       "macroregion": "Урал"
     }
   },
@@ -2091,23 +2467,31 @@
         "base_layer_percentage": 27,
         "power_problems": 1,
         "non_priority_percentage": 73
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432706",
+        "total_bs_count": 10,
+        "base_layer_count": 3,
+        "base_layer_percentage": 30,
+        "power_problems": 1,
+        "non_priority_percentage": 70
       }
     ],
     "current": {
       "success": true,
       "region_code": "ORB",
       "region_name": "Оренбургская область",
-      "base_layer": "ORB Базовый слой 24.12.2025 13:42:\n\n1) OB2230 2025-12-24T09:43:29\nPower Да; Посещение Нет; WO Нет\n2) OB0431 2025-12-24T12:11:18\nPower Нет; Посещение Нет; WO Есть\n3) OB0189 2025-12-24T12:32:28\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 11\nБазовый слой: 3/11\nВсего активных POWER на сети: 1\n",
-      "non_priority": "ORB Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:04",
+      "base_layer": "ORB Базовый слой 24.12.2025 13:47:\n\n1) OB0431 2025-12-24T12:11:18\nPower Нет; Посещение Нет; WO Есть\n2) OB2230 2025-12-24T09:43:29\nPower Да; Посещение Нет; WO Нет\n3) OB0189 2025-12-24T12:34:29\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 10\nБазовый слой: 3/10\nВсего активных POWER на сети: 1\n",
+      "non_priority": "ORB Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:52",
       "stats": {
-        "total_bs": 11,
+        "total_bs": 10,
         "base_layer_count": 3,
         "power_problems": 1,
-        "non_priority_percentage": 73
+        "non_priority_percentage": 70
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:04.010393",
+      "collected_at": "2025-12-24T13:47:52.966253",
       "macroregion": "Урал"
     }
   },
@@ -2135,23 +2519,31 @@
         "base_layer_percentage": 45,
         "power_problems": 1,
         "non_priority_percentage": 55
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432709",
+        "total_bs_count": 35,
+        "base_layer_count": 15,
+        "base_layer_percentage": 42,
+        "power_problems": 1,
+        "non_priority_percentage": 58
       }
     ],
     "current": {
       "success": true,
       "region_code": "PRM",
       "region_name": "Пермский край",
-      "base_layer": "PRM Базовый слой 24.12.2025 13:42:\n\n1) PM1275 2025-12-23T18:27:41\nPower Да; Посещение Нет; WO Есть\n2) PM2036 2025-12-24T11:35:49\nPower Да; Посещение Нет; WO Нет\n3) PM2618 2025-12-24T06:15:15\nPower Да; Посещение Нет; WO Есть\n4) PM0409 2025-12-24T05:23:42\nPower Да; Посещение Нет; WO Есть\n5) PM1814 2025-12-24T08:25:09\nPower Да; Посещение Нет; WO Нет\n6) PM1531 2025-12-24T03:06:15\nPower Да; Посещение Нет; WO Есть\n7) PM1502 2025-12-23T12:44:38\nPower Да; Посещение Нет; WO Нет\n8) PM0430 2025-12-24T11:40:04\nPower Да; Посещение Нет; WO Есть\n9) PM1034 2025-12-24T13:05:11\nPower Да; Посещение Нет; WO Есть\n10) PM2650 2025-12-24T03:49:15\nPower Да; Посещение Нет; WO Есть\n11) PM1063 2025-12-23T00:47:15\nPower Да; Посещение Нет; WO Есть\n12) PM2778 2025-12-23T16:03:45\nPower Да; Посещение Нет; WO Есть\n13) PM2747 2025-12-24T12:48:45\nPower Нет; Посещение Нет; WO Есть\n14) PM0975 2025-12-23T20:54:11\nPower Да; Посещение Нет; WO Нет\n15) PM2636 2025-12-23T16:53:15\nPower Да; Посещение Нет; WO Есть\n16) PM0979 2025-12-24T00:28:11\nPower Да; Посещение Да; WO Есть\n\nВсего BS: 35\nБазовый слой: 16/35\nВсего активных POWER на сети: 1\n",
-      "non_priority": "PRM Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:04",
+      "base_layer": "PRM Базовый слой 24.12.2025 13:47:\n\n1) PM1275 2025-12-23T18:27:41\nPower Да; Посещение Нет; WO Есть\n2) PM2036 2025-12-24T11:35:49\nPower Да; Посещение Нет; WO Нет\n3) PM2618 2025-12-24T06:15:15\nPower Да; Посещение Нет; WO Есть\n4) PM0409 2025-12-24T05:23:42\nPower Да; Посещение Нет; WO Есть\n5) PM1814 2025-12-24T08:25:09\nPower Да; Посещение Нет; WO Нет\n6) PM1531 2025-12-24T03:06:15\nPower Да; Посещение Нет; WO Есть\n7) PM1502 2025-12-23T12:44:38\nPower Да; Посещение Нет; WO Нет\n8) PM0430 2025-12-24T11:40:04\nPower Да; Посещение Нет; WO Есть\n9) PM2650 2025-12-24T03:49:15\nPower Да; Посещение Нет; WO Есть\n10) PM1063 2025-12-23T00:47:15\nPower Да; Посещение Нет; WO Есть\n11) PM2778 2025-12-23T16:03:45\nPower Да; Посещение Нет; WO Есть\n12) PM2747 2025-12-24T12:48:45\nPower Нет; Посещение Нет; WO Есть\n13) PM0975 2025-12-23T20:54:11\nPower Да; Посещение Нет; WO Нет\n14) PM2636 2025-12-23T16:53:15\nPower Да; Посещение Нет; WO Есть\n15) PM0979 2025-12-24T00:28:11\nPower Да; Посещение Да; WO Есть\n\nВсего BS: 35\nБазовый слой: 15/35\nВсего активных POWER на сети: 1\n",
+      "non_priority": "PRM Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:53",
       "stats": {
         "total_bs": 35,
-        "base_layer_count": 16,
+        "base_layer_count": 15,
         "power_problems": 1,
-        "non_priority_percentage": 55
+        "non_priority_percentage": 58
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:04.564555",
+      "collected_at": "2025-12-24T13:47:53.499278",
       "macroregion": "Урал"
     }
   },
@@ -2179,23 +2571,31 @@
         "base_layer_percentage": 12,
         "power_problems": 2,
         "non_priority_percentage": 88
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432712",
+        "total_bs_count": 9,
+        "base_layer_count": 1,
+        "base_layer_percentage": 11,
+        "power_problems": 2,
+        "non_priority_percentage": 89
       }
     ],
     "current": {
       "success": true,
       "region_code": "TUM",
       "region_name": "Тюменская область",
-      "base_layer": "TUM Базовый слой 24.12.2025 13:42:\n\n1) TU0001 2025-12-24T12:11:02\nPower Да; Посещение Да; WO Нет\n\nВсего BS: 8\nБазовый слой: 1/8\nВсего активных POWER на сети: 2\n",
-      "non_priority": "TUM Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:05",
+      "base_layer": "TUM Базовый слой 24.12.2025 13:47:\n\n1) TU0001 2025-12-24T12:11:02\nPower Да; Посещение Да; WO Нет\n\nВсего BS: 9\nБазовый слой: 1/9\nВсего активных POWER на сети: 2\n",
+      "non_priority": "TUM Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:54",
       "stats": {
-        "total_bs": 8,
+        "total_bs": 9,
         "base_layer_count": 1,
         "power_problems": 2,
-        "non_priority_percentage": 88
+        "non_priority_percentage": 89
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:05.114962",
+      "collected_at": "2025-12-24T13:47:54.040760",
       "macroregion": "Урал"
     }
   },
@@ -2223,23 +2623,31 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432715",
+        "total_bs_count": 2,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "YNR",
       "region_name": "Ямало-Ненецкий АО",
-      "base_layer": "YNR Базовый слой 24.12.2025 13:42:\n\n\nВсего BS: 3\nБазовый слой: 0/3\nВсего активных POWER на сети: 0\n",
-      "non_priority": "YNR Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:05",
+      "base_layer": "YNR Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 2\nБазовый слой: 0/2\nВсего активных POWER на сети: 0\n",
+      "non_priority": "YNR Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:54",
       "stats": {
-        "total_bs": 3,
+        "total_bs": 2,
         "base_layer_count": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:05.667499",
+      "collected_at": "2025-12-24T13:47:54.587892",
       "macroregion": "Урал"
     }
   },
@@ -2267,15 +2675,23 @@
         "base_layer_percentage": 0,
         "power_problems": 1,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432718",
+        "total_bs_count": 1,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 1,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "KRG",
       "region_name": "Курганская область",
-      "base_layer": "KRG Базовый слой 24.12.2025 13:42:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 1\n",
-      "non_priority": "KRG Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:06",
+      "base_layer": "KRG Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 1\nБазовый слой: 0/1\nВсего активных POWER на сети: 1\n",
+      "non_priority": "KRG Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:55",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -2283,7 +2699,7 @@
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:06.209252",
+      "collected_at": "2025-12-24T13:47:55.122241",
       "macroregion": "Урал"
     }
   },
@@ -2311,15 +2727,23 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 0
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432721",
+        "total_bs_count": 0,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 0
       }
     ],
     "current": {
       "success": true,
       "region_code": "UFA",
       "region_name": "Уфа",
-      "base_layer": "UFA Базовый слой 24.12.2025 13:42:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
-      "non_priority": "UFA Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:06",
+      "base_layer": "UFA Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 0\nБазовый слой: 0/0\nВсего активных POWER на сети: 0\n",
+      "non_priority": "UFA Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:55",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -2327,7 +2751,7 @@
         "non_priority_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:06.752946",
+      "collected_at": "2025-12-24T13:47:55.658533",
       "macroregion": "Урал"
     }
   },
@@ -2355,15 +2779,23 @@
         "base_layer_percentage": 3,
         "power_problems": 0,
         "non_priority_percentage": 97
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432724",
+        "total_bs_count": 29,
+        "base_layer_count": 1,
+        "base_layer_percentage": 3,
+        "power_problems": 0,
+        "non_priority_percentage": 97
       }
     ],
     "current": {
       "success": true,
       "region_code": "IVN",
       "region_name": "Ивановская область",
-      "base_layer": "IVN Базовый слой 24.12.2025 13:42:\n\n1) IV0355 2025-12-23T18:14:52\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 29\nБазовый слой: 1/29\nВсего активных POWER на сети: 0\n",
-      "non_priority": "IVN Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:07",
+      "base_layer": "IVN Базовый слой 24.12.2025 13:47:\n\n1) IV0355 2025-12-23T18:14:52\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 29\nБазовый слой: 1/29\nВсего активных POWER на сети: 0\n",
+      "non_priority": "IVN Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:56",
       "stats": {
         "total_bs": 29,
         "base_layer_count": 1,
@@ -2371,7 +2803,7 @@
         "non_priority_percentage": 97
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:07.309617",
+      "collected_at": "2025-12-24T13:47:56.217102",
       "macroregion": "Центр"
     }
   },
@@ -2399,23 +2831,31 @@
         "base_layer_percentage": 2,
         "power_problems": 0,
         "non_priority_percentage": 98
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432727",
+        "total_bs_count": 81,
+        "base_layer_count": 3,
+        "base_layer_percentage": 3,
+        "power_problems": 1,
+        "non_priority_percentage": 97
       }
     ],
     "current": {
       "success": true,
       "region_code": "KLG",
       "region_name": "Калужская область",
-      "base_layer": "KLG Базовый слой 24.12.2025 13:42:\n\n1) KL0330 2025-12-23T17:45:06\nPower Да; Посещение Нет; WO Есть\n2) KL0309 2025-12-24T13:21:02\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 78\nБазовый слой: 2/78\nВсего активных POWER на сети: 0\n",
-      "non_priority": "KLG Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:07",
+      "base_layer": "KLG Базовый слой 24.12.2025 13:47:\n\n1) KL0095 2025-12-24T13:07:37\nPower Да; Посещение Нет; WO Есть\n2) KL0330 2025-12-23T17:45:06\nPower Да; Посещение Да; WO Есть\n3) KL0309 2025-12-24T13:39:30\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 81\nБазовый слой: 3/81\nВсего активных POWER на сети: 1\n",
+      "non_priority": "KLG Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:56",
       "stats": {
-        "total_bs": 78,
-        "base_layer_count": 2,
-        "power_problems": 0,
-        "non_priority_percentage": 98
+        "total_bs": 81,
+        "base_layer_count": 3,
+        "power_problems": 1,
+        "non_priority_percentage": 97
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:07.838972",
+      "collected_at": "2025-12-24T13:47:56.751468",
       "macroregion": "Центр"
     }
   },
@@ -2443,15 +2883,23 @@
         "base_layer_percentage": 20,
         "power_problems": 0,
         "non_priority_percentage": 80
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432730",
+        "total_bs_count": 5,
+        "base_layer_count": 1,
+        "base_layer_percentage": 20,
+        "power_problems": 0,
+        "non_priority_percentage": 80
       }
     ],
     "current": {
       "success": true,
       "region_code": "KOS",
       "region_name": "Костромская область",
-      "base_layer": "KOS Базовый слой 24.12.2025 13:42:\n\n1) KS0223 2025-12-24T12:36:57\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 5\nБазовый слой: 1/5\nВсего активных POWER на сети: 0\n",
-      "non_priority": "KOS Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:08",
+      "base_layer": "KOS Базовый слой 24.12.2025 13:47:\n\n1) KS0223 2025-12-24T12:36:57\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 5\nБазовый слой: 1/5\nВсего активных POWER на сети: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:57",
       "stats": {
         "total_bs": 5,
         "base_layer_count": 1,
@@ -2459,7 +2907,7 @@
         "non_priority_percentage": 80
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:08.365079",
+      "collected_at": "2025-12-24T13:47:57.283465",
       "macroregion": "Центр"
     }
   },
@@ -2487,15 +2935,23 @@
         "base_layer_percentage": 16,
         "power_problems": 3,
         "non_priority_percentage": 84
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432740",
+        "total_bs_count": 6,
+        "base_layer_count": 1,
+        "base_layer_percentage": 16,
+        "power_problems": 3,
+        "non_priority_percentage": 84
       }
     ],
     "current": {
       "success": true,
       "region_code": "RYZ",
       "region_name": "Рязанская область",
-      "base_layer": "RYZ Базовый слой 24.12.2025 13:42:\n\n1) RZ0352 2025-12-24T13:03:26\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 6\nБазовый слой: 1/6\nВсего активных POWER на сети: 3\n",
-      "non_priority": "RYZ Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:08",
+      "base_layer": "RYZ Базовый слой 24.12.2025 13:47:\n\n1) RZ0352 2025-12-24T13:03:26\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 6\nБазовый слой: 1/6\nВсего активных POWER на сети: 3\n",
+      "non_priority": "RYZ Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:57",
       "stats": {
         "total_bs": 6,
         "base_layer_count": 1,
@@ -2503,7 +2959,7 @@
         "non_priority_percentage": 84
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:08.904795",
+      "collected_at": "2025-12-24T13:47:57.822728",
       "macroregion": "Центр"
     }
   },
@@ -2531,23 +2987,31 @@
         "base_layer_percentage": 0,
         "power_problems": 2,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432743",
+        "total_bs_count": 17,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 2,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "SMO",
       "region_name": "Смоленская область",
-      "base_layer": "SMO Базовый слой 24.12.2025 13:42:\n\n\nВсего BS: 18\nБазовый слой: 0/18\nВсего активных POWER на сети: 2\n",
-      "non_priority": "SMO Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:09",
+      "base_layer": "SMO Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 17\nБазовый слой: 0/17\nВсего активных POWER на сети: 2\n",
+      "non_priority": "SMO Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:58",
       "stats": {
-        "total_bs": 18,
+        "total_bs": 17,
         "base_layer_count": 0,
         "power_problems": 2,
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:09.463442",
+      "collected_at": "2025-12-24T13:47:58.364467",
       "macroregion": "Центр"
     }
   },
@@ -2575,15 +3039,23 @@
         "base_layer_percentage": 28,
         "power_problems": 0,
         "non_priority_percentage": 72
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432747",
+        "total_bs_count": 7,
+        "base_layer_count": 2,
+        "base_layer_percentage": 28,
+        "power_problems": 0,
+        "non_priority_percentage": 72
       }
     ],
     "current": {
       "success": true,
       "region_code": "TUL",
       "region_name": "Тульская область",
-      "base_layer": "TUL Базовый слой 24.12.2025 13:42:\n\n1) TL2002 2025-12-24T12:10:09\nPower Да; Посещение Нет; WO Нет\n2) TL0686 2025-12-21T20:55:02\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 7\nБазовый слой: 2/7\nВсего активных POWER на сети: 0\n",
-      "non_priority": "TUL Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:09",
+      "base_layer": "TUL Базовый слой 24.12.2025 13:47:\n\n1) TL2002 2025-12-24T12:10:09\nPower Да; Посещение Нет; WO Нет\n2) TL0686 2025-12-21T20:55:02\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 7\nБазовый слой: 2/7\nВсего активных POWER на сети: 0\n",
+      "non_priority": "TUL Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:58",
       "stats": {
         "total_bs": 7,
         "base_layer_count": 2,
@@ -2591,7 +3063,7 @@
         "non_priority_percentage": 72
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:09.991221",
+      "collected_at": "2025-12-24T13:47:58.902079",
       "macroregion": "Центр"
     }
   },
@@ -2619,23 +3091,31 @@
         "base_layer_percentage": 13,
         "power_problems": 2,
         "non_priority_percentage": 87
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432751",
+        "total_bs_count": 15,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "TVE",
       "region_name": "Тверская область",
-      "base_layer": "TVE Базовый слой 24.12.2025 13:42:\n\n1) TV0550 2025-12-24T06:23:18\nPower Нет; Посещение Нет; WO Есть\n2) TV0526 2025-12-24T12:53:47\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 15\nБазовый слой: 2/15\nВсего активных POWER на сети: 2\n",
-      "non_priority": "TVE Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:10",
+      "base_layer": "TVE Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 15\nБазовый слой: 0/15\nВсего активных POWER на сети: 0\n",
+      "non_priority": "TVE Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:59",
       "stats": {
         "total_bs": 15,
-        "base_layer_count": 2,
-        "power_problems": 2,
-        "non_priority_percentage": 87
+        "base_layer_count": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:10.539467",
+      "collected_at": "2025-12-24T13:47:59.433120",
       "macroregion": "Центр"
     }
   },
@@ -2663,23 +3143,31 @@
         "base_layer_percentage": 0,
         "power_problems": 4,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432754",
+        "total_bs_count": 13,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 2,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "VLA",
       "region_name": "Владимирская область",
-      "base_layer": "VLA Базовый слой 24.12.2025 13:42:\n\n\nВсего BS: 14\nБазовый слой: 0/14\nВсего активных POWER на сети: 4\n",
-      "non_priority": "VLA Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:11",
+      "base_layer": "VLA Базовый слой 24.12.2025 13:47:\n\n\nВсего BS: 13\nБазовый слой: 0/13\nВсего активных POWER на сети: 2\n",
+      "non_priority": "VLA Неприоритетные технологии 24.12.2025 13:47:\n\n",
+      "timestamp": "13:47:59",
       "stats": {
-        "total_bs": 14,
+        "total_bs": 13,
         "base_layer_count": 0,
-        "power_problems": 4,
+        "power_problems": 2,
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:11.069171",
+      "collected_at": "2025-12-24T13:47:59.970563",
       "macroregion": "Центр"
     }
   },
@@ -2707,15 +3195,23 @@
         "base_layer_percentage": 3,
         "power_problems": 0,
         "non_priority_percentage": 97
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432757",
+        "total_bs_count": 32,
+        "base_layer_count": 1,
+        "base_layer_percentage": 3,
+        "power_problems": 0,
+        "non_priority_percentage": 97
       }
     ],
     "current": {
       "success": true,
       "region_code": "YRL",
       "region_name": "Ярославская область",
-      "base_layer": "YRL Базовый слой 24.12.2025 13:42:\n\n1) YR0002 2025-12-24T12:21:11\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 32\nБазовый слой: 1/32\nВсего активных POWER на сети: 0\n",
-      "non_priority": "YRL Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:11",
+      "base_layer": "YRL Базовый слой 24.12.2025 13:48:\n\n1) YR0002 2025-12-24T12:21:11\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 32\nБазовый слой: 1/32\nВсего активных POWER на сети: 0\n",
+      "non_priority": "YRL Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:00",
       "stats": {
         "total_bs": 32,
         "base_layer_count": 1,
@@ -2723,7 +3219,7 @@
         "non_priority_percentage": 97
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:11.610543",
+      "collected_at": "2025-12-24T13:48:00.517706",
       "macroregion": "Центр"
     }
   },
@@ -2751,23 +3247,31 @@
         "base_layer_percentage": 18,
         "power_problems": 2,
         "non_priority_percentage": 82
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432760",
+        "total_bs_count": 77,
+        "base_layer_count": 13,
+        "base_layer_percentage": 16,
+        "power_problems": 2,
+        "non_priority_percentage": 84
       }
     ],
     "current": {
       "success": true,
       "region_code": "BEL",
       "region_name": "Белгородская область",
-      "base_layer": "BEL Базовый слой 24.12.2025 13:42:\n\n1) BE0807 2025-12-11T14:11:28\nPower Да; Посещение Нет; WO Нет\n2) BE0037 2025-12-18T08:12:34\nPower Да; Посещение Нет; WO Нет\n3) BE0046 2025-11-25T09:30:40\nPower Да; Посещение Нет; WO Нет\n4) BE0989 2025-12-17T02:38:02\nPower Да; Посещение Нет; WO Нет\n5) BE0332 2025-12-12T02:08:39\nPower Да; Посещение Нет; WO Нет\n6) BE0717 2025-12-16T05:44:06\nPower Да; Посещение Нет; WO Нет\n7) BE0539 2025-12-21T11:36:30\nPower Нет; Посещение Нет; WO Есть\n8) BE0538 2025-12-07T12:45:02\nPower Да; Посещение Нет; WO Нет\n9) BE0333 2025-12-08T14:33:07\nPower Да; Посещение Нет; WO Нет\n10) BE0899 2025-12-24T12:55:19\nPower Да; Посещение Нет; WO Нет\n11) BE0118 2025-12-02T13:21:59\nPower Да; Посещение Нет; WO Нет\n12) BE0058 2025-12-01T08:11:36\nPower Да; Посещение Нет; WO Нет\n13) BE0985 2025-11-25T14:05:32\nPower Да; Посещение Нет; WO Нет\n14) BE0357 2025-12-18T04:30:27\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 76\nБазовый слой: 14/76\nВсего активных POWER на сети: 2\n",
-      "non_priority": "BEL Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:12",
+      "base_layer": "BEL Базовый слой 24.12.2025 13:48:\n\n1) BE0807 2025-12-11T14:11:28\nPower Да; Посещение Нет; WO Нет\n2) BE0037 2025-12-18T08:12:34\nPower Да; Посещение Нет; WO Нет\n3) BE0046 2025-11-25T09:30:40\nPower Да; Посещение Нет; WO Нет\n4) BE0989 2025-12-17T02:38:02\nPower Да; Посещение Нет; WO Нет\n5) BE0332 2025-12-12T02:08:39\nPower Да; Посещение Нет; WO Нет\n6) BE0717 2025-12-16T05:44:06\nPower Да; Посещение Нет; WO Нет\n7) BE0539 2025-12-21T11:36:30\nPower Нет; Посещение Нет; WO Есть\n8) BE0538 2025-12-07T12:45:02\nPower Да; Посещение Нет; WO Нет\n9) BE0333 2025-12-08T14:33:07\nPower Да; Посещение Нет; WO Нет\n10) BE0118 2025-12-02T13:21:59\nPower Да; Посещение Нет; WO Нет\n11) BE0058 2025-12-01T08:11:36\nPower Да; Посещение Нет; WO Нет\n12) BE0985 2025-11-25T14:05:32\nPower Да; Посещение Нет; WO Нет\n13) BE0357 2025-12-18T04:30:27\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 77\nБазовый слой: 13/77\nВсего активных POWER на сети: 2\n",
+      "non_priority": "BEL Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:01",
       "stats": {
-        "total_bs": 76,
-        "base_layer_count": 14,
+        "total_bs": 77,
+        "base_layer_count": 13,
         "power_problems": 2,
-        "non_priority_percentage": 82
+        "non_priority_percentage": 84
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:12.166951",
+      "collected_at": "2025-12-24T13:48:01.067974",
       "macroregion": "Черноземье"
     }
   },
@@ -2795,23 +3299,31 @@
         "base_layer_percentage": 32,
         "power_problems": 2,
         "non_priority_percentage": 68
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432764",
+        "total_bs_count": 41,
+        "base_layer_count": 12,
+        "base_layer_percentage": 29,
+        "power_problems": 2,
+        "non_priority_percentage": 71
       }
     ],
     "current": {
       "success": true,
       "region_code": "BRY",
       "region_name": "Брянская область",
-      "base_layer": "BRY Базовый слой 24.12.2025 13:42:\n\n1) BR0126 2025-11-29T13:29:37\nPower Да; Посещение Нет; WO Нет\n2) BR0420 2025-11-29T13:30:09\nPower Да; Посещение Нет; WO Нет\n3) BR1431 2025-12-19T20:25:32\nPower Да; Посещение Нет; WO Нет\n4) BR1620 2025-12-06T15:17:14\nPower Да; Посещение Нет; WO Нет\n5) BR0703 2025-11-28T13:19:02\nPower Да; Посещение Нет; WO Нет\n6) BR1238 2025-12-24T10:33:18\nPower Да; Посещение Нет; WO Нет\n7) BR0225 2025-11-27T07:28:38\nPower Да; Посещение Нет; WO Нет\n8) BR0642 2025-11-29T19:47:26\nPower Да; Посещение Нет; WO Нет\n9) BR0118 2025-12-24T13:19:21\nPower Да; Посещение Да; WO Нет\n10) BR0197 2025-12-24T13:18:23\nPower Нет; Посещение Нет; WO Нет\n11) BR0158 2025-12-24T10:22:10\nPower Нет; Посещение Нет; WO Есть\n12) BR0166 2025-11-21T21:10:31\nPower Да; Посещение Нет; WO Нет\n13) BR0543 2025-12-04T16:40:17\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 40\nБазовый слой: 13/40\nВсего активных POWER на сети: 2\n",
-      "non_priority": "BRY Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:12",
+      "base_layer": "BRY Базовый слой 24.12.2025 13:48:\n\n1) BR0126 2025-11-29T13:29:37\nPower Да; Посещение Нет; WO Нет\n2) BR0420 2025-11-29T13:30:09\nPower Да; Посещение Нет; WO Нет\n3) BR1431 2025-12-19T20:25:32\nPower Да; Посещение Нет; WO Нет\n4) BR1620 2025-12-06T15:17:14\nPower Да; Посещение Нет; WO Нет\n5) BR0703 2025-11-28T13:19:02\nPower Да; Посещение Нет; WO Нет\n6) BR1238 2025-12-24T10:33:18\nPower Да; Посещение Нет; WO Нет\n7) BR0225 2025-11-27T07:28:38\nPower Да; Посещение Нет; WO Нет\n8) BR0642 2025-11-29T19:47:26\nPower Да; Посещение Нет; WO Нет\n9) BR0197 2025-12-24T13:18:23\nPower Нет; Посещение Нет; WO Нет\n10) BR0158 2025-12-24T10:22:10\nPower Нет; Посещение Нет; WO Есть\n11) BR0166 2025-11-21T21:10:31\nPower Да; Посещение Нет; WO Нет\n12) BR0543 2025-12-04T16:40:17\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 41\nБазовый слой: 12/41\nВсего активных POWER на сети: 2\n",
+      "non_priority": "BRY Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:01",
       "stats": {
-        "total_bs": 40,
-        "base_layer_count": 13,
+        "total_bs": 41,
+        "base_layer_count": 12,
         "power_problems": 2,
-        "non_priority_percentage": 68
+        "non_priority_percentage": 71
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:12.718501",
+      "collected_at": "2025-12-24T13:48:01.603268",
       "macroregion": "Черноземье"
     }
   },
@@ -2839,23 +3351,31 @@
         "base_layer_percentage": 22,
         "power_problems": 3,
         "non_priority_percentage": 78
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432767",
+        "total_bs_count": 29,
+        "base_layer_count": 7,
+        "base_layer_percentage": 24,
+        "power_problems": 3,
+        "non_priority_percentage": 76
       }
     ],
     "current": {
       "success": true,
       "region_code": "KUR",
       "region_name": "Курская область",
-      "base_layer": "KUR Базовый слой 24.12.2025 13:42:\n\n1) KU0930 2025-12-22T14:58:58\nPower Да; Посещение Нет; WO Есть\n2) KU1359 2025-12-02T13:32:45\nPower Да; Посещение Нет; WO Нет\n3) KU2029 2025-12-24T11:44:33\nPower Да; Посещение Нет; WO Нет\n4) KU0150 2025-12-15T22:50:49\nPower Да; Посещение Нет; WO Нет\n5) KU1575 2025-12-06T11:11:30\nPower Нет; Посещение Нет; WO Нет\n6) KU0048 2025-12-16T15:54:11\nPower Да; Посещение Нет; WO Нет\n7) KU1112 2025-12-24T08:49:41\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 31\nБазовый слой: 7/31\nВсего активных POWER на сети: 3\n",
-      "non_priority": "KUR Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:13",
+      "base_layer": "KUR Базовый слой 24.12.2025 13:48:\n\n1) KU0930 2025-12-22T14:58:58\nPower Да; Посещение Нет; WO Есть\n2) KU1359 2025-12-02T13:32:45\nPower Да; Посещение Нет; WO Нет\n3) KU2029 2025-12-24T11:44:33\nPower Да; Посещение Нет; WO Нет\n4) KU0150 2025-12-15T22:50:49\nPower Да; Посещение Нет; WO Нет\n5) KU1575 2025-12-06T11:11:30\nPower Нет; Посещение Нет; WO Нет\n6) KU0048 2025-12-16T15:54:11\nPower Да; Посещение Нет; WO Нет\n7) KU1112 2025-12-24T08:49:41\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 29\nБазовый слой: 7/29\nВсего активных POWER на сети: 3\n",
+      "non_priority": "KUR Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:02",
       "stats": {
-        "total_bs": 31,
+        "total_bs": 29,
         "base_layer_count": 7,
         "power_problems": 3,
-        "non_priority_percentage": 78
+        "non_priority_percentage": 76
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:13.311508",
+      "collected_at": "2025-12-24T13:48:02.170258",
       "macroregion": "Черноземье"
     }
   },
@@ -2883,15 +3403,23 @@
         "base_layer_percentage": 75,
         "power_problems": 2,
         "non_priority_percentage": 25
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432770",
+        "total_bs_count": 4,
+        "base_layer_count": 3,
+        "base_layer_percentage": 75,
+        "power_problems": 2,
+        "non_priority_percentage": 25
       }
     ],
     "current": {
       "success": true,
       "region_code": "LIP",
       "region_name": "Липецкая область",
-      "base_layer": "LIP Базовый слой 24.12.2025 13:42:\n\n1) LI0207 2025-12-24T12:49:16\nPower Нет; Посещение Нет; WO Есть\n2) LI0276 2025-12-20T15:48:13\nPower Да; Посещение Нет; WO Нет\n3) LI0259 2025-12-24T11:57:53\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 4\nБазовый слой: 3/4\nВсего активных POWER на сети: 2\n",
-      "non_priority": "LIP Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:13",
+      "base_layer": "LIP Базовый слой 24.12.2025 13:48:\n\n1) LI0207 2025-12-24T12:49:16\nPower Нет; Посещение Нет; WO Есть\n2) LI0276 2025-12-20T15:48:13\nPower Да; Посещение Нет; WO Нет\n3) LI0259 2025-12-24T11:57:53\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 4\nБазовый слой: 3/4\nВсего активных POWER на сети: 2\n",
+      "non_priority": "LIP Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:02",
       "stats": {
         "total_bs": 4,
         "base_layer_count": 3,
@@ -2899,7 +3427,7 @@
         "non_priority_percentage": 25
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:13.856528",
+      "collected_at": "2025-12-24T13:48:02.698056",
       "macroregion": "Черноземье"
     }
   },
@@ -2927,23 +3455,31 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432773",
+        "total_bs_count": 12,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "MRD",
       "region_name": "Мордовия",
-      "base_layer": "MRD Базовый слой 24.12.2025 13:42:\n\n\nВсего BS: 13\nБазовый слой: 0/13\nВсего активных POWER на сети: 0\n",
-      "non_priority": "MRD Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:14",
+      "base_layer": "MRD Базовый слой 24.12.2025 13:48:\n\n\nВсего BS: 12\nБазовый слой: 0/12\nВсего активных POWER на сети: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:03",
       "stats": {
-        "total_bs": 13,
+        "total_bs": 12,
         "base_layer_count": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:14.417207",
+      "collected_at": "2025-12-24T13:48:03.228417",
       "macroregion": "Черноземье"
     }
   },
@@ -2971,23 +3507,31 @@
         "base_layer_percentage": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432775",
+        "total_bs_count": 29,
+        "base_layer_count": 0,
+        "base_layer_percentage": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100
       }
     ],
     "current": {
       "success": true,
       "region_code": "ORL",
       "region_name": "Орловская область",
-      "base_layer": "ORL Базовый слой 24.12.2025 13:42:\n\n\nВсего BS: 30\nБазовый слой: 0/30\nВсего активных POWER на сети: 0\n",
-      "non_priority": "ORL Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:14",
+      "base_layer": "ORL Базовый слой 24.12.2025 13:48:\n\n\nВсего BS: 29\nБазовый слой: 0/29\nВсего активных POWER на сети: 0\n",
+      "non_priority": "ORL Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:03",
       "stats": {
-        "total_bs": 30,
+        "total_bs": 29,
         "base_layer_count": 0,
         "power_problems": 0,
         "non_priority_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:14.959174",
+      "collected_at": "2025-12-24T13:48:03.799075",
       "macroregion": "Черноземье"
     }
   },
@@ -3015,23 +3559,31 @@
         "base_layer_percentage": 66,
         "power_problems": 0,
         "non_priority_percentage": 34
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432779",
+        "total_bs_count": 10,
+        "base_layer_count": 5,
+        "base_layer_percentage": 50,
+        "power_problems": 1,
+        "non_priority_percentage": 50
       }
     ],
     "current": {
       "success": true,
       "region_code": "PNZ",
       "region_name": "Пензенская область",
-      "base_layer": "PNZ Базовый слой 24.12.2025 13:42:\n\n1) PN0832 2025-12-24T06:33:39\nPower Да; Посещение Нет; WO Есть\n2) PN0942 2025-12-23T11:02:37\nPower Да; Посещение Нет; WO Есть\n3) PN0895 2025-12-23T10:40:37\nPower Да; Посещение Нет; WO Есть\n4) PN0848 2025-12-24T09:05:42\nPower Да; Посещение Нет; WO Есть\n5) PN0722 2025-12-24T10:47:59\nPower Да; Посещение Нет; WO Нет\n6) PN0695 2025-12-24T08:05:07\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 9\nБазовый слой: 6/9\nВсего активных POWER на сети: 0\n",
-      "non_priority": "PNZ Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:15",
+      "base_layer": "PNZ Базовый слой 24.12.2025 13:48:\n\n1) PN0832 2025-12-24T06:33:39\nPower Да; Посещение Нет; WO Есть\n2) PN0942 2025-12-23T11:02:37\nPower Да; Посещение Да; WO Есть\n3) PN0895 2025-12-23T10:40:37\nPower Да; Посещение Нет; WO Есть\n4) PN0848 2025-12-24T09:05:42\nPower Да; Посещение Нет; WO Есть\n5) PN0722 2025-12-24T10:47:59\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 10\nБазовый слой: 5/10\nВсего активных POWER на сети: 1\n",
+      "non_priority": "PNZ Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:04",
       "stats": {
-        "total_bs": 9,
-        "base_layer_count": 6,
-        "power_problems": 0,
-        "non_priority_percentage": 34
+        "total_bs": 10,
+        "base_layer_count": 5,
+        "power_problems": 1,
+        "non_priority_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:15.494582",
+      "collected_at": "2025-12-24T13:48:04.333357",
       "macroregion": "Черноземье"
     }
   },
@@ -3059,23 +3611,31 @@
         "base_layer_percentage": 11,
         "power_problems": 2,
         "non_priority_percentage": 89
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432782",
+        "total_bs_count": 15,
+        "base_layer_count": 2,
+        "base_layer_percentage": 13,
+        "power_problems": 1,
+        "non_priority_percentage": 87
       }
     ],
     "current": {
       "success": true,
       "region_code": "SRV",
       "region_name": "Саратовская область",
-      "base_layer": "SRV Базовый слой 24.12.2025 13:42:\n\n1) SV2118 2025-12-24T07:02:23\nPower Да; Посещение Да; WO Есть\n2) SV1796 2025-12-24T10:27:28\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 18\nБазовый слой: 2/18\nВсего активных POWER на сети: 2\n",
-      "non_priority": "SRV Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:16",
+      "base_layer": "SRV Базовый слой 24.12.2025 13:48:\n\n1) SV2118 2025-12-24T07:02:23\nPower Да; Посещение Да; WO Есть\n2) SV1796 2025-12-24T10:27:28\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 15\nБазовый слой: 2/15\nВсего активных POWER на сети: 1\n",
+      "non_priority": "SRV Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:04",
       "stats": {
-        "total_bs": 18,
+        "total_bs": 15,
         "base_layer_count": 2,
-        "power_problems": 2,
-        "non_priority_percentage": 89
+        "power_problems": 1,
+        "non_priority_percentage": 87
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:16.032257",
+      "collected_at": "2025-12-24T13:48:04.883052",
       "macroregion": "Черноземье"
     }
   },
@@ -3103,15 +3663,23 @@
         "base_layer_percentage": 12,
         "power_problems": 1,
         "non_priority_percentage": 88
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432785",
+        "total_bs_count": 8,
+        "base_layer_count": 1,
+        "base_layer_percentage": 12,
+        "power_problems": 1,
+        "non_priority_percentage": 88
       }
     ],
     "current": {
       "success": true,
       "region_code": "TAM",
       "region_name": "Тамбовская область",
-      "base_layer": "TAM Базовый слой 24.12.2025 13:42:\n\n1) TM2211 2025-12-24T12:25:51\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 8\nБазовый слой: 1/8\nВсего активных POWER на сети: 1\n",
-      "non_priority": "TAM Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:16",
+      "base_layer": "TAM Базовый слой 24.12.2025 13:48:\n\n1) TM2211 2025-12-24T12:25:51\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 8\nБазовый слой: 1/8\nВсего активных POWER на сети: 1\n",
+      "non_priority": "TAM Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:05",
       "stats": {
         "total_bs": 8,
         "base_layer_count": 1,
@@ -3119,7 +3687,7 @@
         "non_priority_percentage": 88
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:16.589804",
+      "collected_at": "2025-12-24T13:48:05.424905",
       "macroregion": "Черноземье"
     }
   },
@@ -3147,23 +3715,31 @@
         "base_layer_percentage": 22,
         "power_problems": 5,
         "non_priority_percentage": 78
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432788",
+        "total_bs_count": 24,
+        "base_layer_count": 7,
+        "base_layer_percentage": 29,
+        "power_problems": 8,
+        "non_priority_percentage": 71
       }
     ],
     "current": {
       "success": true,
       "region_code": "VRN",
       "region_name": "Воронежская область",
-      "base_layer": "VRN Базовый слой 24.12.2025 13:42:\n\n1) VO1712 2025-12-21T16:57:05\nPower Да; Посещение Нет; WO Нет\n2) VO0911 2025-12-24T12:30:57\nPower Нет; Посещение Нет; WO Есть\n3) VO0101 2025-12-19T09:11:13\nPower Да; Посещение Нет; WO Нет\n4) VO0142 2025-12-24T10:37:36\nPower Да; Посещение Нет; WO Есть\n5) VO0272 2025-12-24T13:19:22\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 22\nБазовый слой: 5/22\nВсего активных POWER на сети: 5\n",
-      "non_priority": "VRN Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:17",
+      "base_layer": "VRN Базовый слой 24.12.2025 13:48:\n\n1) VO1712 2025-12-21T16:57:05\nPower Да; Посещение Нет; WO Нет\n2) VO0911 2025-12-24T12:30:57\nPower Нет; Посещение Да; WO Есть\n3) VO0101 2025-12-19T09:11:13\nPower Да; Посещение Нет; WO Нет\n4) VO0142 2025-12-24T10:37:36\nPower Да; Посещение Нет; WO Есть\n5) VO1960 2025-12-24T13:07:29\nPower Нет; Посещение Нет; WO Нет\n6) VO0872 2025-12-24T13:38:49\nPower Да; Посещение Нет; WO Нет\n7) VO0272 2025-12-24T13:38:52\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 24\nБазовый слой: 7/24\nВсего активных POWER на сети: 8\n",
+      "non_priority": "VRN Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:05",
       "stats": {
-        "total_bs": 22,
-        "base_layer_count": 5,
-        "power_problems": 5,
-        "non_priority_percentage": 78
+        "total_bs": 24,
+        "base_layer_count": 7,
+        "power_problems": 8,
+        "non_priority_percentage": 71
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:17.165217",
+      "collected_at": "2025-12-24T13:48:05.977590",
       "macroregion": "Черноземье"
     }
   },
@@ -3191,23 +3767,31 @@
         "base_layer_percentage": 13,
         "power_problems": 16,
         "non_priority_percentage": 87
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432791",
+        "total_bs_count": 56,
+        "base_layer_count": 11,
+        "base_layer_percentage": 19,
+        "power_problems": 19,
+        "non_priority_percentage": 81
       }
     ],
     "current": {
       "success": true,
       "region_code": "KRA",
       "region_name": "Краснодарский край",
-      "base_layer": "KRA Базовый слой 24.12.2025 13:42:\n\n1) AD2060 2025-12-24T12:46:54\nPower Нет; Посещение Нет; WO Есть\n2) KR1424 2025-12-24T12:30:48\nPower Нет; Посещение Да; WO Есть\n3) KR2763 2025-11-25T15:49:47\nPower Да; Посещение Да; WO Нет\n4) KD0070 2025-12-01T03:20:54\nPower Да; Посещение Нет; WO Есть\n5) KD0436 2025-12-12T16:37:00\nPower Нет; Посещение Нет; WO Нет\n6) KR2557 2025-12-24T13:11:08\nPower Да; Посещение Нет; WO Нет\n7) KR1097 2025-12-23T21:06:35\nPower Нет; Посещение Да; WO Есть\n8) AD1884 2025-12-24T12:38:48\nPower Нет; Посещение Нет; WO Есть\n9) KR0008 2025-12-24T13:11:54\nPower Нет; Посещение Нет; WO Нет\n10) KR0900 2025-12-23T08:42:55\nPower Да; Посещение Нет; WO Нет\n11) KR0453 2025-12-24T13:09:58\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 80\nБазовый слой: 11/80\nВсего активных POWER на сети: 16\n",
-      "non_priority": "KRA Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:17",
+      "base_layer": "KRA Базовый слой 24.12.2025 13:48:\n\n1) AD2060 2025-12-24T12:46:54\nPower Нет; Посещение Нет; WO Есть\n2) KD1712 2025-12-24T13:36:10\nPower Нет; Посещение Нет; WO Нет\n3) KR2763 2025-12-24T13:00:25\nPower Да; Посещение Да; WO Нет\n4) KD0070 2025-12-01T03:20:54\nPower Да; Посещение Нет; WO Есть\n5) KD0436 2025-12-12T16:37:00\nPower Нет; Посещение Нет; WO Нет\n6) KR1097 2025-12-23T21:06:35\nPower Нет; Посещение Да; WO Есть\n7) AD1884 2025-12-24T12:38:48\nPower Нет; Посещение Нет; WO Есть\n8) KR0900 2025-12-23T08:42:55\nPower Да; Посещение Нет; WO Нет\n9) KR0453 2025-12-24T13:09:58\nPower Нет; Посещение Нет; WO Есть\n10) KD2077 2025-12-24T13:09:58\nPower Да; Посещение Нет; WO Нет\n11) KR0371 2025-12-24T13:25:25\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 56\nБазовый слой: 11/56\nВсего активных POWER на сети: 19\n",
+      "non_priority": "KRA Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:06",
       "stats": {
-        "total_bs": 80,
+        "total_bs": 56,
         "base_layer_count": 11,
-        "power_problems": 16,
-        "non_priority_percentage": 87
+        "power_problems": 19,
+        "non_priority_percentage": 81
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:17.700160",
+      "collected_at": "2025-12-24T13:48:06.510990",
       "macroregion": "ЮГ"
     }
   },
@@ -3235,23 +3819,31 @@
         "base_layer_percentage": 9,
         "power_problems": 7,
         "non_priority_percentage": 91
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432794",
+        "total_bs_count": 55,
+        "base_layer_count": 4,
+        "base_layer_percentage": 7,
+        "power_problems": 8,
+        "non_priority_percentage": 93
       }
     ],
     "current": {
       "success": true,
       "region_code": "ROS",
       "region_name": "Ростовская область",
-      "base_layer": "ROS Базовый слой 24.12.2025 13:42:\n\n1) RO0630 2025-12-24T11:24:21\nPower Нет; Посещение Нет; WO Есть\n2) RO1644 2025-12-24T13:03:11\nPower Нет; Посещение Нет; WO Нет\n3) RO0474 2025-12-24T12:55:14\nPower Нет; Посещение Нет; WO Есть\n4) RO2572 2025-12-24T12:23:02\nPower Да; Посещение Нет; WO Нет\n5) RO0680 2025-12-24T11:31:02\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 54\nБазовый слой: 5/54\nВсего активных POWER на сети: 7\n",
-      "non_priority": "ROS Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:18",
+      "base_layer": "ROS Базовый слой 24.12.2025 13:48:\n\n1) RO0630 2025-12-24T11:24:21\nPower Нет; Посещение Нет; WO Есть\n2) RO1644 2025-12-24T13:03:11\nPower Нет; Посещение Нет; WO Нет\n3) RO0474 2025-12-24T12:55:14\nPower Нет; Посещение Нет; WO Есть\n4) RO2572 2025-12-24T12:23:02\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 55\nБазовый слой: 4/55\nВсего активных POWER на сети: 8\n",
+      "non_priority": "ROS Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:07",
       "stats": {
-        "total_bs": 54,
-        "base_layer_count": 5,
-        "power_problems": 7,
-        "non_priority_percentage": 91
+        "total_bs": 55,
+        "base_layer_count": 4,
+        "power_problems": 8,
+        "non_priority_percentage": 93
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:18.238937",
+      "collected_at": "2025-12-24T13:48:07.048287",
       "macroregion": "ЮГ"
     }
   },
@@ -3279,15 +3871,23 @@
         "base_layer_percentage": 4,
         "power_problems": 4,
         "non_priority_percentage": 96
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432797",
+        "total_bs_count": 21,
+        "base_layer_count": 1,
+        "base_layer_percentage": 4,
+        "power_problems": 4,
+        "non_priority_percentage": 96
       }
     ],
     "current": {
       "success": true,
       "region_code": "STV",
       "region_name": "Ставропольский край",
-      "base_layer": "STV Базовый слой 24.12.2025 13:42:\n\n1) ST0921 2025-12-24T10:17:43\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 21\nБазовый слой: 1/21\nВсего активных POWER на сети: 4\n",
-      "non_priority": "STV Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:18",
+      "base_layer": "STV Базовый слой 24.12.2025 13:48:\n\n1) ST0921 2025-12-24T10:17:43\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 21\nБазовый слой: 1/21\nВсего активных POWER на сети: 4\n",
+      "non_priority": "STV Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:07",
       "stats": {
         "total_bs": 21,
         "base_layer_count": 1,
@@ -3295,7 +3895,7 @@
         "non_priority_percentage": 96
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:18.774601",
+      "collected_at": "2025-12-24T13:48:07.591982",
       "macroregion": "ЮГ"
     }
   },
@@ -3323,28 +3923,36 @@
         "base_layer_percentage": 22,
         "power_problems": 8,
         "non_priority_percentage": 78
+      },
+      {
+        "timestamp": "2025-12-24T13:48:08.432800",
+        "total_bs_count": 15,
+        "base_layer_count": 3,
+        "base_layer_percentage": 20,
+        "power_problems": 10,
+        "non_priority_percentage": 80
       }
     ],
     "current": {
       "success": true,
       "region_code": "VLG",
       "region_name": "Волгоградская область",
-      "base_layer": "VLG Базовый слой 24.12.2025 13:42:\n\n1) VD0294 2025-12-24T10:27:55\nPower Да; Посещение Нет; WO Нет\n2) VD1454 2025-12-24T12:56:42\nPower Нет; Посещение Нет; WO Нет\n3) VD1220 2025-12-24T11:43:53\nPower Нет; Посещение Нет; WO Нет\n4) VD0029 2025-12-24T12:05:30\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 18\nБазовый слой: 4/18\nВсего активных POWER на сети: 8\n",
-      "non_priority": "VLG Неприоритетные технологии 24.12.2025 13:42:\n\n",
-      "timestamp": "13:42:19",
+      "base_layer": "VLG Базовый слой 24.12.2025 13:48:\n\n1) VD1454 2025-12-24T12:56:42\nPower Нет; Посещение Нет; WO Нет\n2) VD1220 2025-12-24T11:43:53\nPower Нет; Посещение Нет; WO Нет\n3) VD0029 2025-12-24T12:05:30\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 15\nБазовый слой: 3/15\nВсего активных POWER на сети: 10\n",
+      "non_priority": "VLG Неприоритетные технологии 24.12.2025 13:48:\n\n",
+      "timestamp": "13:48:08",
       "stats": {
-        "total_bs": 18,
-        "base_layer_count": 4,
-        "power_problems": 8,
-        "non_priority_percentage": 78
+        "total_bs": 15,
+        "base_layer_count": 3,
+        "power_problems": 10,
+        "non_priority_percentage": 80
       },
       "is_real_data": true,
-      "collected_at": "2025-12-24T13:42:19.308311",
+      "collected_at": "2025-12-24T13:48:08.129759",
       "macroregion": "ЮГ"
     }
   },
   "_meta": {
-    "last_updated": "2025-12-24T13:42:19.609891",
+    "last_updated": "2025-12-24T13:48:08.432502",
     "total_regions": 76,
     "successful_regions": 76,
     "failed_regions": 0,
@@ -3355,6 +3963,6 @@
     "data_format": "v1.0",
     "source_db": "10.12.98.135",
     "proxy_used": "http://10.12.76.42:8080",
-    "history_entries": 76
+    "history_entries": 152
   }
 }
