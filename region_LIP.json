@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "LIP",
   "region_name": "Липецкая область",
-  "base_layer": "LIP Базовый слой 24.12.2025 16:14:\n\n1) LI0276 2025-12-20T15:48:13\nPower Да; Посещение Нет; WO Нет\n2) LI0259 2025-12-24T15:44:59\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "LIP Неприоритетные технологии 24.12.2025 16:14:\n\nНедоступно LTE1800:\n1) LI0276\n2) LI0259\nНедоступно 3G:\n1) LI0276\n2) LI0259\nНедоступно LTE800:\n1) LI0259\nНедоступно LTE2300:\n1) LI0916\n2) LI0148\n",
-  "timestamp": "16:14:34",
+  "base_layer": "LIP Базовый слой 24.12.2025 16:27:\n\n1) LI0276 2025-12-20T15:48:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "LIP Неприоритетные технологии 24.12.2025 16:27:\n\nНедоступно LTE1800:\n1) LI0276\nНедоступно 3G:\n1) LI0276\nНедоступно LTE2300:\n1) LI0916\n2) LI0148\n",
+  "timestamp": "16:27:07",
   "date": "2025-12-24",
-  "full_timestamp": "2025-12-24T16:14:34.703201",
+  "full_timestamp": "2025-12-24T16:27:07.673890",
   "stats": {
-    "total_bs": 5,
-    "base_layer_count": 2,
+    "total_bs": 4,
+    "base_layer_count": 1,
     "power_problems": 1,
-    "non_priority_percentage": 60,
-    "base_layer_percentage": 40
+    "non_priority_percentage": 75,
+    "base_layer_percentage": 25
   },
   "is_real_data": true,
-  "collected_at": "2025-12-24T16:14:34.703201",
+  "collected_at": "2025-12-24T16:27:07.673890",
   "macroregion": "Черноземье"
 }
