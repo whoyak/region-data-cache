@@ -4,106 +4,23 @@
   "history": [
     {
       "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416222",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 0,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247715",
-      "base_layer_percentage": 100
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 0,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498677",
-      "base_layer_percentage": 100
-    },
-    {
-      "region_code": "KLN",
+      "region_name": "Калининградская область",
+      "base_layer": "KLN Базовый слой 24.12.2025 15:53:\n\n1) KN1419 2025-12-24T10:11:30\nPower Нет; Посещение Да; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN2586; wo Есть;Время 2025-12-24 13:55:09\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно 3G:\n1) KN2586\nНедоступно LTE2600:\n1) KN2586\nНедоступно LTE2100:\n1) KN2586\n2) KN1419\n",
       "base_layer_count": 1,
       "total_bs_count": 2,
       "power_problems": 1,
       "non_priority_percentage": 50,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.154941",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983528",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.405936",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.411712",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082002",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484078",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "KLN",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 2,
-      "non_priority_percentage": 50,
-      "timestamp": "15:32:40",
-      "created_at": "2025-12-24T15:32:40.153331",
-      "base_layer_percentage": 50
+      "timestamp": "15:53:01",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:01.227312",
+      "created_at": "2025-12-24T15:53:19.286748",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 10,
-  "timestamp": "2025-12-24T15:32:40.154404",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384930",
   "error": null
 }
