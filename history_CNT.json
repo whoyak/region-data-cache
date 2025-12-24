@@ -4,106 +4,23 @@
   "history": [
     {
       "region_code": "CNT",
-      "base_layer_count": 11,
-      "total_bs_count": 23,
-      "power_problems": 8,
-      "non_priority_percentage": 53,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416137",
-      "base_layer_percentage": 47
-    },
-    {
-      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 24.12.2025 15:52:\n\n1) MS5463 2025-12-24T12:55:00\nPower Нет; Посещение Нет; WO Есть\n2) MS0820 2025-12-24T10:37:27\nPower Да; Посещение Нет; WO Нет\n3) MC4898 2025-12-23T20:46:48\nPower Да; Посещение Нет; WO Нет\n4) MC5935 2025-12-24T14:52:41\nPower Нет; Посещение Нет; WO Нет\n5) MC4188 2025-12-24T09:33:39\nPower Да; Посещение Да; WO Нет\n6) MC3583 2025-12-24T14:18:06\nPower Нет; Посещение Нет; WO Нет\n7) MC0561 2025-12-23T12:47:41\nPower Да; Посещение Нет; WO Нет\n8) MS4066 2025-12-24T04:36:42\nPower Нет; Посещение Да; WO Нет\n9) MS4497 2025-12-24T00:27:14\nPower Да; Посещение Нет; WO Нет\n10) MS0616 2025-12-24T13:38:14\nPower Да; Посещение Нет; WO Нет\n11) MS2830 2025-12-24T01:00:04\nPower Да; Посещение Нет; WO Нет\n12) MS2972 2025-12-24T00:05:48\nPower Да; Посещение Нет; WO Нет\n13) MC5764 2025-12-24T13:38:12\nPower Да; Посещение Нет; WO Нет\n14) MC1383 2025-12-24T13:38:28\nPower Нет; Посещение Нет; WO Нет\n\nВсего BS: 24\nБазовый слой: 14/24\nВсего активных POWER на сети: 6\n\n10 приоритет:\n- MS5463; wo Есть;Время 2025-12-24 10:17:38\n- MC5935; wo Нет;Время 2025-12-24 12:28:14\n- MC3583; wo Нет;Время 2025-12-24 12:39:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 24.12.2025 15:52:\n\nНедоступно 3G:\n1) MS5463\n2) MS0820\n3) MC4898\n4) MC5935\n5) MC4188\n6) MC3583\n7) MC0561\n8) MS4066\n9) MS4497\n10) MS0616\n11) MS2830\n12) MS2972\n13) MC5764\n14) MC1383\nНедоступно LTE800:\n1) MS5463\n2) MS0820\n3) MS4066\n4) MS0616\n5) MS2830\n6) MS2972\n7) MC5764\n8) MC1383\nНедоступно LTE2600:\n1) MS5463\n2) MS0820\n3) MC4898\n4) MC5935\n5) MC3583\n6) MS2602\n7) MS4066\n8) MS4497\n9) MS0182\n10) MS0616\n11) MS2830\n12) MS2972\n13) MC5764\n14) MC1383\nНедоступно LTE2100:\n1) MS5463\n2) MS0820\n3) MC4898\n4) MC5935\n5) MC3583\n6) MC0561\n7) MS4066\n8) MS4497\n9) MS0616\n10) MS2830\n11) MS2972\n12) MC5764\n13) MC1383\n",
       "base_layer_count": 14,
-      "total_bs_count": 26,
-      "power_problems": 8,
-      "non_priority_percentage": 47,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247663",
-      "base_layer_percentage": 53
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 14,
-      "total_bs_count": 26,
-      "power_problems": 8,
-      "non_priority_percentage": 47,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498605",
-      "base_layer_percentage": 53
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 14,
-      "total_bs_count": 29,
-      "power_problems": 8,
-      "non_priority_percentage": 52,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.154852",
-      "base_layer_percentage": 48
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 13,
-      "total_bs_count": 27,
-      "power_problems": 7,
-      "non_priority_percentage": 52,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983475",
-      "base_layer_percentage": 48
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 14,
-      "total_bs_count": 28,
-      "power_problems": 9,
-      "non_priority_percentage": 50,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.405577",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 14,
-      "total_bs_count": 28,
-      "power_problems": 9,
-      "non_priority_percentage": 50,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.411543",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 14,
-      "total_bs_count": 28,
-      "power_problems": 9,
-      "non_priority_percentage": 50,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.081676",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 14,
-      "total_bs_count": 27,
-      "power_problems": 7,
-      "non_priority_percentage": 49,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.483978",
-      "base_layer_percentage": 51
-    },
-    {
-      "region_code": "CNT",
-      "base_layer_count": 15,
-      "total_bs_count": 28,
-      "power_problems": 7,
-      "non_priority_percentage": 47,
-      "timestamp": "15:32:40",
-      "created_at": "2025-12-24T15:32:40.153144",
-      "base_layer_percentage": 53
+      "total_bs_count": 24,
+      "power_problems": 6,
+      "non_priority_percentage": 42,
+      "timestamp": "15:52:59",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:52:59.089605",
+      "created_at": "2025-12-24T15:53:19.286696",
+      "base_layer_percentage": 58,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 10,
-  "timestamp": "2025-12-24T15:32:40.154388",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384920",
   "error": null
 }
