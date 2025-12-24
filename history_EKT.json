@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "EKT",
-      "base_layer_count": 4,
-      "total_bs_count": 13,
-      "power_problems": 3,
-      "non_priority_percentage": 70,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416468",
-      "base_layer_percentage": 30
-    },
-    {
-      "region_code": "EKT",
-      "base_layer_count": 4,
-      "total_bs_count": 11,
-      "power_problems": 3,
-      "non_priority_percentage": 64,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247857",
-      "base_layer_percentage": 36
-    },
-    {
-      "region_code": "EKT",
-      "base_layer_count": 4,
-      "total_bs_count": 11,
-      "power_problems": 3,
-      "non_priority_percentage": 64,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498930",
-      "base_layer_percentage": 36
-    },
-    {
-      "region_code": "EKT",
-      "base_layer_count": 4,
-      "total_bs_count": 13,
-      "power_problems": 3,
-      "non_priority_percentage": 70,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155233",
-      "base_layer_percentage": 30
-    },
-    {
-      "region_code": "EKT",
+      "region_name": "Екатеринбург",
+      "base_layer": "EKT Базовый слой 24.12.2025 15:53:\n\n1) EK2232 2025-12-21T17:08:00\nPower Да; Посещение Нет; WO Есть\n2) EK2581 2025-12-21T16:25:30\nPower Нет; Посещение Нет; WO Есть\n3) EK2030 2025-12-24T10:36:09\nPower Да; Посещение Нет; WO Нет\n4) EK2485 2025-12-24T09:10:20\nPower Да; Посещение Да; WO Нет\n\nВсего BS: 14\nБазовый слой: 4/14\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- EK2581; wo Есть;Время 2025-12-21 15:47:42\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "EKT Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) EK2232\n2) EK2581\n3) EK2485\nНедоступно 3G:\n1) EK2232\n2) EK2345\n3) EK0715\n4) EK2485\nНедоступно LTE800:\n1) EK2232\n2) EK2778\nНедоступно LTE2600:\n1) EK2232\n2) EK0866\n3) EK1030\nНедоступно LTE2100:\n1) EK2232\n2) EK2485\nНедоступно LTE2300:\n1) EK2308\n2) EK2319\n3) EK0294\n",
       "base_layer_count": 4,
       "total_bs_count": 14,
-      "power_problems": 3,
+      "power_problems": 2,
       "non_priority_percentage": 72,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983687",
-      "base_layer_percentage": 28
-    },
-    {
-      "region_code": "EKT",
-      "base_layer_count": 4,
-      "total_bs_count": 13,
-      "power_problems": 2,
-      "non_priority_percentage": 70,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406252",
-      "base_layer_percentage": 30
-    },
-    {
-      "region_code": "EKT",
-      "base_layer_count": 4,
-      "total_bs_count": 13,
-      "power_problems": 0,
-      "non_priority_percentage": 70,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412227",
-      "base_layer_percentage": 30
-    },
-    {
-      "region_code": "EKT",
-      "base_layer_count": 4,
-      "total_bs_count": 13,
-      "power_problems": 2,
-      "non_priority_percentage": 70,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082322",
-      "base_layer_percentage": 30
-    },
-    {
-      "region_code": "EKT",
-      "base_layer_count": 5,
-      "total_bs_count": 15,
-      "power_problems": 2,
-      "non_priority_percentage": 67,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484380",
-      "base_layer_percentage": 33
+      "timestamp": "15:53:08",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:08.711787",
+      "created_at": "2025-12-24T15:53:19.286921",
+      "base_layer_percentage": 28,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.484986",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384964",
   "error": null
 }
