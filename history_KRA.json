@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "KRA",
-      "base_layer_count": 11,
-      "total_bs_count": 56,
-      "power_problems": 17,
-      "non_priority_percentage": 81,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416790",
-      "base_layer_percentage": 19
-    },
-    {
-      "region_code": "KRA",
-      "base_layer_count": 11,
-      "total_bs_count": 53,
-      "power_problems": 15,
-      "non_priority_percentage": 80,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.248048",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KRA",
-      "base_layer_count": 11,
-      "total_bs_count": 53,
-      "power_problems": 15,
-      "non_priority_percentage": 80,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499269",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KRA",
-      "base_layer_count": 11,
-      "total_bs_count": 50,
-      "power_problems": 14,
-      "non_priority_percentage": 78,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155632",
-      "base_layer_percentage": 22
-    },
-    {
-      "region_code": "KRA",
-      "base_layer_count": 14,
-      "total_bs_count": 52,
-      "power_problems": 13,
-      "non_priority_percentage": 74,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.985503",
-      "base_layer_percentage": 26
-    },
-    {
-      "region_code": "KRA",
+      "region_name": "Краснодарский край",
+      "base_layer": "KRA Базовый слой 24.12.2025 15:53:\n\n1) KD1980 2025-12-21T15:49:20\nPower Да; Посещение Нет; WO Нет\n2) KR2763 2025-12-24T13:33:43\nPower Да; Посещение Да; WO Нет\n3) KD0070 2025-12-01T03:20:54\nPower Да; Посещение Нет; WO Есть\n4) KD0436 2025-12-12T16:37:00\nPower Нет; Посещение Нет; WO Нет\n5) KD1729 2025-12-24T15:33:24\nPower Нет; Посещение Да; WO Есть\n6) KD0866 2025-12-24T14:55:53\nPower Да; Посещение Нет; WO Нет\n7) KR0900 2025-12-23T08:42:55\nPower Да; Посещение Нет; WO Нет\n8) KR1267 2025-12-24T15:24:50\nPower Да; Посещение Нет; WO Нет\n9) KR0371 2025-12-24T13:25:25\nPower Да; Посещение Нет; WO Нет\n10) KR2812 2025-12-24T15:00:39\nPower Нет; Посещение Да; WO Есть\n\nВсего BS: 42\nБазовый слой: 10/42\nВсего активных POWER на сети: 6\n\n10 приоритет:\n- KD1520; wo Нет;Время 2025-12-24 13:12:40\n\n9 приоритет:\n- KR0842; wo Нет;Время 2025-12-24 11:49:36\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRA Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) KD1980\n2) KR2763\n3) KD0070\n4) KD0436\n5) KD1729\n6) KD0866\n7) KR0900\n8) KR1267\n9) KR0371\n10) KR2812\nНедоступно 3G:\n1) KD1520\n2) KR1339\n3) KD1980\n4) KR0842\n5) KR2305\n6) KR2763\n7) KD0070\n8) KD0436\n9) KR0600\n10) KR0900\n11) KR1267\n12) KR0371\nНедоступно LTE800:\n1) KR1339\nНедоступно LTE2600:\n1) KR2812\nНедоступно LTE2100:\n1) KD1980\n2) KR2763\n3) KD0070\n4) KD0436\n5) KR0600\n6) KD0866\n7) KR0900\n8) KR0371\n9) KR2812\n",
       "base_layer_count": 10,
-      "total_bs_count": 49,
-      "power_problems": 14,
-      "non_priority_percentage": 80,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406658",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KRA",
-      "base_layer_count": 10,
-      "total_bs_count": 49,
-      "power_problems": 11,
-      "non_priority_percentage": 80,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412947",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KRA",
-      "base_layer_count": 10,
-      "total_bs_count": 49,
-      "power_problems": 10,
-      "non_priority_percentage": 80,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082711",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KRA",
-      "base_layer_count": 11,
-      "total_bs_count": 45,
-      "power_problems": 11,
-      "non_priority_percentage": 76,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484776",
-      "base_layer_percentage": 24
+      "total_bs_count": 42,
+      "power_problems": 6,
+      "non_priority_percentage": 77,
+      "timestamp": "15:53:18",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:18.168738",
+      "created_at": "2025-12-24T15:53:19.287153",
+      "base_layer_percentage": 23,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485054",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.385011",
   "error": null
 }
