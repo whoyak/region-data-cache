@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "KLG",
-      "base_layer_count": 3,
-      "total_bs_count": 81,
-      "power_problems": 1,
-      "non_priority_percentage": 97,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416582",
-      "base_layer_percentage": 3
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 3,
-      "total_bs_count": 81,
-      "power_problems": 1,
-      "non_priority_percentage": 97,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247928",
-      "base_layer_percentage": 3
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 3,
-      "total_bs_count": 81,
-      "power_problems": 1,
-      "non_priority_percentage": 97,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499051",
-      "base_layer_percentage": 3
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 2,
-      "total_bs_count": 80,
-      "power_problems": 1,
-      "non_priority_percentage": 98,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155371",
-      "base_layer_percentage": 2
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 2,
-      "total_bs_count": 79,
-      "power_problems": 1,
-      "non_priority_percentage": 98,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984279",
-      "base_layer_percentage": 2
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 2,
+      "region_name": "Калужская область",
+      "base_layer": "KLG Базовый слой 24.12.2025 15:53:\n\n1) KL0309 2025-12-24T15:35:11\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 78\nБазовый слой: 1/78\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLG Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) KL0309\nНедоступно 3G:\n1) KL0224\nНедоступно LTE2300:\n1) KL0119\n2) KL0191\n3) KL0514\n4) KL0012\n5) KL0188\n6) KL0484\n7) KL0582\n8) KL0661\n9) KL0568\n10) KL0216\n11) KL0523\n12) KL0542\n13) KL0055\n14) KL0632\n15) KL0041\n16) KL0711\n17) KL0522\n18) KL0515\n19) KL0165\n20) KL0431\n21) KL0075\n22) KL0169\n23) KL0074\n24) KL0735\n25) KL0336\n26) KL0627\n27) KL0028\n28) KL0253\n29) KL0733\n30) KL0312\n31) KL0290\n32) KL0571\n33) KL0628\n34) KL0600\n35) KL0566\n36) KL0560\n37) KL0096\n38) KL0612\n39) KL0405\n40) KL0071\n41) KL0403\n42) KL0381\n43) KL0425\n44) KL0463\n45) KL0605\n46) KL0447\n47) KL0036\n48) KL0503\n49) KL0583\n50) KL0505\n51) KL0442\n52) KL0265\n53) KL0417\n54) KL0145\n55) KL0352\n56) KL0691\n57) KL0513\n58) KL0324\n59) KL0014\n60) KL0026\n61) KL0720\n62) KL0580\n63) KL0432\n64) KL0574\n65) KL0069\n66) KL0204\n",
+      "base_layer_count": 1,
       "total_bs_count": 78,
       "power_problems": 0,
-      "non_priority_percentage": 98,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406396",
-      "base_layer_percentage": 2
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 2,
-      "total_bs_count": 78,
-      "power_problems": 0,
-      "non_priority_percentage": 98,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412473",
-      "base_layer_percentage": 2
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 2,
-      "total_bs_count": 78,
-      "power_problems": 0,
-      "non_priority_percentage": 98,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082463",
-      "base_layer_percentage": 2
-    },
-    {
-      "region_code": "KLG",
-      "base_layer_count": 2,
-      "total_bs_count": 78,
-      "power_problems": 0,
-      "non_priority_percentage": 98,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484520",
-      "base_layer_percentage": 2
+      "non_priority_percentage": 99,
+      "timestamp": "15:53:12",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:12.070735",
+      "created_at": "2025-12-24T15:53:19.287004",
+      "base_layer_percentage": 1,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485011",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384980",
   "error": null
 }
