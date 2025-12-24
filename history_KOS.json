@@ -4,96 +4,23 @@
   "history": [
     {
       "region_code": "KOS",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 80,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416593",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KOS",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 80,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247935",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KOS",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 80,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.499064",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KOS",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 80,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155385",
-      "base_layer_percentage": 20
-    },
-    {
-      "region_code": "KOS",
-      "base_layer_count": 2,
-      "total_bs_count": 7,
-      "power_problems": 0,
-      "non_priority_percentage": 72,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.984288",
-      "base_layer_percentage": 28
-    },
-    {
-      "region_code": "KOS",
-      "base_layer_count": 2,
-      "total_bs_count": 7,
-      "power_problems": 1,
-      "non_priority_percentage": 72,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406411",
-      "base_layer_percentage": 28
-    },
-    {
-      "region_code": "KOS",
-      "base_layer_count": 2,
-      "total_bs_count": 7,
-      "power_problems": 1,
-      "non_priority_percentage": 72,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.412498",
-      "base_layer_percentage": 28
-    },
-    {
-      "region_code": "KOS",
-      "base_layer_count": 2,
-      "total_bs_count": 7,
-      "power_problems": 0,
-      "non_priority_percentage": 72,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082478",
-      "base_layer_percentage": 28
-    },
-    {
-      "region_code": "KOS",
+      "region_name": "Костромская область",
+      "base_layer": "KOS Базовый слой 24.12.2025 15:53:\n\n1) KS0154 2025-12-24T14:12:50\nPower Да; Посещение Нет; WO Есть\n2) KS0625 2025-12-24T14:12:50\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 6\nБазовый слой: 2/6\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) KS0154\n2) KS0625\nНедоступно 3G:\n1) KS0154\n2) KS0625\nНедоступно LTE2300:\n1) KS0015\n2) KS0151\n3) KS0070\n4) KS0145\n",
       "base_layer_count": 2,
       "total_bs_count": 6,
       "power_problems": 0,
       "non_priority_percentage": 67,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484534",
-      "base_layer_percentage": 33
+      "timestamp": "15:53:12",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:12.403772",
+      "created_at": "2025-12-24T15:53:19.287012",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 9,
-  "timestamp": "2025-12-24T15:20:03.485013",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384981",
   "error": null
 }
