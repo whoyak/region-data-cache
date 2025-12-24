@@ -4,106 +4,23 @@
   "history": [
     {
       "region_code": "SWS",
-      "base_layer_count": 8,
-      "total_bs_count": 75,
-      "power_problems": 2,
-      "non_priority_percentage": 90,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416196",
-      "base_layer_percentage": 10
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 10,
-      "total_bs_count": 79,
-      "power_problems": 2,
-      "non_priority_percentage": 88,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247692",
-      "base_layer_percentage": 12
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 10,
-      "total_bs_count": 79,
-      "power_problems": 2,
-      "non_priority_percentage": 88,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498653",
-      "base_layer_percentage": 12
-    },
-    {
-      "region_code": "SWS",
+      "region_name": "Юго-Западный округ Москвы",
+      "base_layer": "SWS Базовый слой 24.12.2025 15:53:\n\n1) MR5359 2025-12-21T21:04:51\nPower Да; Посещение Да; WO Есть\n2) MC4985 2025-12-21T17:13:58\nPower Да; Посещение Да; WO Есть\n3) MO5114 2025-12-23T13:57:47\nPower Нет; Посещение Нет; WO Нет\n4) MS5672 2025-12-24T15:08:44\nPower Да; Посещение Нет; WO Нет\n5) MS6425 2025-12-24T15:08:40\nPower Да; Посещение Нет; WO Нет\n6) MR5741 2025-12-24T00:32:19\nPower Да; Посещение Да; WO Нет\n7) MS1142 2025-12-24T08:46:34\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 88\nБазовый слой: 7/88\nВсего активных POWER на сети: 10\n\n10 приоритет:\n- MO5114; wo Нет;Время 2025-12-23 13:01:43\n- MC5241; wo Нет;Время 2025-12-24 14:44:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SWS Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно 3G:\n1) MR5359\n2) MO5114\n3) MS5672\n4) MS6425\n5) MR5741\n6) MS1142\nНедоступно LTE800:\n1) MR5280\n2) MS6538\n3) MR5199\n4) MR5741\nНедоступно LTE2600:\n1) MR5359\n2) MO0390\n3) MO0116\n4) MC4985\n5) MS0972\n6) MS5923\n7) MS1211\n8) MS6538\n9) MS5672\n10) MS6425\n11) MC5241\n12) MC0548\n13) MR5741\n14) MR0103\n15) MS3235\n16) MS1142\nНедоступно LTE2100:\n1) MC4985\n2) MS1142\n",
       "base_layer_count": 7,
-      "total_bs_count": 82,
-      "power_problems": 2,
-      "non_priority_percentage": 92,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.154912",
-      "base_layer_percentage": 8
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 7,
-      "total_bs_count": 77,
-      "power_problems": 3,
-      "non_priority_percentage": 91,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983512",
-      "base_layer_percentage": 9
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 8,
-      "total_bs_count": 78,
-      "power_problems": 3,
-      "non_priority_percentage": 90,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.405905",
-      "base_layer_percentage": 10
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 8,
-      "total_bs_count": 78,
-      "power_problems": 3,
-      "non_priority_percentage": 90,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.411660",
-      "base_layer_percentage": 10
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 8,
-      "total_bs_count": 78,
-      "power_problems": 3,
-      "non_priority_percentage": 90,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.081971",
-      "base_layer_percentage": 10
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 10,
-      "total_bs_count": 83,
-      "power_problems": 6,
-      "non_priority_percentage": 88,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484049",
-      "base_layer_percentage": 12
-    },
-    {
-      "region_code": "SWS",
-      "base_layer_count": 12,
-      "total_bs_count": 87,
-      "power_problems": 8,
-      "non_priority_percentage": 87,
-      "timestamp": "15:32:40",
-      "created_at": "2025-12-24T15:32:40.153265",
-      "base_layer_percentage": 13
+      "total_bs_count": 88,
+      "power_problems": 10,
+      "non_priority_percentage": 93,
+      "timestamp": "15:53:00",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:00.549371",
+      "created_at": "2025-12-24T15:53:19.286730",
+      "base_layer_percentage": 7,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 10,
-  "timestamp": "2025-12-24T15:32:40.154399",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384927",
   "error": null
 }
