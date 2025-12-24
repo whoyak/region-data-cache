@@ -4,106 +4,23 @@
   "history": [
     {
       "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.415915",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "KHB",
+      "region_name": "Хабаровский край",
+      "base_layer": "KHB Базовый слой 24.12.2025 15:52:\n\n1) HB1016 2025-12-24T09:58:33\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 4\nБазовый слой: 1/4\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KHB Неприоритетные технологии 24.12.2025 15:52:\n\nНедоступно LTE1800:\n1) HB1016\nНедоступно LTE2300:\n1) HB0005\n2) HB0778\n",
       "base_layer_count": 1,
       "total_bs_count": 4,
       "power_problems": 0,
       "non_priority_percentage": 75,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247556",
-      "base_layer_percentage": 25
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 75,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498418",
-      "base_layer_percentage": 25
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.154604",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983362",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.405351",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.410220",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.081455",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.483739",
-      "base_layer_percentage": 33
-    },
-    {
-      "region_code": "KHB",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "15:32:40",
-      "created_at": "2025-12-24T15:32:40.152910",
-      "base_layer_percentage": 33
+      "timestamp": "15:52:54",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:52:54.104830",
+      "created_at": "2025-12-24T15:53:19.286566",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 10,
-  "timestamp": "2025-12-24T15:32:40.154352",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384896",
   "error": null
 }
