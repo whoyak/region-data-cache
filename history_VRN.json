@@ -120,9 +120,26 @@
       "base_layer_percentage": 23,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "VRN",
+      "region_name": "Воронежская область",
+      "base_layer": "VRN Базовый слой 24.12.2025 17:18:\n\n1) VO1712 2025-12-21T16:57:05\nPower Да; Посещение Нет; WO Нет\n2) VO0101 2025-12-19T09:11:13\nPower Да; Посещение Нет; WO Нет\n3) VO1960 2025-12-24T13:07:29\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- VO0383; wo Есть;Время 2025-12-24 16:20:16\n\n10 приоритет:\n- VO2037; wo Есть;Время 2025-12-24 13:42:57\n- VO1960; wo Нет;Время 2025-12-24 13:06:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VRN Неприоритетные технологии 24.12.2025 17:18:\n\nНедоступно LTE1800:\n1) VO0101\n2) VO1960\nНедоступно 3G:\n1) VO2037\n2) VO0420\nНедоступно LTE800:\n1) VO1712\n2) VO0383\n3) VO2037\nНедоступно LTE2100:\n1) VO2037\nНедоступно LTE2300:\n1) VO0101\n2) VO1973\n3) VO0161\n4) VO1974\n5) VO0106\n6) VO0839\n7) VO0162\n8) VO1960\n9) VO1948\n10) VO0355\n11) VO0403\n",
+      "base_layer_count": 3,
+      "total_bs_count": 20,
+      "power_problems": 3,
+      "non_priority_percentage": 85,
+      "timestamp": "17:18:02",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T17:18:02.686879",
+      "created_at": "2025-12-24T17:18:04.161666",
+      "base_layer_percentage": 15,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 7,
-  "timestamp": "2025-12-24T17:05:21.843119",
+  "count": 8,
+  "timestamp": "2025-12-24T17:18:09.219517",
   "error": null
 }
