@@ -4,106 +4,23 @@
   "history": [
     {
       "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416320",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247771",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498772",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 34,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155056",
-      "base_layer_percentage": 66
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 34,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983599",
-      "base_layer_percentage": 66
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406057",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.411912",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082135",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPW",
+      "region_name": "Санкт-Петербург Запад",
+      "base_layer": "SPW Базовый слой 24.12.2025 15:53:\n\n1) SP0801 2025-12-24T14:49:59\nPower Да; Посещение Нет; WO Есть\n2) SP1726 2025-11-25T17:33:51\nPower Да; Посещение Нет; WO Нет\n3) LE0102 2025-12-24T13:44:25\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 4\nБазовый слой: 3/4\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPW Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) SP0801\n2) SP1726\nНедоступно 3G:\n1) SP0801\n2) SP1726\nНедоступно LTE800:\n1) SP1726\nНедоступно LTE2100:\n1) SP0801\n2) SP1726\nНедоступно LTE2300:\n1) LE1433\n",
       "base_layer_count": 3,
       "total_bs_count": 4,
       "power_problems": 0,
       "non_priority_percentage": 25,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484190",
-      "base_layer_percentage": 75
-    },
-    {
-      "region_code": "SPW",
-      "base_layer_count": 3,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 25,
-      "timestamp": "15:32:40",
-      "created_at": "2025-12-24T15:32:40.153575",
-      "base_layer_percentage": 75
+      "timestamp": "15:53:03",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:03.975834",
+      "created_at": "2025-12-24T15:53:19.286815",
+      "base_layer_percentage": 75,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 10,
-  "timestamp": "2025-12-24T15:32:40.154424",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384942",
   "error": null
 }
