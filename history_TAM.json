@@ -273,9 +273,26 @@
       "base_layer_percentage": 12,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "TAM",
+      "region_name": "Тамбовская область",
+      "base_layer": "TAM Базовый слой 24.12.2025 19:16:\n\n1) TM0214 2025-12-24T18:12:02\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TM0214; wo Есть;Время 2025-12-24 15:03:23\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 24.12.2025 19:16:\n\nНедоступно LTE1800:\n1) TM0214\nНедоступно 3G:\n1) TM0214\nНедоступно LTE800:\n1) TM0214\nНедоступно LTE2300:\n1) TM0949\n",
+      "base_layer_count": 1,
+      "total_bs_count": 8,
+      "power_problems": 1,
+      "non_priority_percentage": 88,
+      "timestamp": "19:16:58",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T19:16:58.636808",
+      "created_at": "2025-12-24T19:17:00.891367",
+      "base_layer_percentage": 12,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 16,
-  "timestamp": "2025-12-24T19:04:05.198159",
+  "count": 17,
+  "timestamp": "2025-12-24T19:17:05.155296",
   "error": null
 }
