@@ -4,106 +4,23 @@
   "history": [
     {
       "region_code": "SPE",
-      "base_layer_count": 5,
-      "total_bs_count": 9,
-      "power_problems": 1,
-      "non_priority_percentage": 45,
-      "timestamp": "13:56:49",
-      "created_at": "2025-12-24T13:56:49.416286",
-      "base_layer_percentage": 55
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 5,
-      "total_bs_count": 8,
-      "power_problems": 1,
-      "non_priority_percentage": 38,
-      "timestamp": "14:07:32",
-      "created_at": "2025-12-24T14:07:32.247749",
-      "base_layer_percentage": 62
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 5,
-      "total_bs_count": 8,
-      "power_problems": 1,
-      "non_priority_percentage": 38,
-      "timestamp": "14:16:57",
-      "created_at": "2025-12-24T14:16:57.498736",
-      "base_layer_percentage": 62
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 5,
-      "total_bs_count": 7,
-      "power_problems": 1,
-      "non_priority_percentage": 29,
-      "timestamp": "14:29:48",
-      "created_at": "2025-12-24T14:29:48.155014",
-      "base_layer_percentage": 71
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 4,
-      "total_bs_count": 8,
-      "power_problems": 2,
-      "non_priority_percentage": 50,
-      "timestamp": "14:42:11",
-      "created_at": "2025-12-24T14:42:11.983563",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPE",
+      "region_name": "Санкт-Петербург Восток",
+      "base_layer": "SPE Базовый слой 24.12.2025 15:53:\n\n1) SP0375 2025-12-10T18:02:19\nPower Нет; Посещение Нет; WO Есть\n2) SC0801 2025-12-24T14:51:18\nPower Да; Посещение Да; WO Есть\n3) SP1094 2025-12-24T11:42:18\nPower Да; Посещение Нет; WO Есть\n\nВсего BS: 5\nБазовый слой: 3/5\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPE Неприоритетные технологии 24.12.2025 15:53:\n\nНедоступно LTE1800:\n1) SP0375\n2) SC0801\n3) SP1094\nНедоступно 3G:\n1) SP0375\n2) SP1094\nНедоступно LTE800:\n1) SP0375\n2) SC0801\n3) SP1094\nНедоступно LTE2600:\n1) SP0375\n2) SP1094\nНедоступно LTE2100:\n1) SP0375\n2) SP1094\nНедоступно LTE2300:\n1) SP0375\n2) LE1191\n3) SP1094\n",
       "base_layer_count": 3,
       "total_bs_count": 5,
       "power_problems": 0,
       "non_priority_percentage": 40,
-      "timestamp": "14:54:45",
-      "created_at": "2025-12-24T14:54:45.406008",
-      "base_layer_percentage": 60
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 3,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 40,
-      "timestamp": "15:00:54",
-      "created_at": "2025-12-24T15:00:54.411837",
-      "base_layer_percentage": 60
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 3,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 40,
-      "timestamp": "15:07:30",
-      "created_at": "2025-12-24T15:07:30.082080",
-      "base_layer_percentage": 60
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 4,
-      "total_bs_count": 8,
-      "power_problems": 3,
-      "non_priority_percentage": 50,
-      "timestamp": "15:20:03",
-      "created_at": "2025-12-24T15:20:03.484148",
-      "base_layer_percentage": 50
-    },
-    {
-      "region_code": "SPE",
-      "base_layer_count": 3,
-      "total_bs_count": 6,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "15:32:40",
-      "created_at": "2025-12-24T15:32:40.153476",
-      "base_layer_percentage": 50
+      "timestamp": "15:53:02",
+      "date": "2025-12-24",
+      "full_timestamp": "2025-12-24T15:53:02.954146",
+      "created_at": "2025-12-24T15:53:19.286789",
+      "base_layer_percentage": 60,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 10,
-  "timestamp": "2025-12-24T15:32:40.154416",
+  "count": 1,
+  "timestamp": "2025-12-24T15:53:21.384938",
   "error": null
 }
