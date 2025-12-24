@@ -14,7 +14,34 @@
     },
     "is_real_data": true,
     "collected_at": "2025-12-24T13:29:14.643959",
-    "macroregion": "Байкал и Дальний Восток"
+    "macroregion": "Байкал и Дальний Восток",
+    "history": [
+      {
+        "timestamp": "2025-12-24T13:39:54.680795",
+        "total_bs_count": 2,
+        "base_layer_count": 1,
+        "base_layer_percentage": 50,
+        "power_problems": 0,
+        "non_priority_percentage": 50
+      }
+    ],
+    "current": {
+      "success": true,
+      "region_code": "BRT",
+      "region_name": "Бурятия",
+      "base_layer": "BRT Базовый слой 24.12.2025 13:39:\n\n1) ZB1572 2025-12-21T17:10:10\nPower Да; Посещение Нет; WO Нет\n\nВсего BS: 2\nБазовый слой: 1/2\nВсего активных POWER на сети: 0\n",
+      "non_priority": "BRT Неприоритетные технологии 24.12.2025 13:39:\n\n",
+      "timestamp": "13:39:53",
+      "stats": {
+        "total_bs": 2,
+        "base_layer_count": 1,
+        "power_problems": 0,
+        "non_priority_percentage": 50
+      },
+      "is_real_data": true,
+      "collected_at": "2025-12-24T13:39:53.828310",
+      "macroregion": "Байкал и Дальний Восток"
+    }
   },
   "IRK": {
     "success": true,
@@ -31,7 +58,34 @@
     },
     "is_real_data": true,
     "collected_at": "2025-12-24T13:29:15.285573",
-    "macroregion": "Байкал и Дальний Восток"
+    "macroregion": "Байкал и Дальний Восток",
+    "history": [
+      {
+        "timestamp": "2025-12-24T13:39:54.680830",
+        "total_bs_count": 53,
+        "base_layer_count": 7,
+        "base_layer_percentage": 13,
+        "power_problems": 3,
+        "non_priority_percentage": 87
+      }
+    ],
+    "current": {
+      "success": true,
+      "region_code": "IRK",
+      "region_name": "Иркутская область",
+      "base_layer": "IRK Базовый слой 24.12.2025 13:39:\n\n1) IR2248 2025-12-24T09:10:56\nPower Да; Посещение Да; WO Есть\n2) YA1055 2025-12-24T11:40:39\nPower Да; Посещение Нет; WO Есть\n3) YA2326 2025-12-21T09:28:10\nPower Да; Посещение Нет; WO Нет\n4) IR0256 2025-12-24T12:24:59\nPower Нет; Посещение Нет; WO Нет\n5) IR0351 2025-12-24T12:33:21\nPower Да; Посещение Нет; WO Нет\n6) YA0760 2025-12-19T09:40:31\nPower Да; Посещение Нет; WO Нет\n7) IR1795 2025-12-24T12:46:24\nPower Нет; Посещение Нет; WO Есть\n\nВсего BS: 53\nБазовый слой: 7/53\nВсего активных POWER на сети: 3\n",
+      "non_priority": "IRK Неприоритетные технологии 24.12.2025 13:39:\n\n",
+      "timestamp": "13:39:54",
+      "stats": {
+        "total_bs": 53,
+        "base_layer_count": 7,
+        "power_problems": 3,
+        "non_priority_percentage": 87
+      },
+      "is_real_data": true,
+      "collected_at": "2025-12-24T13:39:54.377826",
+      "macroregion": "Байкал и Дальний Восток"
+    }
   },
   "KAM": {
     "success": true,
@@ -1292,8 +1346,8 @@
     "macroregion": "ЮГ"
   },
   "_meta": {
-    "last_updated": "2025-12-24T13:30:04.293768",
-    "total_regions": 76,
+    "last_updated": "2025-12-24T13:39:54.680787",
+    "total_regions": 2,
     "successful_regions": 76,
     "failed_regions": 0,
     "success_rate": "76/76",
@@ -1302,6 +1356,7 @@
     "next_update_recommended": "10 minutes",
     "data_format": "v1.0",
     "source_db": "10.12.98.135",
-    "proxy_used": "http://10.12.76.42:8080"
+    "proxy_used": "http://10.12.76.42:8080",
+    "history_entries": 2
   }
 }
