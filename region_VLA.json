@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "VLA",
   "region_name": "Владимирская область",
-  "base_layer": "VLA Базовый слой 25.12.2025 14:03:\n\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- VL0515; wo Есть;Время 2025-12-25 10:21:54\n\n10 приоритет:\n- VL0464; wo Нет;Время 2025-12-21 16:16:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "VLA Неприоритетные технологии 25.12.2025 14:03:\n\nНедоступно 3G:\n1) VL0535\n2) VL0515\n3) VL0409\n4) VL0464\nНедоступно LTE800:\n1) VL0187\n2) VL0464\nНедоступно LTE2600:\n1) VL0535\nНедоступно LTE2300:\n1) VL0530\n2) VL0187\n3) VL0188\n4) VL0559\n5) VL0943\n6) VL0937\n7) VL0037\n8) VL0045\n",
-  "timestamp": "14:03:55",
+  "base_layer": "VLA Базовый слой 25.12.2025 14:13:\n\n1) VL0409 2025-12-25T13:58:12\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VL0464; wo Нет;Время 2025-12-21 16:16:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "VLA Неприоритетные технологии 25.12.2025 14:13:\n\nНедоступно LTE1800:\n1) VL0409\nНедоступно 3G:\n1) VL0409\n2) VL0464\nНедоступно LTE800:\n1) VL0409\n2) VL0187\n3) VL0464\nНедоступно LTE2300:\n1) VL0409\n2) VL0530\n3) VL0187\n4) VL0188\n5) VL0559\n6) VL0943\n7) VL0937\n8) VL0037\n9) VL0045\n",
+  "timestamp": "14:13:30",
   "date": "2025-12-25",
-  "full_timestamp": "2025-12-25T14:03:55.246939",
+  "full_timestamp": "2025-12-25T14:13:30.123345",
   "stats": {
-    "total_bs": 12,
-    "base_layer_count": 0,
-    "power_problems": 3,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "total_bs": 11,
+    "base_layer_count": 1,
+    "power_problems": 2,
+    "non_priority_percentage": 91,
+    "base_layer_percentage": 9
   },
   "is_real_data": true,
-  "collected_at": "2025-12-25T14:03:55.246939",
+  "collected_at": "2025-12-25T14:13:30.123345",
   "macroregion": "Центр"
 }
