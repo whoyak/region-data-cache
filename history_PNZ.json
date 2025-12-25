@@ -1344,9 +1344,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "PNZ",
+      "region_name": "Пензенская область",
+      "base_layer": "PNZ Базовый слой 25.12.2025 08:51:\n\n1) PN0942 2025-12-23T11:02:37\nPower Да; Посещение Нет; WO Есть\n2) PN0895 2025-12-23T10:40:37\nPower Да; Посещение Нет; WO Есть\n3) PN0364 2025-12-25T08:06:35\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 25.12.2025 08:51:\n\nНедоступно LTE1800:\n1) PN0895\nНедоступно 3G:\n1) PN0942\n2) PN0895\nНедоступно LTE800:\n1) PN0895\n2) PN0364\nНедоступно LTE2100:\n1) PN0942\n2) PN0895\n",
+      "base_layer_count": 3,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 0,
+      "timestamp": "08:51:16",
+      "date": "2025-12-25",
+      "full_timestamp": "2025-12-25T08:51:16.764897",
+      "created_at": "2025-12-25T08:51:19.758520",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 79,
-  "timestamp": "2025-12-25T08:38:04.607726",
+  "count": 80,
+  "timestamp": "2025-12-25T08:51:25.765465",
   "error": null
 }
