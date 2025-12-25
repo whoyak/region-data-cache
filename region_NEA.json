@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NEA",
   "region_name": "Северо-Восточный округ Москвы",
-  "base_layer": "NEA Базовый слой 26.12.2025 02:13:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NEA Неприоритетные технологии 26.12.2025 02:13:\n\n",
-  "timestamp": "02:13:16",
+  "base_layer": "NEA Базовый слой 26.12.2025 02:26:\n\n1) MC3591 2025-12-26T01:04:34\nPower Да; Посещение Нет; WO Нет\n2) MO4523 2025-12-26T00:38:54\nPower Да; Посещение Да; WO Нет\n3) MR4399 2025-12-26T00:25:23\nPower Да; Посещение Да; WO Нет\n4) MR0777 2025-12-26T00:11:17\nPower Да; Посещение Нет; WO Нет\n5) MO5257 2025-12-26T00:42:16\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- MS3022; wo Нет;Время 2025-12-25 23:12:02\n\n10 приоритет:\n- MR6270; wo Нет;Время 2025-12-26 01:19:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NEA Неприоритетные технологии 26.12.2025 02:26:\n\nНедоступно 3G:\n1) MC3591\n2) MO4523\n3) MR4399\n4) MR0777\n5) MO5257\nНедоступно LTE800:\n1) MS3022\n2) MR6270\nНедоступно LTE2600:\n1) MC3591\n2) MS3022\n3) MO4342\n4) MO4523\n5) MR6270\n6) MR4399\n7) MO5257\nНедоступно LTE2100:\n1) MC3591\n2) MO4523\n3) MR4399\n4) MO5257\n",
+  "timestamp": "02:26:56",
   "date": "2025-12-26",
-  "full_timestamp": "2025-12-26T02:13:16.073092",
+  "full_timestamp": "2025-12-26T02:26:56.369954",
   "stats": {
-    "total_bs": 0,
-    "base_layer_count": 0,
-    "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "total_bs": 36,
+    "base_layer_count": 5,
+    "power_problems": 2,
+    "non_priority_percentage": 87,
+    "base_layer_percentage": 13
   },
   "is_real_data": true,
-  "collected_at": "2025-12-26T02:13:16.073092",
+  "collected_at": "2025-12-26T02:26:56.369954",
   "macroregion": "Москва"
 }
