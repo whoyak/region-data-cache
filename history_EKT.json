@@ -2160,9 +2160,26 @@
       "base_layer_percentage": 47,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "EKT",
+      "region_name": "Екатеринбург",
+      "base_layer": "EKT Базовый слой 25.12.2025 19:00:\n\n1) EK0051 2025-12-25T16:01:30\nPower Да; Посещение Нет; WO Есть\n2) EK0695 2025-12-25T15:31:20\nPower Да; Посещение Нет; WO Есть\n3) EK0688 2025-12-25T16:43:20\nPower Да; Посещение Нет; WO Есть\n4) EK2483 2025-12-25T13:48:50\nPower Да; Посещение Да; WO Есть\n5) EK2177 2025-12-25T09:21:48\nPower Да; Посещение Нет; WO Есть\n6) EK0694 2025-12-25T04:45:25\nPower Да; Посещение Нет; WO Есть\n7) EK0322 2025-12-25T18:19:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "EKT Неприоритетные технологии 25.12.2025 19:00:\n\nНедоступно LTE1800:\n1) EK0695\n2) EK0688\n3) EK2483\n4) EK2177\n5) EK0694\nНедоступно 3G:\n1) EK2345\n2) EK0688\n3) EK2535\n4) EK2485\nНедоступно LTE800:\n1) EK0688\n2) EK2483\n3) EK2778\n4) EK2177\n5) EK2627\nНедоступно LTE2600:\n1) EK1030\n2) EK0688\n3) EK0866\nНедоступно LTE2100:\n1) EK2535\n2) EK2485\nНедоступно LTE2300:\n1) EK2177\n2) EK0294\n3) EK1447\n4) EK2308\n5) EK0620\n",
+      "base_layer_count": 7,
+      "total_bs_count": 20,
+      "power_problems": 2,
+      "non_priority_percentage": 65,
+      "timestamp": "19:00:25",
+      "date": "2025-12-25",
+      "full_timestamp": "2025-12-25T19:00:25.294150",
+      "created_at": "2025-12-25T19:00:35.900817",
+      "base_layer_percentage": 35,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 127,
-  "timestamp": "2025-12-25T18:48:50.243311",
+  "count": 128,
+  "timestamp": "2025-12-25T19:00:42.049340",
   "error": null
 }
