@@ -1208,9 +1208,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "BRT",
+      "region_name": "Бурятия",
+      "base_layer": "BRT Базовый слой 25.12.2025 07:00:\n\n1) BU0762 2025-12-25T04:50:14\nPower Нет; Посещение Нет; WO Нет\n2) ZB1572 2025-12-21T17:10:10\nPower Да; Посещение Нет; WO Нет\n3) BU0159 2025-12-25T04:44:32\nPower Нет; Посещение Да; WO Нет\n4) BU0114 2025-12-25T03:49:17\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- BU0762; wo Нет;Время 2025-12-24 11:53:33\n- BU0159; wo Нет;Время 2025-12-25 03:19:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRT Неприоритетные технологии 25.12.2025 07:00:\n\nНедоступно LTE1800:\n1) BU0762\n2) BU0159\n3) BU0114\nНедоступно 3G:\n1) BU0159\n2) BU0114\nНедоступно LTE2600:\n1) BU0159\nНедоступно LTE2100:\n1) BU0159\n2) BU0114\nНедоступно LTE2300:\n1) BU0762\n2) BU0159\n",
+      "base_layer_count": 4,
+      "total_bs_count": 4,
+      "power_problems": 2,
+      "non_priority_percentage": 0,
+      "timestamp": "07:00:17",
+      "date": "2025-12-25",
+      "full_timestamp": "2025-12-25T07:00:17.783402",
+      "created_at": "2025-12-25T07:00:48.451740",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 71,
-  "timestamp": "2025-12-25T06:50:09.695201",
+  "count": 72,
+  "timestamp": "2025-12-25T07:00:53.165343",
   "error": null
 }
