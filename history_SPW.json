@@ -1871,9 +1871,26 @@
       "base_layer_percentage": 42,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPW",
+      "region_name": "Санкт-Петербург Запад",
+      "base_layer": "SPW Базовый слой 25.12.2025 15:21:\n\n1) SP1726 2025-11-25T17:33:51\nPower Да; Посещение Нет; WO Нет\n2) LE1853 2025-12-25T13:01:33\nPower Нет; Посещение Нет; WO Нет\n3) LE0102 2025-12-25T12:29:18\nPower Да; Посещение Нет; WO Нет\n4) LE0810 2025-12-25T14:48:25\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- LE1853; wo Нет;Время 2025-12-25 12:28:21\n- LE0810; wo Нет;Время 2025-12-25 11:04:35\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPW Неприоритетные технологии 25.12.2025 15:21:\n\nНедоступно LTE1800:\n1) SP1726\n2) LE1853\n3) LE0102\n4) LE0810\nНедоступно 3G:\n1) SP1726\n2) LE1853\nНедоступно LTE800:\n1) SP1726\nНедоступно LTE2600:\n1) LE0102\n2) LE0810\nНедоступно LTE2100:\n1) SP1726\n2) LE0102\nНедоступно LTE2300:\n1) LE1014\n2) LE0810\n3) LE1433\n",
+      "base_layer_count": 4,
+      "total_bs_count": 7,
+      "power_problems": 2,
+      "non_priority_percentage": 43,
+      "timestamp": "15:21:50",
+      "date": "2025-12-25",
+      "full_timestamp": "2025-12-25T15:21:50.536512",
+      "created_at": "2025-12-25T15:22:09.627747",
+      "base_layer_percentage": 57,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 110,
-  "timestamp": "2025-12-25T15:08:36.043954",
+  "count": 111,
+  "timestamp": "2025-12-25T15:22:15.960221",
   "error": null
 }
