@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KUR",
   "region_name": "Курская область",
-  "base_layer": "KUR Базовый слой 26.12.2025 02:13:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KUR Неприоритетные технологии 26.12.2025 02:13:\n\n",
-  "timestamp": "02:13:30",
+  "base_layer": "KUR Базовый слой 26.12.2025 02:27:\n\n1) KU1359 2025-12-02T13:32:45\nPower Да; Посещение Нет; WO Нет\n2) KU0150 2025-12-15T22:50:49\nPower Да; Посещение Нет; WO Нет\n3) KU1575 2025-12-06T11:11:30\nPower Да; Посещение Нет; WO Нет\n4) KU0048 2025-12-25T17:14:19\nPower Да; Посещение Нет; WO Нет\n5) KU1112 2025-12-24T08:49:41\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KUR Неприоритетные технологии 26.12.2025 02:27:\n\nНедоступно LTE1800:\n1) KU1359\n2) KU0150\n3) KU1575\n4) KU1112\nНедоступно 3G:\n1) KU0058\n2) KU1575\nНедоступно LTE2600:\n1) KU0048\nНедоступно LTE2300:\n1) KU2021\n2) KU0224\n3) KU2112\n4) KU2101\n5) KU2073\n6) KU0086\n7) KU2031\n8) KU2040\n9) KU0039\n10) KU0355\n",
+  "timestamp": "02:27:11",
   "date": "2025-12-26",
-  "full_timestamp": "2025-12-26T02:13:30.667295",
+  "full_timestamp": "2025-12-26T02:27:11.277626",
   "stats": {
-    "total_bs": 0,
-    "base_layer_count": 0,
+    "total_bs": 29,
+    "base_layer_count": 5,
     "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 83,
+    "base_layer_percentage": 17
   },
   "is_real_data": true,
-  "collected_at": "2025-12-26T02:13:30.667295",
+  "collected_at": "2025-12-26T02:27:11.277626",
   "macroregion": "Черноземье"
 }
