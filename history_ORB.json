@@ -290,9 +290,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "ORB",
+      "region_name": "Оренбургская область",
+      "base_layer": "ORB Базовый слой 26.12.2025 19:29:\n\n1) OB2120 2025-12-26T18:10:34\nPower Нет; Посещение Нет; WO Есть\n2) OB0783 2025-12-26T18:23:04\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- OB0783; wo Нет;Время 2025-12-26 15:31:26\n\n9 приоритет:\n- OB0166; wo Есть;Время 2025-12-26 18:32:07\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ORB Неприоритетные технологии 26.12.2025 19:29:\n\nНедоступно LTE1800:\n1) OB2120\nНедоступно 3G:\n1) OB0041\n2) OB0410\n3) OB0166\nНедоступно LTE800:\n1) OB0041\nНедоступно LTE2600:\n1) OB0041\nНедоступно LTE2100:\n1) OB0041\nНедоступно LTE2300:\n1) OB0041\n2) OB0015\n3) OB0236\n4) OB0381\n5) OB0548\n6) OB0437\n7) OB2039\n8) OB0783\n9) OB0237\n10) OB0235\n",
+      "base_layer_count": 2,
+      "total_bs_count": 13,
+      "power_problems": 4,
+      "non_priority_percentage": 85,
+      "timestamp": "19:29:53",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T19:29:53.896879",
+      "created_at": "2025-12-26T19:30:06.391971",
+      "base_layer_percentage": 15,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 17,
-  "timestamp": "2025-12-26T19:17:12.712027",
+  "count": 18,
+  "timestamp": "2025-12-26T19:30:09.337873",
   "error": null
 }
