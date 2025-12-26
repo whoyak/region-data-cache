@@ -3061,9 +3061,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "NOV",
+      "region_name": "Новгородская область",
+      "base_layer": "NOV Базовый слой 26.12.2025 06:22:\n\n1) VN0350 2025-12-25T23:58:49\nPower Нет; Посещение Нет; WO Нет\n2) VN0588 2025-12-25T22:45:08\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VN0588; wo Нет;Время 2025-12-25 20:52:33\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NOV Неприоритетные технологии 26.12.2025 06:22:\n\nНедоступно LTE1800:\n1) VN0350\n2) VN0588\nНедоступно 3G:\n1) VN0126\n",
+      "base_layer_count": 2,
+      "total_bs_count": 6,
+      "power_problems": 2,
+      "non_priority_percentage": 67,
+      "timestamp": "06:22:53",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T06:22:53.483138",
+      "created_at": "2025-12-26T06:23:10.227047",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 180,
-  "timestamp": "2025-12-26T06:09:13.390598",
+  "count": 181,
+  "timestamp": "2025-12-26T06:23:16.751137",
   "error": null
 }
