@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SAH",
   "region_name": "Сахалинская область",
-  "base_layer": "SAH Базовый слой 26.12.2025 06:50:\n\n1) SA0154 2025-12-25T21:41:36\nPower Да; Посещение Нет; WO Есть\n2) SA0284 2025-12-26T06:20:49\nPower Нет; Посещение Нет; WO Есть\n3) SA0177 2025-12-26T06:04:03\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SAH Неприоритетные технологии 26.12.2025 06:50:\n\nНедоступно LTE1800:\n1) SA0154\n2) SA0284\nНедоступно 3G:\n1) SA0154\n2) SA0307\n3) SA0284\nНедоступно LTE800:\n1) SA0284\n2) SA0177\nНедоступно LTE2100:\n1) SA0154\n2) SA0307\n3) SA0284\n",
-  "timestamp": "06:50:16",
+  "base_layer": "SAH Базовый слой 26.12.2025 07:00:\n\n1) SA0154 2025-12-25T21:41:36\nPower Да; Посещение Нет; WO Есть\n2) SA0284 2025-12-26T06:20:49\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SAH Неприоритетные технологии 26.12.2025 07:00:\n\nНедоступно LTE1800:\n1) SA0154\n2) SA0284\nНедоступно 3G:\n1) SA0154\n2) SA0307\n3) SA0284\nНедоступно LTE800:\n1) SA0284\nНедоступно LTE2100:\n1) SA0154\n2) SA0307\n3) SA0284\n",
+  "timestamp": "07:00:07",
   "date": "2025-12-26",
-  "full_timestamp": "2025-12-26T06:50:16.462600",
+  "full_timestamp": "2025-12-26T07:00:07.939751",
   "stats": {
-    "total_bs": 4,
-    "base_layer_count": 3,
+    "total_bs": 3,
+    "base_layer_count": 2,
     "power_problems": 1,
-    "non_priority_percentage": 25,
-    "base_layer_percentage": 75
+    "non_priority_percentage": 34,
+    "base_layer_percentage": 66
   },
   "is_real_data": true,
-  "collected_at": "2025-12-26T06:50:16.462600",
+  "collected_at": "2025-12-26T07:00:07.939751",
   "macroregion": "Байкал и Дальний Восток"
 }
