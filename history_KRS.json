@@ -443,9 +443,26 @@
       "base_layer_percentage": 22,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KRS",
+      "region_name": "Красноярск",
+      "base_layer": "KRS Базовый слой 26.12.2025 21:29:\n\n1) KA0949 2025-11-28T14:39:56\nPower Да; Посещение Нет; WO Нет\n2) KA0242 2025-12-26T04:19:33\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- KA0437; wo Нет;Время 2025-12-26 20:46:14\n- KA0177; wo Нет;Время 2025-12-26 19:03:22\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRS Неприоритетные технологии 26.12.2025 21:29:\n\nНедоступно LTE1800:\n1) KA0949\n2) KA0242\nНедоступно 3G:\n1) KA0437\n2) KA2304\n3) KA0177\nНедоступно LTE800:\n1) KA0949\n2) KA0437\n3) KA0200\n4) KA2304\n5) KA0177\nНедоступно LTE2600:\n1) KA0200\nНедоступно LTE2100:\n1) KA0437\n2) KA0242\n3) KA0097\n4) KA0177\nНедоступно LTE2300:\n1) KA0437\n2) KA1195\n3) KA0638\n",
+      "base_layer_count": 2,
+      "total_bs_count": 9,
+      "power_problems": 2,
+      "non_priority_percentage": 78,
+      "timestamp": "21:29:51",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T21:29:51.779752",
+      "created_at": "2025-12-26T21:30:08.226718",
+      "base_layer_percentage": 22,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 26,
-  "timestamp": "2025-12-26T21:17:10.955910",
+  "count": 27,
+  "timestamp": "2025-12-26T21:30:12.009008",
   "error": null
 }
