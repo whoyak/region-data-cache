@@ -3333,9 +3333,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPN",
+      "region_name": "Санкт-Петербург Север",
+      "base_layer": "SPN Базовый слой 26.12.2025 10:41:\n\n1) LE0317 2025-12-25T18:58:04\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- LE0317; wo Есть;Время 2025-12-25 18:06:41\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPN Неприоритетные технологии 26.12.2025 10:41:\n\nНедоступно LTE1800:\n1) LE0317\nНедоступно 3G:\n1) SP0215\n2) LE1346\n3) LE0317\nНедоступно LTE800:\n1) LE0317\nНедоступно LTE2100:\n1) SP0215\n2) LE0317\n",
+      "base_layer_count": 1,
+      "total_bs_count": 5,
+      "power_problems": 1,
+      "non_priority_percentage": 80,
+      "timestamp": "10:41:57",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T10:41:57.911717",
+      "created_at": "2025-12-26T10:42:16.582653",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 196,
-  "timestamp": "2025-12-26T10:28:18.107560",
+  "count": 197,
+  "timestamp": "2025-12-26T10:42:23.613485",
   "error": null
 }
