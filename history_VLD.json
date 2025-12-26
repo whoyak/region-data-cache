@@ -3214,9 +3214,26 @@
       "base_layer_percentage": 57,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "VLD",
+      "region_name": "Владивосток",
+      "base_layer": "VLD Базовый слой 26.12.2025 08:27:\n\n1) VV0360 2025-12-26T07:17:11\nPower Да; Посещение Да; WO Нет\n2) VV0368 2025-12-26T05:10:44\nPower Да; Посещение Нет; WO Есть\n3) VV0456 2025-12-04T16:20:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- VV0706; wo Есть;Время 2025-12-26 07:28:32\n\n3 приоритет:\n- VV0307; wo Есть;Время 2025-12-26 06:44:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLD Неприоритетные технологии 26.12.2025 08:27:\n\nНедоступно LTE1800:\n1) VV0456\nНедоступно 3G:\n1) VV0616\n2) VV0456\nНедоступно LTE800:\n1) VV0706\nНедоступно LTE2100:\n1) VV0616\n2) VV0456\n",
+      "base_layer_count": 3,
+      "total_bs_count": 7,
+      "power_problems": 3,
+      "non_priority_percentage": 58,
+      "timestamp": "08:27:41",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T08:27:41.490025",
+      "created_at": "2025-12-26T08:28:04.350826",
+      "base_layer_percentage": 42,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 189,
-  "timestamp": "2025-12-26T08:14:16.862602",
+  "count": 190,
+  "timestamp": "2025-12-26T08:28:12.213405",
   "error": null
 }
