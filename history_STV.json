@@ -3265,9 +3265,43 @@
       "base_layer_percentage": 6,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "STV",
+      "region_name": "Ставропольский край",
+      "base_layer": "STV Базовый слой 26.12.2025 09:10:\n\n1) ST0989 2025-12-25T15:37:20\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- ST1832; wo Есть;Время 2025-12-26 08:37:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "STV Неприоритетные технологии 26.12.2025 09:10:\n\nНедоступно LTE1800:\n1) ST0989\nНедоступно LTE800:\n1) ST0989\n",
+      "base_layer_count": 1,
+      "total_bs_count": 16,
+      "power_problems": 1,
+      "non_priority_percentage": 94,
+      "timestamp": "09:10:36",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T09:10:36.173857",
+      "created_at": "2025-12-26T09:10:36.728898",
+      "base_layer_percentage": 6,
+      "is_historical": true,
+      "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "STV",
+      "region_name": "Ставропольский край",
+      "base_layer": "STV Базовый слой 26.12.2025 10:00:\n\n1) ST0989 2025-12-25T15:37:20\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- ST0703; wo Нет;Время 2025-12-26 09:06:36\n- ST1832; wo Есть;Время 2025-12-26 08:37:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "STV Неприоритетные технологии 26.12.2025 10:00:\n\nНедоступно LTE1800:\n1) ST0989\nНедоступно LTE800:\n1) ST0010\n2) ST0703\n3) ST0683\n4) ST0989\nНедоступно LTE2100:\n1) ST0010\n",
+      "base_layer_count": 1,
+      "total_bs_count": 18,
+      "power_problems": 3,
+      "non_priority_percentage": 95,
+      "timestamp": "10:00:06",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T10:00:06.608096",
+      "created_at": "2025-12-26T10:00:07.319335",
+      "base_layer_percentage": 5,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
-  "count": 192,
-  "timestamp": "2025-12-26T09:00:40.347241",
+  "count": 194,
+  "timestamp": "2025-12-26T10:00:16.245398",
   "error": null
 }
