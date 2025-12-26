@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SPN",
   "region_name": "Санкт-Петербург Север",
-  "base_layer": "SPN Базовый слой 26.12.2025 13:14:\n\n1) LE0317 2025-12-25T18:58:04\nPower Нет; Посещение Нет; WO Есть\n2) LE0997 2025-12-26T12:44:13\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- LE0317; wo Есть;Время 2025-12-25 18:06:41\n- LE0997; wo Есть;Время 2025-12-26 10:24:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SPN Неприоритетные технологии 26.12.2025 13:14:\n\nНедоступно LTE1800:\n1) LE0317\n2) LE0997\nНедоступно 3G:\n1) SP0215\n2) LE1346\n3) LE0387\n4) LE0317\n5) LE0997\nНедоступно LTE800:\n1) LE0317\nНедоступно LTE2600:\n1) LE0387\n2) LE0997\nНедоступно LTE2100:\n1) SP0215\n2) LE0387\n3) LE0317\n4) LE0997\nНедоступно LTE2300:\n1) LE0387\n2) LE0997\n",
-  "timestamp": "13:14:12",
+  "base_layer": "SPN Базовый слой 26.12.2025 14:15:\n\n1) SP1947 2025-12-26T13:22:48\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SPN Неприоритетные технологии 26.12.2025 14:15:\n\nНедоступно 3G:\n1) LE1280\n2) SP0215\n3) LE1346\n4) LE0997\nНедоступно LTE800:\n1) LE1280\nНедоступно LTE2600:\n1) LE0997\nНедоступно LTE2100:\n1) LE1280\n2) SP0215\n3) LE0997\nНедоступно LTE2300:\n1) LE0997\n",
+  "timestamp": "14:15:35",
   "date": "2025-12-26",
-  "full_timestamp": "2025-12-26T13:14:12.174970",
+  "full_timestamp": "2025-12-26T14:15:35.618147",
   "stats": {
-    "total_bs": 8,
-    "base_layer_count": 2,
-    "power_problems": 2,
-    "non_priority_percentage": 75,
-    "base_layer_percentage": 25
+    "total_bs": 7,
+    "base_layer_count": 1,
+    "power_problems": 0,
+    "non_priority_percentage": 86,
+    "base_layer_percentage": 14
   },
   "is_real_data": true,
-  "collected_at": "2025-12-26T13:14:12.174970",
+  "collected_at": "2025-12-26T14:15:35.618147",
   "macroregion": "Северо-запад"
 }
