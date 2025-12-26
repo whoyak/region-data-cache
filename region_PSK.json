@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "PSK",
   "region_name": "Псковская область",
-  "base_layer": "PSK Базовый слой 26.12.2025 09:00:\n\n1) PS0863 2025-12-25T21:07:34\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PS0863; wo Нет;Время 2025-12-25 16:03:25\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "PSK Неприоритетные технологии 26.12.2025 09:00:\n\nНедоступно LTE1800:\n1) PS0863\n",
-  "timestamp": "09:00:11",
+  "base_layer": "PSK Базовый слой 26.12.2025 09:59:\n\n1) PS0711 2025-12-26T09:05:20\nPower Да; Посещение Нет; WO Нет\n2) PS0863 2025-12-25T21:07:34\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PS0863; wo Нет;Время 2025-12-25 16:03:25\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "PSK Неприоритетные технологии 26.12.2025 09:59:\n\nНедоступно LTE1800:\n1) PS0711\n2) PS0863\n",
+  "timestamp": "09:59:37",
   "date": "2025-12-26",
-  "full_timestamp": "2025-12-26T09:00:11.580845",
+  "full_timestamp": "2025-12-26T09:59:37.120068",
   "stats": {
     "total_bs": 3,
-    "base_layer_count": 1,
+    "base_layer_count": 2,
     "power_problems": 1,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "non_priority_percentage": 34,
+    "base_layer_percentage": 66
   },
   "is_real_data": true,
-  "collected_at": "2025-12-26T09:00:11.580845",
+  "collected_at": "2025-12-26T09:59:37.120068",
   "macroregion": "Северо-запад"
 }
