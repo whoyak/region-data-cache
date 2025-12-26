@@ -35,9 +35,26 @@
       "base_layer_percentage": 15,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "STV",
+      "region_name": "Ставропольский край",
+      "base_layer": "STV Базовый слой 26.12.2025 14:29:\n\n1) ST0544 2025-12-26T13:50:45\nPower Да; Посещение Нет; WO Есть\n2) ST1714 2025-12-26T13:10:54\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- ST1832; wo Есть;Время 2025-12-26 08:37:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "STV Неприоритетные технологии 26.12.2025 14:29:\n\nНедоступно LTE1800:\n1) ST0544\n2) ST1714\nНедоступно LTE800:\n1) ST1713\n2) ST0683\n3) ST1714\n",
+      "base_layer_count": 2,
+      "total_bs_count": 22,
+      "power_problems": 4,
+      "non_priority_percentage": 91,
+      "timestamp": "14:29:08",
+      "date": "2025-12-26",
+      "full_timestamp": "2025-12-26T14:29:08.948773",
+      "created_at": "2025-12-26T14:29:09.502283",
+      "base_layer_percentage": 9,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
-  "count": 2,
-  "timestamp": "2025-12-26T14:16:00.261012",
+  "count": 3,
+  "timestamp": "2025-12-26T14:29:12.091320",
   "error": null
 }
