@@ -2058,9 +2058,26 @@
       "base_layer_percentage": 40,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NWS",
+      "region_name": "Северо-Западный округ Москвы",
+      "base_layer": "NWS Базовый слой 27.12.2025 17:48:\n\n1) MR3690 2025-12-27T06:51:42\nPower Да; Посещение Да; WO Есть\n2) MO1196 2025-12-25T02:04:26\nPower Да; Посещение Нет; WO Есть\n3) MS5966 2025-12-26T14:18:22\nPower Да; Посещение Нет; WO Нет\n4) MR2924 2025-12-27T15:40:23\nPower Да; Посещение Нет; WO Нет\n5) MO5098 2025-12-27T15:06:02\nPower Да; Посещение Нет; WO Нет\n6) MO5680 2025-12-27T15:05:49\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NWS Неприоритетные технологии 27.12.2025 17:48:\n\nНедоступно 3G:\n1) MR3690\n2) MO1196\n3) MS5966\n4) MR2924\n5) MO5098\n6) MO5680\nНедоступно LTE800:\n1) MS5966\n2) MO5098\n3) MO5680\nНедоступно LTE2600:\n1) MR3690\n2) MC2328\n3) MS5966\n4) MR2924\n5) MO5098\n6) MO5680\nНедоступно LTE2100:\n1) MR3690\n2) MS5966\n3) MR2924\n4) MO5098\n5) MO5680\n",
+      "base_layer_count": 6,
+      "total_bs_count": 14,
+      "power_problems": 1,
+      "non_priority_percentage": 58,
+      "timestamp": "17:48:22",
+      "date": "2025-12-27",
+      "full_timestamp": "2025-12-27T17:48:22.488021",
+      "created_at": "2025-12-27T17:48:45.119385",
+      "base_layer_percentage": 42,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 121,
-  "timestamp": "2025-12-27T17:35:18.421161",
+  "count": 122,
+  "timestamp": "2025-12-27T17:48:50.614117",
   "error": null
 }
