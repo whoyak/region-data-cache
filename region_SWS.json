@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SWS",
   "region_name": "Юго-Западный округ Москвы",
-  "base_layer": "SWS Базовый слой 27.12.2025 15:58:\n\n1) MO5114 2025-12-23T13:57:47\nPower Нет; Посещение Нет; WO Нет\n2) MO2022 2025-12-26T23:21:32\nPower Да; Посещение Нет; WO Нет\n3) MO2648 2025-12-27T14:28:13\nPower Нет; Посещение Нет; WO Есть\n4) MO4983 2025-12-27T13:07:17\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- MO5114; wo Нет;Время 2025-12-23 13:01:43\n\n9 приоритет:\n- MC4985; wo Есть;Время 2025-12-26 03:21:31\n- MR3394; wo Есть;Время 2025-12-27 11:48:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SWS Неприоритетные технологии 27.12.2025 15:58:\n\nНедоступно 3G:\n1) MO5114\n2) MO2022\n3) MO2648\n4) MO4983\nНедоступно LTE2600:\n1) MO2648\n2) MC4985\n3) MR3394\n",
-  "timestamp": "15:58:54",
+  "base_layer": "SWS Базовый слой 27.12.2025 16:02:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SWS Неприоритетные технологии 27.12.2025 16:02:\n\n",
+  "timestamp": "16:02:50",
   "date": "2025-12-27",
-  "full_timestamp": "2025-12-27T15:58:54.111306",
+  "full_timestamp": "2025-12-27T16:02:50.016762",
   "stats": {
-    "total_bs": 9,
-    "base_layer_count": 4,
-    "power_problems": 5,
-    "non_priority_percentage": 56,
-    "base_layer_percentage": 44
+    "total_bs": 0,
+    "base_layer_count": 0,
+    "power_problems": 0,
+    "non_priority_percentage": 100,
+    "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2025-12-27T15:58:54.111306",
+  "collected_at": "2025-12-27T16:02:50.016762",
   "macroregion": "Москва"
 }
