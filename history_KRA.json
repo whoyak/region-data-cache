@@ -2058,9 +2058,26 @@
       "base_layer_percentage": 13,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "KRA",
+      "region_name": "Краснодарский край",
+      "base_layer": "KRA Базовый слой 27.12.2025 17:48:\n\n1) KD1980 2025-12-24T16:32:17\nPower Да; Посещение Нет; WO Нет\n2) KR2763 2025-12-25T15:16:00\nPower Да; Посещение Нет; WO Нет\n3) KD0436 2025-12-12T16:37:00\nPower Да; Посещение Нет; WO Нет\n4) KR0900 2025-12-23T08:42:55\nPower Да; Посещение Нет; WO Нет\n5) KD0952 2025-12-26T10:13:57\nPower Да; Посещение Нет; WO Нет\n6) KR1267 2025-12-27T14:11:36\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n3 приоритет:\n- KR0156; wo Нет;Время 2025-12-27 17:20:59\n\n9 приоритет:\n- KR1685; wo Нет;Время 2025-12-27 16:32:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRA Неприоритетные технологии 27.12.2025 17:48:\n\nНедоступно LTE1800:\n1) KD1980\n2) KR2763\n3) KD0436\n4) KR0900\n5) KD0952\n6) KR1267\nНедоступно 3G:\n1) KR0156\n2) KD1980\n3) KR0535\n4) KR2763\n5) KR1021\n6) KD0436\n7) KR1685\n8) KR0600\n9) KR0900\n10) KR1267\nНедоступно LTE800:\n1) KR1021\nНедоступно LTE2100:\n1) KR0156\n2) KD1980\n3) KR2763\n4) KD0436\n5) KR1685\n6) KR0600\n7) KR0900\n",
+      "base_layer_count": 6,
+      "total_bs_count": 46,
+      "power_problems": 2,
+      "non_priority_percentage": 87,
+      "timestamp": "17:48:43",
+      "date": "2025-12-27",
+      "full_timestamp": "2025-12-27T17:48:43.715979",
+      "created_at": "2025-12-27T17:48:45.122401",
+      "base_layer_percentage": 13,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
-  "count": 121,
-  "timestamp": "2025-12-27T17:35:18.421325",
+  "count": 122,
+  "timestamp": "2025-12-27T17:48:50.614282",
   "error": null
 }
