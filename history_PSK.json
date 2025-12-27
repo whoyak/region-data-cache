@@ -2517,9 +2517,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 27.12.2025 23:35:\n\n1) PS0304 2025-12-27T23:19:32\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PS0304; wo Нет;Время 2025-12-27 22:51:48\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 27.12.2025 23:35:\n\nНедоступно 3G:\n1) PS0304\n",
+      "base_layer_count": 1,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 50,
+      "timestamp": "23:35:33",
+      "date": "2025-12-27",
+      "full_timestamp": "2025-12-27T23:35:33.943217",
+      "created_at": "2025-12-27T23:35:53.937650",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 148,
-  "timestamp": "2025-12-27T23:22:14.575358",
+  "count": 149,
+  "timestamp": "2025-12-27T23:35:59.909385",
   "error": null
 }
