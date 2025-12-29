@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KOM",
   "region_name": "Коми",
-  "base_layer": "KOM Базовый слой 29.12.2025 12:35:\n\n1) KO0294 2025-12-29T11:19:02\nPower Нет; Посещение Нет; WO Есть\n2) KO0671 2025-12-29T10:58:37\nPower Да; Посещение Нет; WO Нет\n3) KO0635 2025-12-29T10:58:33\nPower Да; Посещение Нет; WO Нет\n4) KO0986 2025-12-29T10:58:34\nPower Да; Посещение Нет; WO Нет\n5) KO0432 2025-12-29T11:20:47\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KOM Неприоритетные технологии 29.12.2025 12:35:\n\nНедоступно LTE1800:\n1) KO0294\n2) KO0671\n3) KO0635\n4) KO0986\n5) KO0432\nНедоступно 3G:\n1) KO0294\n2) KO0432\nНедоступно LTE800:\n1) KO0432\n",
-  "timestamp": "12:35:16",
+  "base_layer": "KOM Базовый слой 29.12.2025 12:50:\n\n1) KO0671 2025-12-29T10:58:37\nPower Да; Посещение Нет; WO Нет\n2) KO0635 2025-12-29T10:58:33\nPower Да; Посещение Нет; WO Нет\n3) KO0986 2025-12-29T10:58:34\nPower Да; Посещение Нет; WO Нет\n4) KO0432 2025-12-29T11:20:47\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KOM Неприоритетные технологии 29.12.2025 12:50:\n\nНедоступно LTE1800:\n1) KO0671\n2) KO0635\n3) KO0986\n4) KO0432\nНедоступно 3G:\n1) KO0432\nНедоступно LTE800:\n1) KO0432\n",
+  "timestamp": "12:50:32",
   "date": "2025-12-29",
-  "full_timestamp": "2025-12-29T12:35:16.299819",
+  "full_timestamp": "2025-12-29T12:50:32.860645",
   "stats": {
     "total_bs": 5,
-    "base_layer_count": 5,
-    "power_problems": 2,
-    "non_priority_percentage": 0,
-    "base_layer_percentage": 100
+    "base_layer_count": 4,
+    "power_problems": 1,
+    "non_priority_percentage": 20,
+    "base_layer_percentage": 80
   },
   "is_real_data": true,
-  "collected_at": "2025-12-29T12:35:16.299819",
+  "collected_at": "2025-12-29T12:50:32.860645",
   "macroregion": "Урал"
 }
