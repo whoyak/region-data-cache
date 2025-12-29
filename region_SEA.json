@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SEA",
   "region_name": "Юго-Восточный округ Москвы",
-  "base_layer": "SEA Базовый слой 29.12.2025 17:04:\n\n1) MS0225 2025-12-27T15:50:38\nPower Да; Посещение Нет; WO Нет\n2) MS0442 2025-12-29T14:56:21\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SEA Неприоритетные технологии 29.12.2025 17:04:\n\nНедоступно 3G:\n1) MS0225\n2) MS0442\nНедоступно LTE800:\n1) MS0225\nНедоступно LTE2600:\n1) MS0225\n2) MS2879\n3) MS0442\n4) MR5712\n5) MR5628\nНедоступно LTE2100:\n1) MS0225\n2) MS0442\n",
-  "timestamp": "17:04:39",
+  "base_layer": "SEA Базовый слой 29.12.2025 17:18:\n\n1) MS0225 2025-12-27T15:50:38\nPower Да; Посещение Нет; WO Нет\n2) MO5580 2025-12-29T16:41:36\nPower Нет; Посещение Нет; WO Нет\n3) MS0442 2025-12-29T14:56:21\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- MS3480; wo Нет;Время 2025-12-29 16:49:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SEA Неприоритетные технологии 29.12.2025 17:18:\n\nНедоступно 3G:\n1) MS0225\n2) MO5580\n3) MS0442\nНедоступно LTE800:\n1) MS0225\nНедоступно LTE2600:\n1) MS3480\n2) MS0225\n3) MO5580\n4) MS2879\n5) MS0442\n6) MR5712\n7) MR5628\nНедоступно LTE2100:\n1) MS0225\n2) MS0442\n",
+  "timestamp": "17:18:40",
   "date": "2025-12-29",
-  "full_timestamp": "2025-12-29T17:04:39.246450",
+  "full_timestamp": "2025-12-29T17:18:40.425385",
   "stats": {
-    "total_bs": 50,
-    "base_layer_count": 2,
-    "power_problems": 2,
-    "non_priority_percentage": 96,
-    "base_layer_percentage": 4
+    "total_bs": 51,
+    "base_layer_count": 3,
+    "power_problems": 3,
+    "non_priority_percentage": 95,
+    "base_layer_percentage": 5
   },
   "is_real_data": true,
-  "collected_at": "2025-12-29T17:04:39.246450",
+  "collected_at": "2025-12-29T17:18:40.425385",
   "macroregion": "Москва"
 }
