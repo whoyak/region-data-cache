@@ -2687,9 +2687,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "IVN",
+      "region_name": "Ивановская область",
+      "base_layer": "IVN Базовый слой 29.12.2025 11:38:\n\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- IV0431; wo Есть;Время 2025-12-29 09:18:34\n- IV0089; wo Нет;Время 2025-12-29 08:56:51\n- IV0110; wo Нет;Время 2025-12-29 10:14:17\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IVN Неприоритетные технологии 29.12.2025 11:38:\n\nНедоступно 3G:\n1) IV0089\n2) IV0110\nНедоступно LTE800:\n1) IV0431\n2) IV0089\nНедоступно LTE2600:\n1) IV0431\n2) IV0089\nНедоступно LTE2100:\n1) IV0089\n2) IV0110\nНедоступно LTE2300:\n1) IV0431\n2) IV0297\n3) IV0174\n4) IV0100\n5) IV0575\n6) IV0105\n7) IV0769\n8) IV0050\n9) IV0121\n10) IV0110\n11) IV0002\n12) IV0608\n13) IV0652\n14) IV0091\n15) IV0554\n16) IV0135\n17) IV0149\n18) IV0090\n19) IV0511\n20) IV0093\n21) IV0083\n22) IV0535\n23) IV0087\n24) IV0348\n25) IV0243\n26) IV0058\n27) IV0094\n28) IV0030\n29) IV0654\n30) IV0190\n31) IV0283\n32) IV0199\n",
+      "base_layer_count": 0,
+      "total_bs_count": 33,
+      "power_problems": 3,
+      "non_priority_percentage": 100,
+      "timestamp": "11:38:10",
+      "date": "2025-12-29",
+      "full_timestamp": "2025-12-29T11:38:10.361343",
+      "created_at": "2025-12-29T11:38:19.927115",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 158,
-  "timestamp": "2025-12-29T11:24:23.820572",
+  "count": 159,
+  "timestamp": "2025-12-29T11:38:26.854409",
   "error": null
 }
