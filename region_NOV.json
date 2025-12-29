@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NOV",
   "region_name": "Новгородская область",
-  "base_layer": "NOV Базовый слой 29.12.2025 15:33:\n\n1) VN0675 2025-12-29T14:31:35\nPower Да; Посещение Да; WO Нет\n2) VN0060 2025-12-29T12:56:41\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NOV Неприоритетные технологии 29.12.2025 15:33:\n\nНедоступно LTE1800:\n1) VN0675\n2) VN0060\nНедоступно LTE800:\n1) VN0118\n2) VN0060\n",
-  "timestamp": "15:33:14",
+  "base_layer": "NOV Базовый слой 29.12.2025 15:47:\n\n1) VN0675 2025-12-29T14:31:35\nPower Да; Посещение Да; WO Нет\n2) VN0060 2025-12-29T12:56:41\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VN0163; wo Нет;Время 2025-12-29 15:14:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NOV Неприоритетные технологии 29.12.2025 15:47:\n\nНедоступно LTE1800:\n1) VN0675\n2) VN0060\nНедоступно LTE800:\n1) VN0060\n",
+  "timestamp": "15:47:17",
   "date": "2025-12-29",
-  "full_timestamp": "2025-12-29T15:33:14.340671",
+  "full_timestamp": "2025-12-29T15:47:17.352982",
   "stats": {
-    "total_bs": 5,
+    "total_bs": 6,
     "base_layer_count": 2,
-    "power_problems": 1,
-    "non_priority_percentage": 60,
-    "base_layer_percentage": 40
+    "power_problems": 2,
+    "non_priority_percentage": 67,
+    "base_layer_percentage": 33
   },
   "is_real_data": true,
-  "collected_at": "2025-12-29T15:33:14.340671",
+  "collected_at": "2025-12-29T15:47:17.352982",
   "macroregion": "Северо-запад"
 }
