@@ -2568,9 +2568,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "TYV",
+      "region_name": "Тыва",
+      "base_layer": "TYV Базовый слой 29.12.2025 09:59:\n\n1) TY0103 2025-12-29T09:45:25\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TYV Неприоритетные технологии 29.12.2025 09:59:\n\nНедоступно LTE1800:\n1) TY0103\nНедоступно 3G:\n1) TY0523\n2) TY0103\nНедоступно LTE800:\n1) TY0103\nНедоступно LTE2100:\n1) TY0523\n2) TY0156\n3) TY0103\nНедоступно LTE2300:\n1) TY0537\n2) TY0144\n3) TY0103\n",
+      "base_layer_count": 1,
+      "total_bs_count": 5,
+      "power_problems": 4,
+      "non_priority_percentage": 80,
+      "timestamp": "09:59:39",
+      "date": "2025-12-29",
+      "full_timestamp": "2025-12-29T09:59:39.221065",
+      "created_at": "2025-12-29T09:59:53.992059",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 151,
-  "timestamp": "2025-12-28T00:05:07.855476",
+  "count": 152,
+  "timestamp": "2025-12-29T10:00:00.986033",
   "error": null
 }
