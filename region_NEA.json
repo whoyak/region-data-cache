@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NEA",
   "region_name": "Северо-Восточный округ Москвы",
-  "base_layer": "NEA Базовый слой 30.12.2025 00:47:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NEA Неприоритетные технологии 30.12.2025 00:47:\n\nНедоступно LTE800:\n1) MR1911\n",
-  "timestamp": "00:47:29",
+  "base_layer": "NEA Базовый слой 30.12.2025 01:00:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MR5218; wo Нет;Время 2025-12-30 00:19:24\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NEA Неприоритетные технологии 30.12.2025 01:00:\n\nНедоступно LTE800:\n1) MR1911\nНедоступно LTE2600:\n1) MR5218\n",
+  "timestamp": "01:00:15",
   "date": "2025-12-30",
-  "full_timestamp": "2025-12-30T00:47:29.451302",
+  "full_timestamp": "2025-12-30T01:00:15.654137",
   "stats": {
-    "total_bs": 65,
+    "total_bs": 66,
     "base_layer_count": 0,
-    "power_problems": 0,
+    "power_problems": 1,
     "non_priority_percentage": 100,
     "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2025-12-30T00:47:29.451302",
+  "collected_at": "2025-12-30T01:00:15.654137",
   "macroregion": "Москва"
 }
