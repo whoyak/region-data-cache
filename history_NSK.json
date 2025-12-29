@@ -2636,9 +2636,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "NSK",
+      "region_name": "Новосибирская область",
+      "base_layer": "NSK Базовый слой 29.12.2025 10:55:\n\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- NS0894; wo Нет;Время 2025-12-22 15:06:27\n\n3 приоритет:\n- NS0310; wo Есть;Время 2025-12-29 10:04:48\n- NS1396; wo Нет;Время 2025-12-29 09:33:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NSK Неприоритетные технологии 29.12.2025 10:55:\n\nНедоступно 3G:\n1) NS0894\n2) NS1035\nНедоступно LTE800:\n1) NS0894\nНедоступно LTE2100:\n1) NS0894\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 3,
+      "non_priority_percentage": 100,
+      "timestamp": "10:55:41",
+      "date": "2025-12-29",
+      "full_timestamp": "2025-12-29T10:55:41.316304",
+      "created_at": "2025-12-29T10:55:56.925049",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 155,
-  "timestamp": "2025-12-29T10:42:09.583502",
+  "count": 156,
+  "timestamp": "2025-12-29T10:56:04.458741",
   "error": null
 }
