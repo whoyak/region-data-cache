@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SEA",
   "region_name": "Юго-Восточный округ Москвы",
-  "base_layer": "SEA Базовый слой 29.12.2025 18:18:\n\n1) MS0225 2025-12-27T15:50:38\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SEA Неприоритетные технологии 29.12.2025 18:18:\n\nНедоступно 3G:\n1) MS0225\nНедоступно LTE800:\n1) MS0225\nНедоступно LTE2600:\n1) MS0225\n2) MS2879\n3) MC3987\nНедоступно LTE2100:\n1) MS0225\n",
-  "timestamp": "18:18:41",
+  "base_layer": "SEA Базовый слой 29.12.2025 18:32:\n\n1) MS0225 2025-12-27T15:50:38\nPower Да; Посещение Нет; WO Нет\n2) MC3987 2025-12-29T18:14:06\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SEA Неприоритетные технологии 29.12.2025 18:32:\n\nНедоступно 3G:\n1) MS0225\n2) MC3987\nНедоступно LTE800:\n1) MS0225\nНедоступно LTE2600:\n1) MS0225\n2) MS2879\n3) MC3987\nНедоступно LTE2100:\n1) MS0225\n",
+  "timestamp": "18:32:35",
   "date": "2025-12-29",
-  "full_timestamp": "2025-12-29T18:18:41.855040",
+  "full_timestamp": "2025-12-29T18:32:35.569831",
   "stats": {
     "total_bs": 47,
-    "base_layer_count": 1,
+    "base_layer_count": 2,
     "power_problems": 1,
-    "non_priority_percentage": 98,
-    "base_layer_percentage": 2
+    "non_priority_percentage": 96,
+    "base_layer_percentage": 4
   },
   "is_real_data": true,
-  "collected_at": "2025-12-29T18:18:41.855040",
+  "collected_at": "2025-12-29T18:32:35.569831",
   "macroregion": "Москва"
 }
