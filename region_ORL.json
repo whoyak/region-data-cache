@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ORL",
   "region_name": "Орловская область",
-  "base_layer": "ORL Базовый слой 30.12.2025 16:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ORL Неприоритетные технологии 30.12.2025 16:00:\n\nНедоступно 3G:\n1) OR0088\nНедоступно LTE2300:\n1) OR0248\n2) OR0140\n3) OR0172\n4) OR0178\n5) OR2422\n6) OR0077\n7) OR0977\n8) OR2018\n9) OR0159\n10) OR2424\n11) OR2019\n12) OR0632\n13) OR2015\n14) OR0505\n15) OR0430\n16) OR0274\n17) OR0604\n18) OR2020\n",
-  "timestamp": "16:00:34",
+  "base_layer": "ORL Базовый слой 30.12.2025 16:05:\n\n1) OR0096 2025-12-30T15:37:51\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ORL Неприоритетные технологии 30.12.2025 16:05:\n\nНедоступно LTE1800:\n1) OR0096\nНедоступно 3G:\n1) OR0096\n2) OR0088\nНедоступно LTE800:\n1) OR0096\nНедоступно LTE2300:\n1) OR0248\n2) OR0140\n3) OR0172\n4) OR0178\n5) OR2422\n6) OR0077\n7) OR0977\n8) OR2018\n9) OR0159\n10) OR2424\n11) OR2019\n12) OR0632\n13) OR2015\n14) OR0505\n15) OR0430\n16) OR0274\n17) OR0604\n18) OR2020\n",
+  "timestamp": "16:05:10",
   "date": "2025-12-30",
-  "full_timestamp": "2025-12-30T16:00:34.251361",
+  "full_timestamp": "2025-12-30T16:05:10.153459",
   "stats": {
-    "total_bs": 24,
-    "base_layer_count": 0,
+    "total_bs": 25,
+    "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 96,
+    "base_layer_percentage": 4
   },
   "is_real_data": true,
-  "collected_at": "2025-12-30T16:00:34.251361",
+  "collected_at": "2025-12-30T16:05:10.153459",
   "macroregion": "Черноземье"
 }
