@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "HAN",
   "region_name": "Ханты-Мансийский АО",
-  "base_layer": "HAN Базовый слой 30.12.2025 18:37:\n\n1) HM2468 2025-12-30T17:18:29\nPower Нет; Посещение Нет; WO Есть\n2) HM2414 2025-12-30T15:32:42\nPower Да; Посещение Нет; WO Есть\n3) HM1582 2025-12-30T15:38:15\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "HAN Неприоритетные технологии 30.12.2025 18:37:\n\nНедоступно LTE1800:\n1) HM2414\nНедоступно LTE2600:\n1) HM1199\nНедоступно LTE2300:\n1) HM0245\n",
-  "timestamp": "18:37:31",
+  "base_layer": "HAN Базовый слой 30.12.2025 18:52:\n\n1) HM2414 2025-12-30T15:32:42\nPower Да; Посещение Нет; WO Есть\n2) HM1582 2025-12-30T15:38:15\nPower Да; Посещение Нет; WO Нет\n3) HM0445 2025-12-30T18:12:44\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "HAN Неприоритетные технологии 30.12.2025 18:52:\n\nНедоступно LTE1800:\n1) HM2414\nНедоступно LTE2600:\n1) HM1199\nНедоступно LTE2300:\n1) HM0245\n",
+  "timestamp": "18:52:40",
   "date": "2025-12-30",
-  "full_timestamp": "2025-12-30T18:37:31.402391",
+  "full_timestamp": "2025-12-30T18:52:40.654587",
   "stats": {
-    "total_bs": 5,
+    "total_bs": 6,
     "base_layer_count": 3,
-    "power_problems": 1,
-    "non_priority_percentage": 40,
-    "base_layer_percentage": 60
+    "power_problems": 0,
+    "non_priority_percentage": 50,
+    "base_layer_percentage": 50
   },
   "is_real_data": true,
-  "collected_at": "2025-12-30T18:37:31.402391",
+  "collected_at": "2025-12-30T18:52:40.654587",
   "macroregion": "Урал"
 }
