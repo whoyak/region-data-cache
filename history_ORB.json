@@ -4646,22 +4646,22 @@
     {
       "region_code": "ORB",
       "region_name": "Оренбургская область",
-      "base_layer": "ORB Базовый слой 30.12.2025 16:00:\n\n1) OB0926 2025-12-30T12:40:35\nPower Нет; Посещение Нет; WO Есть\n2) OB0030 2025-12-30T12:58:35\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ORB Неприоритетные технологии 30.12.2025 16:00:\n\nНедоступно LTE1800:\n1) OB0926\n2) OB0030\nНедоступно 3G:\n1) OB0926\n2) OB0030\nНедоступно LTE800:\n1) OB0260\nНедоступно LTE2600:\n1) OB0926\n2) OB0030\nНедоступно LTE2100:\n1) OB0926\nНедоступно LTE2300:\n1) OB0236\n2) OB0102\n3) OB0548\n4) OB0437\n5) OB2039\n6) OB0237\n7) OB0235\n",
-      "base_layer_count": 2,
-      "total_bs_count": 11,
+      "base_layer": "ORB Базовый слой 30.12.2025 16:05:\n\n1) OB0030 2025-12-30T12:58:35\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ORB Неприоритетные технологии 30.12.2025 16:05:\n\nНедоступно LTE1800:\n1) OB0030\nНедоступно 3G:\n1) OB0030\nНедоступно LTE800:\n1) OB0260\nНедоступно LTE2600:\n1) OB0030\nНедоступно LTE2300:\n1) OB0102\n2) OB0236\n3) OB0548\n4) OB0437\n5) OB2039\n6) OB0237\n7) OB0235\n",
+      "base_layer_count": 1,
+      "total_bs_count": 10,
       "power_problems": 1,
-      "non_priority_percentage": 82,
-      "timestamp": "16:00:28",
+      "non_priority_percentage": 90,
+      "timestamp": "16:05:03",
       "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T16:00:28.074801",
-      "created_at": "2025-12-30T16:00:36.886073",
-      "base_layer_percentage": 18,
+      "full_timestamp": "2025-12-30T16:05:03.909682",
+      "created_at": "2025-12-30T16:05:12.804802",
+      "base_layer_percentage": 10,
       "is_historical": true,
       "macroregion": "Урал"
     }
   ],
   "count": 274,
-  "timestamp": "2025-12-30T16:00:44.487143",
+  "timestamp": "2025-12-30T16:05:20.155036",
   "error": null
 }
