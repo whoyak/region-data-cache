@@ -6019,9 +6019,26 @@
       "base_layer_percentage": 10,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "TAM",
+      "region_name": "Тамбовская область",
+      "base_layer": "TAM Базовый слой 31.12.2025 11:00:\n\n1) TM0471 2025-12-31T09:38:29\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TM0471; wo Есть;Время 2025-12-31 10:21:35\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 31.12.2025 11:00:\n\nНедоступно LTE2300:\n1) TM0021\n2) TM0022\n3) TM0705\n",
+      "base_layer_count": 1,
+      "total_bs_count": 10,
+      "power_problems": 1,
+      "non_priority_percentage": 90,
+      "timestamp": "11:00:32",
+      "date": "2025-12-31",
+      "full_timestamp": "2025-12-31T11:00:32.479160",
+      "created_at": "2025-12-31T11:00:34.160779",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 354,
-  "timestamp": "2025-12-31T10:49:20.957524",
+  "count": 355,
+  "timestamp": "2025-12-31T11:00:44.426166",
   "error": null
 }
