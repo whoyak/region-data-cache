@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ROS",
   "region_name": "Ростовская область",
-  "base_layer": "ROS Базовый слой 31.12.2025 09:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ROS Неприоритетные технологии 31.12.2025 09:05:\n\nНедоступно 3G:\n1) RO0116\n2) RO2670\n3) RO0437\nНедоступно LTE2100:\n1) RO0437\n",
-  "timestamp": "09:05:44",
+  "base_layer": "ROS Базовый слой 31.12.2025 09:20:\n\n1) RO0437 2025-12-31T09:03:34\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ROS Неприоритетные технологии 31.12.2025 09:20:\n\nНедоступно 3G:\n1) RO2670\n2) RO0437\n",
+  "timestamp": "09:20:09",
   "date": "2025-12-31",
-  "full_timestamp": "2025-12-31T09:05:44.016489",
+  "full_timestamp": "2025-12-31T09:20:09.802648",
   "stats": {
     "total_bs": 62,
-    "base_layer_count": 0,
+    "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 99,
+    "base_layer_percentage": 1
   },
   "is_real_data": true,
-  "collected_at": "2025-12-31T09:05:44.016489",
+  "collected_at": "2025-12-31T09:20:09.802648",
   "macroregion": "ЮГ"
 }
