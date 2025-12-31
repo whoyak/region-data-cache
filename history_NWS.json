@@ -6652,22 +6652,22 @@
     {
       "region_code": "NWS",
       "region_name": "Северо-Западный округ Москвы",
-      "base_layer": "NWS Базовый слой 31.12.2025 20:05:\n\n1) MS3505 2025-12-31T14:39:22\nPower Нет; Посещение Да; WO Нет\n2) MO3182 2025-12-31T19:26:37\nPower Нет; Посещение Нет; WO Нет\n3) MS2015 2025-12-31T19:30:03\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NWS Неприоритетные технологии 31.12.2025 20:05:\n\nНедоступно 3G:\n1) MS3505\n2) MO3182\n3) MS2015\nНедоступно LTE800:\n1) MS3505\nНедоступно LTE2600:\n1) MO2275\n2) MO4847\n3) MS3505\n4) MC2328\n5) MO3182\n6) MS2015\nНедоступно LTE2100:\n1) MS3505\n2) MO3182\n3) MS2015\n",
-      "base_layer_count": 3,
-      "total_bs_count": 13,
-      "power_problems": 4,
-      "non_priority_percentage": 77,
-      "timestamp": "20:05:11",
+      "base_layer": "NWS Базовый слой 31.12.2025 20:19:\n\n1) MS3505 2025-12-31T14:39:22\nPower Нет; Посещение Да; WO Нет\n2) MS2015 2025-12-31T19:37:01\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NWS Неприоритетные технологии 31.12.2025 20:19:\n\nНедоступно 3G:\n1) MS3505\n2) MS2015\nНедоступно LTE800:\n1) MS3505\nНедоступно LTE2600:\n1) MS3505\n2) MC2328\n3) MS2015\n4) MO2275\nНедоступно LTE2100:\n1) MS3505\n2) MS2015\n",
+      "base_layer_count": 2,
+      "total_bs_count": 11,
+      "power_problems": 3,
+      "non_priority_percentage": 82,
+      "timestamp": "20:19:46",
       "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T20:05:11.782381",
-      "created_at": "2025-12-31T20:05:29.771819",
-      "base_layer_percentage": 23,
+      "full_timestamp": "2025-12-31T20:19:46.193439",
+      "created_at": "2025-12-31T20:20:04.292593",
+      "base_layer_percentage": 18,
       "is_historical": true,
       "macroregion": "Москва"
     }
   ],
   "count": 392,
-  "timestamp": "2025-12-31T20:05:41.297172",
+  "timestamp": "2025-12-31T20:20:15.162106",
   "error": null
 }
