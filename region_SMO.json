@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SMO",
   "region_name": "Смоленская область",
-  "base_layer": "SMO Базовый слой 31.12.2025 11:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SMO Неприоритетные технологии 31.12.2025 11:20:\n\nНедоступно LTE2300:\n1) SM0249\n2) SM0602\n3) SM0721\n4) SM0457\n5) SM0744\n6) SM0684\n7) SM0734\n8) SM0755\n",
-  "timestamp": "11:20:10",
+  "base_layer": "SMO Базовый слой 31.12.2025 11:34:\n\n1) SM0066 2025-12-31T10:52:49\nPower Нет; Посещение Нет; WO Есть\n2) SM0660 2025-12-31T10:33:38\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- SM0066; wo Есть;Время 2025-12-31 10:51:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SMO Неприоритетные технологии 31.12.2025 11:34:\n\nНедоступно LTE1800:\n1) SM0066\nНедоступно 3G:\n1) SM0066\nНедоступно LTE800:\n1) SM0066\nНедоступно LTE2600:\n1) SM0066\nНедоступно LTE2300:\n1) SM0249\n2) SM0602\n3) SM0721\n4) SM0457\n5) SM0744\n6) SM0684\n7) SM0734\n8) SM0755\n",
+  "timestamp": "11:34:30",
   "date": "2025-12-31",
-  "full_timestamp": "2025-12-31T11:20:10.681405",
+  "full_timestamp": "2025-12-31T11:34:30.964948",
   "stats": {
     "total_bs": 15,
-    "base_layer_count": 0,
-    "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "base_layer_count": 2,
+    "power_problems": 1,
+    "non_priority_percentage": 87,
+    "base_layer_percentage": 13
   },
   "is_real_data": true,
-  "collected_at": "2025-12-31T11:20:10.681405",
+  "collected_at": "2025-12-31T11:34:30.964948",
   "macroregion": "Центр"
 }
