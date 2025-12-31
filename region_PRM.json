@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "PRM",
   "region_name": "Пермский край",
-  "base_layer": "PRM Базовый слой 31.12.2025 16:34:\n\n1) PM0243 2025-12-31T07:27:25\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "PRM Неприоритетные технологии 31.12.2025 16:34:\n\nНедоступно LTE1800:\n1) PM0243\nНедоступно 3G:\n1) PM0092\n2) PM0150\n3) PM0243\n4) PM0332\n5) PM0424\nНедоступно LTE2600:\n1) PM0525\n2) PM1966\n3) PM0478\nНедоступно LTE2100:\n1) PM0243\n2) PM0332\nНедоступно LTE2300:\n1) PM0041\n2) PM0243\n3) PM0057\n4) PM0492\n",
-  "timestamp": "16:34:40",
+  "base_layer": "PRM Базовый слой 31.12.2025 16:49:\n\n1) PM2969 2025-12-31T16:10:15\nPower Да; Посещение Нет; WO Есть\n2) PM0243 2025-12-31T07:27:25\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PM1287; wo Нет;Время 2025-12-31 16:03:31\n- PM2160; wo Нет;Время 2025-12-31 16:03:31\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "PRM Неприоритетные технологии 31.12.2025 16:49:\n\nНедоступно LTE1800:\n1) PM0243\nНедоступно 3G:\n1) PM0092\n2) PM0150\n3) PM0243\n4) PM0332\n5) PM0424\nНедоступно LTE2600:\n1) PM0525\n2) PM1966\n3) PM0478\n4) PM2160\nНедоступно LTE2100:\n1) PM0243\n2) PM0332\nНедоступно LTE2300:\n1) PM1287\n2) PM0041\n3) PM0243\n4) PM0057\n5) PM0492\n",
+  "timestamp": "16:49:24",
   "date": "2025-12-31",
-  "full_timestamp": "2025-12-31T16:34:40.242404",
+  "full_timestamp": "2025-12-31T16:49:24.001374",
   "stats": {
-    "total_bs": 13,
-    "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 93,
-    "base_layer_percentage": 7
+    "total_bs": 16,
+    "base_layer_count": 2,
+    "power_problems": 2,
+    "non_priority_percentage": 88,
+    "base_layer_percentage": 12
   },
   "is_real_data": true,
-  "collected_at": "2025-12-31T16:34:40.242404",
+  "collected_at": "2025-12-31T16:49:24.001374",
   "macroregion": "Урал"
 }
