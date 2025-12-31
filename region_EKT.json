@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "EKT",
   "region_name": "Екатеринбург",
-  "base_layer": "EKT Базовый слой 31.12.2025 14:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "EKT Неприоритетные технологии 31.12.2025 14:20:\n\n",
-  "timestamp": "14:20:35",
+  "base_layer": "EKT Базовый слой 31.12.2025 14:35:\n\n1) EK0694 2025-12-26T11:27:20\nPower Да; Посещение Нет; WO Есть\n2) EK0049 2025-12-31T13:14:00\nPower Да; Посещение Нет; WO Нет\n3) EK0977 2025-12-31T13:57:44\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- EK2464; wo Нет;Время 2025-12-31 13:51:56\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "EKT Неприоритетные технологии 31.12.2025 14:35:\n\nНедоступно LTE1800:\n1) EK0694\n2) EK0977\nНедоступно 3G:\n1) EK2345\nНедоступно LTE800:\n1) EK2778\n2) EK2216\nНедоступно LTE2600:\n1) EK1030\n2) EK2216\n3) EK0866\n4) EK0977\nНедоступно LTE2100:\n1) EK2216\n2) EK0977\nНедоступно LTE2300:\n1) EK2216\n2) EK0294\n3) EK0425\n",
+  "timestamp": "14:35:08",
   "date": "2025-12-31",
-  "full_timestamp": "2025-12-31T14:20:35.591256",
+  "full_timestamp": "2025-12-31T14:35:08.557656",
   "stats": {
-    "total_bs": 0,
-    "base_layer_count": 0,
-    "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "total_bs": 12,
+    "base_layer_count": 3,
+    "power_problems": 1,
+    "non_priority_percentage": 75,
+    "base_layer_percentage": 25
   },
   "is_real_data": true,
-  "collected_at": "2025-12-31T14:20:35.591256",
+  "collected_at": "2025-12-31T14:35:08.557656",
   "macroregion": "Урал"
 }
