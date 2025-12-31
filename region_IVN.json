@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "IVN",
   "region_name": "Ивановская область",
-  "base_layer": "IVN Базовый слой 31.12.2025 11:34:\n\n1) IV0301 2025-12-31T04:42:22\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "IVN Неприоритетные технологии 31.12.2025 11:34:\n\nНедоступно LTE1800:\n1) IV0301\nНедоступно LTE800:\n1) IV0301\nНедоступно LTE2300:\n1) IV0297\n2) IV0174\n3) IV0575\n4) IV0300\n5) IV0105\n6) IV0100\n7) IV0769\n8) IV0050\n9) IV0608\n10) IV0002\n11) IV0110\n12) IV0652\n13) IV0221\n14) IV0091\n15) IV0135\n16) IV0554\n17) IV0149\n18) IV0301\n19) IV0090\n20) IV0093\n21) IV0087\n22) IV0535\n23) IV0243\n24) IV0348\n25) IV0058\n26) IV0030\n27) IV0094\n28) IV0167\n29) IV0654\n30) IV0190\n31) IV0283\n32) IV0199\n",
-  "timestamp": "11:34:29",
+  "base_layer": "IVN Базовый слой 31.12.2025 11:48:\n\n1) IV0301 2025-12-31T04:42:22\nPower Да; Посещение Нет; WO Нет\n2) IV0267 2025-12-31T11:01:52\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- IV0267; wo Нет;Время 2025-12-31 10:58:41\n- IV0603; wo Нет;Время 2025-12-31 10:58:41\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "IVN Неприоритетные технологии 31.12.2025 11:48:\n\nНедоступно LTE1800:\n1) IV0301\nНедоступно LTE800:\n1) IV0301\nНедоступно LTE2300:\n1) IV0297\n2) IV0174\n3) IV0575\n4) IV0300\n5) IV0105\n6) IV0100\n7) IV0769\n8) IV0050\n9) IV0608\n10) IV0002\n11) IV0110\n12) IV0652\n13) IV0221\n14) IV0091\n15) IV0135\n16) IV0554\n17) IV0149\n18) IV0301\n19) IV0090\n20) IV0093\n21) IV0087\n22) IV0535\n23) IV0243\n24) IV0348\n25) IV0058\n26) IV0030\n27) IV0094\n28) IV0167\n29) IV0654\n30) IV0190\n31) IV0283\n32) IV0199\n",
+  "timestamp": "11:48:56",
   "date": "2025-12-31",
-  "full_timestamp": "2025-12-31T11:34:29.734795",
+  "full_timestamp": "2025-12-31T11:48:56.912898",
   "stats": {
-    "total_bs": 32,
-    "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 97,
-    "base_layer_percentage": 3
+    "total_bs": 34,
+    "base_layer_count": 2,
+    "power_problems": 2,
+    "non_priority_percentage": 95,
+    "base_layer_percentage": 5
   },
   "is_real_data": true,
-  "collected_at": "2025-12-31T11:34:29.734795",
+  "collected_at": "2025-12-31T11:48:56.912898",
   "macroregion": "Центр"
 }
