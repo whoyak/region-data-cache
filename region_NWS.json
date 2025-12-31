@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NWS",
   "region_name": "Северо-Западный округ Москвы",
-  "base_layer": "NWS Базовый слой 31.12.2025 12:05:\n\n1) MO3194 2025-12-31T10:29:09\nPower Да; Посещение Нет; WO Нет\n2) MO2074 2025-12-31T11:10:45\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NWS Неприоритетные технологии 31.12.2025 12:05:\n\nНедоступно 3G:\n1) MO2074\nНедоступно LTE800:\n1) MO2074\nНедоступно LTE2600:\n1) MC2328\n2) MO2074\n3) MO2275\nНедоступно LTE2100:\n1) MO3194\n2) MO2074\n",
-  "timestamp": "12:05:17",
+  "base_layer": "NWS Базовый слой 31.12.2025 12:19:\n\n1) MO3194 2025-12-31T10:29:09\nPower Да; Посещение Нет; WO Нет\n2) MO2074 2025-12-31T11:10:45\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NWS Неприоритетные технологии 31.12.2025 12:19:\n\nНедоступно 3G:\n1) MO2074\nНедоступно LTE800:\n1) MO2074\n2) MO4507\nНедоступно LTE2600:\n1) MC2328\n2) MO2074\n3) MO1564\n4) MO2275\n5) MO1562\nНедоступно LTE2100:\n1) MO3194\n2) MO2074\n",
+  "timestamp": "12:19:59",
   "date": "2025-12-31",
-  "full_timestamp": "2025-12-31T12:05:17.158180",
+  "full_timestamp": "2025-12-31T12:19:59.474884",
   "stats": {
-    "total_bs": 13,
+    "total_bs": 17,
     "base_layer_count": 2,
-    "power_problems": 1,
-    "non_priority_percentage": 85,
-    "base_layer_percentage": 15
+    "power_problems": 4,
+    "non_priority_percentage": 89,
+    "base_layer_percentage": 11
   },
   "is_real_data": true,
-  "collected_at": "2025-12-31T12:05:17.158180",
+  "collected_at": "2025-12-31T12:19:59.474884",
   "macroregion": "Москва"
 }
