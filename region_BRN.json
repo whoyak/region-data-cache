@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "BRN",
   "region_name": "Барнаул",
-  "base_layer": "BRN Базовый слой 01.01.2026 09:33:\n\n1) AL1476 2026-01-01T08:38:27\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- AL1617; wo Есть;Время 2026-01-01 08:11:54\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "BRN Неприоритетные технологии 01.01.2026 09:33:\n\nНедоступно LTE1800:\n1) AL1476\nНедоступно LTE800:\n1) AL1476\n",
-  "timestamp": "09:33:59",
+  "base_layer": "BRN Базовый слой 01.01.2026 09:48:\n\n1) AL1476 2026-01-01T08:38:27\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "BRN Неприоритетные технологии 01.01.2026 09:48:\n\nНедоступно LTE1800:\n1) AL1476\nНедоступно LTE800:\n1) AL1476\n",
+  "timestamp": "09:48:33",
   "date": "2026-01-01",
-  "full_timestamp": "2026-01-01T09:33:59.868616",
+  "full_timestamp": "2026-01-01T09:48:33.338068",
   "stats": {
-    "total_bs": 3,
+    "total_bs": 2,
     "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "power_problems": 0,
+    "non_priority_percentage": 50,
+    "base_layer_percentage": 50
   },
   "is_real_data": true,
-  "collected_at": "2026-01-01T09:33:59.868616",
+  "collected_at": "2026-01-01T09:48:33.338068",
   "macroregion": "Сибирь"
 }
