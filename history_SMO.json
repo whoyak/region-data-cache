@@ -6652,22 +6652,22 @@
     {
       "region_code": "SMO",
       "region_name": "Смоленская область",
-      "base_layer": "SMO Базовый слой 01.01.2026 14:19:\n\n1) SM0252 2026-01-01T13:21:33\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- SM0392; wo Есть;Время 2026-01-01 11:45:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SMO Неприоритетные технологии 01.01.2026 14:19:\n\nНедоступно 3G:\n1) SM0392\nНедоступно LTE2300:\n1) SM0249\n2) SM0602\n3) SM0721\n4) SM0457\n5) SM0744\n6) SM0246\n7) SM0684\n8) SM0435\n9) SM0734\n10) SM0755\n",
-      "base_layer_count": 1,
-      "total_bs_count": 18,
+      "base_layer": "SMO Базовый слой 01.01.2026 14:34:\n\n1) SM0392 2026-01-01T14:11:59\nPower Нет; Посещение Нет; WO Есть\n2) SM0252 2026-01-01T13:21:33\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- SM0392; wo Есть;Время 2026-01-01 11:45:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SMO Неприоритетные технологии 01.01.2026 14:34:\n\nНедоступно 3G:\n1) SM0392\nНедоступно LTE2300:\n1) SM0249\n2) SM0602\n3) SM0721\n4) SM0457\n5) SM0744\n6) SM0246\n7) SM0684\n8) SM0435\n9) SM0734\n10) SM0755\n",
+      "base_layer_count": 2,
+      "total_bs_count": 16,
       "power_problems": 1,
-      "non_priority_percentage": 95,
-      "timestamp": "14:19:39",
+      "non_priority_percentage": 88,
+      "timestamp": "14:34:04",
       "date": "2026-01-01",
-      "full_timestamp": "2026-01-01T14:19:39.884461",
-      "created_at": "2026-01-01T14:19:45.746877",
-      "base_layer_percentage": 5,
+      "full_timestamp": "2026-01-01T14:34:04.771912",
+      "created_at": "2026-01-01T14:34:10.741769",
+      "base_layer_percentage": 12,
       "is_historical": true,
       "macroregion": "Центр"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-01T14:19:55.760032",
+  "timestamp": "2026-01-01T14:34:20.030069",
   "error": null
 }
