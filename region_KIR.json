@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KIR",
   "region_name": "Киров",
-  "base_layer": "KIR Базовый слой 01.01.2026 20:48:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KI0133; wo Есть;Время 2026-01-01 18:08:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KIR Неприоритетные технологии 01.01.2026 20:48:\n\nНедоступно 3G:\n1) KI0133\nНедоступно LTE800:\n1) KI0133\n",
-  "timestamp": "20:48:33",
+  "base_layer": "KIR Базовый слой 01.01.2026 21:00:\n\n1) KI0133 2026-01-01T20:40:17\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KI0133; wo Есть;Время 2026-01-01 18:08:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KIR Неприоритетные технологии 01.01.2026 21:00:\n\nНедоступно 3G:\n1) KI0133\nНедоступно LTE800:\n1) KI0133\n",
+  "timestamp": "21:00:09",
   "date": "2026-01-01",
-  "full_timestamp": "2026-01-01T20:48:33.845699",
+  "full_timestamp": "2026-01-01T21:00:09.725397",
   "stats": {
     "total_bs": 1,
-    "base_layer_count": 0,
+    "base_layer_count": 1,
     "power_problems": 1,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 0,
+    "base_layer_percentage": 100
   },
   "is_real_data": true,
-  "collected_at": "2026-01-01T20:48:33.845699",
+  "collected_at": "2026-01-01T21:00:09.725397",
   "macroregion": "Волга"
 }
