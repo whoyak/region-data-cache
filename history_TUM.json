@@ -5,23 +5,6 @@
     {
       "region_code": "TUM",
       "region_name": "Тюменская область",
-      "base_layer": "TUM Базовый слой 26.12.2025 17:16:\n\nВсего активных POWER на сети: 0\n\n10 приоритет:\n- TU0563; wo Есть;Время 2025-12-26 17:04:27\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TUM Неприоритетные технологии 26.12.2025 17:16:\n\nНедоступно 3G:\n1) TU0563\nНедоступно LTE800:\n1) TU0301\n2) TU0563\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0618\n",
-      "base_layer_count": 0,
-      "total_bs_count": 6,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "17:16:48",
-      "date": "2025-12-26",
-      "full_timestamp": "2025-12-26T17:16:48.426349",
-      "created_at": "2025-12-26T17:16:58.926244",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "TUM",
-      "region_name": "Тюменская область",
       "base_layer": "TUM Базовый слой 26.12.2025 17:29:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TU0563; wo Есть;Время 2025-12-26 17:04:27\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TUM Неприоритетные технологии 26.12.2025 17:29:\n\nНедоступно LTE800:\n1) TU0301\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0618\n",
       "base_layer_count": 0,
@@ -6614,9 +6597,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "TUM",
+      "region_name": "Тюменская область",
+      "base_layer": "TUM Базовый слой 02.01.2026 17:20:\n\n1) TU0419 2026-01-02T07:44:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUM Неприоритетные технологии 02.01.2026 17:20:\n\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU0449\n4) TU2048\n5) TU0618\n",
+      "base_layer_count": 1,
+      "total_bs_count": 6,
+      "power_problems": 0,
+      "non_priority_percentage": 84,
+      "timestamp": "17:20:22",
+      "date": "2026-01-02",
+      "full_timestamp": "2026-01-02T17:20:22.376477",
+      "created_at": "2026-01-02T17:20:30.857012",
+      "base_layer_percentage": 16,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 389,
-  "timestamp": "2026-01-02T17:05:54.825417",
+  "timestamp": "2026-01-02T17:20:45.527735",
   "error": null
 }
