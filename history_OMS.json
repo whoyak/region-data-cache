@@ -5,23 +5,6 @@
     {
       "region_code": "OMS",
       "region_name": "Омская область",
-      "base_layer": "OMS Базовый слой 26.12.2025 19:16:\n\n1) OM0206 2025-12-26T18:53:08\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "OMS Неприоритетные технологии 26.12.2025 19:16:\n\nНедоступно 3G:\n1) OM0206\n2) OM0097\n3) OM0653\nНедоступно LTE800:\n1) OM0653\nНедоступно LTE2600:\n1) OM0206\n2) OM0097\n3) OM0653\nНедоступно LTE2100:\n1) OM0059\n2) OM0206\n3) OM0097\n4) OM0653\n",
-      "base_layer_count": 1,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 75,
-      "timestamp": "19:16:55",
-      "date": "2025-12-26",
-      "full_timestamp": "2025-12-26T19:16:55.150966",
-      "created_at": "2025-12-26T19:17:10.007323",
-      "base_layer_percentage": 25,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "OMS",
-      "region_name": "Омская область",
       "base_layer": "OMS Базовый слой 26.12.2025 19:29:\n\n1) OM0206 2025-12-26T18:53:08\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "OMS Неприоритетные технологии 26.12.2025 19:29:\n\nНедоступно LTE1800:\n1) OM0206\nНедоступно 3G:\n1) OM0206\n2) OM0097\nНедоступно LTE2600:\n1) OM0206\n2) OM0097\nНедоступно LTE2100:\n1) OM0059\n2) OM0206\n3) OM0097\n",
       "base_layer_count": 1,
@@ -6597,9 +6580,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "OMS",
+      "region_name": "Омская область",
+      "base_layer": "OMS Базовый слой 02.01.2026 19:19:\n\n1) OM0063 2026-01-02T18:27:02\nPower Нет; Посещение Нет; WO Есть\n2) OM0206 2026-01-02T18:45:00\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- OM0206; wo Есть;Время 2026-01-02 17:20:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "OMS Неприоритетные технологии 02.01.2026 19:19:\n\nНедоступно LTE1800:\n1) OM0063\n2) OM0206\nНедоступно 3G:\n1) OM0063\n2) OM0206\nНедоступно LTE2600:\n1) OM0063\n2) OM0206\nНедоступно LTE2100:\n1) OM0063\n2) OM0604\n3) OM0206\n",
+      "base_layer_count": 2,
+      "total_bs_count": 3,
+      "power_problems": 2,
+      "non_priority_percentage": 34,
+      "timestamp": "19:19:41",
+      "date": "2026-01-02",
+      "full_timestamp": "2026-01-02T19:19:41.527419",
+      "created_at": "2026-01-02T19:19:53.302933",
+      "base_layer_percentage": 66,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 388,
-  "timestamp": "2026-01-02T19:05:43.626629",
+  "timestamp": "2026-01-02T19:20:04.705435",
   "error": null
 }
