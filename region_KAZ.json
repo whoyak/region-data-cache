@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KAZ",
   "region_name": "Казань",
-  "base_layer": "KAZ Базовый слой 02.01.2026 16:34:\n\n1) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KAZ Неприоритетные технологии 02.01.2026 16:34:\n\nНедоступно LTE2300:\n1) TT1312\n2) TT1326\n3) TT1308\n4) TT1007\n5) TT0840\n6) TT1066\n7) TT0728\n8) TT0640\n9) TT0073\n10) TT1327\n11) TT2130\n12) TT0213\n13) TT0630\n14) TT1228\n15) TT1133\n16) TT1155\n17) TT1315\n18) TT2237\n19) TT0636\n20) TT2208\n21) TT1250\n22) TT1329\n23) TT0842\n24) TT0412\n25) TT0406\n26) TT1024\n",
-  "timestamp": "16:34:17",
+  "base_layer": "KAZ Базовый слой 02.01.2026 16:49:\n\n1) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KAZ Неприоритетные технологии 02.01.2026 16:49:\n\nНедоступно 3G:\n1) TT0648\nНедоступно LTE800:\n1) TT0648\n2) TT0625\nНедоступно LTE2300:\n1) TT1312\n2) TT1326\n3) TT1308\n4) TT0709\n5) TT1007\n6) TT0840\n7) TT1066\n8) TT0728\n9) TT0640\n10) TT0073\n11) TT1327\n12) TT2130\n13) TT0213\n14) TT0630\n15) TT1228\n16) TT1133\n17) TT1155\n18) TT1315\n19) TT2237\n20) TT0636\n21) TT2208\n22) TT1250\n23) TT1329\n24) TT0842\n25) TT0412\n26) TT0406\n27) TT1024\n",
+  "timestamp": "16:49:00",
   "date": "2026-01-02",
-  "full_timestamp": "2026-01-02T16:34:17.513415",
+  "full_timestamp": "2026-01-02T16:49:00.325877",
   "stats": {
-    "total_bs": 32,
+    "total_bs": 35,
     "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 97,
-    "base_layer_percentage": 3
+    "power_problems": 2,
+    "non_priority_percentage": 98,
+    "base_layer_percentage": 2
   },
   "is_real_data": true,
-  "collected_at": "2026-01-02T16:34:17.513415",
+  "collected_at": "2026-01-02T16:49:00.325877",
   "macroregion": "Волга"
 }
