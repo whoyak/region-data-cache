@@ -5,23 +5,6 @@
     {
       "region_code": "RYZ",
       "region_name": "Рязанская область",
-      "base_layer": "RYZ Базовый слой 27.12.2025 00:10:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- RZ0340; wo Нет;Время 2025-12-23 12:02:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "RYZ Неприоритетные технологии 27.12.2025 00:10:\n\nНедоступно LTE800:\n1) RZ0340\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
-      "base_layer_count": 0,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "00:10:30",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T00:10:30.735174",
-      "created_at": "2025-12-27T00:10:38.747330",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "RYZ",
-      "region_name": "Рязанская область",
       "base_layer": "RYZ Базовый слой 27.12.2025 00:23:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- RZ0340; wo Нет;Время 2025-12-23 12:02:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "RYZ Неприоритетные технологии 27.12.2025 00:23:\n\nНедоступно LTE800:\n1) RZ0340\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
       "base_layer_count": 0,
@@ -6563,9 +6546,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "RYZ",
+      "region_name": "Рязанская область",
+      "base_layer": "RYZ Базовый слой 03.01.2026 00:19:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- RZ0286; wo Нет;Время 2026-01-01 20:11:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "RYZ Неприоритетные технологии 03.01.2026 00:19:\n\nНедоступно 3G:\n1) RZ0286\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0473\n3) RZ0461\n4) RZ0093\n5) RZ0039\n6) RZ0034\n",
+      "base_layer_count": 0,
+      "total_bs_count": 7,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "00:19:53",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T00:19:53.110454",
+      "created_at": "2026-01-03T00:19:59.224483",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 386,
-  "timestamp": "2026-01-03T00:05:38.573048",
+  "timestamp": "2026-01-03T00:20:12.462589",
   "error": null
 }
