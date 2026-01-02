@@ -5,23 +5,6 @@
     {
       "region_code": "KAZ",
       "region_name": "Казань",
-      "base_layer": "KAZ Базовый слой 27.12.2025 00:36:\n\n1) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KAZ Неприоритетные технологии 27.12.2025 00:36:\n\nНедоступно LTE2300:\n1) TT1007\n2) TT0840\n3) TT2130\n4) TT1133\n5) TT1024\n",
-      "base_layer_count": 1,
-      "total_bs_count": 38,
-      "power_problems": 0,
-      "non_priority_percentage": 98,
-      "timestamp": "00:36:49",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T00:36:49.524185",
-      "created_at": "2025-12-27T00:37:15.363351",
-      "base_layer_percentage": 2,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "KAZ",
-      "region_name": "Казань",
       "base_layer": "KAZ Базовый слой 27.12.2025 00:49:\n\n1) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KAZ Неприоритетные технологии 27.12.2025 00:49:\n\nНедоступно LTE2300:\n1) TT1007\n2) TT0840\n3) TT2130\n4) TT0779\n5) TT1133\n6) TT1024\n",
       "base_layer_count": 1,
@@ -6563,9 +6546,26 @@
       "base_layer_percentage": 7,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "KAZ",
+      "region_name": "Казань",
+      "base_layer": "KAZ Базовый слой 03.01.2026 00:48:\n\n1) TT1312 2026-01-03T00:30:44\nPower Да; Посещение Нет; WO Нет\n2) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KAZ Неприоритетные технологии 03.01.2026 00:48:\n\nНедоступно LTE1800:\n1) TT1312\nНедоступно LTE800:\n1) TT1312\nНедоступно LTE2100:\n1) TT1312\nНедоступно LTE2300:\n1) TT1308\n2) TT1312\n3) TT1007\n4) TT0840\n5) TT1066\n6) TT0640\n7) TT0073\n8) TT2130\n9) TT0213\n10) TT0630\n11) TT1133\n12) TT2237\n13) TT0636\n14) TT0842\n15) TT1024\n",
+      "base_layer_count": 2,
+      "total_bs_count": 25,
+      "power_problems": 0,
+      "non_priority_percentage": 92,
+      "timestamp": "00:48:47",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T00:48:47.930254",
+      "created_at": "2026-01-03T00:49:08.885164",
+      "base_layer_percentage": 8,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 386,
-  "timestamp": "2026-01-03T00:34:43.850698",
+  "timestamp": "2026-01-03T00:49:32.699791",
   "error": null
 }
