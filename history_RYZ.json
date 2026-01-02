@@ -5,23 +5,6 @@
     {
       "region_code": "RYZ",
       "region_name": "Рязанская область",
-      "base_layer": "RYZ Базовый слой 26.12.2025 19:43:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- RZ0340; wo Нет;Время 2025-12-23 12:02:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "RYZ Неприоритетные технологии 26.12.2025 19:43:\n\nНедоступно 3G:\n1) RZ0218\nНедоступно LTE800:\n1) RZ0340\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
-      "base_layer_count": 0,
-      "total_bs_count": 5,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "19:43:01",
-      "date": "2025-12-26",
-      "full_timestamp": "2025-12-26T19:43:01.564303",
-      "created_at": "2025-12-26T19:43:09.676183",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "RYZ",
-      "region_name": "Рязанская область",
       "base_layer": "RYZ Базовый слой 26.12.2025 20:00:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- RZ0340; wo Нет;Время 2025-12-23 12:02:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "RYZ Неприоритетные технологии 26.12.2025 20:00:\n\nНедоступно 3G:\n1) RZ0218\nНедоступно LTE800:\n1) RZ0340\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
       "base_layer_count": 0,
@@ -6597,9 +6580,26 @@
       "base_layer_percentage": 14,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "RYZ",
+      "region_name": "Рязанская область",
+      "base_layer": "RYZ Базовый слой 02.01.2026 19:48:\n\n1) RZ0267 2026-01-02T18:13:45\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- RZ0713; wo Нет;Время 2026-01-02 19:23:50\n- RZ0286; wo Нет;Время 2026-01-01 20:11:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "RYZ Неприоритетные технологии 02.01.2026 19:48:\n\nНедоступно 3G:\n1) RZ0267\n2) RZ0286\nНедоступно LTE800:\n1) RZ0267\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0473\n3) RZ0461\n4) RZ0093\n5) RZ0039\n6) RZ0034\n",
+      "base_layer_count": 1,
+      "total_bs_count": 9,
+      "power_problems": 3,
+      "non_priority_percentage": 89,
+      "timestamp": "19:48:56",
+      "date": "2026-01-02",
+      "full_timestamp": "2026-01-02T19:48:56.964588",
+      "created_at": "2026-01-02T19:49:03.488868",
+      "base_layer_percentage": 11,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 388,
-  "timestamp": "2026-01-02T19:34:42.789754",
+  "timestamp": "2026-01-02T19:49:20.667705",
   "error": null
 }
