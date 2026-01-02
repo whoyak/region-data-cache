@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NWS",
   "region_name": "Северо-Западный округ Москвы",
-  "base_layer": "NWS Базовый слой 02.01.2026 18:35:\n\n1) MO0770 2026-01-02T13:51:51\nPower Нет; Посещение Да; WO Есть\n2) MR2109 2026-01-02T16:50:53\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NWS Неприоритетные технологии 02.01.2026 18:35:\n\nНедоступно 3G:\n1) MO0770\n2) MR2109\nНедоступно LTE800:\n1) MO0770\n2) MO1994\n3) MO3540\n4) MO4044\nНедоступно LTE2600:\n1) MC2221\n2) MO0243\n3) MR2109\n4) MO1994\n5) MC2328\n6) MO1660\n7) MO3540\n8) MO4044\n9) MO2275\nНедоступно LTE2100:\n1) MO0770\n2) MR2109\n",
-  "timestamp": "18:35:25",
+  "base_layer": "NWS Базовый слой 02.01.2026 18:50:\n\n1) MO0770 2026-01-02T13:51:51\nPower Нет; Посещение Да; WO Есть\n2) MR2109 2026-01-02T16:50:53\nPower Да; Посещение Нет; WO Нет\n3) MR1644 2026-01-02T18:08:08\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NWS Неприоритетные технологии 02.01.2026 18:50:\n\nНедоступно 3G:\n1) MO0770\n2) MR2109\n3) MR1644\nНедоступно LTE800:\n1) MO0770\n2) MO1994\n3) MO4044\nНедоступно LTE2600:\n1) MO0243\n2) MC2221\n3) MR2109\n4) MO1994\n5) MC2328\n6) MO1660\n7) MO4044\n8) MO2275\nНедоступно LTE2100:\n1) MO0770\n2) MR2109\n3) MR1644\n",
+  "timestamp": "18:50:04",
   "date": "2026-01-02",
-  "full_timestamp": "2026-01-02T18:35:25.792442",
+  "full_timestamp": "2026-01-02T18:50:04.274911",
   "stats": {
-    "total_bs": 18,
-    "base_layer_count": 2,
-    "power_problems": 3,
-    "non_priority_percentage": 89,
-    "base_layer_percentage": 11
+    "total_bs": 20,
+    "base_layer_count": 3,
+    "power_problems": 4,
+    "non_priority_percentage": 85,
+    "base_layer_percentage": 15
   },
   "is_real_data": true,
-  "collected_at": "2026-01-02T18:35:25.792442",
+  "collected_at": "2026-01-02T18:50:04.274911",
   "macroregion": "Москва"
 }
