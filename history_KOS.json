@@ -5,23 +5,6 @@
     {
       "region_code": "KOS",
       "region_name": "Костромская область",
-      "base_layer": "KOS Базовый слой 26.12.2025 22:49:\n\n1) KS0401 2025-12-26T21:11:27\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KS0401; wo Есть;Время 2025-12-26 19:44:45\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOS Неприоритетные технологии 26.12.2025 22:49:\n\nНедоступно LTE1800:\n1) KS0401\nНедоступно 3G:\n1) KS0401\nНедоступно LTE2100:\n1) KS0401\nНедоступно LTE2300:\n1) KS0015\n2) KS0151\n3) KS0145\n",
-      "base_layer_count": 1,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 75,
-      "timestamp": "22:49:16",
-      "date": "2025-12-26",
-      "full_timestamp": "2025-12-26T22:49:16.284424",
-      "created_at": "2025-12-26T22:49:24.408394",
-      "base_layer_percentage": 25,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "KOS",
-      "region_name": "Костромская область",
       "base_layer": "KOS Базовый слой 26.12.2025 23:04:\n\n1) KS0401 2025-12-26T21:11:27\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOS Неприоритетные технологии 26.12.2025 23:04:\n\nНедоступно LTE1800:\n1) KS0401\nНедоступно 3G:\n1) KS0401\nНедоступно LTE2100:\n1) KS0401\nНедоступно LTE2300:\n1) KS0015\n2) KS0151\n3) KS0145\n",
       "base_layer_count": 1,
@@ -6580,9 +6563,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KOS",
+      "region_name": "Костромская область",
+      "base_layer": "KOS Базовый слой 02.01.2026 23:00:\n\n1) KS0174 2026-01-02T01:09:11\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KS0162; wo Нет;Время 2026-01-02 20:51:11\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 02.01.2026 23:00:\n\nНедоступно 3G:\n1) KS0162\nНедоступно LTE800:\n1) KS0174\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0145\n",
+      "base_layer_count": 1,
+      "total_bs_count": 5,
+      "power_problems": 2,
+      "non_priority_percentage": 80,
+      "timestamp": "23:00:48",
+      "date": "2026-01-02",
+      "full_timestamp": "2026-01-02T23:00:48.046822",
+      "created_at": "2026-01-02T23:00:54.479463",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 387,
-  "timestamp": "2026-01-02T22:49:21.844104",
+  "timestamp": "2026-01-02T23:01:07.257703",
   "error": null
 }
