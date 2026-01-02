@@ -5,23 +5,6 @@
     {
       "region_code": "KOS",
       "region_name": "Костромская область",
-      "base_layer": "KOS Базовый слой 26.12.2025 18:00:\n\n1) KS0298 2025-12-26T16:23:10\nPower Да; Посещение Нет; WO Нет\n2) KS2662 2025-12-26T16:23:10\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KS0509; wo Нет;Время 2025-12-26 16:46:58\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOS Неприоритетные технологии 26.12.2025 18:00:\n\nНедоступно LTE1800:\n1) KS0298\n2) KS2662\nНедоступно 3G:\n1) KS0509\nНедоступно LTE2300:\n1) KS0298\n2) KS0015\n3) KS0151\n4) KS0145\n",
-      "base_layer_count": 2,
-      "total_bs_count": 6,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "18:00:46",
-      "date": "2025-12-26",
-      "full_timestamp": "2025-12-26T18:00:46.607811",
-      "created_at": "2025-12-26T18:00:54.940011",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "KOS",
-      "region_name": "Костромская область",
       "base_layer": "KOS Базовый слой 26.12.2025 18:08:\n\n1) KS0298 2025-12-26T16:23:10\nPower Да; Посещение Нет; WO Нет\n2) KS2662 2025-12-26T16:23:10\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KS0509; wo Нет;Время 2025-12-26 16:46:58\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOS Неприоритетные технологии 26.12.2025 18:08:\n\nНедоступно LTE1800:\n1) KS0298\n2) KS2662\nНедоступно 3G:\n1) KS0509\nНедоступно LTE2300:\n1) KS0298\n2) KS0015\n3) KS0151\n4) KS0145\n",
       "base_layer_count": 2,
@@ -6614,9 +6597,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KOS",
+      "region_name": "Костромская область",
+      "base_layer": "KOS Базовый слой 02.01.2026 18:06:\n\n1) KS0174 2026-01-02T01:09:11\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- KS0147; wo Нет;Время 2026-01-02 16:55:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 02.01.2026 18:06:\n\nНедоступно 3G:\n1) KS0147\nНедоступно LTE800:\n1) KS0174\nНедоступно LTE2100:\n1) KS0147\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0145\n",
+      "base_layer_count": 1,
+      "total_bs_count": 5,
+      "power_problems": 2,
+      "non_priority_percentage": 80,
+      "timestamp": "18:06:22",
+      "date": "2026-01-02",
+      "full_timestamp": "2026-01-02T18:06:22.763585",
+      "created_at": "2026-01-02T18:06:29.335341",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 389,
-  "timestamp": "2026-01-02T18:01:00.820975",
+  "timestamp": "2026-01-02T18:06:44.240103",
   "error": null
 }
