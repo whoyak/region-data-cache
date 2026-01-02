@@ -5,23 +5,6 @@
     {
       "region_code": "PNZ",
       "region_name": "Пензенская область",
-      "base_layer": "PNZ Базовый слой 27.12.2025 01:17:\n\n1) PN0682 2025-12-26T00:02:39\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- PN0603; wo Нет;Время 2025-12-27 00:27:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PNZ Неприоритетные технологии 27.12.2025 01:17:\n\nНедоступно LTE1800:\n1) PN0682\nНедоступно 3G:\n1) PN0179\nНедоступно LTE800:\n1) PN0682\nНедоступно LTE2600:\n1) PN0682\n",
-      "base_layer_count": 1,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 75,
-      "timestamp": "01:17:44",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T01:17:44.077992",
-      "created_at": "2025-12-27T01:17:47.010903",
-      "base_layer_percentage": 25,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "PNZ",
-      "region_name": "Пензенская область",
       "base_layer": "PNZ Базовый слой 27.12.2025 01:31:\n\n1) PN0682 2025-12-26T00:02:39\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PNZ Неприоритетные технологии 27.12.2025 01:31:\n\nНедоступно LTE1800:\n1) PN0682\nНедоступно 3G:\n1) PN0179\nНедоступно LTE800:\n1) PN0682\nНедоступно LTE2600:\n1) PN0682\n",
       "base_layer_count": 1,
@@ -6546,9 +6529,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "PNZ",
+      "region_name": "Пензенская область",
+      "base_layer": "PNZ Базовый слой 03.01.2026 01:20:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 03.01.2026 01:20:\n\nНедоступно LTE800:\n1) PN0826\nНедоступно LTE2300:\n1) PN0905\n2) PN0802\n3) PN1257\n4) PN0015\n5) PN0551\n",
+      "base_layer_count": 0,
+      "total_bs_count": 15,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "01:20:12",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T01:20:12.997493",
+      "created_at": "2026-01-03T01:20:15.323130",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 385,
-  "timestamp": "2026-01-03T01:05:49.882312",
+  "timestamp": "2026-01-03T01:20:30.338787",
   "error": null
 }
