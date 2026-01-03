@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 27.12.2025 05:31:\n\n1) MO3904 2025-12-26T21:04:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- MO6295; wo Есть;Время 2025-12-27 03:52:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 27.12.2025 05:31:\n\nНедоступно 3G:\n1) MO3904\nНедоступно LTE800:\n1) MO3904\nНедоступно LTE2600:\n1) MO6295\n2) MO3904\nНедоступно LTE2100:\n1) MO3904\n",
-      "base_layer_count": 1,
-      "total_bs_count": 7,
-      "power_problems": 1,
-      "non_priority_percentage": 86,
-      "timestamp": "05:31:37",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T05:31:37.708948",
-      "created_at": "2025-12-27T05:32:01.162765",
-      "base_layer_percentage": 14,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 27.12.2025 05:44:\n\n1) MO3904 2025-12-26T21:04:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- MO6295; wo Есть;Время 2025-12-27 03:52:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 27.12.2025 05:44:\n\nНедоступно 3G:\n1) MO3904\nНедоступно LTE800:\n1) MO3904\nНедоступно LTE2600:\n1) MO6295\n2) MO3904\nНедоступно LTE2100:\n1) MO3904\n",
       "base_layer_count": 1,
@@ -6512,9 +6495,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 03.01.2026 05:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 03.01.2026 05:34:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 9,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "05:34:06",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T05:34:06.917282",
+      "created_at": "2026-01-03T05:34:24.746216",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 383,
-  "timestamp": "2026-01-03T05:20:16.947163",
+  "timestamp": "2026-01-03T05:34:38.501645",
   "error": null
 }
