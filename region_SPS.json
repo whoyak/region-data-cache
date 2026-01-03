@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SPS",
   "region_name": "Санкт-Петербург Юг",
-  "base_layer": "SPS Базовый слой 03.01.2026 07:05:\n\n1) LE1322 2026-01-03T02:15:26\nPower Да; Посещение Да; WO Есть\n2) SP0061 2025-11-27T08:15:51\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SPS Неприоритетные технологии 03.01.2026 07:05:\n\nНедоступно LTE1800:\n1) SP0061\nНедоступно 3G:\n1) SP0061\nНедоступно LTE800:\n1) SP0865\n2) SP0061\nНедоступно LTE2600:\n1) SP0061\nНедоступно LTE2100:\n1) SP0061\nНедоступно LTE2300:\n1) LE2684\n",
-  "timestamp": "07:05:28",
+  "base_layer": "SPS Базовый слой 03.01.2026 07:19:\n\n1) SP0061 2025-11-27T08:15:51\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SPS Неприоритетные технологии 03.01.2026 07:19:\n\nНедоступно LTE1800:\n1) SP0061\nНедоступно 3G:\n1) SP0061\nНедоступно LTE800:\n1) SP0865\n2) SP0061\nНедоступно LTE2600:\n1) SP0061\nНедоступно LTE2100:\n1) SP0061\nНедоступно LTE2300:\n1) LE2684\n",
+  "timestamp": "07:19:51",
   "date": "2026-01-03",
-  "full_timestamp": "2026-01-03T07:05:28.250273",
+  "full_timestamp": "2026-01-03T07:19:51.990106",
   "stats": {
-    "total_bs": 4,
-    "base_layer_count": 2,
+    "total_bs": 5,
+    "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 50,
-    "base_layer_percentage": 50
+    "non_priority_percentage": 80,
+    "base_layer_percentage": 20
   },
   "is_real_data": true,
-  "collected_at": "2026-01-03T07:05:28.250273",
+  "collected_at": "2026-01-03T07:19:51.990106",
   "macroregion": "Северо-запад"
 }
