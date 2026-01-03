@@ -5,23 +5,6 @@
     {
       "region_code": "TUL",
       "region_name": "Тульская область",
-      "base_layer": "TUL Базовый слой 27.12.2025 05:45:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TUL Неприоритетные технологии 27.12.2025 05:45:\n\nНедоступно LTE2300:\n1) TL0094\n2) TL0106\n",
-      "base_layer_count": 0,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "05:45:15",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T05:45:15.401830",
-      "created_at": "2025-12-27T05:45:22.375295",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "TUL",
-      "region_name": "Тульская область",
       "base_layer": "TUL Базовый слой 27.12.2025 06:02:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TUL Неприоритетные технологии 27.12.2025 06:02:\n\nНедоступно LTE2300:\n1) TL0094\n2) TL0106\n",
       "base_layer_count": 0,
@@ -6512,9 +6495,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "TUL",
+      "region_name": "Тульская область",
+      "base_layer": "TUL Базовый слой 03.01.2026 05:48:\n\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- TL0418; wo Есть;Время 2026-01-03 05:17:17\n- TL0165; wo Есть;Время 2026-01-03 05:17:10\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUL Неприоритетные технологии 03.01.2026 05:48:\n\nНедоступно 3G:\n1) TL0418\n2) TL0165\n3) TL0077\nНедоступно LTE800:\n1) TL0418\nНедоступно LTE2300:\n1) TL0077\n2) TL0531\n3) TL0080\n4) TL0454\n5) TL0286\n6) TL0288\n7) TL0094\n8) TL0106\n",
+      "base_layer_count": 0,
+      "total_bs_count": 11,
+      "power_problems": 3,
+      "non_priority_percentage": 100,
+      "timestamp": "05:48:32",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T05:48:32.141484",
+      "created_at": "2026-01-03T05:48:37.512175",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 383,
-  "timestamp": "2026-01-03T05:34:38.501781",
+  "timestamp": "2026-01-03T05:48:49.765108",
   "error": null
 }
