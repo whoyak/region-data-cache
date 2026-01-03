@@ -5,23 +5,6 @@
     {
       "region_code": "KOS",
       "region_name": "Костромская область",
-      "base_layer": "KOS Базовый слой 27.12.2025 14:35:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KS0219; wo Нет;Время 2025-12-27 13:05:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOS Неприоритетные технологии 27.12.2025 14:35:\n\nНедоступно 3G:\n1) KS0219\nНедоступно LTE2100:\n1) KS0219\nНедоступно LTE2300:\n1) KS0015\n2) KS0151\n",
-      "base_layer_count": 0,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "14:35:51",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T14:35:51.439433",
-      "created_at": "2025-12-27T14:35:59.581135",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "KOS",
-      "region_name": "Костромская область",
       "base_layer": "KOS Базовый слой 27.12.2025 14:49:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KS0219; wo Нет;Время 2025-12-27 13:05:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOS Неприоритетные технологии 27.12.2025 14:49:\n\nНедоступно 3G:\n1) KS0219\nНедоступно LTE2100:\n1) KS0219\nНедоступно LTE2300:\n1) KS0015\n2) KS0151\n",
       "base_layer_count": 0,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KOS",
+      "region_name": "Костромская область",
+      "base_layer": "KOS Базовый слой 03.01.2026 14:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 03.01.2026 14:48:\n\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0145\n",
+      "base_layer_count": 0,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "14:48:17",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T14:48:17.445048",
+      "created_at": "2026-01-03T14:48:24.021546",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T14:34:17.686634",
+  "timestamp": "2026-01-03T14:48:37.176142",
   "error": null
 }
