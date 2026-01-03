@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 27.12.2025 11:01:\n\n1) MS3777 2025-12-27T10:10:21\nPower Да; Посещение Нет; WO Нет\n2) MO3904 2025-12-26T21:04:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 27.12.2025 11:01:\n\nНедоступно 3G:\n1) MS3777\n2) MO3904\nНедоступно LTE800:\n1) MO3904\nНедоступно LTE2600:\n1) MS3777\n2) MO3904\nНедоступно LTE2100:\n1) MS3777\n2) MO3904\n",
-      "base_layer_count": 2,
-      "total_bs_count": 6,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "11:01:57",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T11:01:57.062722",
-      "created_at": "2025-12-27T11:02:19.885101",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 27.12.2025 11:11:\n\n1) MS3777 2025-12-27T10:10:21\nPower Да; Посещение Нет; WO Нет\n2) MO3904 2025-12-26T21:04:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MS5149; wo Нет;Время 2025-12-27 10:41:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 27.12.2025 11:11:\n\nНедоступно 3G:\n1) MS3777\n2) MO3904\nНедоступно LTE800:\n1) MS5149\n2) MO3904\nНедоступно LTE2600:\n1) MS3777\n2) MS5149\n3) MO3904\nНедоступно LTE2100:\n1) MS3777\n2) MO3904\n",
       "base_layer_count": 2,
@@ -6461,9 +6444,26 @@
       "base_layer_percentage": 12,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 03.01.2026 11:05:\n\n1) MO1389 2026-01-03T10:32:02\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MO1389; wo Есть;Время 2026-01-03 06:43:58\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 03.01.2026 11:05:\n\nНедоступно 3G:\n1) MO1389\nНедоступно LTE800:\n1) MO1389\nНедоступно LTE2100:\n1) MO1389\n",
+      "base_layer_count": 1,
+      "total_bs_count": 8,
+      "power_problems": 1,
+      "non_priority_percentage": 88,
+      "timestamp": "11:05:14",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T11:05:14.708815",
+      "created_at": "2026-01-03T11:05:32.646240",
+      "base_layer_percentage": 12,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 380,
-  "timestamp": "2026-01-03T11:00:49.508766",
+  "timestamp": "2026-01-03T11:05:47.098223",
   "error": null
 }
