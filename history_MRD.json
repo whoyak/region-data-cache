@@ -5,23 +5,6 @@
     {
       "region_code": "MRD",
       "region_name": "Мордовия",
-      "base_layer": "MRD Базовый слой 27.12.2025 08:40:\n\n1) MV0726 2025-12-26T02:31:50\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MRD Неприоритетные технологии 27.12.2025 08:40:\n\nНедоступно LTE1800:\n1) MV0726\nНедоступно 3G:\n1) MV1505\nНедоступно LTE2300:\n1) MV0035\n2) MV0726\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "08:40:54",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T08:40:54.763154",
-      "created_at": "2025-12-27T08:40:58.421267",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "MRD",
-      "region_name": "Мордовия",
       "base_layer": "MRD Базовый слой 27.12.2025 08:54:\n\n1) MV0726 2025-12-26T02:31:50\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MRD Неприоритетные технологии 27.12.2025 08:54:\n\nНедоступно LTE1800:\n1) MV0726\nНедоступно 3G:\n1) MV1505\nНедоступно LTE2300:\n1) MV0035\n2) MV0726\n",
       "base_layer_count": 1,
@@ -6478,9 +6461,26 @@
       "base_layer_percentage": 9,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "MRD",
+      "region_name": "Мордовия",
+      "base_layer": "MRD Базовый слой 03.01.2026 08:47:\n\n1) MV0730 2026-01-02T23:41:57\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- MV0401; wo Есть;Время 2026-01-03 07:35:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 03.01.2026 08:47:\n\nНедоступно 3G:\n1) MV0401\nНедоступно LTE800:\n1) MV0398\n2) MV0401\nНедоступно LTE2300:\n1) MV0071\n2) MV0108\n3) MV0468\n4) MV0030\n5) MV0125\n6) MV0035\n7) MV0348\n",
+      "base_layer_count": 1,
+      "total_bs_count": 10,
+      "power_problems": 2,
+      "non_priority_percentage": 90,
+      "timestamp": "08:47:49",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T08:47:49.830489",
+      "created_at": "2026-01-03T08:47:52.716771",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 381,
-  "timestamp": "2026-01-03T08:33:44.696107",
+  "timestamp": "2026-01-03T08:48:06.076531",
   "error": null
 }
