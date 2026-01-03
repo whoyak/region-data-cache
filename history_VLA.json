@@ -5,23 +5,6 @@
     {
       "region_code": "VLA",
       "region_name": "Владимирская область",
-      "base_layer": "VLA Базовый слой 27.12.2025 15:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLA Неприоритетные технологии 27.12.2025 15:31:\n\nНедоступно LTE2300:\n1) VL0530\n2) VL0187\n3) VL0188\n4) VL0559\n5) VL0109\n6) VL0943\n7) VL0937\n8) VL0037\n9) VL0045\n",
-      "base_layer_count": 0,
-      "total_bs_count": 9,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:31:55",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T15:31:55.593022",
-      "created_at": "2025-12-27T15:32:01.689312",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "VLA",
-      "region_name": "Владимирская область",
       "base_layer": "VLA Базовый слой 27.12.2025 15:45:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLA Неприоритетные технологии 27.12.2025 15:45:\n\nНедоступно LTE2300:\n1) VL0530\n2) VL0187\n3) VL0188\n4) VL0559\n5) VL0109\n6) VL0943\n7) VL0937\n8) VL0037\n9) VL0045\n",
       "base_layer_count": 0,
@@ -6410,9 +6393,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "VLA",
+      "region_name": "Владимирская область",
+      "base_layer": "VLA Базовый слой 03.01.2026 15:34:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VL0541; wo Нет;Время 2026-01-03 14:52:34\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLA Неприоритетные технологии 03.01.2026 15:34:\n\nНедоступно LTE2300:\n1) VL0110\n2) VL0188\n3) VL0559\n4) VL0187\n5) VL0541\n6) VL0937\n7) VL0073\n8) VL0037\n9) VL0045\n",
+      "base_layer_count": 0,
+      "total_bs_count": 9,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "15:34:10",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T15:34:10.141596",
+      "created_at": "2026-01-03T15:34:14.886523",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 377,
-  "timestamp": "2026-01-03T15:20:09.507867",
+  "timestamp": "2026-01-03T15:34:28.518467",
   "error": null
 }
