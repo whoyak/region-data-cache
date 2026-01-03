@@ -5,23 +5,6 @@
     {
       "region_code": "SMO",
       "region_name": "Смоленская область",
-      "base_layer": "SMO Базовый слой 27.12.2025 16:39:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SMO Неприоритетные технологии 27.12.2025 16:39:\n\nНедоступно LTE2300:\n1) SM0249\n2) SM0602\n3) SM0721\n4) SM0457\n5) SM0744\n6) SM0734\n7) SM0755\n",
-      "base_layer_count": 0,
-      "total_bs_count": 12,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "16:39:57",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T16:39:57.879973",
-      "created_at": "2025-12-27T16:40:05.288622",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "SMO",
-      "region_name": "Смоленская область",
       "base_layer": "SMO Базовый слой 27.12.2025 16:53:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SMO Неприоритетные технологии 27.12.2025 16:53:\n\nНедоступно LTE2300:\n1) SM0249\n2) SM0602\n3) SM0721\n4) SM0457\n5) SM0744\n6) SM0734\n7) SM0755\n",
       "base_layer_count": 0,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 5,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "SMO",
+      "region_name": "Смоленская область",
+      "base_layer": "SMO Базовый слой 03.01.2026 16:49:\n\n1) SM0282 2026-01-03T13:40:02\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SMO Неприоритетные технологии 03.01.2026 16:49:\n\nНедоступно LTE1800:\n1) SM0282\nНедоступно 3G:\n1) SM0282\nНедоступно LTE800:\n1) SM0282\nНедоступно LTE2600:\n1) SM0282\nНедоступно LTE2300:\n1) SM0249\n2) SM0526\n3) SM0602\n4) SM0721\n5) SM0457\n6) SM0744\n7) SM0246\n8) SM0684\n9) SM0435\n10) SM0734\n11) SM0755\n",
+      "base_layer_count": 1,
+      "total_bs_count": 16,
+      "power_problems": 0,
+      "non_priority_percentage": 94,
+      "timestamp": "16:49:37",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T16:49:37.215929",
+      "created_at": "2026-01-03T16:49:43.353106",
+      "base_layer_percentage": 6,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T16:35:30.508823",
+  "timestamp": "2026-01-03T16:49:56.736397",
   "error": null
 }
