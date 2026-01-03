@@ -5,23 +5,6 @@
     {
       "region_code": "SAH",
       "region_name": "Сахалинская область",
-      "base_layer": "SAH Базовый слой 27.12.2025 05:31:\n\n1) SA0154 2025-12-25T21:41:36\nPower Да; Посещение Да; WO Есть\n2) SA0478 2025-12-27T00:47:51\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SAH Неприоритетные технологии 27.12.2025 05:31:\n\nНедоступно LTE1800:\n1) SA0154\n2) SA0478\nНедоступно 3G:\n1) SA0154\n2) SA0186\n3) SA0307\nНедоступно LTE2100:\n1) SA0154\n2) SA0307\n",
-      "base_layer_count": 2,
-      "total_bs_count": 7,
-      "power_problems": 0,
-      "non_priority_percentage": 72,
-      "timestamp": "05:31:31",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T05:31:31.749876",
-      "created_at": "2025-12-27T05:32:01.162346",
-      "base_layer_percentage": 28,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "SAH",
-      "region_name": "Сахалинская область",
       "base_layer": "SAH Базовый слой 27.12.2025 05:44:\n\n1) SA0154 2025-12-25T21:41:36\nPower Да; Посещение Да; WO Есть\n2) SA0478 2025-12-27T00:47:51\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SAH Неприоритетные технологии 27.12.2025 05:44:\n\nНедоступно LTE1800:\n1) SA0154\n2) SA0478\nНедоступно 3G:\n1) SA0154\n2) SA0186\n3) SA0307\nНедоступно LTE2100:\n1) SA0154\n2) SA0307\n",
       "base_layer_count": 2,
@@ -6512,9 +6495,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "SAH",
+      "region_name": "Сахалинская область",
+      "base_layer": "SAH Базовый слой 03.01.2026 05:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SAH Неприоритетные технологии 03.01.2026 05:34:\n\nНедоступно 3G:\n1) SA0307\nНедоступно LTE2100:\n1) SA0307\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "05:34:02",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T05:34:02.580319",
+      "created_at": "2026-01-03T05:34:24.744284",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 383,
-  "timestamp": "2026-01-03T05:20:16.947133",
+  "timestamp": "2026-01-03T05:34:38.501593",
   "error": null
 }
