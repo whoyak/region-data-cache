@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SWS",
   "region_name": "Юго-Западный округ Москвы",
-  "base_layer": "SWS Базовый слой 03.01.2026 10:19:\n\n1) MS3269 2026-01-03T09:05:12\nPower Да; Посещение Нет; WO Есть\n2) MR5256 2026-01-03T03:43:15\nPower Да; Посещение Да; WO Нет\n3) MS0777 2026-01-02T01:58:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SWS Неприоритетные технологии 03.01.2026 10:19:\n\nНедоступно 3G:\n1) MS3269\n2) MR5256\n3) MS0777\nНедоступно LTE800:\n1) MR5256\nНедоступно LTE2600:\n1) MR5256\nНедоступно LTE2100:\n1) MS3269\n",
-  "timestamp": "10:19:23",
+  "base_layer": "SWS Базовый слой 03.01.2026 10:33:\n\n1) MS3269 2026-01-03T09:05:12\nPower Да; Посещение Нет; WO Есть\n2) MR5256 2026-01-03T03:43:15\nPower Да; Посещение Да; WO Нет\n3) MS0777 2026-01-02T01:58:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SWS Неприоритетные технологии 03.01.2026 10:33:\n\nНедоступно 3G:\n1) MS3269\n2) MR5256\n3) MS0777\nНедоступно LTE800:\n1) MR5256\nНедоступно LTE2600:\n1) MR5256\nНедоступно LTE2100:\n1) MS3269\n",
+  "timestamp": "10:33:37",
   "date": "2026-01-03",
-  "full_timestamp": "2026-01-03T10:19:23.787488",
+  "full_timestamp": "2026-01-03T10:33:37.544443",
   "stats": {
-    "total_bs": 15,
+    "total_bs": 11,
     "base_layer_count": 3,
-    "power_problems": 1,
-    "non_priority_percentage": 80,
-    "base_layer_percentage": 20
+    "power_problems": 0,
+    "non_priority_percentage": 73,
+    "base_layer_percentage": 27
   },
   "is_real_data": true,
-  "collected_at": "2026-01-03T10:19:23.787488",
+  "collected_at": "2026-01-03T10:33:37.544443",
   "macroregion": "Москва"
 }
