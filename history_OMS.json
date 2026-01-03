@@ -5,23 +5,6 @@
     {
       "region_code": "OMS",
       "region_name": "Омская область",
-      "base_layer": "OMS Базовый слой 27.12.2025 11:02:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "OMS Неприоритетные технологии 27.12.2025 11:02:\n\nНедоступно LTE2100:\n1) OM0059\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "11:02:05",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T11:02:05.007616",
-      "created_at": "2025-12-27T11:02:19.885844",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "OMS",
-      "region_name": "Омская область",
       "base_layer": "OMS Базовый слой 27.12.2025 11:11:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "OMS Неприоритетные технологии 27.12.2025 11:11:\n\nНедоступно LTE2100:\n1) OM0059\n",
       "base_layer_count": 0,
@@ -6461,9 +6444,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "OMS",
+      "region_name": "Омская область",
+      "base_layer": "OMS Базовый слой 03.01.2026 11:05:\n\n1) OM0967 2026-01-03T09:29:47\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- OM2000; wo Нет;Время 2026-01-03 09:04:24\n\n3 приоритет:\n- OM0967; wo Есть;Время 2026-01-03 09:36:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "OMS Неприоритетные технологии 03.01.2026 11:05:\n\nНедоступно LTE1800:\n1) OM0967\nНедоступно 3G:\n1) OM2000\n2) OM0967\nНедоступно LTE2600:\n1) OM0967\nНедоступно LTE2100:\n1) OM2000\n2) OM0967\n3) OM0604\nНедоступно LTE2300:\n1) OM2000\n2) OM0967\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 2,
+      "non_priority_percentage": 67,
+      "timestamp": "11:05:21",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T11:05:21.006990",
+      "created_at": "2026-01-03T11:05:32.648999",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 380,
-  "timestamp": "2026-01-03T11:00:49.508810",
+  "timestamp": "2026-01-03T11:05:47.098268",
   "error": null
 }
