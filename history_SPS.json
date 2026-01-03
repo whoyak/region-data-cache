@@ -5,23 +5,6 @@
     {
       "region_code": "SPS",
       "region_name": "Санкт-Петербург Юг",
-      "base_layer": "SPS Базовый слой 27.12.2025 13:27:\n\n1) SP0061 2025-11-27T08:15:51\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- LE2273; wo Есть;Время 2025-12-27 12:37:18\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPS Неприоритетные технологии 27.12.2025 13:27:\n\nНедоступно LTE1800:\n1) SP0061\nНедоступно 3G:\n1) SP0061\n2) LE2273\nНедоступно LTE800:\n1) SP0061\n2) LE1124\nНедоступно LTE2600:\n1) SP0061\n2) LE2273\nНедоступно LTE2100:\n1) SP0061\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "13:27:34",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T13:27:34.017398",
-      "created_at": "2025-12-27T13:27:52.035598",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "SPS",
-      "region_name": "Санкт-Петербург Юг",
       "base_layer": "SPS Базовый слой 27.12.2025 13:41:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SPS Неприоритетные технологии 27.12.2025 13:41:\n\n",
       "base_layer_count": 0,
@@ -6444,9 +6427,26 @@
       "base_layer_percentage": 60,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPS",
+      "region_name": "Санкт-Петербург Юг",
+      "base_layer": "SPS Базовый слой 03.01.2026 13:34:\n\n1) SP0061 2025-11-27T08:15:51\nPower Да; Посещение Нет; WO Нет\n2) SP1828 2026-01-03T09:40:07\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPS Неприоритетные технологии 03.01.2026 13:34:\n\nНедоступно LTE1800:\n1) SP0061\nНедоступно 3G:\n1) SP0061\nНедоступно LTE800:\n1) SP0865\n2) SP0061\n3) LE2792\nНедоступно LTE2600:\n1) SP0061\nНедоступно LTE2100:\n1) SP0061\n",
+      "base_layer_count": 2,
+      "total_bs_count": 5,
+      "power_problems": 0,
+      "non_priority_percentage": 60,
+      "timestamp": "13:34:38",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T13:34:38.634001",
+      "created_at": "2026-01-03T13:34:52.600736",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 379,
-  "timestamp": "2026-01-03T13:20:41.792634",
+  "timestamp": "2026-01-03T13:35:06.421680",
   "error": null
 }
