@@ -5,23 +5,6 @@
     {
       "region_code": "YRL",
       "region_name": "Ярославская область",
-      "base_layer": "YRL Базовый слой 27.12.2025 17:21:\n\n1) YR0200 2025-12-27T14:46:59\nPower Нет; Посещение Да; WO Есть\n2) YR0201 2025-12-27T15:45:03\nPower Да; Посещение Нет; WO Есть\n3) YR0865 2025-12-26T11:59:41\nPower Да; Посещение Нет; WO Есть\n4) YR0634 2025-12-27T16:26:59\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "YRL Неприоритетные технологии 27.12.2025 17:21:\n\nНедоступно LTE1800:\n1) YR0201\n2) YR0865\n3) YR0634\nНедоступно 3G:\n1) YR0200\nНедоступно LTE2300:\n1) YR0308\n2) YR0003\n3) YR0328\n4) YR0026\n5) YR0303\n6) YR0020\n7) YR0128\n8) YR0109\n9) YR0086\n10) YR0345\n11) YR0142\n12) YR0111\n13) YR1514\n14) YR0110\n15) YR0582\n16) YR0047\n",
-      "base_layer_count": 4,
-      "total_bs_count": 26,
-      "power_problems": 1,
-      "non_priority_percentage": 85,
-      "timestamp": "17:21:25",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T17:21:25.154089",
-      "created_at": "2025-12-27T17:21:30.890459",
-      "base_layer_percentage": 15,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "YRL",
-      "region_name": "Ярославская область",
       "base_layer": "YRL Базовый слой 27.12.2025 17:35:\n\n1) YR0201 2025-12-27T15:45:03\nPower Да; Посещение Нет; WO Есть\n2) YR0865 2025-12-26T11:59:41\nPower Да; Посещение Нет; WO Есть\n3) YR0634 2025-12-27T16:26:59\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- YR0489; wo Нет;Время 2025-12-27 16:54:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "YRL Неприоритетные технологии 27.12.2025 17:35:\n\nНедоступно LTE1800:\n1) YR0201\n2) YR0865\n3) YR0634\nНедоступно 3G:\n1) YR0489\nНедоступно LTE2100:\n1) YR0489\nНедоступно LTE2300:\n1) YR0308\n2) YR0003\n3) YR0328\n4) YR0026\n5) YR0303\n6) YR0020\n7) YR0128\n8) YR0109\n9) YR0086\n10) YR0345\n11) YR0142\n12) YR0111\n13) YR1514\n14) YR0110\n15) YR0582\n16) YR0047\n",
       "base_layer_count": 3,
@@ -6410,9 +6393,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "YRL",
+      "region_name": "Ярославская область",
+      "base_layer": "YRL Базовый слой 03.01.2026 17:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "YRL Неприоритетные технологии 03.01.2026 17:34:\n\nНедоступно LTE2300:\n1) YR0098\n2) YR0308\n3) YR0003\n4) YR0026\n5) YR0328\n6) YR0303\n7) YR0020\n8) YR0109\n9) YR0128\n10) YR0005\n11) YR0118\n12) YR0152\n13) YR0183\n14) YR0345\n15) YR0142\n16) YR0015\n17) YR1514\n18) YR0111\n19) YR0110\n20) YR0064\n21) YR0639\n22) YR0699\n23) YR0582\n24) YR0135\n25) YR0047\n",
+      "base_layer_count": 0,
+      "total_bs_count": 32,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "17:34:25",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T17:34:25.546573",
+      "created_at": "2026-01-03T17:34:30.139983",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 377,
-  "timestamp": "2026-01-03T17:20:20.340594",
+  "timestamp": "2026-01-03T17:34:45.109574",
   "error": null
 }
