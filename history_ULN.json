@@ -5,23 +5,6 @@
     {
       "region_code": "ULN",
       "region_name": "Ульяновск",
-      "base_layer": "ULN Базовый слой 27.12.2025 15:17:\n\n1) UL0287 2025-12-27T12:37:03\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ULN Неприоритетные технологии 27.12.2025 15:17:\n\nНедоступно LTE2300:\n1) UL0023\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "15:17:59",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T15:17:59.939185",
-      "created_at": "2025-12-27T15:18:23.903564",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "ULN",
-      "region_name": "Ульяновск",
       "base_layer": "ULN Базовый слой 27.12.2025 15:31:\n\n1) UL0287 2025-12-27T12:37:03\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ULN Неприоритетные технологии 27.12.2025 15:31:\n\nНедоступно LTE2300:\n1) UL0023\n",
       "base_layer_count": 1,
@@ -6410,9 +6393,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "ULN",
+      "region_name": "Ульяновск",
+      "base_layer": "ULN Базовый слой 03.01.2026 15:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ULN Неприоритетные технологии 03.01.2026 15:19:\n\nНедоступно LTE2300:\n1) UL1035\n2) UL0023\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "15:19:37",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T15:19:37.030826",
+      "created_at": "2026-01-03T15:19:55.557882",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 377,
-  "timestamp": "2026-01-03T15:05:50.283387",
+  "timestamp": "2026-01-03T15:20:09.507715",
   "error": null
 }
