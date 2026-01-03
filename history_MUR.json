@@ -5,23 +5,6 @@
     {
       "region_code": "MUR",
       "region_name": "Мурманская область",
-      "base_layer": "MUR Базовый слой 27.12.2025 11:01:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MU0142; wo Есть;Время 2025-12-27 09:35:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MUR Неприоритетные технологии 27.12.2025 11:01:\n\nНедоступно 3G:\n1) MU0142\nНедоступно LTE2600:\n1) MU0142\nНедоступно LTE2100:\n1) MU0142\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "11:01:59",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T11:01:59.447853",
-      "created_at": "2025-12-27T11:02:19.885334",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "MUR",
-      "region_name": "Мурманская область",
       "base_layer": "MUR Базовый слой 27.12.2025 11:11:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MU0142; wo Есть;Время 2025-12-27 09:35:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MUR Неприоритетные технологии 27.12.2025 11:11:\n\nНедоступно 3G:\n1) MU0142\nНедоступно LTE2600:\n1) MU0142\nНедоступно LTE2100:\n1) MU0142\n",
       "base_layer_count": 0,
@@ -6461,9 +6444,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "MUR",
+      "region_name": "Мурманская область",
+      "base_layer": "MUR Базовый слой 03.01.2026 11:05:\n\n1) MU0320 2026-01-03T00:23:14\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MUR Неприоритетные технологии 03.01.2026 11:05:\n\nНедоступно LTE1800:\n1) MU0320\nНедоступно 3G:\n1) MU0093\nНедоступно LTE800:\n1) MU0086\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "11:05:16",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T11:05:16.604518",
+      "created_at": "2026-01-03T11:05:32.647047",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 380,
-  "timestamp": "2026-01-03T11:00:49.508779",
+  "timestamp": "2026-01-03T11:05:47.098236",
   "error": null
 }
