@@ -5,23 +5,6 @@
     {
       "region_code": "SPN",
       "region_name": "Санкт-Петербург Север",
-      "base_layer": "SPN Базовый слой 27.12.2025 16:39:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- LE1252; wo Нет;Время 2025-12-27 15:39:29\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPN Неприоритетные технологии 27.12.2025 16:39:\n\nНедоступно 3G:\n1) LE2083\n2) LE1252\n3) SP0215\nНедоступно LTE800:\n1) LE2083\n2) LE1252\nНедоступно LTE2100:\n1) SP0215\n",
-      "base_layer_count": 0,
-      "total_bs_count": 6,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "16:39:46",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T16:39:46.705215",
-      "created_at": "2025-12-27T16:40:05.287191",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "SPN",
-      "region_name": "Санкт-Петербург Север",
       "base_layer": "SPN Базовый слой 27.12.2025 16:53:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- LE1252; wo Нет;Время 2025-12-27 15:39:29\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SPN Неприоритетные технологии 27.12.2025 16:53:\n\nНедоступно 3G:\n1) LE2083\n2) LE1252\n3) SP0215\nНедоступно LTE800:\n1) LE2083\n2) LE1252\nНедоступно LTE2100:\n1) SP0215\n",
       "base_layer_count": 0,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPN",
+      "region_name": "Санкт-Петербург Север",
+      "base_layer": "SPN Базовый слой 03.01.2026 16:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPN Неприоритетные технологии 03.01.2026 16:49:\n\nНедоступно 3G:\n1) SP2855\n2) SP0215\nНедоступно LTE2100:\n1) SP2855\n2) SP0215\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "16:49:24",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T16:49:24.850037",
+      "created_at": "2026-01-03T16:49:43.350287",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T16:35:30.508763",
+  "timestamp": "2026-01-03T16:49:56.736334",
   "error": null
 }
