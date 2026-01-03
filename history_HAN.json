@@ -5,23 +5,6 @@
     {
       "region_code": "HAN",
       "region_name": "Ханты-Мансийский АО",
-      "base_layer": "HAN Базовый слой 27.12.2025 23:21:\n\n1) HM1766 2025-12-27T01:49:43\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "HAN Неприоритетные технологии 27.12.2025 23:21:\n\nНедоступно LTE1800:\n1) HM1766\nНедоступно LTE800:\n1) HM2155\n2) HM0445\nНедоступно LTE2600:\n1) HM1199\n2) HM1766\nНедоступно LTE2300:\n1) HM1766\n2) HM0245\n",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 80,
-      "timestamp": "23:21:55",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T23:21:55.267700",
-      "created_at": "2025-12-27T23:22:07.742649",
-      "base_layer_percentage": 20,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "HAN",
-      "region_name": "Ханты-Мансийский АО",
       "base_layer": "HAN Базовый слой 27.12.2025 23:35:\n\n1) HM1766 2025-12-27T01:49:43\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "HAN Неприоритетные технологии 27.12.2025 23:35:\n\nНедоступно LTE1800:\n1) HM1766\nНедоступно LTE800:\n1) HM2155\n2) HM0445\nНедоступно LTE2600:\n1) HM1199\n2) HM1766\nНедоступно LTE2300:\n1) HM1766\n2) HM0245\n",
       "base_layer_count": 1,
@@ -6325,9 +6308,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "HAN",
+      "region_name": "Ханты-Мансийский АО",
+      "base_layer": "HAN Базовый слой 03.01.2026 23:35:\n\n1) HM2414 2025-12-30T15:32:42\nPower Да; Посещение Нет; WO Есть\n2) HM1684 2026-01-03T21:28:44\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "HAN Неприоритетные технологии 03.01.2026 23:35:\n\nНедоступно LTE1800:\n1) HM2414\n2) HM1684\nНедоступно LTE2600:\n1) HM1199\nНедоступно LTE2300:\n1) HM1684\n2) HM0245\n",
+      "base_layer_count": 2,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 50,
+      "timestamp": "23:35:00",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T23:35:00.286551",
+      "created_at": "2026-01-03T23:35:09.773908",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 372,
-  "timestamp": "2026-01-03T23:20:38.932173",
+  "timestamp": "2026-01-03T23:35:22.192578",
   "error": null
 }
