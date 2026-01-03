@@ -5,23 +5,6 @@
     {
       "region_code": "BRT",
       "region_name": "Бурятия",
-      "base_layer": "BRT Базовый слой 27.12.2025 09:21:\n\n1) BU0948 2025-12-26T17:57:58\nPower Да; Посещение Нет; WO Есть\n2) BU0601 2025-12-27T06:33:44\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- BU2689; wo Нет;Время 2025-12-27 07:30:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRT Неприоритетные технологии 27.12.2025 09:21:\n\nНедоступно LTE1800:\n1) BU0948\nНедоступно 3G:\n1) BU0643\nНедоступно LTE2100:\n1) BU0643\n",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 2,
-      "non_priority_percentage": 50,
-      "timestamp": "09:21:27",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T09:21:27.991706",
-      "created_at": "2025-12-27T09:21:59.340536",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "BRT",
-      "region_name": "Бурятия",
       "base_layer": "BRT Базовый слой 27.12.2025 09:34:\n\n1) BU0948 2025-12-26T17:57:58\nPower Да; Посещение Нет; WO Есть\n2) BU0601 2025-12-27T06:33:44\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRT Неприоритетные технологии 27.12.2025 09:34:\n\nНедоступно LTE1800:\n1) BU0948\nНедоступно 3G:\n1) BU0643\nНедоступно LTE2100:\n1) BU0643\n",
       "base_layer_count": 2,
@@ -6461,9 +6444,26 @@
       "base_layer_percentage": 75,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "BRT",
+      "region_name": "Бурятия",
+      "base_layer": "BRT Базовый слой 03.01.2026 09:34:\n\n1) BU2611 2026-01-02T19:45:14\nPower Да; Посещение Нет; WO Нет\n2) BU0169 2026-01-02T19:34:43\nPower Да; Посещение Нет; WO Есть\n3) BU0080 2026-01-03T07:20:49\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRT Неприоритетные технологии 03.01.2026 09:34:\n\nНедоступно LTE1800:\n1) BU2611\n2) BU0169\n3) BU0080\nНедоступно 3G:\n1) BU0169\nНедоступно LTE800:\n1) BU0169\n",
+      "base_layer_count": 3,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 0,
+      "timestamp": "09:34:27",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T09:34:27.178820",
+      "created_at": "2026-01-03T09:34:51.028259",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 380,
-  "timestamp": "2026-01-03T09:20:45.367018",
+  "timestamp": "2026-01-03T09:35:04.594977",
   "error": null
 }
