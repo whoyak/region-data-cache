@@ -5,23 +5,6 @@
     {
       "region_code": "BRN",
       "region_name": "Барнаул",
-      "base_layer": "BRN Базовый слой 27.12.2025 11:11:\n\n1) AL0045 2025-12-26T20:44:56\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRN Неприоритетные технологии 27.12.2025 11:11:\n\n",
-      "base_layer_count": 1,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 0,
-      "timestamp": "11:11:33",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T11:11:33.553710",
-      "created_at": "2025-12-27T11:11:50.407559",
-      "base_layer_percentage": 100,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "BRN",
-      "region_name": "Барнаул",
       "base_layer": "BRN Базовый слой 27.12.2025 11:25:\n\n1) AL0045 2025-12-26T20:44:56\nPower Да; Посещение Нет; WO Есть\n2) AL0623 2025-12-27T10:49:32\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRN Неприоритетные технологии 27.12.2025 11:25:\n\nНедоступно LTE1800:\n1) AL0045\n2) AL0623\n",
       "base_layer_count": 2,
@@ -6461,9 +6444,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "BRN",
+      "region_name": "Барнаул",
+      "base_layer": "BRN Базовый слой 03.01.2026 11:19:\n\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- AL0973; wo Есть;Время 2025-12-30 01:24:34\n- AL0187; wo Есть;Время 2026-01-03 10:26:31\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 03.01.2026 11:19:\n\nНедоступно 3G:\n1) AL0973\n2) AL0187\nНедоступно LTE800:\n1) AL0973\n2) AL0187\nНедоступно LTE2600:\n1) AL0973\nНедоступно LTE2100:\n1) AL0973\n2) AL0187\nНедоступно LTE2300:\n1) AL0187\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 3,
+      "non_priority_percentage": 100,
+      "timestamp": "11:19:41",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T11:19:41.449524",
+      "created_at": "2026-01-03T11:19:54.288485",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 380,
-  "timestamp": "2026-01-03T11:05:47.098258",
+  "timestamp": "2026-01-03T11:20:07.933741",
   "error": null
 }
