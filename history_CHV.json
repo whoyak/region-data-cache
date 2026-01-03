@@ -5,23 +5,6 @@
     {
       "region_code": "CHV",
       "region_name": "Чувашия",
-      "base_layer": "CHV Базовый слой 27.12.2025 22:12:\n\n1) CV0202 2025-12-27T20:20:31\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CHV Неприоритетные технологии 27.12.2025 22:12:\n\nНедоступно LTE1800:\n1) CV0202\nНедоступно LTE800:\n1) CV0202\nНедоступно LTE2600:\n1) CV0202\nНедоступно LTE2300:\n1) CV1074\n",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "22:12:56",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T22:12:56.361245",
-      "created_at": "2025-12-27T22:13:23.288268",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "CHV",
-      "region_name": "Чувашия",
       "base_layer": "CHV Базовый слой 27.12.2025 22:26:\n\n1) CV0202 2025-12-27T20:20:31\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CHV Неприоритетные технологии 27.12.2025 22:26:\n\nНедоступно LTE2300:\n1) CV1074\n",
       "base_layer_count": 1,
@@ -6342,9 +6325,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "CHV",
+      "region_name": "Чувашия",
+      "base_layer": "CHV Базовый слой 03.01.2026 22:19:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- CV0030; wo Нет;Время 2026-01-03 20:29:46\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHV Неприоритетные технологии 03.01.2026 22:19:\n\nНедоступно 3G:\n1) CV0030\nНедоступно LTE2600:\n1) CV0030\nНедоступно LTE2100:\n1) CV0030\nНедоступно LTE2300:\n1) CV0030\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "22:19:44",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T22:19:44.046142",
+      "created_at": "2026-01-03T22:20:04.765126",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 373,
-  "timestamp": "2026-01-03T22:05:51.327546",
+  "timestamp": "2026-01-03T22:20:17.099752",
   "error": null
 }
