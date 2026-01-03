@@ -5,23 +5,6 @@
     {
       "region_code": "MGD",
       "region_name": "Магаданская область",
-      "base_layer": "MGD Базовый слой 27.12.2025 05:31:\n\n1) MD0036 2025-12-27T03:40:23\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MD0036; wo Нет;Время 2025-12-27 01:37:55\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MGD Неприоритетные технологии 27.12.2025 05:31:\n\nНедоступно LTE1800:\n1) MD0036\nНедоступно LTE800:\n1) MD0036\n2) MD0519\nНедоступно LTE2600:\n1) MD0036\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "05:31:33",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T05:31:33.338931",
-      "created_at": "2025-12-27T05:32:01.162473",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "MGD",
-      "region_name": "Магаданская область",
       "base_layer": "MGD Базовый слой 27.12.2025 05:44:\n\n1) MD0036 2025-12-27T03:40:23\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MD0036; wo Нет;Время 2025-12-27 01:37:55\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MGD Неприоритетные технологии 27.12.2025 05:44:\n\nНедоступно LTE1800:\n1) MD0036\nНедоступно LTE800:\n1) MD0036\n2) MD0519\nНедоступно LTE2600:\n1) MD0036\n",
       "base_layer_count": 1,
@@ -6512,9 +6495,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "MGD",
+      "region_name": "Магаданская область",
+      "base_layer": "MGD Базовый слой 03.01.2026 05:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MGD Неприоритетные технологии 03.01.2026 05:34:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "05:34:03",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T05:34:03.803211",
+      "created_at": "2026-01-03T05:34:24.744834",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 383,
-  "timestamp": "2026-01-03T05:20:16.947142",
+  "timestamp": "2026-01-03T05:34:38.501609",
   "error": null
 }
