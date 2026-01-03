@@ -5,23 +5,6 @@
     {
       "region_code": "ULN",
       "region_name": "Ульяновск",
-      "base_layer": "ULN Базовый слой 27.12.2025 19:12:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ULN Неприоритетные технологии 27.12.2025 19:12:\n\nНедоступно LTE2300:\n1) UL0023\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "19:12:51",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T19:12:51.225423",
-      "created_at": "2025-12-27T19:13:16.236798",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "ULN",
-      "region_name": "Ульяновск",
       "base_layer": "ULN Базовый слой 27.12.2025 19:26:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ULN Неприоритетные технологии 27.12.2025 19:26:\n\nНедоступно LTE2300:\n1) UL0023\n",
       "base_layer_count": 0,
@@ -6393,9 +6376,26 @@
       "base_layer_percentage": 63,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "ULN",
+      "region_name": "Ульяновск",
+      "base_layer": "ULN Базовый слой 03.01.2026 19:19:\n\n1) UL0736 2026-01-03T17:43:33\nPower Да; Посещение Нет; WO Нет\n2) UL0396 2026-01-03T17:42:42\nPower Нет; Посещение Нет; WO Есть\n3) UL0823 2026-01-03T17:43:33\nPower Да; Посещение Нет; WO Нет\n4) UL0694 2026-01-03T18:10:10\nPower Да; Посещение Нет; WO Нет\n5) UL0261 2026-01-03T17:44:44\nPower Нет; Посещение Нет; WO Есть\n6) UL0395 2026-01-03T17:42:37\nPower Да; Посещение Нет; WO Нет\n7) UL0399 2026-01-03T17:41:52\nPower Нет; Посещение Нет; WO Есть\n8) UL0243 2026-01-03T18:49:57\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- UL0396; wo Есть;Время 2026-01-03 17:41:13\n- UL0686; wo Нет;Время 2026-01-03 18:16:29\n\n9 приоритет:\n- UL0399; wo Есть;Время 2026-01-03 17:40:56\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ULN Неприоритетные технологии 03.01.2026 19:19:\n\nНедоступно LTE1800:\n1) UL0736\n2) UL0823\n3) UL0694\n4) UL0395\n5) UL0243\nНедоступно 3G:\n1) UL0395\n2) UL0243\nНедоступно LTE800:\n1) UL0396\n2) UL0261\n3) UL0395\n4) UL0399\n5) UL0243\nНедоступно LTE2100:\n1) UL0395\n2) UL0243\nНедоступно LTE2300:\n1) UL0694\n2) UL0023\n",
+      "base_layer_count": 8,
+      "total_bs_count": 11,
+      "power_problems": 5,
+      "non_priority_percentage": 28,
+      "timestamp": "19:19:13",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T19:19:13.293429",
+      "created_at": "2026-01-03T19:19:31.667888",
+      "base_layer_percentage": 72,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 376,
-  "timestamp": "2026-01-03T19:05:25.242634",
+  "timestamp": "2026-01-03T19:19:45.644367",
   "error": null
 }
