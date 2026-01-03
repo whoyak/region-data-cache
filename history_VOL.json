@@ -5,23 +5,6 @@
     {
       "region_code": "VOL",
       "region_name": "Вологда",
-      "base_layer": "VOL Базовый слой 27.12.2025 11:11:\n\n1) VG2264 2025-12-26T14:17:06\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VOL Неприоритетные технологии 27.12.2025 11:11:\n\nНедоступно LTE1800:\n1) VG2264\n",
-      "base_layer_count": 1,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 0,
-      "timestamp": "11:11:32",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T11:11:32.749404",
-      "created_at": "2025-12-27T11:11:50.407479",
-      "base_layer_percentage": 100,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "VOL",
-      "region_name": "Вологда",
       "base_layer": "VOL Базовый слой 27.12.2025 11:25:\n\n1) VG2264 2025-12-26T14:17:34\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VOL Неприоритетные технологии 27.12.2025 11:25:\n\nНедоступно LTE1800:\n1) VG2264\n",
       "base_layer_count": 1,
@@ -6461,9 +6444,26 @@
       "base_layer_percentage": 66,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "VOL",
+      "region_name": "Вологда",
+      "base_layer": "VOL Базовый слой 03.01.2026 11:19:\n\n1) VG0198 2026-01-03T10:05:40\nPower Нет; Посещение Нет; WO Есть\n2) VG0308 2026-01-03T08:41:56\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- VG0178; wo Есть;Время 2026-01-03 10:06:48\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VOL Неприоритетные технологии 03.01.2026 11:19:\n\nНедоступно 3G:\n1) VG0198\n2) VG0178\n3) VG0308\nНедоступно LTE800:\n1) VG0198\n2) VG0178\n3) VG0308\nНедоступно LTE2100:\n1) VG0178\n",
+      "base_layer_count": 2,
+      "total_bs_count": 3,
+      "power_problems": 3,
+      "non_priority_percentage": 34,
+      "timestamp": "11:19:40",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T11:19:40.830473",
+      "created_at": "2026-01-03T11:19:54.288217",
+      "base_layer_percentage": 66,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 380,
-  "timestamp": "2026-01-03T11:05:47.098254",
+  "timestamp": "2026-01-03T11:20:07.933737",
   "error": null
 }
