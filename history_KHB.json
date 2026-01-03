@@ -5,23 +5,6 @@
     {
       "region_code": "KHB",
       "region_name": "Хабаровский край",
-      "base_layer": "KHB Базовый слой 27.12.2025 12:46:\n\n1) HB0770 2025-12-27T09:17:24\nPower Да; Посещение Нет; WO Нет\n2) HB0893 2025-12-27T11:55:29\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KHB Неприоритетные технологии 27.12.2025 12:46:\n\nНедоступно LTE1800:\n1) HB0770\n2) HB0893\nНедоступно LTE2300:\n1) HB0005\n",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "12:46:22",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T12:46:22.926015",
-      "created_at": "2025-12-27T12:46:52.017373",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "KHB",
-      "region_name": "Хабаровский край",
       "base_layer": "KHB Базовый слой 27.12.2025 13:03:\n\n1) HB0770 2025-12-27T09:17:24\nPower Да; Посещение Нет; WO Нет\n2) HB1111 2025-12-27T12:41:14\nPower Да; Посещение Нет; WO Нет\n3) HB0893 2025-12-27T11:55:29\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KHB Неприоритетные технологии 27.12.2025 13:03:\n\nНедоступно LTE1800:\n1) HB0770\n2) HB1111\nНедоступно LTE2300:\n1) HB0005\n",
       "base_layer_count": 3,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "KHB",
+      "region_name": "Хабаровский край",
+      "base_layer": "KHB Базовый слой 03.01.2026 12:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KHB Неприоритетные технологии 03.01.2026 12:48:\n\nНедоступно LTE2300:\n1) HB0005\n",
+      "base_layer_count": 0,
+      "total_bs_count": 1,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "12:48:40",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T12:48:40.946225",
+      "created_at": "2026-01-03T12:49:04.329038",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T12:34:57.618038",
+  "timestamp": "2026-01-03T12:49:18.067880",
   "error": null
 }
