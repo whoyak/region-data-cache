@@ -5,23 +5,6 @@
     {
       "region_code": "NSK",
       "region_name": "Новосибирская область",
-      "base_layer": "NSK Базовый слой 27.12.2025 12:46:\n\n1) NS1321 2025-12-27T11:50:08\nPower Нет; Посещение Нет; WO Есть\n2) NS0791 2025-12-26T21:58:27\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- NS1049; wo Нет;Время 2025-12-27 12:09:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NSK Неприоритетные технологии 27.12.2025 12:46:\n\nНедоступно LTE1800:\n1) NS1321\n2) NS0791\nНедоступно 3G:\n1) NS1321\n2) NS0791\nНедоступно LTE800:\n1) NS1049\n2) NS1321\n3) NS0791\nНедоступно LTE2100:\n1) NS1321\n2) NS0791\n",
-      "base_layer_count": 2,
-      "total_bs_count": 3,
-      "power_problems": 2,
-      "non_priority_percentage": 34,
-      "timestamp": "12:46:36",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T12:46:36.732348",
-      "created_at": "2025-12-27T12:46:52.018755",
-      "base_layer_percentage": 66,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "NSK",
-      "region_name": "Новосибирская область",
       "base_layer": "NSK Базовый слой 27.12.2025 13:04:\n\n1) NS0791 2025-12-26T21:58:27\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- NS1049; wo Нет;Время 2025-12-27 12:09:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NSK Неприоритетные технологии 27.12.2025 13:04:\n\nНедоступно LTE1800:\n1) NS0791\nНедоступно 3G:\n1) NS0791\nНедоступно LTE800:\n1) NS1049\n2) NS0791\nНедоступно LTE2100:\n1) NS0791\n",
       "base_layer_count": 1,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "NSK",
+      "region_name": "Новосибирская область",
+      "base_layer": "NSK Базовый слой 03.01.2026 12:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NSK Неприоритетные технологии 03.01.2026 12:48:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 1,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "12:48:51",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T12:48:51.474375",
+      "created_at": "2026-01-03T12:49:04.333573",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T12:34:57.618112",
+  "timestamp": "2026-01-03T12:49:18.067952",
   "error": null
 }
