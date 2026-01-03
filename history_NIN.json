@@ -5,23 +5,6 @@
     {
       "region_code": "NIN",
       "region_name": "Нижний Новгород",
-      "base_layer": "NIN Базовый слой 27.12.2025 20:08:\n\n1) NO2687 2025-12-25T19:28:58\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NIN Неприоритетные технологии 27.12.2025 20:08:\n\nНедоступно LTE1800:\n1) NO2687\nНедоступно LTE2300:\n1) NN2054\n2) NN0402\n3) NN0861\n4) NN0204\n5) NN1990\n",
-      "base_layer_count": 1,
-      "total_bs_count": 8,
-      "power_problems": 0,
-      "non_priority_percentage": 88,
-      "timestamp": "20:08:08",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T20:08:08.896968",
-      "created_at": "2025-12-27T20:08:34.654422",
-      "base_layer_percentage": 12,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "NIN",
-      "region_name": "Нижний Новгород",
       "base_layer": "NIN Базовый слой 27.12.2025 20:21:\n\n1) NO2687 2025-12-25T19:28:58\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NIN Неприоритетные технологии 27.12.2025 20:21:\n\nНедоступно LTE1800:\n1) NO2687\nНедоступно LTE2300:\n1) NN2054\n2) NN0402\n3) NN0861\n4) NN0204\n5) NN1990\n",
       "base_layer_count": 1,
@@ -6376,9 +6359,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "NIN",
+      "region_name": "Нижний Новгород",
+      "base_layer": "NIN Базовый слой 03.01.2026 20:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NIN Неприоритетные технологии 03.01.2026 20:20:\n\nНедоступно LTE2300:\n1) NN2054\n2) NN0402\n3) NN0861\n4) NN0204\n5) NN1818\n6) NN1990\n",
+      "base_layer_count": 0,
+      "total_bs_count": 8,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "20:20:10",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T20:20:10.960984",
+      "created_at": "2026-01-03T20:20:31.285985",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 375,
-  "timestamp": "2026-01-03T20:06:00.666349",
+  "timestamp": "2026-01-03T20:20:45.908301",
   "error": null
 }
