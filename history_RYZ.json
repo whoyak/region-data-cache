@@ -5,23 +5,6 @@
     {
       "region_code": "RYZ",
       "region_name": "Рязанская область",
-      "base_layer": "RYZ Базовый слой 27.12.2025 12:46:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "RYZ Неприоритетные технологии 27.12.2025 12:46:\n\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
-      "base_layer_count": 0,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:46:44",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T12:46:44.263059",
-      "created_at": "2025-12-27T12:46:52.019531",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "RYZ",
-      "region_name": "Рязанская область",
       "base_layer": "RYZ Базовый слой 27.12.2025 13:04:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "RYZ Неприоритетные технологии 27.12.2025 13:04:\n\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
       "base_layer_count": 0,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "RYZ",
+      "region_name": "Рязанская область",
+      "base_layer": "RYZ Базовый слой 03.01.2026 12:48:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- RZ0143; wo Нет;Время 2026-01-03 11:09:18\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "RYZ Неприоритетные технологии 03.01.2026 12:48:\n\nНедоступно 3G:\n1) RZ0143\nНедоступно LTE800:\n1) RZ0143\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0093\n3) RZ0473\n4) RZ0461\n5) RZ0039\n",
+      "base_layer_count": 0,
+      "total_bs_count": 7,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "12:48:57",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T12:48:57.606666",
+      "created_at": "2026-01-03T12:49:04.335766",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T12:34:57.618151",
+  "timestamp": "2026-01-03T12:49:18.067991",
   "error": null
 }
