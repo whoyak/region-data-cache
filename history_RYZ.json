@@ -5,23 +5,6 @@
     {
       "region_code": "RYZ",
       "region_name": "Рязанская область",
-      "base_layer": "RYZ Базовый слой 27.12.2025 23:08:\n\n1) RZ0063 2025-12-27T16:41:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "RYZ Неприоритетные технологии 27.12.2025 23:08:\n\nНедоступно LTE1800:\n1) RZ0063\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "23:08:16",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T23:08:16.133621",
-      "created_at": "2025-12-27T23:08:23.943253",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "RYZ",
-      "region_name": "Рязанская область",
       "base_layer": "RYZ Базовый слой 27.12.2025 23:21:\n\n1) RZ0063 2025-12-27T16:41:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "RYZ Неприоритетные технологии 27.12.2025 23:21:\n\nНедоступно LTE1800:\n1) RZ0063\nНедоступно LTE2300:\n1) RZ0093\n2) RZ0461\n",
       "base_layer_count": 1,
@@ -6325,9 +6308,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "RYZ",
+      "region_name": "Рязанская область",
+      "base_layer": "RYZ Базовый слой 03.01.2026 23:20:\n\n1) RZ0173 2026-01-03T22:40:43\nPower Нет; Посещение Нет; WO Есть\n2) RZ0043 2026-01-03T20:50:06\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- RZ0173; wo Есть;Время 2026-01-03 22:11:01\n- RZ0043; wo Есть;Время 2026-01-03 17:59:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "RYZ Неприоритетные технологии 03.01.2026 23:20:\n\nНедоступно LTE1800:\n1) RZ0173\n2) RZ0043\nНедоступно 3G:\n1) RZ0173\n2) RZ0043\nНедоступно LTE800:\n1) RZ0173\n2) RZ0043\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0093\n3) RZ0473\n4) RZ0461\n5) RZ0039\n6) RZ0034\n",
+      "base_layer_count": 2,
+      "total_bs_count": 8,
+      "power_problems": 2,
+      "non_priority_percentage": 75,
+      "timestamp": "23:20:18",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T23:20:18.304434",
+      "created_at": "2026-01-03T23:20:24.415647",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 372,
-  "timestamp": "2026-01-03T23:06:08.876617",
+  "timestamp": "2026-01-03T23:20:38.932194",
   "error": null
 }
