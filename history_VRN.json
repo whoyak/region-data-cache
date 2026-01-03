@@ -5,23 +5,6 @@
     {
       "region_code": "VRN",
       "region_name": "Воронежская область",
-      "base_layer": "VRN Базовый слой 27.12.2025 16:53:\n\n1) VO0101 2025-12-19T09:11:13\nPower Да; Посещение Нет; WO Нет\n2) VO2604 2025-12-27T16:23:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VRN Неприоритетные технологии 27.12.2025 16:53:\n\nНедоступно LTE1800:\n1) VO0101\n2) VO2604\nНедоступно 3G:\n1) VO0258\n2) VO0096\nНедоступно LTE800:\n1) VO2604\n2) VO2989\nНедоступно LTE2600:\n1) VO0258\nНедоступно LTE2100:\n1) VO0096\nНедоступно LTE2300:\n1) VO0098\n2) VO0101\n3) VO1973\n4) VO0106\n5) VO0839\n6) VO0162\n7) VO0355\n8) VO0403\n",
-      "base_layer_count": 2,
-      "total_bs_count": 14,
-      "power_problems": 0,
-      "non_priority_percentage": 86,
-      "timestamp": "16:53:41",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T16:53:41.536231",
-      "created_at": "2025-12-27T16:53:43.291028",
-      "base_layer_percentage": 14,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "VRN",
-      "region_name": "Воронежская область",
       "base_layer": "VRN Базовый слой 27.12.2025 17:00:\n\n1) VO0101 2025-12-19T09:11:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VO0605; wo Есть;Время 2025-12-27 16:26:46\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VRN Неприоритетные технологии 27.12.2025 17:00:\n\nНедоступно LTE1800:\n1) VO0101\nНедоступно 3G:\n1) VO0258\n2) VO0096\nНедоступно LTE800:\n1) VO2989\nНедоступно LTE2600:\n1) VO0258\nНедоступно LTE2100:\n1) VO0096\nНедоступно LTE2300:\n1) VO0098\n2) VO0101\n3) VO1973\n4) VO0106\n5) VO0839\n6) VO0162\n7) VO0355\n8) VO0403\n",
       "base_layer_count": 1,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 69,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "VRN",
+      "region_name": "Воронежская область",
+      "base_layer": "VRN Базовый слой 03.01.2026 17:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VRN Неприоритетные технологии 03.01.2026 17:00:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "17:00:27",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T17:00:27.704684",
+      "created_at": "2026-01-03T17:00:29.054496",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T16:49:56.736426",
+  "timestamp": "2026-01-03T17:00:42.416843",
   "error": null
 }
