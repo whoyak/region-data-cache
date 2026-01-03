@@ -5,23 +5,6 @@
     {
       "region_code": "TUM",
       "region_name": "Тюменская область",
-      "base_layer": "TUM Базовый слой 27.12.2025 10:44:\n\n1) TU0383 2025-12-27T10:11:13\nPower Нет; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TU0383; wo Нет;Время 2025-12-26 11:29:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TUM Неприоритетные технологии 27.12.2025 10:44:\n\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0449\n5) TU0618\n",
-      "base_layer_count": 1,
-      "total_bs_count": 6,
-      "power_problems": 1,
-      "non_priority_percentage": 84,
-      "timestamp": "10:44:45",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T10:44:45.570692",
-      "created_at": "2025-12-27T10:44:56.124624",
-      "base_layer_percentage": 16,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "TUM",
-      "region_name": "Тюменская область",
       "base_layer": "TUM Базовый слой 27.12.2025 11:02:\n\n1) TU0383 2025-12-27T10:11:13\nPower Нет; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TU0383; wo Нет;Время 2025-12-26 11:29:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TUM Неприоритетные технологии 27.12.2025 11:02:\n\nНедоступно 3G:\n1) TU0383\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0449\n5) TU0618\n",
       "base_layer_count": 1,
@@ -6444,9 +6427,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "TUM",
+      "region_name": "Тюменская область",
+      "base_layer": "TUM Базовый слой 03.01.2026 10:48:\n\n1) TU0419 2026-01-02T07:44:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUM Неприоритетные технологии 03.01.2026 10:48:\n\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU0449\n4) TU2048\n5) TU0618\n",
+      "base_layer_count": 1,
+      "total_bs_count": 6,
+      "power_problems": 0,
+      "non_priority_percentage": 84,
+      "timestamp": "10:48:05",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T10:48:05.028242",
+      "created_at": "2026-01-03T10:48:13.280207",
+      "base_layer_percentage": 16,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 379,
-  "timestamp": "2026-01-03T10:34:10.933443",
+  "timestamp": "2026-01-03T10:48:28.951303",
   "error": null
 }
