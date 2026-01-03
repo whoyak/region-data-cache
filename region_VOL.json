@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "VOL",
   "region_name": "Вологда",
-  "base_layer": "VOL Базовый слой 03.01.2026 06:47:\n\n1) VG0308 2026-01-03T06:08:40\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- VG0308; wo Есть;Время 2026-01-03 06:07:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "VOL Неприоритетные технологии 03.01.2026 06:47:\n\nНедоступно 3G:\n1) VG0076\n2) VG0308\nНедоступно LTE800:\n1) VG0076\n2) VG0308\nНедоступно LTE2100:\n1) VG0076\nНедоступно LTE2300:\n1) VG0076\n",
-  "timestamp": "06:47:58",
+  "base_layer": "VOL Базовый слой 03.01.2026 07:00:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- VG0308; wo Нет;Время 2026-01-03 06:07:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "VOL Неприоритетные технологии 03.01.2026 07:00:\n\nНедоступно 3G:\n1) VG0076\n2) VG0308\nНедоступно LTE800:\n1) VG0076\nНедоступно LTE2100:\n1) VG0076\nНедоступно LTE2300:\n1) VG0076\n",
+  "timestamp": "07:00:35",
   "date": "2026-01-03",
-  "full_timestamp": "2026-01-03T06:47:58.304243",
+  "full_timestamp": "2026-01-03T07:00:35.289111",
   "stats": {
     "total_bs": 2,
-    "base_layer_count": 1,
+    "base_layer_count": 0,
     "power_problems": 1,
-    "non_priority_percentage": 50,
-    "base_layer_percentage": 50
+    "non_priority_percentage": 100,
+    "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-03T06:47:58.304243",
+  "collected_at": "2026-01-03T07:00:35.289111",
   "macroregion": "Северо-запад"
 }
