@@ -5,23 +5,6 @@
     {
       "region_code": "SAH",
       "region_name": "Сахалинская область",
-      "base_layer": "SAH Базовый слой 27.12.2025 09:21:\n\n1) SA0154 2025-12-25T21:41:36\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SAH Неприоритетные технологии 27.12.2025 09:21:\n\nНедоступно LTE1800:\n1) SA0154\nНедоступно 3G:\n1) SA0154\n2) SA0186\n3) SA0307\nНедоступно LTE2100:\n1) SA0154\n2) SA0307\n",
-      "base_layer_count": 1,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 75,
-      "timestamp": "09:21:29",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T09:21:29.596741",
-      "created_at": "2025-12-27T09:21:59.340730",
-      "base_layer_percentage": 25,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "SAH",
-      "region_name": "Сахалинская область",
       "base_layer": "SAH Базовый слой 27.12.2025 09:34:\n\n1) SA0154 2025-12-25T21:41:36\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SAH Неприоритетные технологии 27.12.2025 09:34:\n\nНедоступно LTE1800:\n1) SA0154\nНедоступно 3G:\n1) SA0154\n2) SA0186\n3) SA0307\nНедоступно LTE2100:\n1) SA0154\n2) SA0307\n",
       "base_layer_count": 1,
@@ -6461,9 +6444,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "SAH",
+      "region_name": "Сахалинская область",
+      "base_layer": "SAH Базовый слой 03.01.2026 09:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SAH Неприоритетные технологии 03.01.2026 09:34:\n\nНедоступно 3G:\n1) SA0307\nНедоступно LTE2100:\n1) SA0307\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "09:34:28",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T09:34:28.397866",
+      "created_at": "2026-01-03T09:34:51.028849",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 380,
-  "timestamp": "2026-01-03T09:20:45.367037",
+  "timestamp": "2026-01-03T09:35:04.594996",
   "error": null
 }
