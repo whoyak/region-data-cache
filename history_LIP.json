@@ -5,23 +5,6 @@
     {
       "region_code": "LIP",
       "region_name": "Липецкая область",
-      "base_layer": "LIP Базовый слой 27.12.2025 05:45:\n\n1) LI2096 2025-12-26T20:34:01\nPower Да; Посещение Нет; WO Нет\n2) LI2269 2025-12-27T00:27:19\nPower Да; Посещение Нет; WO Нет\n3) LI2247 2025-12-26T16:51:25\nPower Да; Посещение Нет; WO Нет\n4) LI0309 2025-12-27T00:41:12\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "LIP Неприоритетные технологии 27.12.2025 05:45:\n\nНедоступно LTE1800:\n1) LI2096\n2) LI2269\n3) LI2247\n4) LI0309\nНедоступно 3G:\n1) LI0231\n2) LI0309\n3) LI0276\nНедоступно LTE2100:\n1) LI0231\n2) LI0309\nНедоступно LTE2300:\n1) LI0305\n2) LI0916\n3) LI0148\n4) LI0231\n",
-      "base_layer_count": 4,
-      "total_bs_count": 9,
-      "power_problems": 1,
-      "non_priority_percentage": 56,
-      "timestamp": "05:45:18",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T05:45:18.200942",
-      "created_at": "2025-12-27T05:45:22.375497",
-      "base_layer_percentage": 44,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "LIP",
-      "region_name": "Липецкая область",
       "base_layer": "LIP Базовый слой 27.12.2025 06:02:\n\n1) LI2096 2025-12-26T20:34:01\nPower Да; Посещение Нет; WO Нет\n2) LI2269 2025-12-27T00:27:19\nPower Да; Посещение Нет; WO Нет\n3) LI2247 2025-12-26T16:51:25\nPower Да; Посещение Нет; WO Нет\n4) LI0309 2025-12-27T00:41:12\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "LIP Неприоритетные технологии 27.12.2025 06:02:\n\nНедоступно LTE1800:\n1) LI2096\n2) LI2269\n3) LI2247\n4) LI0309\nНедоступно 3G:\n1) LI0231\n2) LI0309\n3) LI0276\nНедоступно LTE2100:\n1) LI0231\n2) LI0309\nНедоступно LTE2300:\n1) LI0305\n2) LI0916\n3) LI0148\n4) LI0231\n",
       "base_layer_count": 4,
@@ -6512,9 +6495,26 @@
       "base_layer_percentage": 10,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "LIP",
+      "region_name": "Липецкая область",
+      "base_layer": "LIP Базовый слой 03.01.2026 05:48:\n\n1) LI0105 2026-01-02T11:56:52\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "LIP Неприоритетные технологии 03.01.2026 05:48:\n\nНедоступно LTE1800:\n1) LI0105\nНедоступно 3G:\n1) LI0276\nНедоступно LTE2300:\n1) LI0039\n2) LI0148\n3) LI0032\n4) LI0088\n5) LI0396\n6) LI0324\n7) LI0179\n",
+      "base_layer_count": 1,
+      "total_bs_count": 10,
+      "power_problems": 0,
+      "non_priority_percentage": 90,
+      "timestamp": "05:48:34",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T05:48:34.326228",
+      "created_at": "2026-01-03T05:48:37.513164",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 383,
-  "timestamp": "2026-01-03T05:34:38.501804",
+  "timestamp": "2026-01-03T05:48:49.765122",
   "error": null
 }
