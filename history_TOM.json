@@ -5,23 +5,6 @@
     {
       "region_code": "TOM",
       "region_name": "Томская область",
-      "base_layer": "TOM Базовый слой 27.12.2025 08:27:\n\n1) TO0148 2025-12-26T14:37:11\nPower Да; Посещение Нет; WO Есть\n2) TO0134 2025-12-26T14:37:12\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TOM Неприоритетные технологии 27.12.2025 08:27:\n\nНедоступно LTE1800:\n1) TO0148\n2) TO0134\nНедоступно 3G:\n1) TO0148\n2) TO0134\nНедоступно LTE800:\n1) TO0148\n2) TO0134\n",
-      "base_layer_count": 2,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 34,
-      "timestamp": "08:27:14",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T08:27:14.588988",
-      "created_at": "2025-12-27T08:27:27.885871",
-      "base_layer_percentage": 66,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "TOM",
-      "region_name": "Томская область",
       "base_layer": "TOM Базовый слой 27.12.2025 08:40:\n\n1) TO0148 2025-12-26T14:37:11\nPower Да; Посещение Нет; WO Есть\n2) TO0134 2025-12-26T14:37:12\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TOM Неприоритетные технологии 27.12.2025 08:40:\n\nНедоступно LTE1800:\n1) TO0148\n2) TO0134\nНедоступно 3G:\n1) TO0148\n2) TO0134\nНедоступно LTE800:\n1) TO0148\n2) TO0134\n",
       "base_layer_count": 2,
@@ -6478,9 +6461,26 @@
       "base_layer_percentage": 66,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "TOM",
+      "region_name": "Томская область",
+      "base_layer": "TOM Базовый слой 03.01.2026 08:33:\n\n1) TO0319 2026-01-03T01:04:20\nPower Нет; Посещение Нет; WO Есть\n2) TO0865 2025-12-30T07:21:01\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- TO0319; wo Есть;Время 2026-01-02 21:37:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TOM Неприоритетные технологии 03.01.2026 08:33:\n\nНедоступно LTE1800:\n1) TO0319\nНедоступно 3G:\n1) TO0319\n2) TO2885\nНедоступно LTE800:\n1) TO0319\n2) TO2885\nНедоступно LTE2100:\n1) TO0319\n",
+      "base_layer_count": 2,
+      "total_bs_count": 4,
+      "power_problems": 1,
+      "non_priority_percentage": 50,
+      "timestamp": "08:33:21",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T08:33:21.787606",
+      "created_at": "2026-01-03T08:33:32.111775",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 381,
-  "timestamp": "2026-01-03T08:19:31.449368",
+  "timestamp": "2026-01-03T08:33:44.696059",
   "error": null
 }
