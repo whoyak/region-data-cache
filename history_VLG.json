@@ -5,23 +5,6 @@
     {
       "region_code": "VLG",
       "region_name": "Волгоградская область",
-      "base_layer": "VLG Базовый слой 27.12.2025 17:21:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLG Неприоритетные технологии 27.12.2025 17:21:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "17:21:30",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T17:21:30.784246",
-      "created_at": "2025-12-27T17:21:30.891150",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "VLG",
-      "region_name": "Волгоградская область",
       "base_layer": "VLG Базовый слой 27.12.2025 17:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLG Неприоритетные технологии 27.12.2025 17:35:\n\n",
       "base_layer_count": 0,
@@ -6410,9 +6393,26 @@
       "base_layer_percentage": 45,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "VLG",
+      "region_name": "Волгоградская область",
+      "base_layer": "VLG Базовый слой 03.01.2026 17:34:\n\n1) VD0447 2026-01-03T13:32:00\nPower Да; Посещение Нет; WO Есть\n2) VD1681 2026-01-01T14:01:12\nPower Да; Посещение Нет; WO Есть\n3) VD1913 2026-01-03T14:38:42\nPower Да; Посещение Нет; WO Нет\n4) VD1571 2026-01-03T14:38:01\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- VD0408; wo Нет;Время 2026-01-03 16:21:53\n- VD0962; wo Нет;Время 2026-01-01 14:34:05\n\n9 приоритет:\n- VD0356; wo Нет;Время 2026-01-03 14:35:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLG Неприоритетные технологии 03.01.2026 17:34:\n\nНедоступно LTE1800:\n1) VD0447\n2) VD1681\n3) VD1913\nНедоступно 3G:\n1) VD0408\n2) VD0962\n3) VD1571\n4) VD0356\nНедоступно LTE800:\n1) VD0408\n2) VD0962\n3) VD0356\nНедоступно LTE2600:\n1) VD0356\nНедоступно LTE2100:\n1) VD0962\n2) VD1571\n3) VD0356\n",
+      "base_layer_count": 4,
+      "total_bs_count": 12,
+      "power_problems": 3,
+      "non_priority_percentage": 67,
+      "timestamp": "17:34:30",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T17:34:30.028939",
+      "created_at": "2026-01-03T17:34:30.141787",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 377,
-  "timestamp": "2026-01-03T17:20:20.340624",
+  "timestamp": "2026-01-03T17:34:45.109602",
   "error": null
 }
