@@ -6444,9 +6444,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 03.01.2026 10:00:\n\n1) PS0546 2026-01-03T03:12:25\nPower Нет; Посещение Нет; WO Есть\n2) PS0156 2026-01-03T09:36:41\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- PS0035; wo Есть;Время 2026-01-03 07:42:44\n\n10 приоритет:\n- PS0546; wo Есть;Время 2026-01-02 19:36:41\n- PS0156; wo Есть;Время 2026-01-03 09:01:37\n- PS0184; wo Есть;Время 2026-01-03 09:01:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 03.01.2026 10:00:\n\nНедоступно LTE1800:\n1) PS0546\nНедоступно 3G:\n1) PS0035\n2) PS0156\n3) PS0184\nНедоступно LTE800:\n1) PS0035\n2) PS0156\n",
+      "base_layer_count": 2,
+      "total_bs_count": 4,
+      "power_problems": 4,
+      "non_priority_percentage": 50,
+      "timestamp": "10:00:23",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T10:00:23.845090",
+      "created_at": "2026-01-03T10:00:39.660523",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 379,
-  "timestamp": "2026-01-03T09:49:32.372127",
+  "count": 380,
+  "timestamp": "2026-01-03T10:00:53.145276",
   "error": null
 }
