@@ -5,23 +5,6 @@
     {
       "region_code": "TUM",
       "region_name": "Тюменская область",
-      "base_layer": "TUM Базовый слой 27.12.2025 20:22:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TUM Неприоритетные технологии 27.12.2025 20:22:\n\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0449\n5) TU0618\n",
-      "base_layer_count": 0,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "20:22:07",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T20:22:07.950007",
-      "created_at": "2025-12-27T20:22:18.618907",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "TUM",
-      "region_name": "Тюменская область",
       "base_layer": "TUM Базовый слой 27.12.2025 20:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TUM Неприоритетные технологии 27.12.2025 20:35:\n\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0449\n5) TU0618\n",
       "base_layer_count": 0,
@@ -6376,9 +6359,26 @@
       "base_layer_percentage": 14,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "TUM",
+      "region_name": "Тюменская область",
+      "base_layer": "TUM Базовый слой 03.01.2026 20:35:\n\n1) TU0419 2026-01-02T07:44:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUM Неприоритетные технологии 03.01.2026 20:35:\n\nНедоступно LTE800:\n1) TU0412\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU0449\n4) TU2048\n5) TU0618\n",
+      "base_layer_count": 1,
+      "total_bs_count": 7,
+      "power_problems": 0,
+      "non_priority_percentage": 86,
+      "timestamp": "20:35:05",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T20:35:05.239165",
+      "created_at": "2026-01-03T20:35:13.504892",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 375,
-  "timestamp": "2026-01-03T20:20:45.908381",
+  "timestamp": "2026-01-03T20:35:24.630835",
   "error": null
 }
