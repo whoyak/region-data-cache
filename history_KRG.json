@@ -5,23 +5,6 @@
     {
       "region_code": "KRG",
       "region_name": "Курганская область",
-      "base_layer": "KRG Базовый слой 27.12.2025 16:12:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KRG Неприоритетные технологии 27.12.2025 16:12:\n\nНедоступно LTE2600:\n1) KG0181\nНедоступно LTE2300:\n1) KG2238\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "16:12:46",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T16:12:46.077497",
-      "created_at": "2025-12-27T16:12:55.727488",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "KRG",
-      "region_name": "Курганская область",
       "base_layer": "KRG Базовый слой 27.12.2025 16:26:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KRG Неприоритетные технологии 27.12.2025 16:26:\n\nНедоступно LTE2600:\n1) KG0181\nНедоступно LTE2300:\n1) KG2238\n",
       "base_layer_count": 0,
@@ -6427,9 +6410,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "KRG",
+      "region_name": "Курганская область",
+      "base_layer": "KRG Базовый слой 03.01.2026 16:20:\n\n1) KG2318 2026-01-03T15:22:58\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRG Неприоритетные технологии 03.01.2026 16:20:\n\nНедоступно LTE1800:\n1) KG2318\nНедоступно 3G:\n1) KG2318\nНедоступно LTE2600:\n1) KG2318\n",
+      "base_layer_count": 1,
+      "total_bs_count": 1,
+      "power_problems": 0,
+      "non_priority_percentage": 0,
+      "timestamp": "16:20:56",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T16:20:56.211570",
+      "created_at": "2026-01-03T16:21:03.836407",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 378,
-  "timestamp": "2026-01-03T16:06:47.504633",
+  "timestamp": "2026-01-03T16:21:18.980317",
   "error": null
 }
