@@ -5,23 +5,6 @@
     {
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 27.12.2025 20:08:\n\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- PS0133; wo Нет;Время 2025-12-27 19:49:39\n\n10 приоритет:\n- PS0210; wo Нет;Время 2025-12-27 19:28:28\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 27.12.2025 20:08:\n\nНедоступно 3G:\n1) PS0133\n2) PS0148\n3) PS0210\nНедоступно LTE800:\n1) PS0133\nНедоступно LTE2600:\n1) PS0148\nНедоступно LTE2100:\n1) PS0148\n2) PS0210\nНедоступно LTE2300:\n1) PS0148\n",
-      "base_layer_count": 0,
-      "total_bs_count": 4,
-      "power_problems": 3,
-      "non_priority_percentage": 100,
-      "timestamp": "20:08:14",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T20:08:14.551665",
-      "created_at": "2025-12-27T20:08:34.655174",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PSK",
-      "region_name": "Псковская область",
       "base_layer": "PSK Базовый слой 27.12.2025 20:21:\n\n1) PS0148 2025-12-27T20:07:04\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- PS0133; wo Нет;Время 2025-12-27 19:49:39\n\n10 приоритет:\n- PS0210; wo Нет;Время 2025-12-27 19:28:28\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PSK Неприоритетные технологии 27.12.2025 20:21:\n\nНедоступно 3G:\n1) PS0133\n2) PS0148\n3) PS0210\nНедоступно LTE800:\n1) PS0133\nНедоступно LTE2600:\n1) PS0148\nНедоступно LTE2100:\n1) PS0148\n2) PS0210\nНедоступно LTE2300:\n1) PS0148\n",
       "base_layer_count": 1,
@@ -6376,9 +6359,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 03.01.2026 20:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 03.01.2026 20:20:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 1,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "20:20:15",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T20:20:15.299184",
+      "created_at": "2026-01-03T20:20:31.287775",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 375,
-  "timestamp": "2026-01-03T20:06:00.666379",
+  "timestamp": "2026-01-03T20:20:45.908332",
   "error": null
 }
