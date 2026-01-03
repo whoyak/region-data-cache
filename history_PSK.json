@@ -5,23 +5,6 @@
     {
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 27.12.2025 19:40:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 27.12.2025 19:40:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "19:40:28",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T19:40:28.588879",
-      "created_at": "2025-12-27T19:40:48.902465",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PSK",
-      "region_name": "Псковская область",
       "base_layer": "PSK Базовый слой 27.12.2025 19:54:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PS0210; wo Нет;Время 2025-12-27 19:28:28\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PSK Неприоритетные технологии 27.12.2025 19:54:\n\nНедоступно 3G:\n1) PS0133\n2) PS0148\n3) PS0210\nНедоступно LTE800:\n1) PS0133\nНедоступно LTE2600:\n1) PS0148\nНедоступно LTE2100:\n1) PS0148\n2) PS0210\nНедоступно LTE2300:\n1) PS0148\n",
       "base_layer_count": 0,
@@ -6393,9 +6376,26 @@
       "base_layer_percentage": 66,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 03.01.2026 19:48:\n\n1) PS0051 2026-01-03T17:50:14\nPower Нет; Посещение Нет; WO Есть\n2) PS0044 2026-01-03T17:28:11\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- PS0051; wo Есть;Время 2026-01-03 15:26:56\n\n10 приоритет:\n- PS0044; wo Есть;Время 2026-01-03 13:13:58\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 03.01.2026 19:48:\n\nНедоступно LTE1800:\n1) PS0051\n2) PS0044\nНедоступно 3G:\n1) PS0044\n",
+      "base_layer_count": 2,
+      "total_bs_count": 2,
+      "power_problems": 2,
+      "non_priority_percentage": 0,
+      "timestamp": "19:48:32",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T19:48:32.575487",
+      "created_at": "2026-01-03T19:48:48.199666",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 376,
-  "timestamp": "2026-01-03T19:34:14.367845",
+  "timestamp": "2026-01-03T19:49:00.687032",
   "error": null
 }
