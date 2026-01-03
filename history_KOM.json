@@ -5,23 +5,6 @@
     {
       "region_code": "KOM",
       "region_name": "Коми",
-      "base_layer": "KOM Базовый слой 27.12.2025 21:18:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- KO0184; wo Есть;Время 2025-12-27 17:21:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOM Неприоритетные технологии 27.12.2025 21:18:\n\nНедоступно 3G:\n1) KO0184\nНедоступно LTE800:\n1) KO0184\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "21:18:31",
-      "date": "2025-12-27",
-      "full_timestamp": "2025-12-27T21:18:31.004349",
-      "created_at": "2025-12-27T21:18:42.619566",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "KOM",
-      "region_name": "Коми",
       "base_layer": "KOM Базовый слой 27.12.2025 21:32:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- KO0184; wo Есть;Время 2025-12-27 17:21:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOM Неприоритетные технологии 27.12.2025 21:32:\n\nНедоступно 3G:\n1) KO0184\nНедоступно LTE800:\n1) KO0184\n",
       "base_layer_count": 0,
@@ -6359,9 +6342,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "KOM",
+      "region_name": "Коми",
+      "base_layer": "KOM Базовый слой 03.01.2026 21:20:\n\n1) KO0233 2026-01-03T19:59:41\nPower Нет; Посещение Нет; WO Есть\n2) KO0090 2026-01-03T20:50:55\nPower Да; Посещение Нет; WO Нет\n3) KO0540 2026-01-03T16:45:24\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KO0233; wo Есть;Время 2026-01-03 19:58:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOM Неприоритетные технологии 03.01.2026 21:20:\n\nНедоступно LTE1800:\n1) KO0090\n2) KO0540\nНедоступно 3G:\n1) KO0233\n2) KO0090\nНедоступно LTE800:\n1) KO0233\n2) KO0540\n",
+      "base_layer_count": 3,
+      "total_bs_count": 3,
+      "power_problems": 2,
+      "non_priority_percentage": 0,
+      "timestamp": "21:20:20",
+      "date": "2026-01-03",
+      "full_timestamp": "2026-01-03T21:20:20.431608",
+      "created_at": "2026-01-03T21:20:29.510044",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 374,
-  "timestamp": "2026-01-03T21:06:15.318975",
+  "timestamp": "2026-01-03T21:20:42.870155",
   "error": null
 }
