@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "CHV",
   "region_name": "Чувашия",
-  "base_layer": "CHV Базовый слой 04.01.2026 03:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "CHV Неприоритетные технологии 04.01.2026 03:34:\n\nНедоступно LTE2300:\n1) CV1198\n",
-  "timestamp": "03:34:40",
+  "base_layer": "CHV Базовый слой 04.01.2026 03:48:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- CV0030; wo Нет;Время 2026-01-04 02:59:51\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "CHV Неприоритетные технологии 04.01.2026 03:48:\n\nНедоступно 3G:\n1) CV0030\nНедоступно LTE2600:\n1) CV0030\nНедоступно LTE2100:\n1) CV0030\nНедоступно LTE2300:\n1) CV0030\n2) CV1198\n",
+  "timestamp": "03:48:53",
   "date": "2026-01-04",
-  "full_timestamp": "2026-01-04T03:34:40.602259",
+  "full_timestamp": "2026-01-04T03:48:53.294137",
   "stats": {
-    "total_bs": 1,
+    "total_bs": 2,
     "base_layer_count": 0,
-    "power_problems": 0,
+    "power_problems": 1,
     "non_priority_percentage": 100,
     "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-04T03:34:40.602259",
+  "collected_at": "2026-01-04T03:48:53.294137",
   "macroregion": "Волга"
 }
