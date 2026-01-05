@@ -5,23 +5,6 @@
     {
       "region_code": "VLG",
       "region_name": "Волгоградская область",
-      "base_layer": "VLG Базовый слой 29.12.2025 23:33:\n\n1) VD0812 2025-12-29T22:44:23\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLG Неприоритетные технологии 29.12.2025 23:33:\n\nНедоступно LTE1800:\n1) VD0812\nНедоступно 3G:\n1) VD0812\nНедоступно LTE800:\n1) VD0812\nНедоступно LTE2100:\n1) VD0812\n",
-      "base_layer_count": 1,
-      "total_bs_count": 8,
-      "power_problems": 1,
-      "non_priority_percentage": 88,
-      "timestamp": "23:33:45",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T23:33:45.303988",
-      "created_at": "2025-12-29T23:33:45.410366",
-      "base_layer_percentage": 12,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "VLG",
-      "region_name": "Волгоградская область",
       "base_layer": "VLG Базовый слой 29.12.2025 23:48:\n\n1) VD0812 2025-12-29T22:44:23\nPower Нет; Посещение Нет; WO Есть\n2) VD0490 2025-12-29T23:21:47\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VD0490; wo Нет;Время 2025-12-29 22:56:22\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLG Неприоритетные технологии 29.12.2025 23:48:\n\nНедоступно LTE1800:\n1) VD0812\nНедоступно 3G:\n1) VD0812\n2) VD0490\nНедоступно LTE800:\n1) VD0812\n2) VD0490\nНедоступно LTE2100:\n1) VD0812\n",
       "base_layer_count": 2,
@@ -6478,9 +6461,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "VLG",
+      "region_name": "Волгоградская область",
+      "base_layer": "VLG Базовый слой 05.01.2026 23:37:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLG Неприоритетные технологии 05.01.2026 23:37:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "23:37:52",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T23:37:52.282799",
+      "created_at": "2026-01-05T23:37:52.393676",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 381,
-  "timestamp": "2026-01-05T23:23:35.245006",
+  "timestamp": "2026-01-05T23:38:06.077730",
   "error": null
 }
