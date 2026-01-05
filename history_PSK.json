@@ -5,23 +5,6 @@
     {
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 29.12.2025 22:04:\n\n1) PS0261 2025-12-29T11:47:16\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 29.12.2025 22:04:\n\nНедоступно LTE1800:\n1) PS0261\nНедоступно LTE2300:\n1) PS0261\n",
-      "base_layer_count": 1,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 0,
-      "timestamp": "22:04:49",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T22:04:49.278294",
-      "created_at": "2025-12-29T22:05:04.984531",
-      "base_layer_percentage": 100,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PSK",
-      "region_name": "Псковская область",
       "base_layer": "PSK Базовый слой 29.12.2025 22:18:\n\n1) PS0261 2025-12-29T11:47:16\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PSK Неприоритетные технологии 29.12.2025 22:18:\n\nНедоступно LTE1800:\n1) PS0261\nНедоступно LTE2300:\n1) PS0261\n",
       "base_layer_count": 1,
@@ -6478,9 +6461,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 05.01.2026 22:06:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 05.01.2026 22:06:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "22:06:24",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T22:06:24.861781",
+      "created_at": "2026-01-05T22:06:40.032029",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 381,
-  "timestamp": "2026-01-05T22:01:12.466446",
+  "timestamp": "2026-01-05T22:06:51.855499",
   "error": null
 }
