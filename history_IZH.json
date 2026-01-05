@@ -5,23 +5,6 @@
     {
       "region_code": "IZH",
       "region_name": "Ижевск",
-      "base_layer": "IZH Базовый слой 29.12.2025 10:13:\n\n1) IZ0339 2025-12-28T14:31:40\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- IZ0339; wo Есть;Время 2025-12-28 13:07:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "IZH Неприоритетные технологии 29.12.2025 10:13:\n\nНедоступно LTE1800:\n1) IZ0339\nНедоступно 3G:\n1) IZ0339\nНедоступно LTE800:\n1) IZ0339\nНедоступно LTE2300:\n1) IZ0102\n2) IZ0192\n3) IZ0447\n",
-      "base_layer_count": 1,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 75,
-      "timestamp": "10:13:27",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T10:13:27.970481",
-      "created_at": "2025-12-29T10:13:54.945826",
-      "base_layer_percentage": 25,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "IZH",
-      "region_name": "Ижевск",
       "base_layer": "IZH Базовый слой 29.12.2025 10:27:\n\n1) IZ0102 2025-12-29T10:03:08\nPower Да; Посещение Нет; WO Нет\n2) IZ0339 2025-12-28T14:31:40\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- IZ0339; wo Есть;Время 2025-12-28 13:07:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "IZH Неприоритетные технологии 29.12.2025 10:27:\n\nНедоступно LTE1800:\n1) IZ0339\nНедоступно 3G:\n1) IZ0102\n2) IZ0339\nНедоступно LTE800:\n1) IZ0339\n",
       "base_layer_count": 2,
@@ -6325,9 +6308,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "IZH",
+      "region_name": "Ижевск",
+      "base_layer": "IZH Базовый слой 05.01.2026 10:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IZH Неприоритетные технологии 05.01.2026 10:19:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "10:19:44",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T10:19:44.900858",
+      "created_at": "2026-01-05T10:20:05.109211",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 372,
-  "timestamp": "2026-01-05T10:05:47.544171",
+  "timestamp": "2026-01-05T10:20:17.542947",
   "error": null
 }
