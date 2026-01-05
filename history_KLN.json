@@ -5,23 +5,6 @@
     {
       "region_code": "KLN",
       "region_name": "Калининградская область",
-      "base_layer": "KLN Базовый слой 29.12.2025 23:33:\n\n1) KN1015 2025-12-29T23:08:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\n10 приоритет:\n- KN2091; wo Есть;Время 2025-12-29 21:32:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KLN Неприоритетные технологии 29.12.2025 23:33:\n\nНедоступно LTE1800:\n1) KN1015\nНедоступно 3G:\n1) KN1015\n2) KN2091\nНедоступно LTE2600:\n1) KN1015\n2) KN2091\nНедоступно LTE2100:\n1) KN1015\n2) KN2091\n",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "23:33:28",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T23:33:28.820148",
-      "created_at": "2025-12-29T23:33:45.407419",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "KLN",
-      "region_name": "Калининградская область",
       "base_layer": "KLN Базовый слой 29.12.2025 23:47:\n\n1) KN1015 2025-12-29T23:08:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN2091; wo Нет;Время 2025-12-29 23:20:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KLN Неприоритетные технологии 29.12.2025 23:47:\n\nНедоступно 3G:\n1) KN1015\n2) KN2091\nНедоступно LTE2600:\n1) KN2091\nНедоступно LTE2100:\n1) KN2091\nНедоступно LTE2300:\n1) KN2154\n",
       "base_layer_count": 1,
@@ -6478,9 +6461,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "KLN",
+      "region_name": "Калининградская область",
+      "base_layer": "KLN Базовый слой 05.01.2026 23:37:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 05.01.2026 23:37:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "23:37:35",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T23:37:35.987980",
+      "created_at": "2026-01-05T23:37:52.388164",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 381,
-  "timestamp": "2026-01-05T23:23:35.244755",
+  "timestamp": "2026-01-05T23:38:06.077618",
   "error": null
 }
