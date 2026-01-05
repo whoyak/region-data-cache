@@ -5,23 +5,6 @@
     {
       "region_code": "TVE",
       "region_name": "Тверская область",
-      "base_layer": "TVE Базовый слой 29.12.2025 15:47:\n\n1) TV0652 2025-12-29T01:14:01\nPower Нет; Посещение Нет; WO Есть\n2) TV0677 2025-12-29T10:57:38\nPower Нет; Посещение Нет; WO Нет\n3) TV0661 2025-12-29T02:20:45\nPower Нет; Посещение Нет; WO Нет\n4) TV0362 2025-12-29T13:25:36\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- TV0362; wo Нет;Время 2025-12-29 12:03:16\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TVE Неприоритетные технологии 29.12.2025 15:47:\n\nНедоступно LTE1800:\n1) TV0652\n2) TV0677\n3) TV0661\n4) TV0362\nНедоступно 3G:\n1) TV0326\n2) TV0145\n3) TV0362\nНедоступно LTE800:\n1) TV0326\n2) TV0362\nНедоступно LTE2100:\n1) TV0145\nНедоступно LTE2300:\n1) TV0621\n2) TV0064\n3) TV0148\n4) TV0219\n5) TV0429\n",
-      "base_layer_count": 4,
-      "total_bs_count": 12,
-      "power_problems": 5,
-      "non_priority_percentage": 67,
-      "timestamp": "15:47:28",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T15:47:28.209262",
-      "created_at": "2025-12-29T15:47:33.849157",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "TVE",
-      "region_name": "Тверская область",
       "base_layer": "TVE Базовый слой 29.12.2025 16:05:\n\n1) TV0652 2025-12-29T01:14:01\nPower Нет; Посещение Нет; WO Есть\n2) TV0661 2025-12-29T02:20:45\nPower Нет; Посещение Нет; WO Нет\n3) TV0362 2025-12-29T13:25:36\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- TV0362; wo Нет;Время 2025-12-29 12:03:16\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TVE Неприоритетные технологии 29.12.2025 16:05:\n\nНедоступно LTE1800:\n1) TV0652\n2) TV0661\n3) TV0362\nНедоступно 3G:\n1) TV0326\n2) TV0145\n3) TV0362\nНедоступно LTE800:\n1) TV0326\n2) TV0362\nНедоступно LTE2100:\n1) TV0145\nНедоступно LTE2300:\n1) TV0621\n2) TV0064\n3) TV0148\n4) TV0219\n5) TV0429\n",
       "base_layer_count": 3,
@@ -6359,9 +6342,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "TVE",
+      "region_name": "Тверская область",
+      "base_layer": "TVE Базовый слой 05.01.2026 15:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TVE Неприоритетные технологии 05.01.2026 15:49:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "15:49:32",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T15:49:32.962390",
+      "created_at": "2026-01-05T15:49:38.063141",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 374,
-  "timestamp": "2026-01-05T15:35:09.443560",
+  "timestamp": "2026-01-05T15:49:50.835090",
   "error": null
 }
