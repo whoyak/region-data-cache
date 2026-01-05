@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 29.12.2025 11:23:\n\n1) MO6373 2025-12-29T10:31:13\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- MO6373; wo Есть;Время 2025-12-29 09:08:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 29.12.2025 11:23:\n\nНедоступно 3G:\n1) MO6373\nНедоступно LTE2600:\n1) MO6373\nНедоступно LTE2100:\n1) MO6373\n",
-      "base_layer_count": 1,
-      "total_bs_count": 60,
-      "power_problems": 1,
-      "non_priority_percentage": 99,
-      "timestamp": "11:23:54",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T11:23:54.407894",
-      "created_at": "2025-12-29T11:24:17.697440",
-      "base_layer_percentage": 1,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 29.12.2025 11:37:\n\n1) MO6373 2025-12-29T10:31:13\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n3 приоритет:\n- MO6373; wo Есть;Время 2025-12-29 09:08:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 29.12.2025 11:37:\n\nНедоступно 3G:\n1) MO6373\nНедоступно LTE800:\n1) MO3138\nНедоступно LTE2600:\n1) MO6373\n2) MO3138\nНедоступно LTE2100:\n1) MO6373\n",
       "base_layer_count": 1,
@@ -6342,9 +6325,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 05.01.2026 11:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 05.01.2026 11:34:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "11:34:27",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T11:34:27.670883",
+      "created_at": "2026-01-05T11:34:45.272327",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 373,
-  "timestamp": "2026-01-05T11:20:35.233708",
+  "timestamp": "2026-01-05T11:35:01.956018",
   "error": null
 }
