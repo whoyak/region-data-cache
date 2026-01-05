@@ -5,23 +5,6 @@
     {
       "region_code": "KEM",
       "region_name": "Кемеровская область",
-      "base_layer": "KEM Базовый слой 29.12.2025 12:06:\n\n1) KE0202 2025-12-29T06:57:33\nPower Нет; Посещение Нет; WO Нет\n2) KE1348 2025-12-29T10:54:45\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- KE0202; wo Нет;Время 2025-12-29 06:56:18\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KEM Неприоритетные технологии 29.12.2025 12:06:\n\nНедоступно 3G:\n1) KE0202\nНедоступно LTE800:\n1) KE0202\n",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "12:06:48",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T12:06:48.700213",
-      "created_at": "2025-12-29T12:07:02.479218",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "KEM",
-      "region_name": "Кемеровская область",
       "base_layer": "KEM Базовый слой 29.12.2025 12:21:\n\n1) KE1348 2025-12-29T10:54:45\nPower Да; Посещение Нет; WO Нет\n2) KE0202 2025-12-29T06:57:33\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- KE0202; wo Есть;Время 2025-12-29 06:56:18\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KEM Неприоритетные технологии 29.12.2025 12:21:\n\nНедоступно 3G:\n1) KE0202\nНедоступно LTE800:\n1) KE0202\n",
       "base_layer_count": 2,
@@ -6325,9 +6308,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KEM",
+      "region_name": "Кемеровская область",
+      "base_layer": "KEM Базовый слой 05.01.2026 12:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KEM Неприоритетные технологии 05.01.2026 12:20:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "12:20:26",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T12:20:26.095016",
+      "created_at": "2026-01-05T12:20:36.575644",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 372,
-  "timestamp": "2026-01-05T12:06:16.471981",
+  "timestamp": "2026-01-05T12:20:49.436449",
   "error": null
 }
