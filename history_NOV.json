@@ -5,23 +5,6 @@
     {
       "region_code": "NOV",
       "region_name": "Новгородская область",
-      "base_layer": "NOV Базовый слой 29.12.2025 16:04:\n\n1) VN0060 2025-12-29T12:56:41\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NOV Неприоритетные технологии 29.12.2025 16:04:\n\nНедоступно LTE1800:\n1) VN0060\nНедоступно LTE800:\n1) VN0060\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "16:04:49",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T16:04:49.182011",
-      "created_at": "2025-12-29T16:05:05.724036",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "NOV",
-      "region_name": "Новгородская область",
       "base_layer": "NOV Базовый слой 29.12.2025 16:18:\n\n1) VN0060 2025-12-29T12:56:41\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NOV Неприоритетные технологии 29.12.2025 16:18:\n\nНедоступно LTE1800:\n1) VN0060\nНедоступно LTE800:\n1) VN0118\n2) VN0060\n",
       "base_layer_count": 1,
@@ -6376,9 +6359,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "NOV",
+      "region_name": "Новгородская область",
+      "base_layer": "NOV Базовый слой 05.01.2026 16:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NOV Неприоритетные технологии 05.01.2026 16:05:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "16:05:53",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T16:05:53.744452",
+      "created_at": "2026-01-05T16:06:09.040515",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 375,
-  "timestamp": "2026-01-05T16:00:42.395333",
+  "timestamp": "2026-01-05T16:06:21.664472",
   "error": null
 }
