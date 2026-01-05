@@ -5,23 +5,6 @@
     {
       "region_code": "EKT",
       "region_name": "Екатеринбург",
-      "base_layer": "EKT Базовый слой 29.12.2025 17:32:\n\n1) EK1203 2025-12-29T16:36:09\nPower Да; Посещение Нет; WO Есть\n2) EK0694 2025-12-26T11:27:20\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "EKT Неприоритетные технологии 29.12.2025 17:32:\n\nНедоступно LTE1800:\n1) EK0694\nНедоступно 3G:\n1) EK2345\nНедоступно LTE800:\n1) EK2778\nНедоступно LTE2600:\n1) EK1030\n2) EK0866\nНедоступно LTE2300:\n1) EK0294\n2) EK2308\n",
-      "base_layer_count": 2,
-      "total_bs_count": 9,
-      "power_problems": 0,
-      "non_priority_percentage": 78,
-      "timestamp": "17:32:40",
-      "date": "2025-12-29",
-      "full_timestamp": "2025-12-29T17:32:40.439515",
-      "created_at": "2025-12-29T17:32:50.619290",
-      "base_layer_percentage": 22,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "EKT",
-      "region_name": "Екатеринбург",
       "base_layer": "EKT Базовый слой 29.12.2025 17:46:\n\n1) EK1203 2025-12-29T16:36:09\nPower Да; Посещение Нет; WO Есть\n2) EK0694 2025-12-26T11:27:20\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "EKT Неприоритетные технологии 29.12.2025 17:46:\n\nНедоступно LTE1800:\n1) EK0694\nНедоступно 3G:\n1) EK2345\nНедоступно LTE800:\n1) EK2778\nНедоступно LTE2600:\n1) EK0866\n2) EK1030\nНедоступно LTE2300:\n1) EK2308\n2) EK0294\n",
       "base_layer_count": 2,
@@ -6393,9 +6376,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "EKT",
+      "region_name": "Екатеринбург",
+      "base_layer": "EKT Базовый слой 05.01.2026 17:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "EKT Неприоритетные технологии 05.01.2026 17:35:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "17:35:15",
+      "date": "2026-01-05",
+      "full_timestamp": "2026-01-05T17:35:15.803606",
+      "created_at": "2026-01-05T17:35:25.320226",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 376,
-  "timestamp": "2026-01-05T17:20:40.292943",
+  "timestamp": "2026-01-05T17:35:37.821969",
   "error": null
 }
