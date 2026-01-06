@@ -5,23 +5,6 @@
     {
       "region_code": "TAM",
       "region_name": "Тамбовская область",
-      "base_layer": "TAM Базовый слой 30.12.2025 12:05:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- TM0501; wo Нет;Время 2025-12-30 11:09:22\n- TM0814; wo Нет;Время 2025-12-30 10:07:34\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TAM Неприоритетные технологии 30.12.2025 12:05:\n\nНедоступно 3G:\n1) TM0501\nНедоступно LTE2100:\n1) TM0501\n",
-      "base_layer_count": 0,
-      "total_bs_count": 8,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "12:05:11",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T12:05:11.790307",
-      "created_at": "2025-12-30T12:05:13.498210",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "TAM",
-      "region_name": "Тамбовская область",
       "base_layer": "TAM Базовый слой 30.12.2025 12:19:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TM0501; wo Нет;Время 2025-12-30 11:09:22\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TAM Неприоритетные технологии 30.12.2025 12:19:\n\nНедоступно 3G:\n1) TM0501\n",
       "base_layer_count": 0,
@@ -6614,9 +6597,26 @@
       "base_layer_percentage": 5,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "TAM",
+      "region_name": "Тамбовская область",
+      "base_layer": "TAM Базовый слой 06.01.2026 12:06:\n\n1) TM0866 2026-01-06T04:03:20\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- TM0866; wo Есть;Время 2026-01-06 05:22:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 06.01.2026 12:06:\n\nНедоступно LTE1800:\n1) TM0866\nНедоступно 3G:\n1) TM0104\nНедоступно LTE800:\n1) TM0104\nНедоступно LTE2300:\n1) TM0021\n2) TM2019\n3) TM0513\n4) TM0022\n5) TM0944\n6) TM2023\n7) TM0705\n8) TM0844\n",
+      "base_layer_count": 1,
+      "total_bs_count": 17,
+      "power_problems": 2,
+      "non_priority_percentage": 95,
+      "timestamp": "12:06:10",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T12:06:10.103961",
+      "created_at": "2026-01-06T12:06:11.789285",
+      "base_layer_percentage": 5,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 389,
-  "timestamp": "2026-01-06T12:01:04.972549",
+  "timestamp": "2026-01-06T12:06:23.558729",
   "error": null
 }
