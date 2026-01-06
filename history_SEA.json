@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 30.12.2025 15:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 30.12.2025 15:18:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 49,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:18:54",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T15:18:54.976814",
-      "created_at": "2025-12-30T15:19:12.325271",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 30.12.2025 15:32:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- MO4064; wo Нет;Время 2025-12-30 14:43:50\n\n10 приоритет:\n- MR1258; wo Нет;Время 2025-12-30 14:43:46\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 30.12.2025 15:32:\n\nНедоступно LTE2600:\n1) MO4064\n2) MR1258\n",
       "base_layer_count": 0,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 06.01.2026 15:19:\n\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- MR3844; wo Нет;Время 2026-01-06 14:39:30\n\n9 приоритет:\n- MO2581; wo Нет;Время 2026-01-02 23:52:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 06.01.2026 15:19:\n\nНедоступно LTE800:\n1) MO2237\nНедоступно LTE2600:\n1) MR3844\n2) MO2237\n",
+      "base_layer_count": 0,
+      "total_bs_count": 49,
+      "power_problems": 3,
+      "non_priority_percentage": 100,
+      "timestamp": "15:19:49",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T15:19:49.929572",
+      "created_at": "2026-01-06T15:20:07.638572",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-06T15:05:46.853170",
+  "timestamp": "2026-01-06T15:20:18.664632",
   "error": null
 }
