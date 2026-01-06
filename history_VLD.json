@@ -5,23 +5,6 @@
     {
       "region_code": "VLD",
       "region_name": "Владивосток",
-      "base_layer": "VLD Базовый слой 31.12.2025 00:48:\n\n1) VV0456 2025-12-04T16:20:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLD Неприоритетные технологии 31.12.2025 00:48:\n\nНедоступно LTE1800:\n1) VV0456\nНедоступно 3G:\n1) VV0456\nНедоступно LTE2100:\n1) VV0456\nНедоступно LTE2300:\n1) VV0416\n",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "00:48:24",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T00:48:24.764254",
-      "created_at": "2025-12-31T00:48:46.723617",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "VLD",
-      "region_name": "Владивосток",
       "base_layer": "VLD Базовый слой 31.12.2025 01:00:\n\n1) VV0456 2025-12-04T16:20:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLD Неприоритетные технологии 31.12.2025 01:00:\n\nНедоступно LTE1800:\n1) VV0456\nНедоступно 3G:\n1) VV0456\nНедоступно LTE2100:\n1) VV0456\nНедоступно LTE2300:\n1) VV0416\n",
       "base_layer_count": 1,
@@ -6733,9 +6716,26 @@
       "base_layer_percentage": 13,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "VLD",
+      "region_name": "Владивосток",
+      "base_layer": "VLD Базовый слой 07.01.2026 00:51:\n\n1) VV0286 2026-01-05T17:45:14\nPower Да; Посещение Нет; WO Есть\n2) VV0456 2025-12-04T16:20:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLD Неприоритетные технологии 07.01.2026 00:51:\n\nНедоступно LTE1800:\n1) VV0456\nНедоступно 3G:\n1) VV0456\nНедоступно LTE2100:\n1) VV0456\nНедоступно LTE2300:\n1) VV0025\n2) VV0332\n3) VV0416\n4) VV0304\n5) VV0119\n6) VV0612\n7) VV0001\n8) VV2037\n9) VV0382\n10) VV0540\n11) VV0318\n12) VV0021\n13) VV0322\n14) VV0431\n",
+      "base_layer_count": 2,
+      "total_bs_count": 17,
+      "power_problems": 0,
+      "non_priority_percentage": 89,
+      "timestamp": "00:51:15",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T00:51:15.900254",
+      "created_at": "2026-01-07T00:51:37.846003",
+      "base_layer_percentage": 11,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 396,
-  "timestamp": "2026-01-07T00:37:19.734632",
+  "timestamp": "2026-01-07T00:51:49.580088",
   "error": null
 }
