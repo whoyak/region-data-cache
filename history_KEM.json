@@ -5,23 +5,6 @@
     {
       "region_code": "KEM",
       "region_name": "Кемеровская область",
-      "base_layer": "KEM Базовый слой 30.12.2025 17:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KEM Неприоритетные технологии 30.12.2025 17:48:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "17:48:02",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T17:48:02.058252",
-      "created_at": "2025-12-30T17:48:12.705242",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "KEM",
-      "region_name": "Кемеровская область",
       "base_layer": "KEM Базовый слой 30.12.2025 18:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KEM Неприоритетные технологии 30.12.2025 18:00:\n\n",
       "base_layer_count": 0,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 85,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KEM",
+      "region_name": "Кемеровская область",
+      "base_layer": "KEM Базовый слой 06.01.2026 17:49:\n\n1) KE0931 2026-01-06T14:59:04\nPower Нет; Посещение Нет; WO Есть\n2) KE0221 2026-01-06T14:50:48\nPower Да; Посещение Нет; WO Нет\n3) KE1773 2026-01-06T15:23:06\nPower Да; Посещение Нет; WO Нет\n4) KE0895 2025-12-31T18:54:32\nPower Нет; Посещение Нет; WO Есть\n5) KE0590 2026-01-06T14:25:38\nPower Нет; Посещение Нет; WO Нет\n6) KE0874 2026-01-06T02:28:53\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- KE0931; wo Есть;Время 2026-01-06 13:01:50\n- KE1270; wo Есть;Время 2026-01-06 13:38:08\n- KE0895; wo Есть;Время 2025-12-31 19:05:17\n- KE0590; wo Нет;Время 2026-01-06 13:11:33\n- KE0803; wo Нет;Время 2026-01-06 17:16:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KEM Неприоритетные технологии 06.01.2026 17:49:\n\nНедоступно LTE1800:\n1) KE0931\n2) KE0221\n3) KE1773\n4) KE0895\n5) KE0590\n6) KE0874\nНедоступно 3G:\n1) KE1270\n2) KE0590\n3) KE0803\nНедоступно LTE800:\n1) KE0931\n2) KE1270\n3) KE0221\n4) KE0895\n5) KE0590\nНедоступно LTE2100:\n1) KE1270\n2) KE0221\n",
+      "base_layer_count": 6,
+      "total_bs_count": 8,
+      "power_problems": 5,
+      "non_priority_percentage": 25,
+      "timestamp": "17:49:33",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T17:49:33.845119",
+      "created_at": "2026-01-06T17:49:45.135387",
+      "base_layer_percentage": 75,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-06T17:35:06.596435",
+  "timestamp": "2026-01-06T17:50:00.564682",
   "error": null
 }
