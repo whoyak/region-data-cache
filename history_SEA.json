@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 30.12.2025 04:32:\n\n1) MR6320 2025-12-30T00:26:09\nPower Нет; Посещение Нет; WO Есть\n2) MC3987 2025-12-30T03:00:00\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- MR6320; wo Есть;Время 2025-12-29 22:53:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 30.12.2025 04:32:\n\nНедоступно 3G:\n1) MR6320\n2) MC3987\nНедоступно LTE2600:\n1) MS2879\n2) MR6320\n3) MC3987\nНедоступно LTE2100:\n1) MC3987\n",
-      "base_layer_count": 2,
-      "total_bs_count": 52,
-      "power_problems": 2,
-      "non_priority_percentage": 97,
-      "timestamp": "04:32:50",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T04:32:50.604673",
-      "created_at": "2025-12-30T04:33:08.481448",
-      "base_layer_percentage": 3,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 30.12.2025 04:46:\n\n1) MR6320 2025-12-30T00:26:09\nPower Нет; Посещение Нет; WO Есть\n2) MC3987 2025-12-30T03:00:00\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- MR6320; wo Есть;Время 2025-12-29 22:53:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 30.12.2025 04:46:\n\nНедоступно 3G:\n1) MR6320\n2) MC3987\nНедоступно LTE2600:\n1) MR6320\n2) MS2879\n3) MC3987\nНедоступно LTE2100:\n1) MC3987\n",
       "base_layer_count": 2,
@@ -6546,9 +6529,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 06.01.2026 04:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 06.01.2026 04:34:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "04:34:28",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T04:34:28.333347",
+      "created_at": "2026-01-06T04:34:45.719102",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 385,
-  "timestamp": "2026-01-06T04:20:26.718829",
+  "timestamp": "2026-01-06T04:34:58.986688",
   "error": null
 }
