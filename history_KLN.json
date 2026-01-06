@@ -5,23 +5,6 @@
     {
       "region_code": "KLN",
       "region_name": "Калининградская область",
-      "base_layer": "KLN Базовый слой 30.12.2025 20:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KLN Неприоритетные технологии 30.12.2025 20:00:\n\nНедоступно LTE2300:\n1) KN2154\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "20:00:35",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T20:00:35.257545",
-      "created_at": "2025-12-30T20:00:52.988068",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "KLN",
-      "region_name": "Калининградская область",
       "base_layer": "KLN Базовый слой 30.12.2025 20:07:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KLN Неприоритетные технологии 30.12.2025 20:07:\n\nНедоступно LTE2300:\n1) KN2154\n",
       "base_layer_count": 0,
@@ -6665,9 +6648,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "KLN",
+      "region_name": "Калининградская область",
+      "base_layer": "KLN Базовый слой 06.01.2026 20:00:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- KN1556; wo Нет;Время 2026-01-06 19:03:42\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 06.01.2026 20:00:\n\nНедоступно 3G:\n1) KN1556\nНедоступно LTE2600:\n1) KN1556\nНедоступно LTE2100:\n1) KN1556\nНедоступно LTE2300:\n1) KN2154\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "20:00:37",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T20:00:37.113391",
+      "created_at": "2026-01-06T20:00:53.462401",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-06T19:53:56.870768",
+  "timestamp": "2026-01-06T20:01:06.326578",
   "error": null
 }
