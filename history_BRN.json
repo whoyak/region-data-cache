@@ -5,23 +5,6 @@
     {
       "region_code": "BRN",
       "region_name": "Барнаул",
-      "base_layer": "BRN Базовый слой 30.12.2025 20:07:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRN Неприоритетные технологии 30.12.2025 20:07:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "20:07:34",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T20:07:34.006582",
-      "created_at": "2025-12-30T20:07:46.922890",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "BRN",
-      "region_name": "Барнаул",
       "base_layer": "BRN Базовый слой 30.12.2025 20:21:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRN Неприоритетные технологии 30.12.2025 20:21:\n\n",
       "base_layer_count": 0,
@@ -6665,9 +6648,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "BRN",
+      "region_name": "Барнаул",
+      "base_layer": "BRN Базовый слой 06.01.2026 20:08:\n\n1) AL1281 2026-01-06T17:07:27\nPower Да; Посещение Нет; WO Нет\n2) AL1067 2026-01-06T13:40:27\nPower Да; Посещение Нет; WO Нет\n3) AL1260 2026-01-06T17:07:27\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- AL0700; wo Нет;Время 2026-01-06 19:13:27\n- AL0888; wo Есть;Время 2026-01-06 18:48:22\n- AL0779; wo Есть;Время 2026-01-06 19:29:44\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 06.01.2026 20:08:\n\nНедоступно LTE1800:\n1) AL1281\n2) AL1067\n3) AL1260\nНедоступно 3G:\n1) AL0888\nНедоступно LTE800:\n1) AL0888\nНедоступно LTE2100:\n1) AL0888\n",
+      "base_layer_count": 3,
+      "total_bs_count": 7,
+      "power_problems": 3,
+      "non_priority_percentage": 58,
+      "timestamp": "20:08:17",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T20:08:17.940166",
+      "created_at": "2026-01-06T20:08:30.700192",
+      "base_layer_percentage": 42,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-06T20:01:06.326604",
+  "timestamp": "2026-01-06T20:08:44.760802",
   "error": null
 }
