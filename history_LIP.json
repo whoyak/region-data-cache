@@ -5,23 +5,6 @@
     {
       "region_code": "LIP",
       "region_name": "Липецкая область",
-      "base_layer": "LIP Базовый слой 30.12.2025 14:19:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- LI0305; wo Нет;Время 2025-12-30 13:19:56\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "LIP Неприоритетные технологии 30.12.2025 14:19:\n\nНедоступно 3G:\n1) LI0305\n2) LI0276\nНедоступно LTE2100:\n1) LI0305\nНедоступно LTE2300:\n1) LI0305\n2) LI0916\n3) LI0148\n",
-      "base_layer_count": 0,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "14:19:39",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T14:19:39.758943",
-      "created_at": "2025-12-30T14:19:43.051086",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "LIP",
-      "region_name": "Липецкая область",
       "base_layer": "LIP Базовый слой 30.12.2025 14:34:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- LI0305; wo Нет;Время 2025-12-30 13:19:56\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "LIP Неприоритетные технологии 30.12.2025 14:34:\n\nНедоступно 3G:\n1) LI0305\n2) LI0276\nНедоступно LTE2100:\n1) LI0305\nНедоступно LTE2300:\n1) LI0305\n2) LI0916\n3) LI0148\n",
       "base_layer_count": 0,
@@ -6631,9 +6614,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "LIP",
+      "region_name": "Липецкая область",
+      "base_layer": "LIP Базовый слой 06.01.2026 14:20:\n\n1) LI0643 2026-01-06T11:50:42\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- LI0165; wo Нет;Время 2026-01-06 13:02:03\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "LIP Неприоритетные технологии 06.01.2026 14:20:\n\nНедоступно LTE1800:\n1) LI0643\nНедоступно 3G:\n1) LI0165\n2) LI0276\nНедоступно LTE800:\n1) LI0165\nНедоступно LTE2300:\n1) LI0326\n2) LI0643\n3) LI0148\n4) LI0324\n",
+      "base_layer_count": 1,
+      "total_bs_count": 7,
+      "power_problems": 1,
+      "non_priority_percentage": 86,
+      "timestamp": "14:20:45",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T14:20:45.150574",
+      "created_at": "2026-01-06T14:20:48.401048",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 390,
-  "timestamp": "2026-01-06T14:06:38.690906",
+  "timestamp": "2026-01-06T14:20:59.052420",
   "error": null
 }
