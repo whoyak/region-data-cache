@@ -5,23 +5,6 @@
     {
       "region_code": "MRD",
       "region_name": "Мордовия",
-      "base_layer": "MRD Базовый слой 30.12.2025 12:33:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MV0407; wo Есть;Время 2025-12-30 10:44:59\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MRD Неприоритетные технологии 30.12.2025 12:33:\n\nНедоступно 3G:\n1) MV0407\nНедоступно LTE800:\n1) MV0407\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "12:33:32",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T12:33:32.333706",
-      "created_at": "2025-12-30T12:33:35.450075",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "MRD",
-      "region_name": "Мордовия",
       "base_layer": "MRD Базовый слой 30.12.2025 12:47:\n\n1) MV0407 2025-12-30T12:18:02\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MV0407; wo Есть;Время 2025-12-30 10:44:59\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MRD Неприоритетные технологии 30.12.2025 12:47:\n\nНедоступно LTE1800:\n1) MV0407\nНедоступно 3G:\n1) MV0407\nНедоступно LTE800:\n1) MV0407\n",
       "base_layer_count": 1,
@@ -6614,9 +6597,26 @@
       "base_layer_percentage": 11,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "MRD",
+      "region_name": "Мордовия",
+      "base_layer": "MRD Базовый слой 06.01.2026 12:35:\n\n1) MV0082 2026-01-06T10:09:01\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- MV0354; wo Есть;Время 2026-01-06 10:44:07\n\n10 приоритет:\n- MV0082; wo Нет;Время 2026-01-06 10:28:31\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 06.01.2026 12:35:\n\nНедоступно LTE1800:\n1) MV0082\nНедоступно 3G:\n1) MV0354\n2) MV0082\nНедоступно LTE800:\n1) MV0354\n2) MV0082\nНедоступно LTE2600:\n1) MV0354\n2) MV0082\nНедоступно LTE2100:\n1) MV0354\n2) MV0082\nНедоступно LTE2300:\n1) MV0071\n2) MV0108\n3) MV0468\n4) MV0030\n5) MV0125\n6) MV0035\n7) MV0082\n",
+      "base_layer_count": 1,
+      "total_bs_count": 9,
+      "power_problems": 2,
+      "non_priority_percentage": 89,
+      "timestamp": "12:35:23",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T12:35:23.041553",
+      "created_at": "2026-01-06T12:35:25.918149",
+      "base_layer_percentage": 11,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 389,
-  "timestamp": "2026-01-06T12:21:01.658494",
+  "timestamp": "2026-01-06T12:35:37.615873",
   "error": null
 }
