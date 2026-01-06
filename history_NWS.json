@@ -6648,9 +6648,26 @@
       "base_layer_percentage": 40,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NWS",
+      "region_name": "Северо-Западный округ Москвы",
+      "base_layer": "NWS Базовый слой 06.01.2026 18:53:\n\n1) MS4473 2026-01-06T17:19:49\nPower Да; Посещение Нет; WO Нет\n2) MS3532 2026-01-06T17:19:49\nPower Да; Посещение Нет; WO Нет\n3) MS0494 2026-01-06T17:19:34\nPower Да; Посещение Нет; WO Нет\n4) MS5060 2026-01-06T18:10:28\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- MO5264; wo Нет;Время 2026-01-06 17:55:26\n- MS4345; wo Нет;Время 2026-01-06 16:19:59\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NWS Неприоритетные технологии 06.01.2026 18:53:\n\nНедоступно 3G:\n1) MS4473\n2) MS3532\n3) MS0494\n4) MS5060\nНедоступно LTE800:\n1) MS4473\n2) MS3532\n3) MS0494\n4) MS5060\nНедоступно LTE2600:\n1) MS4473\n2) MS3532\n3) MC2328\n4) MS4345\n5) MS0494\n6) MS5060\nНедоступно LTE2100:\n1) MS4473\n2) MS3532\n3) MS0494\n4) MS5060\n",
+      "base_layer_count": 4,
+      "total_bs_count": 10,
+      "power_problems": 3,
+      "non_priority_percentage": 60,
+      "timestamp": "18:53:35",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T18:53:35.265225",
+      "created_at": "2026-01-06T18:53:57.043655",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 391,
-  "timestamp": "2026-01-06T18:38:50.127818",
+  "count": 392,
+  "timestamp": "2026-01-06T18:54:16.005450",
   "error": null
 }
