@@ -5,23 +5,6 @@
     {
       "region_code": "ROS",
       "region_name": "Ростовская область",
-      "base_layer": "ROS Базовый слой 30.12.2025 20:22:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ROS Неприоритетные технологии 30.12.2025 20:22:\n\nНедоступно 3G:\n1) RO0116\n2) RO2670\n3) RO0437\nНедоступно LTE2100:\n1) RO0437\n",
-      "base_layer_count": 0,
-      "total_bs_count": 61,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "20:22:05",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T20:22:05.906572",
-      "created_at": "2025-12-30T20:22:06.635735",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "ROS",
-      "region_name": "Ростовская область",
       "base_layer": "ROS Базовый слой 30.12.2025 20:36:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ROS Неприоритетные технологии 30.12.2025 20:36:\n\nНедоступно 3G:\n1) RO0116\n2) RO2670\n3) RO0437\nНедоступно LTE2100:\n1) RO0437\n",
       "base_layer_count": 0,
@@ -6665,9 +6648,26 @@
       "base_layer_percentage": 2,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "ROS",
+      "region_name": "Ростовская область",
+      "base_layer": "ROS Базовый слой 06.01.2026 20:23:\n\n1) RO0447 2026-01-05T05:41:44\nPower Да; Посещение Нет; WO Нет\n2) RO1165 2026-01-06T19:57:44\nPower Нет; Посещение Нет; WO Есть\n3) RO0968 2026-01-06T19:35:59\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- RO1165; wo Есть;Время 2026-01-06 18:58:53\n- RO0968; wo Есть;Время 2026-01-06 17:56:10\n\n9 приоритет:\n- RO0688; wo Нет;Время 2026-01-06 18:29:19\n- RO0665; wo Нет;Время 2026-01-06 18:45:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ROS Неприоритетные технологии 06.01.2026 20:23:\n\nНедоступно LTE1800:\n1) RO0447\n2) RO1165\n3) RO0968\nНедоступно 3G:\n1) RO1165\n2) RO0062\n3) RO0688\n4) RO2670\n5) RO0665\nНедоступно LTE800:\n1) RO0968\n2) RO0688\nНедоступно LTE2600:\n1) RO0665\nНедоступно LTE2100:\n1) RO1165\n2) RO0665\n",
+      "base_layer_count": 3,
+      "total_bs_count": 83,
+      "power_problems": 4,
+      "non_priority_percentage": 97,
+      "timestamp": "20:23:16",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T20:23:16.403667",
+      "created_at": "2026-01-06T20:23:17.131529",
+      "base_layer_percentage": 3,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-06T20:08:44.760880",
+  "timestamp": "2026-01-06T20:23:39.303423",
   "error": null
 }
