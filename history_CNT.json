@@ -5,23 +5,6 @@
     {
       "region_code": "CNT",
       "region_name": "Центральный округ Москвы",
-      "base_layer": "CNT Базовый слой 31.12.2025 02:48:\n\n1) MS0232 2025-12-31T02:15:29\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CNT Неприоритетные технологии 31.12.2025 02:48:\n\nНедоступно LTE800:\n1) MS6119\n2) MS0232\n3) MS4506\nНедоступно LTE2600:\n1) MS0232\nНедоступно LTE2100:\n1) MS0232\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "02:48:21",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T02:48:21.878630",
-      "created_at": "2025-12-31T02:48:40.254563",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "CNT",
-      "region_name": "Центральный округ Москвы",
       "base_layer": "CNT Базовый слой 31.12.2025 03:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CNT Неприоритетные технологии 31.12.2025 03:00:\n\nНедоступно LTE800:\n1) MS6119\n2) MS4506\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 07.01.2026 02:50:\n\n1) MS4088 2026-01-04T00:36:51\nPower Да; Посещение Да; WO Нет\n2) MS4863 2026-01-06T16:16:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 07.01.2026 02:50:\n\nНедоступно 3G:\n1) MS4088\n2) MS4863\nНедоступно LTE800:\n1) MC5851\n2) MS4088\n3) MS4863\nНедоступно LTE2600:\n1) MC5851\n2) MS4088\n3) MS4863\nНедоступно LTE2100:\n1) MS4088\n2) MS4863\n",
+      "base_layer_count": 2,
+      "total_bs_count": 5,
+      "power_problems": 1,
+      "non_priority_percentage": 60,
+      "timestamp": "02:50:13",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T02:50:13.509972",
+      "created_at": "2026-01-07T02:50:31.764358",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T02:35:58.693677",
+  "timestamp": "2026-01-07T02:50:43.981647",
   "error": null
 }
