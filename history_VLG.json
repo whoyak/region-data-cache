@@ -5,23 +5,6 @@
     {
       "region_code": "VLG",
       "region_name": "Волгоградская область",
-      "base_layer": "VLG Базовый слой 30.12.2025 18:00:\n\n1) VD2020 2025-12-30T16:59:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VD0490; wo Нет;Время 2025-12-30 17:21:44\n- VD0680; wo Есть;Время 2025-12-30 12:12:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLG Неприоритетные технологии 30.12.2025 18:00:\n\nНедоступно 3G:\n1) VD0680\nНедоступно LTE800:\n1) VD0680\n",
-      "base_layer_count": 1,
-      "total_bs_count": 6,
-      "power_problems": 2,
-      "non_priority_percentage": 84,
-      "timestamp": "18:00:33",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T18:00:33.868698",
-      "created_at": "2025-12-30T18:00:33.976889",
-      "base_layer_percentage": 16,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "VLG",
-      "region_name": "Волгоградская область",
       "base_layer": "VLG Базовый слой 30.12.2025 18:07:\n\n1) VD2020 2025-12-30T16:59:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VD0490; wo Нет;Время 2025-12-30 17:21:44\n- VD0680; wo Есть;Время 2025-12-30 12:12:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLG Неприоритетные технологии 30.12.2025 18:07:\n\nНедоступно 3G:\n1) VD0680\nНедоступно LTE800:\n1) VD0680\n",
       "base_layer_count": 1,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "VLG",
+      "region_name": "Волгоградская область",
+      "base_layer": "VLG Базовый слой 06.01.2026 18:00:\n\n1) VD1185 2026-01-04T19:19:53\nPower Да; Посещение Нет; WO Есть\n2) VD2017 2026-01-04T20:10:53\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLG Неприоритетные технологии 06.01.2026 18:00:\n\nНедоступно LTE800:\n1) VD1507\n2) VD0249\n",
+      "base_layer_count": 2,
+      "total_bs_count": 8,
+      "power_problems": 0,
+      "non_priority_percentage": 75,
+      "timestamp": "18:00:49",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T18:00:49.967530",
+      "created_at": "2026-01-06T18:00:50.078013",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-06T17:50:00.564790",
+  "timestamp": "2026-01-06T18:01:00.292802",
   "error": null
 }
