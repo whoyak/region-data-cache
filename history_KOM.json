@@ -5,23 +5,6 @@
     {
       "region_code": "KOM",
       "region_name": "Коми",
-      "base_layer": "KOM Базовый слой 30.12.2025 15:04:\n\n1) KO0432 2025-12-30T13:14:39\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOM Неприоритетные технологии 30.12.2025 15:04:\n\nНедоступно LTE1800:\n1) KO0432\nНедоступно 3G:\n1) KO0432\nНедоступно LTE800:\n1) KO0432\n",
-      "base_layer_count": 1,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 0,
-      "timestamp": "15:04:52",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T15:04:52.480017",
-      "created_at": "2025-12-30T15:05:01.995475",
-      "base_layer_percentage": 100,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "KOM",
-      "region_name": "Коми",
       "base_layer": "KOM Базовый слой 30.12.2025 15:19:\n\n1) KO0432 2025-12-30T13:14:39\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOM Неприоритетные технологии 30.12.2025 15:19:\n\nНедоступно LTE1800:\n1) KO0432\nНедоступно 3G:\n1) KO0432\nНедоступно LTE800:\n1) KO0432\n",
       "base_layer_count": 1,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 72,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "KOM",
+      "region_name": "Коми",
+      "base_layer": "KOM Базовый слой 06.01.2026 15:05:\n\n1) KO0786 2026-01-06T11:18:14\nPower Да; Посещение Нет; WO Нет\n2) KO0671 2026-01-06T10:25:21\nPower Да; Посещение Нет; WO Нет\n3) KO0559 2026-01-06T11:14:29\nPower Нет; Посещение Нет; WO Нет\n4) KO0685 2026-01-05T10:55:53\nPower Нет; Посещение Нет; WO Нет\n5) KO0558 2026-01-06T14:14:33\nPower Да; Посещение Нет; WO Нет\n6) KO0239 2026-01-06T14:28:12\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOM Неприоритетные технологии 06.01.2026 15:05:\n\nНедоступно LTE1800:\n1) KO0786\n2) KO0671\n3) KO0559\n4) KO0685\n5) KO0558\n6) KO0239\nНедоступно LTE800:\n1) KO0239\nНедоступно LTE2300:\n1) KO0559\n2) KO0059\n3) KO0558\n4) KO0560\n",
+      "base_layer_count": 6,
+      "total_bs_count": 10,
+      "power_problems": 4,
+      "non_priority_percentage": 40,
+      "timestamp": "15:05:26",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T15:05:26.804514",
+      "created_at": "2026-01-06T15:05:36.205498",
+      "base_layer_percentage": 60,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-06T15:00:48.992227",
+  "timestamp": "2026-01-06T15:05:46.853224",
   "error": null
 }
