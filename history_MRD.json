@@ -5,23 +5,6 @@
     {
       "region_code": "MRD",
       "region_name": "Мордовия",
-      "base_layer": "MRD Базовый слой 31.12.2025 01:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MRD Неприоритетные технологии 31.12.2025 01:50:\n\nНедоступно LTE2300:\n1) MV0349\n2) MV0125\n3) MV0035\n4) MV0181\n",
-      "base_layer_count": 0,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "01:50:35",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T01:50:35.735347",
-      "created_at": "2025-12-31T01:50:38.647261",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "MRD",
-      "region_name": "Мордовия",
       "base_layer": "MRD Базовый слой 31.12.2025 02:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MRD Неприоритетные технологии 31.12.2025 02:05:\n\nНедоступно LTE2300:\n1) MV0349\n2) MV0125\n3) MV0035\n4) MV0181\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "MRD",
+      "region_name": "Мордовия",
+      "base_layer": "MRD Базовый слой 07.01.2026 02:00:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 07.01.2026 02:00:\n\nНедоступно 3G:\n1) MV0392\nНедоступно LTE2300:\n1) MV0468\n2) MV0030\n3) MV0125\n4) MV0035\n",
+      "base_layer_count": 0,
+      "total_bs_count": 6,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "02:00:34",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T02:00:34.788574",
+      "created_at": "2026-01-07T02:00:37.975004",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T01:49:52.304925",
+  "timestamp": "2026-01-07T02:00:50.935640",
   "error": null
 }
