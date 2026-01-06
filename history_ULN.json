@@ -5,23 +5,6 @@
     {
       "region_code": "ULN",
       "region_name": "Ульяновск",
-      "base_layer": "ULN Базовый слой 30.12.2025 15:18:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- UL0097; wo Нет;Время 2025-12-30 14:15:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ULN Неприоритетные технологии 30.12.2025 15:18:\n\nНедоступно 3G:\n1) UL0097\nНедоступно LTE800:\n1) UL0097\nНедоступно LTE2300:\n1) UL0023\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "15:18:53",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T15:18:53.716678",
-      "created_at": "2025-12-30T15:19:12.324859",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "ULN",
-      "region_name": "Ульяновск",
       "base_layer": "ULN Базовый слой 30.12.2025 15:32:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ULN Неприоритетные технологии 30.12.2025 15:32:\n\nНедоступно LTE2300:\n1) UL0023\n",
       "base_layer_count": 0,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 66,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "ULN",
+      "region_name": "Ульяновск",
+      "base_layer": "ULN Базовый слой 06.01.2026 15:19:\n\n1) UL0970 2026-01-06T12:35:34\nPower Да; Посещение Нет; WO Нет\n2) UL0691 2026-01-06T12:35:34\nPower Да; Посещение Нет; WO Есть\n3) UL0466 2026-01-06T12:34:53\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ULN Неприоритетные технологии 06.01.2026 15:19:\n\nНедоступно LTE1800:\n1) UL0970\n2) UL0691\n3) UL0466\nНедоступно 3G:\n1) UL0691\n2) UL0466\nНедоступно LTE800:\n1) UL0970\n2) UL0691\n3) UL0466\nНедоступно LTE2600:\n1) UL0970\n2) UL0691\nНедоступно LTE2300:\n1) UL0023\n",
+      "base_layer_count": 3,
+      "total_bs_count": 5,
+      "power_problems": 0,
+      "non_priority_percentage": 40,
+      "timestamp": "15:19:48",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T15:19:48.644386",
+      "created_at": "2026-01-06T15:20:07.637998",
+      "base_layer_percentage": 60,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-06T15:05:46.853161",
+  "timestamp": "2026-01-06T15:20:18.664622",
   "error": null
 }
