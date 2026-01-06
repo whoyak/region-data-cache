@@ -5,23 +5,6 @@
     {
       "region_code": "TOM",
       "region_name": "Томская область",
-      "base_layer": "TOM Базовый слой 30.12.2025 20:50:\n\n1) TO0865 2025-12-30T07:21:01\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TOM Неприоритетные технологии 30.12.2025 20:50:\n\n",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "20:50:41",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T20:50:41.123417",
-      "created_at": "2025-12-30T20:50:51.549112",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "TOM",
-      "region_name": "Томская область",
       "base_layer": "TOM Базовый слой 30.12.2025 21:05:\n\n1) TO0865 2025-12-30T07:21:01\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TOM Неприоритетные технологии 30.12.2025 21:05:\n\n",
       "base_layer_count": 1,
@@ -6665,9 +6648,26 @@
       "base_layer_percentage": 66,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "TOM",
+      "region_name": "Томская область",
+      "base_layer": "TOM Базовый слой 06.01.2026 20:54:\n\n1) TO2894 2026-01-06T19:44:11\nPower Да; Посещение Нет; WO Нет\n2) TO0865 2025-12-30T07:21:01\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- TO0636; wo Нет;Время 2026-01-06 20:25:32\n\n9 приоритет:\n- TO0172; wo Нет;Время 2026-01-06 20:09:10\n- TO2875; wo Нет;Время 2026-01-06 20:22:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TOM Неприоритетные технологии 06.01.2026 20:54:\n\nНедоступно 3G:\n1) TO0636\n2) TO2894\n3) TO0172\nНедоступно LTE800:\n1) TO0636\n2) TO2894\nНедоступно LTE2100:\n1) TO0636\n",
+      "base_layer_count": 2,
+      "total_bs_count": 6,
+      "power_problems": 3,
+      "non_priority_percentage": 67,
+      "timestamp": "20:54:39",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T20:54:39.384168",
+      "created_at": "2026-01-06T20:54:50.103483",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-06T20:40:27.599096",
+  "timestamp": "2026-01-06T20:55:03.382998",
   "error": null
 }
