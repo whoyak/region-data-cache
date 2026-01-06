@@ -5,23 +5,6 @@
     {
       "region_code": "SPN",
       "region_name": "Санкт-Петербург Север",
-      "base_layer": "SPN Базовый слой 30.12.2025 21:05:\n\n1) LE2354 2025-12-30T17:23:58\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPN Неприоритетные технологии 30.12.2025 21:05:\n\nНедоступно LTE1800:\n1) LE2354\nНедоступно 3G:\n1) SP0215\nНедоступно LTE2100:\n1) SP0215\nНедоступно LTE2300:\n1) LE1555\n",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 1,
-      "non_priority_percentage": 80,
-      "timestamp": "21:05:11",
-      "date": "2025-12-30",
-      "full_timestamp": "2025-12-30T21:05:11.445862",
-      "created_at": "2025-12-30T21:05:25.971864",
-      "base_layer_percentage": 20,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "SPN",
-      "region_name": "Санкт-Петербург Север",
       "base_layer": "SPN Базовый слой 30.12.2025 21:19:\n\n1) LE2354 2025-12-30T17:23:58\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SPN Неприоритетные технологии 30.12.2025 21:19:\n\nНедоступно LTE1800:\n1) LE2354\nНедоступно 3G:\n1) SP0215\nНедоступно LTE2100:\n1) SP0215\nНедоступно LTE2300:\n1) LE1555\n",
       "base_layer_count": 1,
@@ -6682,9 +6665,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPN",
+      "region_name": "Санкт-Петербург Север",
+      "base_layer": "SPN Базовый слой 06.01.2026 21:09:\n\n1) LE2044 2026-01-06T20:24:02\nPower Нет; Посещение Нет; WO Есть\n2) SP1837 2026-01-06T20:35:29\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- LE2044; wo Есть;Время 2026-01-06 19:26:55\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPN Неприоритетные технологии 06.01.2026 21:09:\n\nНедоступно LTE1800:\n1) LE2044\nНедоступно 3G:\n1) SP0215\n2) LE2044\nНедоступно LTE2600:\n1) LE1807\nНедоступно LTE2100:\n1) SP0215\n2) LE2044\n",
+      "base_layer_count": 2,
+      "total_bs_count": 6,
+      "power_problems": 1,
+      "non_priority_percentage": 67,
+      "timestamp": "21:09:33",
+      "date": "2026-01-06",
+      "full_timestamp": "2026-01-06T21:09:33.002547",
+      "created_at": "2026-01-06T21:09:47.400520",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 393,
-  "timestamp": "2026-01-06T21:00:47.546260",
+  "timestamp": "2026-01-06T21:09:59.112443",
   "error": null
 }
