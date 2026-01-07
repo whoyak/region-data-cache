@@ -6954,9 +6954,26 @@
       "base_layer_percentage": 14,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "NOV",
+      "region_name": "Новгородская область",
+      "base_layer": "NOV Базовый слой 07.01.2026 20:51:\n\n1) VN0617 2026-01-07T14:38:16\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VN0617; wo Есть;Время 2026-01-07 11:32:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NOV Неприоритетные технологии 07.01.2026 20:51:\n\nНедоступно LTE1800:\n1) VN0617\nНедоступно 3G:\n1) VN0460\nНедоступно LTE2600:\n1) VN0010\nНедоступно LTE2300:\n1) VN0527\n",
+      "base_layer_count": 1,
+      "total_bs_count": 7,
+      "power_problems": 1,
+      "non_priority_percentage": 86,
+      "timestamp": "20:51:53",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T20:51:53.121699",
+      "created_at": "2026-01-07T20:52:08.770357",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 409,
-  "timestamp": "2026-01-07T20:37:49.324758",
+  "count": 410,
+  "timestamp": "2026-01-07T20:52:19.545639",
   "error": null
 }
