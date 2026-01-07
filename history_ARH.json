@@ -5,23 +5,6 @@
     {
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 31.12.2025 11:48:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- AR0703; wo Нет;Время 2025-12-31 10:58:17\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ARH Неприоритетные технологии 31.12.2025 11:48:\n\nНедоступно LTE800:\n1) AR0703\nНедоступно LTE2300:\n1) AR0703\n2) AR1196\n",
-      "base_layer_count": 0,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "11:48:47",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T11:48:47.280738",
-      "created_at": "2025-12-31T11:49:03.826068",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "ARH",
-      "region_name": "Архангельская область",
       "base_layer": "ARH Базовый слой 31.12.2025 12:00:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- AR0703; wo Нет;Время 2025-12-31 10:58:17\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ARH Неприоритетные технологии 31.12.2025 12:00:\n\nНедоступно LTE800:\n1) AR0703\nНедоступно LTE2300:\n1) AR0703\n2) AR1196\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 40,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "ARH",
+      "region_name": "Архангельская область",
+      "base_layer": "ARH Базовый слой 07.01.2026 11:48:\n\n1) AR0278 2026-01-06T15:51:23\nPower Нет; Посещение Нет; WO Есть\n2) AR0283 2026-01-06T21:56:00\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 07.01.2026 11:48:\n\nНедоступно LTE1800:\n1) AR0278\nНедоступно 3G:\n1) AR0278\n2) AR1165\nНедоступно LTE800:\n1) AR0278\n2) AR0283\nНедоступно LTE2100:\n1) AR1165\nНедоступно LTE2300:\n1) AR1196\n",
+      "base_layer_count": 2,
+      "total_bs_count": 5,
+      "power_problems": 2,
+      "non_priority_percentage": 60,
+      "timestamp": "11:48:49",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T11:48:49.417912",
+      "created_at": "2026-01-07T11:49:05.968962",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T11:34:50.995417",
+  "timestamp": "2026-01-07T11:49:19.154043",
   "error": null
 }
