@@ -5,23 +5,6 @@
     {
       "region_code": "YOL",
       "region_name": "Йошкар-Ола",
-      "base_layer": "YOL Базовый слой 31.12.2025 03:00:\n\n1) YO0130 2025-12-31T01:35:41\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- YO0241; wo Нет;Время 2025-12-31 02:00:36\n\n3 приоритет:\n- YO0073; wo Нет;Время 2025-12-31 01:15:35\n- YO0231; wo Нет;Время 2025-12-31 01:15:31\n- YO0227; wo Нет;Время 2025-12-31 01:15:33\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "YOL Неприоритетные технологии 31.12.2025 03:00:\n\nНедоступно 3G:\n1) YO0241\n2) YO0073\nНедоступно LTE800:\n1) YO0241\n2) YO0073\n3) YO0227\nНедоступно LTE2100:\n1) YO0073\n",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 4,
-      "non_priority_percentage": 80,
-      "timestamp": "03:00:35",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T03:00:35.308049",
-      "created_at": "2025-12-31T03:00:54.507479",
-      "base_layer_percentage": 20,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "YOL",
-      "region_name": "Йошкар-Ола",
       "base_layer": "YOL Базовый слой 31.12.2025 03:05:\n\n1) YO0130 2025-12-31T01:35:41\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- YO0241; wo Нет;Время 2025-12-31 02:00:36\n\n3 приоритет:\n- YO0073; wo Нет;Время 2025-12-31 01:15:35\n- YO0227; wo Нет;Время 2025-12-31 01:15:33\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "YOL Неприоритетные технологии 31.12.2025 03:05:\n\nНедоступно 3G:\n1) YO0241\n2) YO0073\nНедоступно LTE800:\n1) YO0241\n2) YO0073\n3) YO0227\nНедоступно LTE2100:\n1) YO0073\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "YOL",
+      "region_name": "Йошкар-Ола",
+      "base_layer": "YOL Базовый слой 07.01.2026 03:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "YOL Неприоритетные технологии 07.01.2026 03:00:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "03:00:18",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T03:00:18.301623",
+      "created_at": "2026-01-07T03:00:38.351836",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T02:50:43.981640",
+  "timestamp": "2026-01-07T03:00:51.387839",
   "error": null
 }
