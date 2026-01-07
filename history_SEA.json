@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 31.12.2025 13:05:\n\n1) MC0311 2025-12-31T01:47:27\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 31.12.2025 13:05:\n\nНедоступно 3G:\n1) MC0311\nНедоступно LTE800:\n1) MS0177\nНедоступно LTE2600:\n1) MC0311\nНедоступно LTE2100:\n1) MC0311\n",
-      "base_layer_count": 1,
-      "total_bs_count": 26,
-      "power_problems": 0,
-      "non_priority_percentage": 97,
-      "timestamp": "13:05:22",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T13:05:22.562813",
-      "created_at": "2025-12-31T13:05:39.779314",
-      "base_layer_percentage": 3,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 31.12.2025 13:19:\n\n1) MC0311 2025-12-31T01:47:27\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 31.12.2025 13:19:\n\nНедоступно 3G:\n1) MC0311\nНедоступно LTE800:\n1) MS0177\nНедоступно LTE2600:\n1) MC0311\nНедоступно LTE2100:\n1) MC0311\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 2,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 07.01.2026 13:05:\n\n1) MS4714 2026-01-07T02:11:31\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- MO2581; wo Нет;Время 2026-01-02 23:52:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 07.01.2026 13:05:\n\nНедоступно 3G:\n1) MS4714\nНедоступно LTE800:\n1) MS4714\nНедоступно LTE2600:\n1) MO1587\n2) MS4714\nНедоступно LTE2100:\n1) MS4714\n",
+      "base_layer_count": 1,
+      "total_bs_count": 47,
+      "power_problems": 2,
+      "non_priority_percentage": 98,
+      "timestamp": "13:05:45",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T13:05:45.060585",
+      "created_at": "2026-01-07T13:06:02.407762",
+      "base_layer_percentage": 2,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T13:01:04.074771",
+  "timestamp": "2026-01-07T13:06:14.997846",
   "error": null
 }
