@@ -5,23 +5,6 @@
     {
       "region_code": "KOS",
       "region_name": "Костромская область",
-      "base_layer": "KOS Базовый слой 31.12.2025 16:49:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KS0010; wo Нет;Время 2025-12-31 15:02:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOS Неприоритетные технологии 31.12.2025 16:49:\n\nНедоступно 3G:\n1) KS0010\nНедоступно LTE2100:\n1) KS0010\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0145\n",
-      "base_layer_count": 0,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "16:49:26",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T16:49:26.206153",
-      "created_at": "2025-12-31T16:49:32.646792",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "KOS",
-      "region_name": "Костромская область",
       "base_layer": "KOS Базовый слой 31.12.2025 17:06:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KS0010; wo Нет;Время 2025-12-31 15:02:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOS Неприоритетные технологии 31.12.2025 17:06:\n\nНедоступно 3G:\n1) KS0010\nНедоступно LTE2100:\n1) KS0010\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0145\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KOS",
+      "region_name": "Костромская область",
+      "base_layer": "KOS Базовый слой 07.01.2026 16:49:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KS0032; wo Есть;Время 2026-01-07 13:40:28\n\n10 приоритет:\n- KS0251; wo Есть;Время 2026-01-07 13:40:33\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 07.01.2026 16:49:\n\nНедоступно 3G:\n1) KS0032\n2) KS0251\nНедоступно LTE2100:\n1) KS0032\n2) KS0251\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0145\n",
+      "base_layer_count": 0,
+      "total_bs_count": 5,
+      "power_problems": 2,
+      "non_priority_percentage": 100,
+      "timestamp": "16:49:47",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T16:49:47.191883",
+      "created_at": "2026-01-07T16:49:53.636721",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T16:35:16.966355",
+  "timestamp": "2026-01-07T16:50:10.780323",
   "error": null
 }
