@@ -5,23 +5,6 @@
     {
       "region_code": "CHE",
       "region_name": "Челябинская область",
-      "base_layer": "CHE Базовый слой 31.12.2025 14:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CHE Неприоритетные технологии 31.12.2025 14:20:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:20:35",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T14:20:35.285589",
-      "created_at": "2025-12-31T14:20:45.822688",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "CHE",
-      "region_name": "Челябинская область",
       "base_layer": "CHE Базовый слой 31.12.2025 14:35:\n\n1) CH2416 2025-12-25T10:21:27\nPower Да; Посещение Нет; WO Нет\n2) CH0713 2025-12-31T12:07:05\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CHE Неприоритетные технологии 31.12.2025 14:35:\n\nНедоступно LTE1800:\n1) CH2416\n2) CH0713\nНедоступно 3G:\n1) CH0711\n2) CH1015\n3) CH2206\n4) CH0420\n5) CH2299\n6) CH1188\n7) CH0693\n8) CH0376\n9) CH2615\n10) CH1129\n11) CH0313\n12) CH2262\n13) CH0713\n14) CH0085\n15) CH1350\n16) CH0875\n17) CH2409\n18) CH2524\nНедоступно LTE800:\n1) CH2423\n2) CH2586\n3) CH2285\n4) CH2279\n5) CH2470\n6) CH2411\n7) CO0102\n8) CH1188\n9) CH0238\n10) CH0405\n11) CH0713\n12) CH0085\n13) CH2396\n14) CH2338\n15) CH2550\nНедоступно LTE2600:\n1) CH0085\nНедоступно LTE2100:\n1) CH0711\n2) CH0428\n3) CH1188\n4) CH0713\n5) CH1350\n6) CH2409\n7) CH2524\nНедоступно LTE2300:\n1) CH0028\n2) CH0806\n3) CH1008\n4) CH2470\n5) CH2839\n6) CO0201\n7) CH0097\n8) CH0567\n",
       "base_layer_count": 2,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 15,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "CHE",
+      "region_name": "Челябинская область",
+      "base_layer": "CHE Базовый слой 07.01.2026 14:20:\n\n1) CH0453 2026-01-07T13:05:12\nPower Да; Посещение Нет; WO Нет\n2) CH2416 2026-01-05T20:14:19\nPower Да; Посещение Нет; WO Нет\n3) CH0488 2026-01-05T18:38:13\nPower Да; Посещение Да; WO Нет\n4) CH0608 2026-01-07T13:50:45\nPower Да; Посещение Нет; WO Нет\n5) CH0226 2026-01-07T13:03:42\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHE Неприоритетные технологии 07.01.2026 14:20:\n\nНедоступно LTE1800:\n1) CH0453\n2) CH2416\n3) CH0608\n4) CH0226\nНедоступно 3G:\n1) CH0711\n2) CH2206\n3) CH0420\n4) CH0453\n5) CH2299\n6) CH2615\n7) CH1129\n8) CH0085\n9) CH1350\n10) CH2524\n11) CH2409\nНедоступно LTE800:\n1) CH2423\n2) CH2586\n3) CH0453\n4) CH2470\n5) CO0102\n6) CH0488\n7) CH0608\n8) CH0405\n9) CH0226\n10) CH0085\n11) CH2396\n12) CH2338\nНедоступно LTE2600:\n1) CH0085\nНедоступно LTE2100:\n1) CH0711\n2) CH0453\n3) CH0428\n4) CH2409\nНедоступно LTE2300:\n1) CH0028\n2) CH1008\n3) CH0453\n4) CH2470\n5) CO0201\n6) CH2614\n7) CH0097\n8) CH0122\n9) CH0567\n",
+      "base_layer_count": 5,
+      "total_bs_count": 32,
+      "power_problems": 0,
+      "non_priority_percentage": 85,
+      "timestamp": "14:20:47",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T14:20:47.789045",
+      "created_at": "2026-01-07T14:20:57.914925",
+      "base_layer_percentage": 15,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T14:06:13.412227",
+  "timestamp": "2026-01-07T14:21:09.685772",
   "error": null
 }
