@@ -5,23 +5,6 @@
     {
       "region_code": "OMS",
       "region_name": "Омская область",
-      "base_layer": "OMS Базовый слой 31.12.2025 05:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "OMS Неприоритетные технологии 31.12.2025 05:19:\n\nНедоступно LTE2300:\n1) OM0248\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "05:19:29",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T05:19:29.594364",
-      "created_at": "2025-12-31T05:19:41.377395",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "OMS",
-      "region_name": "Омская область",
       "base_layer": "OMS Базовый слой 31.12.2025 05:33:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "OMS Неприоритетные технологии 31.12.2025 05:33:\n\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "OMS",
+      "region_name": "Омская область",
+      "base_layer": "OMS Базовый слой 07.01.2026 05:19:\n\nВсего активных POWER на сети: 6\n\n3 приоритет:\n- OM0011; wo Нет;Время 2026-01-07 04:21:36\n\n10 приоритет:\n- OM0630; wo Нет;Время 2026-01-07 04:21:35\n- OM0518; wo Нет;Время 2026-01-07 04:20:09\n\n9 приоритет:\n- OM2847; wo Нет;Время 2026-01-07 04:20:09\n- OM0660; wo Есть;Время 2026-01-07 04:20:07\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "OMS Неприоритетные технологии 07.01.2026 05:19:\n\nНедоступно 3G:\n1) OM0011\n2) OM0080\n3) OM0630\n4) OM0129\n5) OM0660\nНедоступно LTE800:\n1) OM0080\n2) OM0630\n3) OM0129\n4) OM0660\nНедоступно LTE2600:\n1) OM0011\n2) OM0080\n3) OM0630\n4) OM0129\n5) OM0660\nНедоступно LTE2100:\n1) OM0011\n2) OM0080\n3) OM0630\n4) OM0129\n5) OM0660\nНедоступно LTE2300:\n1) OM0080\n2) OM0630\n3) OM0129\n",
+      "base_layer_count": 0,
+      "total_bs_count": 7,
+      "power_problems": 6,
+      "non_priority_percentage": 100,
+      "timestamp": "05:19:39",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T05:19:39.821356",
+      "created_at": "2026-01-07T05:19:51.702324",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T05:05:41.382647",
+  "timestamp": "2026-01-07T05:20:03.373459",
   "error": null
 }
