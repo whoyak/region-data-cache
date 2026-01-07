@@ -5,23 +5,6 @@
     {
       "region_code": "SRV",
       "region_name": "Саратовская область",
-      "base_layer": "SRV Базовый слой 31.12.2025 17:50:\n\n1) SV1905 2025-12-31T15:53:22\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SRV Неприоритетные технологии 31.12.2025 17:50:\n\nНедоступно LTE1800:\n1) SV1905\nНедоступно LTE800:\n1) SV1703\n2) SV1905\n3) SV1545\n4) SV1446\nНедоступно LTE2300:\n1) SV0688\n2) SV1793\n3) SV1775\n4) SV0231\n5) SV0175\n6) SV1446\n7) SV0452\n",
-      "base_layer_count": 1,
-      "total_bs_count": 11,
-      "power_problems": 0,
-      "non_priority_percentage": 91,
-      "timestamp": "17:50:35",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T17:50:35.210474",
-      "created_at": "2025-12-31T17:50:37.353903",
-      "base_layer_percentage": 9,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "SRV",
-      "region_name": "Саратовская область",
       "base_layer": "SRV Базовый слой 31.12.2025 18:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SRV Неприоритетные технологии 31.12.2025 18:00:\n\nНедоступно LTE800:\n1) SV1703\n2) SV1545\n3) SV1446\nНедоступно LTE2300:\n1) SV0688\n2) SV1793\n3) SV1775\n4) SV0231\n5) SV0175\n6) SV1446\n7) SV0452\n",
       "base_layer_count": 0,
@@ -6767,9 +6750,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "SRV",
+      "region_name": "Саратовская область",
+      "base_layer": "SRV Базовый слой 07.01.2026 17:51:\n\n1) SV1685 2026-01-06T20:05:53\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SRV Неприоритетные технологии 07.01.2026 17:51:\n\nНедоступно LTE1800:\n1) SV1685\nНедоступно LTE800:\n1) SV1703\n2) SV1545\nНедоступно LTE2300:\n1) SV0688\n2) SV1793\n3) SV0452\n",
+      "base_layer_count": 1,
+      "total_bs_count": 6,
+      "power_problems": 0,
+      "non_priority_percentage": 84,
+      "timestamp": "17:51:02",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T17:51:02.002413",
+      "created_at": "2026-01-07T17:51:03.980363",
+      "base_layer_percentage": 16,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 398,
-  "timestamp": "2026-01-07T17:36:28.245933",
+  "timestamp": "2026-01-07T17:51:14.289315",
   "error": null
 }
