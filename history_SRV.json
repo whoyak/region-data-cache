@@ -5,23 +5,6 @@
     {
       "region_code": "SRV",
       "region_name": "Саратовская область",
-      "base_layer": "SRV Базовый слой 31.12.2025 16:20:\n\n1) SV1905 2025-12-31T15:53:22\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SRV Неприоритетные технологии 31.12.2025 16:20:\n\nНедоступно LTE1800:\n1) SV1905\nНедоступно LTE800:\n1) SV1703\n2) SV1905\n3) SV1545\n4) SV1446\nНедоступно LTE2300:\n1) SV0688\n2) SV1793\n3) SV1775\n4) SV0806\n5) SV0231\n6) SV0175\n7) SV1446\n8) SV0452\n",
-      "base_layer_count": 1,
-      "total_bs_count": 13,
-      "power_problems": 0,
-      "non_priority_percentage": 93,
-      "timestamp": "16:20:11",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T16:20:11.264666",
-      "created_at": "2025-12-31T16:20:13.285903",
-      "base_layer_percentage": 7,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "SRV",
-      "region_name": "Саратовская область",
       "base_layer": "SRV Базовый слой 31.12.2025 16:34:\n\n1) SV1905 2025-12-31T15:53:22\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SRV Неприоритетные технологии 31.12.2025 16:34:\n\nНедоступно LTE1800:\n1) SV1905\nНедоступно LTE800:\n1) SV1703\n2) SV1905\n3) SV1545\n4) SV1446\nНедоступно LTE2300:\n1) SV0688\n2) SV1793\n3) SV1775\n4) SV0806\n5) SV0231\n6) SV0175\n7) SV1446\n8) SV0452\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "SRV",
+      "region_name": "Саратовская область",
+      "base_layer": "SRV Базовый слой 07.01.2026 16:20:\n\n1) SV0344 2026-01-07T09:39:53\nPower Да; Посещение Нет; WO Нет\n2) SV1685 2026-01-06T20:05:53\nPower Да; Посещение Нет; WO Есть\n3) SV2182 2026-01-07T03:33:23\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SRV Неприоритетные технологии 07.01.2026 16:20:\n\nНедоступно LTE1800:\n1) SV1685\n2) SV2182\nНедоступно LTE800:\n1) SV2182\n2) SV1703\n3) SV1545\nНедоступно LTE2100:\n1) SV2182\nНедоступно LTE2300:\n1) SV0688\n2) SV1793\n3) SV0452\n",
+      "base_layer_count": 3,
+      "total_bs_count": 8,
+      "power_problems": 0,
+      "non_priority_percentage": 63,
+      "timestamp": "16:20:32",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T16:20:32.312624",
+      "created_at": "2026-01-07T16:20:34.441391",
+      "base_layer_percentage": 37,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T16:06:12.665277",
+  "timestamp": "2026-01-07T16:20:45.318958",
   "error": null
 }
