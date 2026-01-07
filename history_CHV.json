@@ -5,23 +5,6 @@
     {
       "region_code": "CHV",
       "region_name": "Чувашия",
-      "base_layer": "CHV Базовый слой 31.12.2025 09:34:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- CV1103; wo Нет;Время 2025-12-31 08:40:10\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CHV Неприоритетные технологии 31.12.2025 09:34:\n\nНедоступно LTE800:\n1) CV1103\nНедоступно LTE2300:\n1) CV1103\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "09:34:16",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T09:34:16.936996",
-      "created_at": "2025-12-31T09:34:37.610891",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "CHV",
-      "region_name": "Чувашия",
       "base_layer": "CHV Базовый слой 31.12.2025 09:48:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- CV1103; wo Нет;Время 2025-12-31 08:40:10\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CHV Неприоритетные технологии 31.12.2025 09:48:\n\nНедоступно LTE800:\n1) CV1103\nНедоступно LTE2300:\n1) CV1103\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "CHV",
+      "region_name": "Чувашия",
+      "base_layer": "CHV Базовый слой 07.01.2026 09:34:\n\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- CV0197; wo Нет;Время 2026-01-07 09:12:33\n- CV1121; wo Нет;Время 2026-01-07 08:23:10\n\n9 приоритет:\n- CV0198; wo Нет;Время 2026-01-07 08:23:16\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHV Неприоритетные технологии 07.01.2026 09:34:\n\nНедоступно 3G:\n1) CV0097\n2) CV0197\nНедоступно LTE800:\n1) CV0097\n2) CV1121\n3) CV0198\nНедоступно LTE2600:\n1) CV0097\nНедоступно LTE2100:\n1) CV0097\nНедоступно LTE2300:\n1) CV0097\n",
+      "base_layer_count": 0,
+      "total_bs_count": 5,
+      "power_problems": 4,
+      "non_priority_percentage": 100,
+      "timestamp": "09:34:41",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T09:34:41.114991",
+      "created_at": "2026-01-07T09:35:02.263944",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T09:20:46.361307",
+  "timestamp": "2026-01-07T09:35:14.812136",
   "error": null
 }
