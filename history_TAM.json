@@ -5,23 +5,6 @@
     {
       "region_code": "TAM",
       "region_name": "Тамбовская область",
-      "base_layer": "TAM Базовый слой 31.12.2025 04:33:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TM0471; wo Нет;Время 2025-12-30 23:20:02\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TAM Неприоритетные технологии 31.12.2025 04:33:\n\nНедоступно LTE2300:\n1) TM0471\n2) TM0021\n3) TM0022\n4) TM0705\n",
-      "base_layer_count": 0,
-      "total_bs_count": 10,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "04:33:48",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T04:33:48.034569",
-      "created_at": "2025-12-31T04:33:49.745184",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "TAM",
-      "region_name": "Тамбовская область",
       "base_layer": "TAM Базовый слой 31.12.2025 04:48:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TM0471; wo Нет;Время 2025-12-30 23:20:02\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TAM Неприоритетные технологии 31.12.2025 04:48:\n\nНедоступно LTE2300:\n1) TM0471\n2) TM0021\n3) TM0022\n4) TM0705\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 6,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "TAM",
+      "region_name": "Тамбовская область",
+      "base_layer": "TAM Базовый слой 07.01.2026 04:34:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- TM0253; wo Есть;Время 2026-01-07 03:55:15\n- TM0100; wo Нет;Время 2026-01-07 01:59:52\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 07.01.2026 04:34:\n\nНедоступно 3G:\n1) TM0253\n2) TM0100\nНедоступно LTE800:\n1) TM0253\nНедоступно LTE2300:\n1) TM0021\n2) TM0022\n3) TM0944\n4) TM2023\n5) TM0705\n6) TM0844\n",
+      "base_layer_count": 0,
+      "total_bs_count": 15,
+      "power_problems": 2,
+      "non_priority_percentage": 100,
+      "timestamp": "04:34:33",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T04:34:33.035619",
+      "created_at": "2026-01-07T04:34:34.778966",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T04:20:21.044955",
+  "timestamp": "2026-01-07T04:34:47.275861",
   "error": null
 }
