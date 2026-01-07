@@ -5,23 +5,6 @@
     {
       "region_code": "BRT",
       "region_name": "Бурятия",
-      "base_layer": "BRT Базовый слой 31.12.2025 08:19:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- BU0488; wo Нет;Время 2025-12-29 12:47:17\n\n3 приоритет:\n- BU0202; wo Есть;Время 2025-12-31 06:39:38\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRT Неприоритетные технологии 31.12.2025 08:19:\n\nНедоступно 3G:\n1) BU0202\nНедоступно LTE800:\n1) BU0488\nНедоступно LTE2100:\n1) BU0202\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "08:19:43",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T08:19:43.337444",
-      "created_at": "2025-12-31T08:20:06.844516",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "BRT",
-      "region_name": "Бурятия",
       "base_layer": "BRT Базовый слой 31.12.2025 08:34:\n\n1) BU2689 2025-12-31T07:52:44\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- BU0488; wo Нет;Время 2025-12-29 12:47:17\n\n3 приоритет:\n- BU0202; wo Есть;Время 2025-12-31 06:39:38\n\n9 приоритет:\n- BU0226; wo Есть;Время 2025-12-31 07:36:39\n- BU2689; wo Нет;Время 2025-12-31 07:28:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRT Неприоритетные технологии 31.12.2025 08:34:\n\nНедоступно LTE1800:\n1) BU2689\nНедоступно 3G:\n1) BU0202\n2) BU0226\nНедоступно LTE800:\n1) BU0488\nНедоступно LTE2100:\n1) BU0202\n2) BU0226\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "BRT",
+      "region_name": "Бурятия",
+      "base_layer": "BRT Базовый слой 07.01.2026 08:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRT Неприоритетные технологии 07.01.2026 08:19:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "08:19:40",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T08:19:40.515170",
+      "created_at": "2026-01-07T08:20:04.241251",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T08:05:42.528062",
+  "timestamp": "2026-01-07T08:20:16.588114",
   "error": null
 }
