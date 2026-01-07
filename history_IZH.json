@@ -5,23 +5,6 @@
     {
       "region_code": "IZH",
       "region_name": "Ижевск",
-      "base_layer": "IZH Базовый слой 31.12.2025 12:19:\n\n1) IZ0234 2025-12-31T10:17:35\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "IZH Неприоритетные технологии 31.12.2025 12:19:\n\nНедоступно LTE1800:\n1) IZ0234\nНедоступно LTE2300:\n1) IZ0447\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "12:19:56",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T12:19:56.679981",
-      "created_at": "2025-12-31T12:20:17.390615",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "IZH",
-      "region_name": "Ижевск",
       "base_layer": "IZH Базовый слой 31.12.2025 12:34:\n\n1) IZ0234 2025-12-31T10:17:35\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "IZH Неприоритетные технологии 31.12.2025 12:34:\n\nНедоступно LTE1800:\n1) IZ0234\nНедоступно LTE2300:\n1) IZ0447\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "IZH",
+      "region_name": "Ижевск",
+      "base_layer": "IZH Базовый слой 07.01.2026 12:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IZH Неприоритетные технологии 07.01.2026 12:20:\n\nНедоступно LTE2300:\n1) IZ0152\n2) IZ0010\n3) IZ0126\n4) IZ0087\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "12:20:08",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T12:20:08.903996",
+      "created_at": "2026-01-07T12:20:29.368539",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T12:05:58.932560",
+  "timestamp": "2026-01-07T12:20:42.199742",
   "error": null
 }
