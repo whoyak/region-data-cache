@@ -5,23 +5,6 @@
     {
       "region_code": "VLA",
       "region_name": "Владимирская область",
-      "base_layer": "VLA Базовый слой 31.12.2025 07:19:\n\n1) VL0521 2025-12-31T01:13:03\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLA Неприоритетные технологии 31.12.2025 07:19:\n\nНедоступно LTE2300:\n1) VL0188\n2) VL0559\n3) VL0187\n4) VL0943\n5) VL0937\n6) VL0037\n7) VL0045\n",
-      "base_layer_count": 1,
-      "total_bs_count": 8,
-      "power_problems": 0,
-      "non_priority_percentage": 88,
-      "timestamp": "07:19:42",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T07:19:42.520996",
-      "created_at": "2025-12-31T07:19:47.693819",
-      "base_layer_percentage": 12,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "VLA",
-      "region_name": "Владимирская область",
       "base_layer": "VLA Базовый слой 31.12.2025 07:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLA Неприоритетные технологии 31.12.2025 07:34:\n\nНедоступно LTE2300:\n1) VL0188\n2) VL0559\n3) VL0187\n4) VL0943\n5) VL0937\n6) VL0037\n7) VL0045\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "VLA",
+      "region_name": "Владимирская область",
+      "base_layer": "VLA Базовый слой 07.01.2026 07:20:\n\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- VL0141; wo Есть;Время 2026-01-07 03:29:54\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLA Неприоритетные технологии 07.01.2026 07:20:\n\nНедоступно 3G:\n1) VL0141\nНедоступно LTE800:\n1) VL0141\nНедоступно LTE2600:\n1) VL0141\nНедоступно LTE2300:\n1) VL0110\n2) VL0188\n3) VL0559\n4) VL0187\n5) VL0937\n6) VL0073\n7) VL0037\n8) VL0045\n",
+      "base_layer_count": 0,
+      "total_bs_count": 9,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "07:20:17",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T07:20:17.161235",
+      "created_at": "2026-01-07T07:20:22.159528",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T07:05:56.306141",
+  "timestamp": "2026-01-07T07:20:34.564188",
   "error": null
 }
