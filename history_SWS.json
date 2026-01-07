@@ -5,23 +5,6 @@
     {
       "region_code": "SWS",
       "region_name": "Юго-Западный округ Москвы",
-      "base_layer": "SWS Базовый слой 31.12.2025 11:19:\n\n1) MS2093 2025-12-28T17:48:15\nPower Нет; Посещение Нет; WO Есть\n2) MS1699 2025-12-30T12:00:10\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- MS2093; wo Есть;Время 2025-12-27 16:02:19\n- MO0700; wo Нет;Время 2025-12-31 09:41:22\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SWS Неприоритетные технологии 31.12.2025 11:19:\n\nНедоступно 3G:\n1) MS2093\nНедоступно LTE2600:\n1) MS2093\n2) MR5924\n3) MO0700\nНедоступно LTE2100:\n1) MS2093\n2) MS1699\n",
-      "base_layer_count": 2,
-      "total_bs_count": 27,
-      "power_problems": 3,
-      "non_priority_percentage": 93,
-      "timestamp": "11:19:59",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T11:19:59.298753",
-      "created_at": "2025-12-31T11:20:16.796528",
-      "base_layer_percentage": 7,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SWS",
-      "region_name": "Юго-Западный округ Москвы",
       "base_layer": "SWS Базовый слой 31.12.2025 11:34:\n\n1) MS2093 2025-12-28T17:48:15\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- MO0700; wo Нет;Время 2025-12-31 09:41:22\n- MS2093; wo Есть;Время 2025-12-27 16:02:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SWS Неприоритетные технологии 31.12.2025 11:34:\n\nНедоступно 3G:\n1) MS2093\nНедоступно LTE2600:\n1) MR5924\n2) MO0700\n3) MS2093\nНедоступно LTE2100:\n1) MS2093\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 11,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SWS",
+      "region_name": "Юго-Западный округ Москвы",
+      "base_layer": "SWS Базовый слой 07.01.2026 11:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SWS Неприоритетные технологии 07.01.2026 11:19:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 9,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "11:19:57",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T11:19:57.634028",
+      "created_at": "2026-01-07T11:20:14.809487",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T11:05:47.995231",
+  "timestamp": "2026-01-07T11:20:29.150935",
   "error": null
 }
