@@ -5,23 +5,6 @@
     {
       "region_code": "VLG",
       "region_name": "Волгоградская область",
-      "base_layer": "VLG Базовый слой 31.12.2025 16:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLG Неприоритетные технологии 31.12.2025 16:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "16:49:32",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T16:49:32.536655",
-      "created_at": "2025-12-31T16:49:32.649447",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "VLG",
-      "region_name": "Волгоградская область",
       "base_layer": "VLG Базовый слой 31.12.2025 17:06:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLG Неприоритетные технологии 31.12.2025 17:06:\n\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "VLG",
+      "region_name": "Волгоградская область",
+      "base_layer": "VLG Базовый слой 07.01.2026 16:49:\n\n1) VD0421 2026-01-07T16:12:32\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 6\n\n9 приоритет:\n- VD0435; wo Нет;Время 2026-01-07 16:11:35\n\n10 приоритет:\n- VD0496; wo Есть;Время 2026-01-07 16:15:59\n- VD0335; wo Нет;Время 2026-01-07 16:11:38\n- VD0434; wo Нет;Время 2026-01-07 16:11:39\n- VD0823; wo Есть;Время 2026-01-07 13:12:28\n- VD0421; wo Есть;Время 2026-01-07 16:11:38\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLG Неприоритетные технологии 07.01.2026 16:49:\n\nНедоступно 3G:\n1) VD0435\n2) VD0496\n3) VD0335\n4) VD0434\n5) VD0823\n6) VD0421\nНедоступно LTE800:\n1) VD0435\n2) VD0496\n3) VD0335\n4) VD0434\n5) VD0823\n6) VD0421\nНедоступно LTE2600:\n1) VD0435\n",
+      "base_layer_count": 1,
+      "total_bs_count": 10,
+      "power_problems": 6,
+      "non_priority_percentage": 90,
+      "timestamp": "16:49:53",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T16:49:53.528520",
+      "created_at": "2026-01-07T16:49:53.638552",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T16:35:16.966394",
+  "timestamp": "2026-01-07T16:50:10.780362",
   "error": null
 }
