@@ -5,23 +5,6 @@
     {
       "region_code": "CNT",
       "region_name": "Центральный округ Москвы",
-      "base_layer": "CNT Базовый слой 31.12.2025 12:49:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CNT Неприоритетные технологии 31.12.2025 12:49:\n\nНедоступно LTE800:\n1) MS6119\n2) MS4506\n",
-      "base_layer_count": 0,
-      "total_bs_count": 5,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "12:49:13",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T12:49:13.178771",
-      "created_at": "2025-12-31T12:49:31.575235",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "CNT",
-      "region_name": "Центральный округ Москвы",
       "base_layer": "CNT Базовый слой 31.12.2025 13:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CNT Неприоритетные технологии 31.12.2025 13:00:\n\nНедоступно LTE800:\n1) MS6119\n2) MS4506\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 60,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 07.01.2026 12:49:\n\n1) MS4088 2026-01-04T00:36:51\nPower Да; Посещение Да; WO Нет\n2) MS4863 2026-01-06T16:16:34\nPower Да; Посещение Да; WO Нет\n3) MC2004 2026-01-07T10:53:19\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 07.01.2026 12:49:\n\nНедоступно 3G:\n1) MS4088\n2) MS4863\n3) MC2004\nНедоступно LTE800:\n1) MS4088\n2) MS4863\nНедоступно LTE2600:\n1) MS4088\n2) MS4863\n3) MC2004\nНедоступно LTE2100:\n1) MS4088\n2) MS4863\n3) MC2004\n",
+      "base_layer_count": 3,
+      "total_bs_count": 5,
+      "power_problems": 0,
+      "non_priority_percentage": 40,
+      "timestamp": "12:49:29",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T12:49:29.333293",
+      "created_at": "2026-01-07T12:49:47.846325",
+      "base_layer_percentage": 60,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T12:35:13.182551",
+  "timestamp": "2026-01-07T12:50:00.008180",
   "error": null
 }
