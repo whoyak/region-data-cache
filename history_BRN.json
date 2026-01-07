@@ -5,23 +5,6 @@
     {
       "region_code": "BRN",
       "region_name": "Барнаул",
-      "base_layer": "BRN Базовый слой 31.12.2025 11:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRN Неприоритетные технологии 31.12.2025 11:00:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "11:00:21",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T11:00:21.242908",
-      "created_at": "2025-12-31T11:00:34.157455",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "BRN",
-      "region_name": "Барнаул",
       "base_layer": "BRN Базовый слой 31.12.2025 11:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRN Неприоритетные технологии 31.12.2025 11:05:\n\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "BRN",
+      "region_name": "Барнаул",
+      "base_layer": "BRN Базовый слой 07.01.2026 11:00:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- AL0388; wo Есть;Время 2026-01-07 07:20:00\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 07.01.2026 11:00:\n\nНедоступно 3G:\n1) AL0388\n2) AL0779\nНедоступно LTE800:\n1) AL0481\n2) AL0388\nНедоступно LTE2100:\n1) AL0388\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "11:00:20",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T11:00:20.754209",
+      "created_at": "2026-01-07T11:00:33.591301",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T10:49:21.391960",
+  "timestamp": "2026-01-07T11:00:46.258563",
   "error": null
 }
