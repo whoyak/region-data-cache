@@ -5,23 +5,6 @@
     {
       "region_code": "NWS",
       "region_name": "Северо-Западный округ Москвы",
-      "base_layer": "NWS Базовый слой 31.12.2025 12:05:\n\n1) MO3194 2025-12-31T10:29:09\nPower Да; Посещение Нет; WO Нет\n2) MO2074 2025-12-31T11:10:45\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NWS Неприоритетные технологии 31.12.2025 12:05:\n\nНедоступно 3G:\n1) MO2074\nНедоступно LTE800:\n1) MO2074\nНедоступно LTE2600:\n1) MC2328\n2) MO2074\n3) MO2275\nНедоступно LTE2100:\n1) MO3194\n2) MO2074\n",
-      "base_layer_count": 2,
-      "total_bs_count": 13,
-      "power_problems": 1,
-      "non_priority_percentage": 85,
-      "timestamp": "12:05:17",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T12:05:17.158180",
-      "created_at": "2025-12-31T12:05:34.717114",
-      "base_layer_percentage": 15,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NWS",
-      "region_name": "Северо-Западный округ Москвы",
       "base_layer": "NWS Базовый слой 31.12.2025 12:19:\n\n1) MO3194 2025-12-31T10:29:09\nPower Да; Посещение Нет; WO Нет\n2) MO2074 2025-12-31T11:10:45\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NWS Неприоритетные технологии 31.12.2025 12:19:\n\nНедоступно 3G:\n1) MO2074\nНедоступно LTE800:\n1) MO2074\n2) MO4507\nНедоступно LTE2600:\n1) MC2328\n2) MO2074\n3) MO1564\n4) MO2275\n5) MO1562\nНедоступно LTE2100:\n1) MO3194\n2) MO2074\n",
       "base_layer_count": 2,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 28,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NWS",
+      "region_name": "Северо-Западный округ Москвы",
+      "base_layer": "NWS Базовый слой 07.01.2026 12:05:\n\n1) MO6036 2026-01-07T02:38:08\nPower Да; Посещение Да; WO Есть\n2) MS0241 2026-01-07T06:21:14\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MO3902; wo Нет;Время 2026-01-07 10:31:45\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NWS Неприоритетные технологии 07.01.2026 12:05:\n\nНедоступно 3G:\n1) MO6036\n2) MS0241\nНедоступно LTE2600:\n1) MO6036\n2) MC2328\n3) MO3902\nНедоступно LTE2100:\n1) MO6036\n2) MS0241\n",
+      "base_layer_count": 2,
+      "total_bs_count": 7,
+      "power_problems": 1,
+      "non_priority_percentage": 72,
+      "timestamp": "12:05:27",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T12:05:27.666529",
+      "created_at": "2026-01-07T12:05:45.099058",
+      "base_layer_percentage": 28,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T12:00:41.687456",
+  "timestamp": "2026-01-07T12:05:58.932579",
   "error": null
 }
