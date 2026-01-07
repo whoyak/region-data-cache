@@ -5,23 +5,6 @@
     {
       "region_code": "IZH",
       "region_name": "Ижевск",
-      "base_layer": "IZH Базовый слой 31.12.2025 16:34:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- IZ0241; wo Есть;Время 2025-12-31 14:46:54\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "IZH Неприоритетные технологии 31.12.2025 16:34:\n\nНедоступно 3G:\n1) IZ0241\nНедоступно LTE800:\n1) IZ0241\nНедоступно LTE2300:\n1) IZ0447\n",
-      "base_layer_count": 0,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "16:34:27",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T16:34:27.134147",
-      "created_at": "2025-12-31T16:34:50.419905",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "IZH",
-      "region_name": "Ижевск",
       "base_layer": "IZH Базовый слой 31.12.2025 16:49:\n\n1) IZ0234 2025-12-31T16:10:13\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- IZ0241; wo Есть;Время 2025-12-31 14:46:54\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "IZH Неприоритетные технологии 31.12.2025 16:49:\n\nНедоступно 3G:\n1) IZ0241\nНедоступно LTE800:\n1) IZ0241\nНедоступно LTE2300:\n1) IZ0447\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "IZH",
+      "region_name": "Ижевск",
+      "base_layer": "IZH Базовый слой 07.01.2026 16:34:\n\n1) IZ0087 2026-01-07T16:16:57\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IZH Неприоритетные технологии 07.01.2026 16:34:\n\nНедоступно LTE1800:\n1) IZ0087\nНедоступно LTE800:\n1) IZ0087\nНедоступно LTE2600:\n1) IZ0087\nНедоступно LTE2100:\n1) IZ0087\nНедоступно LTE2300:\n1) IZ0152\n2) IZ0010\n3) IZ0126\n4) IZ0087\n",
+      "base_layer_count": 1,
+      "total_bs_count": 5,
+      "power_problems": 0,
+      "non_priority_percentage": 80,
+      "timestamp": "16:34:43",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T16:34:43.726278",
+      "created_at": "2026-01-07T16:35:05.746476",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T16:20:45.318757",
+  "timestamp": "2026-01-07T16:35:16.966260",
   "error": null
 }
