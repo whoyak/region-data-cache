@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 31.12.2025 19:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 31.12.2025 19:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "19:05:31",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T19:05:31.521557",
-      "created_at": "2025-12-31T19:05:49.294874",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 02.01.2026 16:05:\n\n1) MR5231 2026-01-02T15:01:31\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- MO6209; wo Нет;Время 2026-01-02 14:37:52\n- MO5496; wo Нет;Время 2026-01-02 14:14:10\n\n10 приоритет:\n- MO4540; wo Нет;Время 2026-01-02 14:14:09\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 02.01.2026 16:05:\n\nНедоступно 3G:\n1) MR5231\nНедоступно LTE800:\n1) MR5231\n2) MO6209\n3) MO5496\n4) MO4540\nНедоступно LTE2600:\n1) MR5231\n2) MO6209\n3) MO5496\n4) MO4540\nНедоступно LTE2100:\n1) MR5231\n",
       "base_layer_count": 1,
@@ -6835,9 +6818,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 07.01.2026 19:06:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- MO1832; wo Нет;Время 2026-01-07 17:27:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 07.01.2026 19:06:\n\nНедоступно LTE800:\n1) MO5071\nНедоступно LTE2600:\n1) MO1832\n2) MO5071\n",
+      "base_layer_count": 0,
+      "total_bs_count": 18,
+      "power_problems": 2,
+      "non_priority_percentage": 100,
+      "timestamp": "19:06:36",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T19:06:36.878436",
+      "created_at": "2026-01-07T19:06:54.629350",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 402,
-  "timestamp": "2026-01-07T19:01:01.692072",
+  "timestamp": "2026-01-07T19:07:07.574970",
   "error": null
 }
