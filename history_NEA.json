@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 31.12.2025 06:48:\n\n1) MS6102 2025-12-30T19:06:06\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 31.12.2025 06:48:\n\nНедоступно 3G:\n1) MS6102\nНедоступно LTE800:\n1) MS6102\nНедоступно LTE2600:\n1) MS6102\nНедоступно LTE2100:\n1) MS6102\n",
-      "base_layer_count": 1,
-      "total_bs_count": 20,
-      "power_problems": 0,
-      "non_priority_percentage": 95,
-      "timestamp": "06:48:23",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T06:48:23.190535",
-      "created_at": "2025-12-31T06:48:41.466819",
-      "base_layer_percentage": 5,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 31.12.2025 07:05:\n\n1) MS6102 2025-12-30T19:06:06\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 31.12.2025 07:05:\n\nНедоступно 3G:\n1) MS6102\nНедоступно LTE800:\n1) MS6102\nНедоступно LTE2600:\n1) MS6102\nНедоступно LTE2100:\n1) MS6102\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 07.01.2026 06:48:\n\n1) MR0030 2026-01-07T06:20:40\nPower Нет; Посещение Нет; WO Есть\n2) MR0788 2026-01-07T06:09:02\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MR0030; wo Есть;Время 2026-01-07 03:56:11\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 07.01.2026 06:48:\n\nНедоступно 3G:\n1) MR0030\n2) MR0788\nНедоступно LTE800:\n1) MR0030\nНедоступно LTE2600:\n1) MR0030\n2) MR0788\nНедоступно LTE2100:\n1) MR0030\n2) MR0788\n",
+      "base_layer_count": 2,
+      "total_bs_count": 18,
+      "power_problems": 1,
+      "non_priority_percentage": 89,
+      "timestamp": "06:48:23",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T06:48:23.839363",
+      "created_at": "2026-01-07T06:48:41.519225",
+      "base_layer_percentage": 11,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T06:34:30.977084",
+  "timestamp": "2026-01-07T06:48:53.231589",
   "error": null
 }
