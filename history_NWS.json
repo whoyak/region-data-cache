@@ -5,23 +5,6 @@
     {
       "region_code": "NWS",
       "region_name": "Северо-Западный округ Москвы",
-      "base_layer": "NWS Базовый слой 31.12.2025 07:19:\n\n1) MO2275 2025-12-30T07:38:40\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NWS Неприоритетные технологии 31.12.2025 07:19:\n\nНедоступно 3G:\n1) MO2275\nНедоступно LTE2600:\n1) MO2275\n2) MC2328\n",
-      "base_layer_count": 1,
-      "total_bs_count": 14,
-      "power_problems": 1,
-      "non_priority_percentage": 93,
-      "timestamp": "07:19:29",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T07:19:29.858022",
-      "created_at": "2025-12-31T07:19:47.688870",
-      "base_layer_percentage": 7,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NWS",
-      "region_name": "Северо-Западный округ Москвы",
       "base_layer": "NWS Базовый слой 31.12.2025 07:33:\n\n1) MO2275 2025-12-30T07:38:40\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NWS Неприоритетные технологии 31.12.2025 07:33:\n\nНедоступно 3G:\n1) MO2275\nНедоступно LTE2600:\n1) MO2275\n2) MC2328\n",
       "base_layer_count": 1,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 30,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NWS",
+      "region_name": "Северо-Западный округ Москвы",
+      "base_layer": "NWS Базовый слой 07.01.2026 07:20:\n\n1) MS3373 2026-01-07T06:05:33\nPower Да; Посещение Да; WO Нет\n2) MS0241 2026-01-07T06:21:14\nPower Да; Посещение Нет; WO Нет\n3) MO6036 2026-01-07T02:38:08\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NWS Неприоритетные технологии 07.01.2026 07:20:\n\nНедоступно 3G:\n1) MS3373\n2) MS0241\n3) MO6036\nНедоступно LTE2600:\n1) MC2328\n2) MO6036\nНедоступно LTE2100:\n1) MS0241\n2) MO6036\n",
+      "base_layer_count": 3,
+      "total_bs_count": 8,
+      "power_problems": 0,
+      "non_priority_percentage": 63,
+      "timestamp": "07:20:04",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T07:20:04.338707",
+      "created_at": "2026-01-07T07:20:22.153697",
+      "base_layer_percentage": 37,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T07:05:56.306033",
+  "timestamp": "2026-01-07T07:20:34.564097",
   "error": null
 }
