@@ -5,23 +5,6 @@
     {
       "region_code": "PNZ",
       "region_name": "Пензенская область",
-      "base_layer": "PNZ Базовый слой 31.12.2025 14:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PNZ Неприоритетные технологии 31.12.2025 14:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:49:30",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T14:49:30.372378",
-      "created_at": "2025-12-31T14:49:32.703042",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "PNZ",
-      "region_name": "Пензенская область",
       "base_layer": "PNZ Базовый слой 31.12.2025 15:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PNZ Неприоритетные технологии 31.12.2025 15:00:\n\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 14,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "PNZ",
+      "region_name": "Пензенская область",
+      "base_layer": "PNZ Базовый слой 07.01.2026 14:50:\n\n1) PN0320 2026-01-07T11:47:58\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 07.01.2026 14:50:\n\nНедоступно LTE1800:\n1) PN0320\nНедоступно 3G:\n1) PN0720\n2) PN0336\n3) PN0320\nНедоступно LTE800:\n1) PN0336\n2) PN0320\nНедоступно LTE2100:\n1) PN0720\nНедоступно LTE2300:\n1) PN0153\n2) PN1209\n3) PN0019\n4) PN0055\n",
+      "base_layer_count": 1,
+      "total_bs_count": 7,
+      "power_problems": 1,
+      "non_priority_percentage": 86,
+      "timestamp": "14:50:33",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T14:50:33.303199",
+      "created_at": "2026-01-07T14:50:35.685214",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T14:36:04.794698",
+  "timestamp": "2026-01-07T14:50:47.102080",
   "error": null
 }
