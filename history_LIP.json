@@ -5,23 +5,6 @@
     {
       "region_code": "LIP",
       "region_name": "Липецкая область",
-      "base_layer": "LIP Базовый слой 31.12.2025 04:33:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "LIP Неприоритетные технологии 31.12.2025 04:33:\n\nНедоступно 3G:\n1) LI0276\nНедоступно LTE2300:\n1) LI0148\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "04:33:46",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T04:33:46.404919",
-      "created_at": "2025-12-31T04:33:49.744767",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "LIP",
-      "region_name": "Липецкая область",
       "base_layer": "LIP Базовый слой 31.12.2025 04:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "LIP Неприоритетные технологии 31.12.2025 04:48:\n\nНедоступно 3G:\n1) LI0276\nНедоступно LTE2300:\n1) LI0148\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 28,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "LIP",
+      "region_name": "Липецкая область",
+      "base_layer": "LIP Базовый слой 07.01.2026 04:34:\n\n1) LI0257 2026-01-07T04:04:35\nPower Да; Посещение Нет; WO Нет\n2) LI0643 2026-01-06T17:27:35\nPower Да; Посещение Нет; WO Нет\n3) LI2173 2026-01-07T03:57:55\nPower Да; Посещение Нет; WO Нет\n4) LI0140 2026-01-07T03:37:52\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "LIP Неприоритетные технологии 07.01.2026 04:34:\n\nНедоступно LTE1800:\n1) LI0257\n2) LI0643\n3) LI0140\nНедоступно 3G:\n1) LI0257\n2) LI0140\n3) LI0276\nНедоступно LTE800:\n1) LI0140\nНедоступно LTE2600:\n1) LI0257\nНедоступно LTE2300:\n1) LI0326\n2) LI0643\n3) LI0148\n4) LI0324\n",
+      "base_layer_count": 4,
+      "total_bs_count": 10,
+      "power_problems": 1,
+      "non_priority_percentage": 60,
+      "timestamp": "04:34:31",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T04:34:31.473681",
+      "created_at": "2026-01-07T04:34:34.778316",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T04:20:21.044946",
+  "timestamp": "2026-01-07T04:34:47.275853",
   "error": null
 }
