@@ -5,23 +5,6 @@
     {
       "region_code": "KOM",
       "region_name": "Коми",
-      "base_layer": "KOM Базовый слой 31.12.2025 12:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOM Неприоритетные технологии 31.12.2025 12:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:49:22",
-      "date": "2025-12-31",
-      "full_timestamp": "2025-12-31T12:49:22.280079",
-      "created_at": "2025-12-31T12:49:31.578991",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "KOM",
-      "region_name": "Коми",
       "base_layer": "KOM Базовый слой 31.12.2025 13:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOM Неприоритетные технологии 31.12.2025 13:00:\n\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 40,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "KOM",
+      "region_name": "Коми",
+      "base_layer": "KOM Базовый слой 07.01.2026 12:49:\n\n1) KO0685 2026-01-05T10:55:53\nPower Нет; Посещение Нет; WO Есть\n2) KO0239 2026-01-06T15:50:39\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOM Неприоритетные технологии 07.01.2026 12:49:\n\nНедоступно LTE1800:\n1) KO0685\n2) KO0239\nНедоступно 3G:\n1) KO0239\nНедоступно LTE800:\n1) KO0239\nНедоступно LTE2300:\n1) KO0210\n2) KO0059\n3) KO0058\n",
+      "base_layer_count": 2,
+      "total_bs_count": 5,
+      "power_problems": 2,
+      "non_priority_percentage": 60,
+      "timestamp": "12:49:38",
+      "date": "2026-01-07",
+      "full_timestamp": "2026-01-07T12:49:38.525441",
+      "created_at": "2026-01-07T12:49:47.850492",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-07T12:35:13.182652",
+  "timestamp": "2026-01-07T12:50:00.008269",
   "error": null
 }
