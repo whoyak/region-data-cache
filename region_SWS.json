@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SWS",
   "region_name": "Юго-Западный округ Москвы",
-  "base_layer": "SWS Базовый слой 08.01.2026 13:34:\n\n1) MO5083 2026-01-08T11:59:25\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SWS Неприоритетные технологии 08.01.2026 13:34:\n\nНедоступно 3G:\n1) MO5083\nНедоступно LTE2600:\n1) MO5083\n2) MS0070\n3) MR5334\n",
-  "timestamp": "13:34:53",
+  "base_layer": "SWS Базовый слой 08.01.2026 13:49:\n\n1) MS0876 2026-01-08T13:14:11\nPower Да; Посещение Да; WO Нет\n2) MO5083 2026-01-08T11:59:25\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SWS Неприоритетные технологии 08.01.2026 13:49:\n\nНедоступно 3G:\n1) MS0876\n2) MO5083\nНедоступно LTE2600:\n1) MO5083\n2) MS0070\n3) MR5334\n",
+  "timestamp": "13:49:29",
   "date": "2026-01-08",
-  "full_timestamp": "2026-01-08T13:34:53.007457",
+  "full_timestamp": "2026-01-08T13:49:29.578526",
   "stats": {
-    "total_bs": 21,
-    "base_layer_count": 1,
+    "total_bs": 20,
+    "base_layer_count": 2,
     "power_problems": 2,
-    "non_priority_percentage": 96,
-    "base_layer_percentage": 4
+    "non_priority_percentage": 90,
+    "base_layer_percentage": 10
   },
   "is_real_data": true,
-  "collected_at": "2026-01-08T13:34:53.007457",
+  "collected_at": "2026-01-08T13:49:29.578526",
   "macroregion": "Москва"
 }
