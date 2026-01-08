@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "RYZ",
   "region_name": "Рязанская область",
-  "base_layer": "RYZ Базовый слой 08.01.2026 13:35:\n\n1) RZ0173 2026-01-08T12:49:57\nPower Нет; Посещение Да; WO Есть\n2) RZ0336 2026-01-08T10:13:02\nPower Да; Посещение Нет; WO Есть\n3) RZ0648 2026-01-07T19:13:03\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- RZ0173; wo Есть;Время 2026-01-08 12:10:07\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "RYZ Неприоритетные технологии 08.01.2026 13:35:\n\nНедоступно LTE1800:\n1) RZ0173\n2) RZ0336\n3) RZ0648\nНедоступно 3G:\n1) RZ0173\n2) RZ0336\nНедоступно LTE800:\n1) RZ0173\n2) RZ0336\n3) RZ0648\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0473\n3) RZ0461\n4) RZ0093\n5) RZ0745\n6) RZ0039\n7) RZ0034\n",
-  "timestamp": "13:35:03",
+  "base_layer": "RYZ Базовый слой 08.01.2026 13:49:\n\n1) RZ0336 2026-01-08T10:13:02\nPower Да; Посещение Нет; WO Есть\n2) RZ0648 2026-01-07T19:13:03\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "RYZ Неприоритетные технологии 08.01.2026 13:49:\n\nНедоступно LTE1800:\n1) RZ0336\n2) RZ0648\nНедоступно 3G:\n1) RZ0336\nНедоступно LTE800:\n1) RZ0336\n2) RZ0648\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0473\n3) RZ0461\n4) RZ0093\n5) RZ0745\n6) RZ0039\n7) RZ0034\n",
+  "timestamp": "13:49:40",
   "date": "2026-01-08",
-  "full_timestamp": "2026-01-08T13:35:03.958870",
+  "full_timestamp": "2026-01-08T13:49:40.363044",
   "stats": {
     "total_bs": 10,
-    "base_layer_count": 3,
-    "power_problems": 1,
-    "non_priority_percentage": 70,
-    "base_layer_percentage": 30
+    "base_layer_count": 2,
+    "power_problems": 0,
+    "non_priority_percentage": 80,
+    "base_layer_percentage": 20
   },
   "is_real_data": true,
-  "collected_at": "2026-01-08T13:35:03.958870",
+  "collected_at": "2026-01-08T13:49:40.363044",
   "macroregion": "Центр"
 }
