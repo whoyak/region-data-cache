@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "PNZ",
   "region_name": "Пензенская область",
-  "base_layer": "PNZ Базовый слой 08.01.2026 08:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "PNZ Неприоритетные технологии 08.01.2026 08:19:\n\nНедоступно LTE2300:\n1) PN0153\n2) PN0019\n3) PN0560\n4) PN0055\n",
-  "timestamp": "08:19:56",
+  "base_layer": "PNZ Базовый слой 08.01.2026 08:34:\n\n1) PN0552 2026-01-08T07:56:39\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "PNZ Неприоритетные технологии 08.01.2026 08:34:\n\nНедоступно LTE1800:\n1) PN0552\nНедоступно 3G:\n1) PN0552\nНедоступно LTE800:\n1) PN0552\nНедоступно LTE2100:\n1) PN0552\nНедоступно LTE2300:\n1) PN0153\n2) PN0019\n3) PN0055\n",
+  "timestamp": "08:34:15",
   "date": "2026-01-08",
-  "full_timestamp": "2026-01-08T08:19:56.388896",
+  "full_timestamp": "2026-01-08T08:34:15.291192",
   "stats": {
-    "total_bs": 4,
-    "base_layer_count": 0,
+    "total_bs": 5,
+    "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 80,
+    "base_layer_percentage": 20
   },
   "is_real_data": true,
-  "collected_at": "2026-01-08T08:19:56.388896",
+  "collected_at": "2026-01-08T08:34:15.291192",
   "macroregion": "Черноземье"
 }
