@@ -5,23 +5,6 @@
     {
       "region_code": "PZV",
       "region_name": "Петрозаводск",
-      "base_layer": "PZV Базовый слой 02.01.2026 20:50:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PZ0345; wo Есть;Время 2025-12-29 13:32:53\n- PZ0087; wo Нет;Время 2026-01-02 20:02:54\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PZV Неприоритетные технологии 02.01.2026 20:50:\n\nНедоступно LTE800:\n1) PZ0345\nНедоступно LTE2300:\n1) PZ0345\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "20:50:07",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T20:50:07.769776",
-      "created_at": "2026-01-02T20:50:23.483586",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PZV",
-      "region_name": "Петрозаводск",
       "base_layer": "PZV Базовый слой 02.01.2026 21:05:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PZ0345; wo Есть;Время 2025-12-29 13:32:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PZV Неприоритетные технологии 02.01.2026 21:05:\n\nНедоступно LTE800:\n1) PZ0345\nНедоступно LTE2300:\n1) PZ0345\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PZV",
+      "region_name": "Петрозаводск",
+      "base_layer": "PZV Базовый слой 09.01.2026 20:58:\n\n1) PZ0345 2026-01-09T04:14:29\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PZV Неприоритетные технологии 09.01.2026 20:58:\n\nНедоступно 3G:\n1) PZ0012\nНедоступно LTE2100:\n1) PZ0012\n",
+      "base_layer_count": 1,
+      "total_bs_count": 2,
+      "power_problems": 0,
+      "non_priority_percentage": 50,
+      "timestamp": "20:58:47",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T20:58:47.867114",
+      "created_at": "2026-01-09T20:59:03.928907",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-09T20:38:55.814012",
+  "timestamp": "2026-01-09T20:59:17.990254",
   "error": null
 }
