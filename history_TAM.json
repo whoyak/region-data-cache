@@ -5,23 +5,6 @@
     {
       "region_code": "TAM",
       "region_name": "Тамбовская область",
-      "base_layer": "TAM Базовый слой 02.01.2026 23:05:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TM0080; wo Есть;Время 2026-01-02 21:51:31\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TAM Неприоритетные технологии 02.01.2026 23:05:\n\nНедоступно 3G:\n1) TM0080\nНедоступно LTE2600:\n1) TM0080\nНедоступно LTE2100:\n1) TM0080\nНедоступно LTE2300:\n1) TM0021\n2) TM0080\n3) TM0022\n4) TM2023\n5) TM0844\n6) TM0705\n",
-      "base_layer_count": 0,
-      "total_bs_count": 14,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "23:05:33",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T23:05:33.097938",
-      "created_at": "2026-01-02T23:05:34.828325",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "TAM",
-      "region_name": "Тамбовская область",
       "base_layer": "TAM Базовый слой 02.01.2026 23:20:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TM0080; wo Есть;Время 2026-01-02 21:51:31\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TAM Неприоритетные технологии 02.01.2026 23:20:\n\nНедоступно 3G:\n1) TM0080\nНедоступно LTE2600:\n1) TM0080\nНедоступно LTE2100:\n1) TM0080\nНедоступно LTE2300:\n1) TM0021\n2) TM0080\n3) TM0022\n4) TM2023\n5) TM0844\n6) TM0705\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 6,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "TAM",
+      "region_name": "Тамбовская область",
+      "base_layer": "TAM Базовый слой 09.01.2026 23:06:\n\n1) TM0289 2026-01-09T22:35:43\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- TM0289; wo Есть;Время 2026-01-09 20:20:52\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 09.01.2026 23:06:\n\nНедоступно LTE1800:\n1) TM0289\nНедоступно 3G:\n1) TM0289\nНедоступно LTE2300:\n1) TM0021\n2) TM0918\n3) TM0580\n4) TM0022\n5) TM0944\n6) TM2023\n7) TM0858\n8) TM0705\n9) TM0844\n",
+      "base_layer_count": 1,
+      "total_bs_count": 16,
+      "power_problems": 4,
+      "non_priority_percentage": 94,
+      "timestamp": "23:06:13",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T23:06:13.117801",
+      "created_at": "2026-01-09T23:06:14.838961",
+      "base_layer_percentage": 6,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-09T23:00:56.805708",
+  "timestamp": "2026-01-09T23:06:31.429113",
   "error": null
 }
