@@ -5,23 +5,6 @@
     {
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 02.01.2026 21:20:\n\nВсего активных POWER на сети: 2\n\n3 приоритет:\n- AR0188; wo Есть;Время 2026-01-02 20:43:43\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ARH Неприоритетные технологии 02.01.2026 21:20:\n\nНедоступно 3G:\n1) AR0188\n2) AR0293\nНедоступно LTE800:\n1) AR0188\nНедоступно LTE2600:\n1) AR0188\nНедоступно LTE2100:\n1) AR0188\nНедоступно LTE2300:\n1) AR1196\n",
-      "base_layer_count": 0,
-      "total_bs_count": 5,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "21:20:04",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T21:20:04.042516",
-      "created_at": "2026-01-02T21:20:20.861314",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "ARH",
-      "region_name": "Архангельская область",
       "base_layer": "ARH Базовый слой 02.01.2026 21:35:\n\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- AR0188; wo Нет;Время 2026-01-02 20:43:43\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ARH Неприоритетные технологии 02.01.2026 21:35:\n\nНедоступно 3G:\n1) AR0293\nНедоступно LTE2300:\n1) AR1196\n",
       "base_layer_count": 0,
@@ -7345,9 +7328,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "ARH",
+      "region_name": "Архангельская область",
+      "base_layer": "ARH Базовый слой 09.01.2026 21:30:\n\n1) AR0958 2026-01-08T20:32:20\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 09.01.2026 21:30:\n\nНедоступно LTE1800:\n1) AR0958\nНедоступно LTE2300:\n1) AR1196\n2) AR0211\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 1,
+      "non_priority_percentage": 67,
+      "timestamp": "21:30:37",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T21:30:37.336730",
+      "created_at": "2026-01-09T21:30:54.393389",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 432,
-  "timestamp": "2026-01-09T21:14:43.023627",
+  "timestamp": "2026-01-09T21:31:08.714546",
   "error": null
 }
