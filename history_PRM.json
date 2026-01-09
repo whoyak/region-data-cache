@@ -5,23 +5,6 @@
     {
       "region_code": "PRM",
       "region_name": "Пермский край",
-      "base_layer": "PRM Базовый слой 02.01.2026 23:19:\n\n1) PM0630 2026-01-02T21:30:44\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PM0630; wo Есть;Время 2026-01-02 20:51:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PRM Неприоритетные технологии 02.01.2026 23:19:\n\nНедоступно LTE1800:\n1) PM0630\nНедоступно 3G:\n1) PM0630\n2) PM0092\n3) PM0150\n4) PM0332\n5) PM0424\nНедоступно LTE800:\n1) PM0096\nНедоступно LTE2600:\n1) PM0525\n2) PM0396\n3) PM1966\n4) PM0478\nНедоступно LTE2100:\n1) PM0332\nНедоступно LTE2300:\n1) PM0041\n2) PM0057\n3) PM0492\n",
-      "base_layer_count": 1,
-      "total_bs_count": 15,
-      "power_problems": 1,
-      "non_priority_percentage": 94,
-      "timestamp": "23:19:55",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T23:19:55.038473",
-      "created_at": "2026-01-02T23:20:03.631711",
-      "base_layer_percentage": 6,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "PRM",
-      "region_name": "Пермский край",
       "base_layer": "PRM Базовый слой 02.01.2026 23:34:\n\n1) PM0630 2026-01-02T21:30:44\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PM0630; wo Есть;Время 2026-01-02 20:51:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PRM Неприоритетные технологии 02.01.2026 23:34:\n\nНедоступно LTE1800:\n1) PM0630\nНедоступно 3G:\n1) PM0630\n2) PM0092\n3) PM0150\n4) PM0332\n5) PM0424\nНедоступно LTE800:\n1) PM0096\nНедоступно LTE2600:\n1) PM0525\n2) PM0396\n3) PM1966\n4) PM0478\nНедоступно LTE2100:\n1) PM0332\nНедоступно LTE2300:\n1) PM0041\n2) PM0057\n3) PM0492\n",
       "base_layer_count": 1,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 15,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "PRM",
+      "region_name": "Пермский край",
+      "base_layer": "PRM Базовый слой 09.01.2026 23:21:\n\n1) PM1287 2026-01-07T09:49:42\nPower Да; Посещение Нет; WO Есть\n2) PM0342 2026-01-04T20:19:45\nPower Да; Посещение Нет; WO Есть\n3) PM0967 2026-01-09T22:21:12\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PRM Неприоритетные технологии 09.01.2026 23:21:\n\nНедоступно 3G:\n1) PM0220\n2) PM0092\n3) PM0150\n4) PM0332\n5) PM0424\nНедоступно LTE800:\n1) PM0603\n2) PM2919\n3) PM0096\nНедоступно LTE2600:\n1) PM0525\n2) PM0396\n3) PM1966\n4) PM0478\nНедоступно LTE2100:\n1) PM0332\nНедоступно LTE2300:\n1) PM0041\n2) PM2969\n3) PM0492\n",
+      "base_layer_count": 3,
+      "total_bs_count": 20,
+      "power_problems": 0,
+      "non_priority_percentage": 85,
+      "timestamp": "23:21:24",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T23:21:24.957493",
+      "created_at": "2026-01-09T23:21:33.690730",
+      "base_layer_percentage": 15,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-09T23:06:31.429068",
+  "timestamp": "2026-01-09T23:21:45.929705",
   "error": null
 }
