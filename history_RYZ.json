@@ -5,23 +5,6 @@
     {
       "region_code": "RYZ",
       "region_name": "Рязанская область",
-      "base_layer": "RYZ Базовый слой 03.01.2026 00:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "RYZ Неприоритетные технологии 03.01.2026 00:49:\n\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0473\n3) RZ0461\n4) RZ0093\n5) RZ0039\n",
-      "base_layer_count": 0,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "00:49:02",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T00:49:02.720019",
-      "created_at": "2026-01-03T00:49:08.891299",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "RYZ",
-      "region_name": "Рязанская область",
       "base_layer": "RYZ Базовый слой 03.01.2026 01:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "RYZ Неприоритетные технологии 03.01.2026 01:05:\n\nНедоступно LTE2300:\n1) RZ0040\n2) RZ0473\n3) RZ0461\n4) RZ0093\n5) RZ0039\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 18,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "RYZ",
+      "region_name": "Рязанская область",
+      "base_layer": "RYZ Базовый слой 10.01.2026 00:49:\n\n1) RZ0208 2026-01-09T23:33:09\nPower Нет; Посещение Нет; WO Есть\n2) RZ1038 2026-01-09T21:42:11\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- RZ0208; wo Есть;Время 2026-01-09 19:55:08\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "RYZ Неприоритетные технологии 10.01.2026 00:49:\n\nНедоступно LTE1800:\n1) RZ0208\n2) RZ1038\nНедоступно 3G:\n1) RZ0208\nНедоступно LTE2300:\n1) RZ0461\n2) RZ0745\n3) RZ0185\n4) RZ0102\n5) RZ0040\n6) RZ0093\n7) RZ0034\n",
+      "base_layer_count": 2,
+      "total_bs_count": 9,
+      "power_problems": 2,
+      "non_priority_percentage": 78,
+      "timestamp": "00:49:58",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T00:49:58.057787",
+      "created_at": "2026-01-10T00:50:04.896654",
+      "base_layer_percentage": 22,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-10T00:35:37.313327",
+  "timestamp": "2026-01-10T00:50:16.884990",
   "error": null
 }
