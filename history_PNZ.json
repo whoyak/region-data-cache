@@ -5,23 +5,6 @@
     {
       "region_code": "PNZ",
       "region_name": "Пензенская область",
-      "base_layer": "PNZ Базовый слой 03.01.2026 00:49:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PNZ Неприоритетные технологии 03.01.2026 00:49:\n\nНедоступно LTE800:\n1) PN0826\nНедоступно LTE2300:\n1) PN0905\n2) PN0581\n3) PN0300\n4) PN1261\n5) PN0802\n6) PN0716\n7) PN1257\n8) PN0021\n9) PN1263\n10) PN1243\n11) PN0015\n12) PN0207\n13) PN0712\n14) PN0096\n",
-      "base_layer_count": 0,
-      "total_bs_count": 15,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "00:49:06",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T00:49:06.577699",
-      "created_at": "2026-01-03T00:49:08.892948",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "PNZ",
-      "region_name": "Пензенская область",
       "base_layer": "PNZ Базовый слой 03.01.2026 01:05:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PNZ Неприоритетные технологии 03.01.2026 01:05:\n\nНедоступно LTE800:\n1) PN0826\nНедоступно LTE2300:\n1) PN0905\n2) PN0581\n3) PN0300\n4) PN1261\n5) PN0802\n6) PN0716\n7) PN1257\n8) PN0021\n9) PN0045\n10) PN1263\n11) PN1243\n12) PN0015\n13) PN0207\n14) PN0712\n15) PN0096\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 11,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "PNZ",
+      "region_name": "Пензенская область",
+      "base_layer": "PNZ Базовый слой 10.01.2026 00:50:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PN0464; wo Нет;Время 2026-01-10 00:03:31\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 10.01.2026 00:50:\n\nНедоступно 3G:\n1) PN0464\n2) PN0359\nНедоступно LTE2300:\n1) PN0153\n2) PN0019\n3) PN0545\n4) PN0055\n",
+      "base_layer_count": 0,
+      "total_bs_count": 6,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "00:50:02",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T00:50:02.116313",
+      "created_at": "2026-01-10T00:50:04.897786",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-10T00:35:37.313350",
+  "timestamp": "2026-01-10T00:50:16.885011",
   "error": null
 }
