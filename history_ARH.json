@@ -5,23 +5,6 @@
     {
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 02.01.2026 17:35:\n\n1) AR1186 2026-01-02T10:56:06\nPower Да; Посещение Нет; WO Нет\n2) AR0283 2026-01-02T14:37:57\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ARH Неприоритетные технологии 02.01.2026 17:35:\n\nНедоступно LTE1800:\n1) AR1186\nНедоступно LTE800:\n1) AR0283\nНедоступно LTE2300:\n1) AR1196\n",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "17:35:10",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T17:35:10.428003",
-      "created_at": "2026-01-02T17:35:27.441827",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "ARH",
-      "region_name": "Архангельская область",
       "base_layer": "ARH Базовый слой 02.01.2026 17:49:\n\n1) AR0993 2026-01-02T17:10:29\nPower Нет; Посещение Нет; WO Нет\n2) AR1186 2026-01-02T10:56:06\nPower Да; Посещение Нет; WO Нет\n3) AR0283 2026-01-02T14:37:57\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- AR0993; wo Нет;Время 2026-01-02 17:24:24\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ARH Неприоритетные технологии 02.01.2026 17:49:\n\nНедоступно LTE1800:\n1) AR0993\n2) AR1186\nНедоступно 3G:\n1) AR2240\nНедоступно LTE800:\n1) AR0283\n2) AR2240\nНедоступно LTE2300:\n1) AR1196\n",
       "base_layer_count": 3,
@@ -7362,9 +7345,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "ARH",
+      "region_name": "Архангельская область",
+      "base_layer": "ARH Базовый слой 09.01.2026 17:35:\n\n1) AR0958 2026-01-08T20:32:20\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 09.01.2026 17:35:\n\nНедоступно LTE1800:\n1) AR0958\nНедоступно LTE2300:\n1) AR1196\n2) AR0211\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "17:35:59",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T17:35:59.058705",
+      "created_at": "2026-01-09T17:36:15.970154",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 433,
-  "timestamp": "2026-01-09T17:20:45.664850",
+  "timestamp": "2026-01-09T17:36:29.293264",
   "error": null
 }
