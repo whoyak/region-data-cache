@@ -5,23 +5,6 @@
     {
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 02.01.2026 23:19:\n\n1) PS0534 2026-01-02T09:15:59\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 02.01.2026 23:19:\n\nНедоступно LTE1800:\n1) PS0534\n",
-      "base_layer_count": 1,
-      "total_bs_count": 1,
-      "power_problems": 1,
-      "non_priority_percentage": 0,
-      "timestamp": "23:19:47",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T23:19:47.881076",
-      "created_at": "2026-01-02T23:20:03.628706",
-      "base_layer_percentage": 100,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PSK",
-      "region_name": "Псковская область",
       "base_layer": "PSK Базовый слой 02.01.2026 23:34:\n\n1) PS0534 2026-01-02T09:15:59\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PSK Неприоритетные технологии 02.01.2026 23:34:\n\nНедоступно LTE1800:\n1) PS0534\n",
       "base_layer_count": 1,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 80,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 09.01.2026 23:21:\n\n1) PS0093 2026-01-09T09:37:12\nPower Нет; Посещение Нет; WO Нет\n2) PS0540 2026-01-09T21:22:07\nPower Да; Посещение Нет; WO Нет\n3) PS0133 2026-01-09T09:54:12\nPower Нет; Посещение Нет; WO Есть\n4) PS0494 2026-01-09T16:59:08\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- PS0093; wo Нет;Время 2026-01-09 02:13:23\n\n9 приоритет:\n- PS0133; wo Есть;Время 2026-01-09 07:10:53\n- PS0494; wo Есть;Время 2026-01-09 16:32:38\n- PS0050; wo Нет;Время 2026-01-09 19:40:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 09.01.2026 23:21:\n\nНедоступно LTE1800:\n1) PS0093\n2) PS0540\n3) PS0133\n4) PS0494\nНедоступно 3G:\n1) PS0093\n2) PS0133\n3) PS0050\nНедоступно LTE800:\n1) PS0093\n2) PS0133\n",
+      "base_layer_count": 4,
+      "total_bs_count": 5,
+      "power_problems": 4,
+      "non_priority_percentage": 20,
+      "timestamp": "23:21:17",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T23:21:17.794377",
+      "created_at": "2026-01-09T23:21:33.688563",
+      "base_layer_percentage": 80,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-09T23:06:31.429015",
+  "timestamp": "2026-01-09T23:21:45.929658",
   "error": null
 }
