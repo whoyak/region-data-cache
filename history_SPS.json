@@ -7328,9 +7328,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPS",
+      "region_name": "Санкт-Петербург Юг",
+      "base_layer": "SPS Базовый слой 09.01.2026 22:14:\n\n1) LE2856 2026-01-05T22:13:52\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPS Неприоритетные технологии 09.01.2026 22:14:\n\nНедоступно LTE1800:\n1) LE2856\nНедоступно 3G:\n1) LE2856\nНедоступно LTE800:\n1) SP0865\nНедоступно LTE2300:\n1) SP1357\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "22:14:52",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T22:14:52.428795",
+      "created_at": "2026-01-09T22:15:06.889530",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 431,
-  "timestamp": "2026-01-09T22:05:50.620249",
+  "count": 432,
+  "timestamp": "2026-01-09T22:15:22.829598",
   "error": null
 }
