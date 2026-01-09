@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NWS",
   "region_name": "Северо-Западный округ Москвы",
-  "base_layer": "NWS Базовый слой 09.01.2026 03:05:\n\n1) MS4850 2026-01-09T01:52:11\nPower Да; Посещение Нет; WO Нет\n2) MO3362 2026-01-09T02:00:07\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- MO3362; wo Нет;Время 2026-01-09 00:21:38\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NWS Неприоритетные технологии 09.01.2026 03:05:\n\nНедоступно 3G:\n1) MS4850\n2) MO3362\nНедоступно LTE800:\n1) MO2507\nНедоступно LTE2600:\n1) MC2328\n2) MO2507\n3) MS4850\n4) MO3362\nНедоступно LTE2100:\n1) MS4850\n2) MO3362\n",
-  "timestamp": "03:05:15",
+  "base_layer": "NWS Базовый слой 09.01.2026 03:19:\n\n1) MS4850 2026-01-09T01:52:11\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NWS Неприоритетные технологии 09.01.2026 03:19:\n\nНедоступно 3G:\n1) MS4850\nНедоступно LTE800:\n1) MO2507\nНедоступно LTE2600:\n1) MO2507\n2) MC2328\n3) MS4850\nНедоступно LTE2100:\n1) MS4850\n",
+  "timestamp": "03:19:34",
   "date": "2026-01-09",
-  "full_timestamp": "2026-01-09T03:05:15.741501",
+  "full_timestamp": "2026-01-09T03:19:34.350324",
   "stats": {
-    "total_bs": 6,
-    "base_layer_count": 2,
+    "total_bs": 7,
+    "base_layer_count": 1,
     "power_problems": 2,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "non_priority_percentage": 86,
+    "base_layer_percentage": 14
   },
   "is_real_data": true,
-  "collected_at": "2026-01-09T03:05:15.741501",
+  "collected_at": "2026-01-09T03:19:34.350324",
   "macroregion": "Москва"
 }
