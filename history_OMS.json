@@ -5,23 +5,6 @@
     {
       "region_code": "OMS",
       "region_name": "Омская область",
-      "base_layer": "OMS Базовый слой 02.01.2026 19:19:\n\n1) OM0063 2026-01-02T18:27:02\nPower Нет; Посещение Нет; WO Есть\n2) OM0206 2026-01-02T18:45:00\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- OM0206; wo Есть;Время 2026-01-02 17:20:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "OMS Неприоритетные технологии 02.01.2026 19:19:\n\nНедоступно LTE1800:\n1) OM0063\n2) OM0206\nНедоступно 3G:\n1) OM0063\n2) OM0206\nНедоступно LTE2600:\n1) OM0063\n2) OM0206\nНедоступно LTE2100:\n1) OM0063\n2) OM0604\n3) OM0206\n",
-      "base_layer_count": 2,
-      "total_bs_count": 3,
-      "power_problems": 2,
-      "non_priority_percentage": 34,
-      "timestamp": "19:19:41",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T19:19:41.527419",
-      "created_at": "2026-01-02T19:19:53.302933",
-      "base_layer_percentage": 66,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "OMS",
-      "region_name": "Омская область",
       "base_layer": "OMS Базовый слой 02.01.2026 19:34:\n\n1) OM0206 2026-01-02T18:45:00\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- OM0206; wo Есть;Время 2026-01-02 17:20:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "OMS Неприоритетные технологии 02.01.2026 19:34:\n\nНедоступно LTE1800:\n1) OM0206\nНедоступно 3G:\n1) OM0206\nНедоступно LTE2600:\n1) OM0206\nНедоступно LTE2100:\n1) OM0604\n2) OM0206\n",
       "base_layer_count": 1,
@@ -7345,9 +7328,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "OMS",
+      "region_name": "Омская область",
+      "base_layer": "OMS Базовый слой 09.01.2026 19:22:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "OMS Неприоритетные технологии 09.01.2026 19:22:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "19:22:34",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T19:22:34.855119",
+      "created_at": "2026-01-09T19:22:46.708088",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 432,
-  "timestamp": "2026-01-09T19:08:04.931245",
+  "timestamp": "2026-01-09T19:23:00.430994",
   "error": null
 }
