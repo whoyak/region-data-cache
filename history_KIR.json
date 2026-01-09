@@ -5,23 +5,6 @@
     {
       "region_code": "KIR",
       "region_name": "Киров",
-      "base_layer": "KIR Базовый слой 02.01.2026 20:20:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- KI1125; wo Нет;Время 2026-01-02 17:34:51\n- KI0747; wo Нет;Время 2026-01-02 17:34:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KIR Неприоритетные технологии 02.01.2026 20:20:\n\nНедоступно LTE2300:\n1) KI1125\n2) KI0747\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "20:20:46",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T20:20:46.443800",
-      "created_at": "2026-01-02T20:21:05.471995",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "KIR",
-      "region_name": "Киров",
       "base_layer": "KIR Базовый слой 02.01.2026 20:35:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- KI1125; wo Нет;Время 2026-01-02 17:34:51\n- KI0747; wo Нет;Время 2026-01-02 17:34:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KIR Неприоритетные технологии 02.01.2026 20:35:\n\nНедоступно LTE2300:\n1) KI1125\n2) KI0747\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "KIR",
+      "region_name": "Киров",
+      "base_layer": "KIR Базовый слой 09.01.2026 20:23:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KIR Неприоритетные технологии 09.01.2026 20:23:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "20:23:13",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T20:23:13.781586",
+      "created_at": "2026-01-09T20:23:32.988642",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-09T20:09:08.730366",
+  "timestamp": "2026-01-09T20:23:46.567252",
   "error": null
 }
