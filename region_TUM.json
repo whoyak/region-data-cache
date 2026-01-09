@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "TUM",
   "region_name": "Тюменская область",
-  "base_layer": "TUM Базовый слой 09.01.2026 09:05:\n\n1) TU0419 2026-01-02T07:44:23\nPower Да; Посещение Нет; WO Нет\n2) TU2128 2026-01-09T05:47:32\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TU2128; wo Нет;Время 2026-01-09 02:19:44\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "TUM Неприоритетные технологии 09.01.2026 09:05:\n\nНедоступно LTE1800:\n1) TU2128\nНедоступно LTE2300:\n1) TU0402\n2) TU0449\n3) TU2048\n4) TU0618\n5) TU0150\n6) TU2004\n",
-  "timestamp": "09:05:35",
+  "base_layer": "TUM Базовый слой 09.01.2026 09:19:\n\n1) TU0419 2026-01-02T07:44:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "TUM Неприоритетные технологии 09.01.2026 09:19:\n\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU0449\n4) TU2048\n5) TU0618\n",
+  "timestamp": "09:19:56",
   "date": "2026-01-09",
-  "full_timestamp": "2026-01-09T09:05:35.298844",
+  "full_timestamp": "2026-01-09T09:19:56.490716",
   "stats": {
     "total_bs": 8,
-    "base_layer_count": 2,
-    "power_problems": 1,
-    "non_priority_percentage": 75,
-    "base_layer_percentage": 25
+    "base_layer_count": 1,
+    "power_problems": 0,
+    "non_priority_percentage": 88,
+    "base_layer_percentage": 12
   },
   "is_real_data": true,
-  "collected_at": "2026-01-09T09:05:35.298844",
+  "collected_at": "2026-01-09T09:19:56.490716",
   "macroregion": "Урал"
 }
