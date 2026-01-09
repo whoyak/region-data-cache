@@ -5,23 +5,6 @@
     {
       "region_code": "CHV",
       "region_name": "Чувашия",
-      "base_layer": "CHV Базовый слой 02.01.2026 17:20:\n\n1) CV0058 2026-01-02T16:26:23\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CHV Неприоритетные технологии 02.01.2026 17:20:\n\n",
-      "base_layer_count": 1,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "17:20:09",
-      "date": "2026-01-02",
-      "full_timestamp": "2026-01-02T17:20:09.688706",
-      "created_at": "2026-01-02T17:20:30.851550",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "CHV",
-      "region_name": "Чувашия",
       "base_layer": "CHV Базовый слой 02.01.2026 17:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CHV Неприоритетные технологии 02.01.2026 17:35:\n\n",
       "base_layer_count": 0,
@@ -7362,9 +7345,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "CHV",
+      "region_name": "Чувашия",
+      "base_layer": "CHV Базовый слой 09.01.2026 17:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHV Неприоритетные технологии 09.01.2026 17:20:\n\nНедоступно LTE2300:\n1) CV0510\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "17:20:05",
+      "date": "2026-01-09",
+      "full_timestamp": "2026-01-09T17:20:05.900649",
+      "created_at": "2026-01-09T17:20:27.653119",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 433,
-  "timestamp": "2026-01-09T17:05:57.928514",
+  "timestamp": "2026-01-09T17:20:45.664817",
   "error": null
 }
