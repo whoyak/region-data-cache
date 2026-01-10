@@ -5,23 +5,6 @@
     {
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 03.01.2026 03:34:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ARH Неприоритетные технологии 03.01.2026 03:34:\n\nНедоступно 3G:\n1) AR0293\nНедоступно LTE2300:\n1) AR1196\n",
-      "base_layer_count": 0,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "03:34:14",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T03:34:14.726643",
-      "created_at": "2026-01-03T03:34:31.440173",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "ARH",
-      "region_name": "Архангельская область",
       "base_layer": "ARH Базовый слой 03.01.2026 03:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ARH Неприоритетные технологии 03.01.2026 03:48:\n\nНедоступно 3G:\n1) AR0293\nНедоступно LTE2300:\n1) AR1196\n",
       "base_layer_count": 0,
@@ -7311,9 +7294,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "ARH",
+      "region_name": "Архангельская область",
+      "base_layer": "ARH Базовый слой 10.01.2026 03:33:\n\n1) AR0232 2026-01-10T02:05:44\nPower Нет; Посещение Нет; WO Есть\n2) AR0984 2026-01-10T00:28:56\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- AR0232; wo Есть;Время 2026-01-10 00:04:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 10.01.2026 03:33:\n\nНедоступно LTE1800:\n1) AR0232\n2) AR0984\nНедоступно 3G:\n1) AR0232\n2) AR2195\nНедоступно LTE800:\n1) AR0232\n2) AR2195\nНедоступно LTE2300:\n1) AR1196\n2) AR0211\n",
+      "base_layer_count": 2,
+      "total_bs_count": 5,
+      "power_problems": 1,
+      "non_priority_percentage": 60,
+      "timestamp": "03:33:59",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T03:33:59.470006",
+      "created_at": "2026-01-10T03:34:16.226316",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 430,
-  "timestamp": "2026-01-10T03:20:05.132709",
+  "timestamp": "2026-01-10T03:34:26.411904",
   "error": null
 }
