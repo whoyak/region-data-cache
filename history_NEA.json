@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 03.01.2026 13:00:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MO5496; wo Нет;Время 2026-01-03 12:16:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 03.01.2026 13:00:\n\nНедоступно LTE800:\n1) MO5496\nНедоступно LTE2600:\n1) MO5496\n",
-      "base_layer_count": 0,
-      "total_bs_count": 7,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "13:00:29",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T13:00:29.088755",
-      "created_at": "2026-01-03T13:00:47.229000",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 03.01.2026 13:05:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MO5496; wo Нет;Время 2026-01-03 12:16:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 03.01.2026 13:05:\n\nНедоступно LTE800:\n1) MO5496\nНедоступно LTE2600:\n1) MO5496\n",
       "base_layer_count": 0,
@@ -7277,9 +7260,26 @@
       "base_layer_percentage": 30,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 10.01.2026 13:00:\n\n1) MO6417 2026-01-10T09:55:37\nPower Да; Посещение Нет; WO Нет\n2) MO0465 2026-01-10T04:53:34\nPower Да; Посещение Да; WO Нет\n3) MR2221 2026-01-10T06:30:17\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 10.01.2026 13:00:\n\nНедоступно 3G:\n1) MO6417\n2) MO0465\n3) MR2221\nНедоступно LTE800:\n1) MR2221\nНедоступно LTE2600:\n1) MR5018\n2) MO0465\n3) MR2221\nНедоступно LTE2100:\n1) MO6417\n2) MO0465\n3) MR2221\n",
+      "base_layer_count": 3,
+      "total_bs_count": 10,
+      "power_problems": 0,
+      "non_priority_percentage": 70,
+      "timestamp": "13:00:31",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T13:00:31.376485",
+      "created_at": "2026-01-10T13:00:49.794591",
+      "base_layer_percentage": 30,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 428,
-  "timestamp": "2026-01-10T12:50:13.852572",
+  "timestamp": "2026-01-10T13:01:03.623769",
   "error": null
 }
