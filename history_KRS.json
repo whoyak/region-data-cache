@@ -5,23 +5,6 @@
     {
       "region_code": "KRS",
       "region_name": "Красноярск",
-      "base_layer": "KRS Базовый слой 03.01.2026 18:33:\n\n1) KA0949 2025-11-28T14:39:56\nPower Да; Посещение Нет; WO Нет\n2) KA1510 2026-01-03T08:31:24\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KRS Неприоритетные технологии 03.01.2026 18:33:\n\nНедоступно LTE1800:\n1) KA0949\n2) KA1510\nНедоступно LTE800:\n1) KA0949\n2) KA1510\nНедоступно LTE2600:\n1) KA1510\nНедоступно LTE2300:\n1) KA1195\n2) KA0638\n3) KA1510\n",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 1,
-      "non_priority_percentage": 50,
-      "timestamp": "18:33:37",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T18:33:37.520620",
-      "created_at": "2026-01-03T18:33:49.772659",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "KRS",
-      "region_name": "Красноярск",
       "base_layer": "KRS Базовый слой 03.01.2026 18:47:\n\n1) KA0949 2025-11-28T14:39:56\nPower Да; Посещение Нет; WO Нет\n2) KA1510 2026-01-03T08:31:24\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KRS Неприоритетные технологии 03.01.2026 18:47:\n\nНедоступно LTE1800:\n1) KA0949\n2) KA1510\nНедоступно LTE800:\n1) KA0949\n2) KA1510\nНедоступно LTE2600:\n1) KA1510\nНедоступно LTE2300:\n1) KA1195\n2) KA0638\n3) KA1510\n",
       "base_layer_count": 2,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KRS",
+      "region_name": "Красноярск",
+      "base_layer": "KRS Базовый слой 10.01.2026 18:42:\n\n1) KA1901 2026-01-10T00:55:23\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KA0772; wo Есть;Время 2026-01-10 18:12:33\n- KA0837; wo Есть;Время 2026-01-10 18:08:55\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRS Неприоритетные технологии 10.01.2026 18:42:\n\nНедоступно LTE1800:\n1) KA1901\nНедоступно 3G:\n1) KA0772\n2) KA0025\n3) KA0837\nНедоступно LTE800:\n1) KA0772\nНедоступно LTE2300:\n1) KA0638\n2) KA0652\n3) KA1510\n",
+      "base_layer_count": 1,
+      "total_bs_count": 7,
+      "power_problems": 2,
+      "non_priority_percentage": 86,
+      "timestamp": "18:42:59",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T18:42:59.164883",
+      "created_at": "2026-01-10T18:43:13.288311",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-10T18:24:30.943550",
+  "timestamp": "2026-01-10T18:43:29.700315",
   "error": null
 }
