@@ -5,23 +5,6 @@
     {
       "region_code": "PZV",
       "region_name": "Петрозаводск",
-      "base_layer": "PZV Базовый слой 03.01.2026 12:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PZV Неприоритетные технологии 03.01.2026 12:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:34:30",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T12:34:30.369200",
-      "created_at": "2026-01-03T12:34:45.492179",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PZV",
-      "region_name": "Петрозаводск",
       "base_layer": "PZV Базовый слой 03.01.2026 12:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PZV Неприоритетные технологии 03.01.2026 12:48:\n\n",
       "base_layer_count": 0,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PZV",
+      "region_name": "Петрозаводск",
+      "base_layer": "PZV Базовый слой 10.01.2026 12:35:\n\n1) PZ0345 2026-01-09T22:40:31\nPower Да; Посещение Нет; WO Нет\n2) PZ0498 2026-01-10T11:30:25\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n3 приоритет:\n- PZ0120; wo Нет;Время 2026-01-10 11:56:38\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PZV Неприоритетные технологии 10.01.2026 12:35:\n\nНедоступно LTE1800:\n1) PZ0498\nНедоступно 3G:\n1) PZ0012\nНедоступно LTE800:\n1) PZ0498\n2) PZ0120\nНедоступно LTE2100:\n1) PZ0012\n",
+      "base_layer_count": 2,
+      "total_bs_count": 4,
+      "power_problems": 2,
+      "non_priority_percentage": 50,
+      "timestamp": "12:35:29",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T12:35:29.944629",
+      "created_at": "2026-01-10T12:35:45.125210",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-10T12:21:26.889613",
+  "timestamp": "2026-01-10T12:35:54.850289",
   "error": null
 }
