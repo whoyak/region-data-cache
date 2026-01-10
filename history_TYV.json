@@ -5,23 +5,6 @@
     {
       "region_code": "TYV",
       "region_name": "Тыва",
-      "base_layer": "TYV Базовый слой 03.01.2026 08:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TYV Неприоритетные технологии 03.01.2026 08:19:\n\nНедоступно 3G:\n1) TY0013\nНедоступно LTE2100:\n1) TY0156\n2) TY0013\nНедоступно LTE2300:\n1) TY0013\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "08:19:06",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T08:19:06.077609",
-      "created_at": "2026-01-03T08:19:17.377448",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "TYV",
-      "region_name": "Тыва",
       "base_layer": "TYV Базовый слой 03.01.2026 08:33:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TYV Неприоритетные технологии 03.01.2026 08:33:\n\nНедоступно 3G:\n1) TY0013\nНедоступно LTE2100:\n1) TY0156\n2) TY0013\nНедоступно LTE2300:\n1) TY0013\n",
       "base_layer_count": 0,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "TYV",
+      "region_name": "Тыва",
+      "base_layer": "TYV Базовый слой 10.01.2026 08:20:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TYV Неприоритетные технологии 10.01.2026 08:20:\n\nНедоступно 3G:\n1) TY0141\n2) TY0013\nНедоступно LTE2100:\n1) TY0156\n2) TY0013\nНедоступно LTE2300:\n1) TY0013\n",
+      "base_layer_count": 0,
+      "total_bs_count": 3,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "08:20:23",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T08:20:23.294309",
+      "created_at": "2026-01-10T08:20:34.816407",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-10T08:06:09.521697",
+  "timestamp": "2026-01-10T08:20:45.832840",
   "error": null
 }
