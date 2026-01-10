@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "MRD",
   "region_name": "Мордовия",
-  "base_layer": "MRD Базовый слой 10.01.2026 16:38:\n\n1) MV1092 2026-01-10T13:32:30\nPower Да; Посещение Нет; WO Нет\n2) MV1587 2026-01-10T01:06:27\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MV1587; wo Есть;Время 2026-01-09 16:43:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "MRD Неприоритетные технологии 10.01.2026 16:38:\n\nНедоступно 3G:\n1) MV1092\nНедоступно LTE2100:\n1) MV1092\n2) MV1587\nНедоступно LTE2300:\n1) MV0468\n2) MV0828\n3) MV0035\n",
-  "timestamp": "16:38:03",
+  "base_layer": "MRD Базовый слой 10.01.2026 16:54:\n\n1) MV1092 2026-01-10T13:32:30\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "MRD Неприоритетные технологии 10.01.2026 16:54:\n\nНедоступно 3G:\n1) MV1092\nНедоступно LTE2100:\n1) MV1092\nНедоступно LTE2300:\n1) MV0468\n2) MV0828\n3) MV0035\n",
+  "timestamp": "16:54:16",
   "date": "2026-01-10",
-  "full_timestamp": "2026-01-10T16:38:03.323507",
+  "full_timestamp": "2026-01-10T16:54:16.936847",
   "stats": {
     "total_bs": 5,
-    "base_layer_count": 2,
+    "base_layer_count": 1,
     "power_problems": 1,
-    "non_priority_percentage": 60,
-    "base_layer_percentage": 40
+    "non_priority_percentage": 80,
+    "base_layer_percentage": 20
   },
   "is_real_data": true,
-  "collected_at": "2026-01-10T16:38:03.323507",
+  "collected_at": "2026-01-10T16:54:16.936847",
   "macroregion": "Черноземье"
 }
