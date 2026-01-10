@@ -5,23 +5,6 @@
     {
       "region_code": "TUL",
       "region_name": "Тульская область",
-      "base_layer": "TUL Базовый слой 03.01.2026 10:48:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- TL0418; wo Есть;Время 2026-01-03 06:12:50\n- TL0165; wo Есть;Время 2026-01-03 10:15:44\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TUL Неприоритетные технологии 03.01.2026 10:48:\n\nНедоступно LTE2300:\n1) TL0080\n2) TL0531\n3) TL0454\n4) TL0286\n5) TL0288\n6) TL0094\n7) TL0106\n",
-      "base_layer_count": 0,
-      "total_bs_count": 10,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "10:48:07",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T10:48:07.865513",
-      "created_at": "2026-01-03T10:48:13.281420",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "TUL",
-      "region_name": "Тульская область",
       "base_layer": "TUL Базовый слой 03.01.2026 11:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TUL Неприоритетные технологии 03.01.2026 11:00:\n\nНедоступно LTE2300:\n1) TL0080\n2) TL0531\n3) TL0454\n4) TL0286\n5) TL0288\n6) TL0094\n7) TL0106\n",
       "base_layer_count": 0,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 36,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "TUL",
+      "region_name": "Тульская область",
+      "base_layer": "TUL Базовый слой 10.01.2026 10:53:\n\n1) TL0665 2026-01-10T10:04:17\nPower Нет; Посещение Да; WO Есть\n2) TL0541 2026-01-09T20:24:47\nPower Нет; Посещение Да; WO Есть\n3) TL0058 2026-01-09T20:37:51\nPower Да; Посещение Нет; WO Есть\n4) TL0061 2026-01-09T10:25:59\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- TL0665; wo Есть;Время 2026-01-10 10:03:08\n- TL0541; wo Есть;Время 2026-01-09 18:21:28\n- TL0297; wo Есть;Время 2026-01-10 09:55:25\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUL Неприоритетные технологии 10.01.2026 10:53:\n\nНедоступно LTE1800:\n1) TL0541\n2) TL0058\n3) TL0061\nНедоступно 3G:\n1) TL0391\n2) TL0665\n3) TL0541\n4) TL0297\n5) TL0481\n6) TL0502\n7) TL0061\nНедоступно LTE800:\n1) TL0391\n2) TL0541\n3) TL0297\n4) TL0481\n5) TL0502\n6) TL0061\nНедоступно LTE2600:\n1) TL0391\n2) TL0297\n3) TL0502\n4) TL0061\nНедоступно LTE2300:\n1) TL0297\n2) TL0094\n3) TL0106\n",
+      "base_layer_count": 4,
+      "total_bs_count": 11,
+      "power_problems": 3,
+      "non_priority_percentage": 64,
+      "timestamp": "10:53:17",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T10:53:17.095117",
+      "created_at": "2026-01-10T10:53:22.608815",
+      "base_layer_percentage": 36,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-10T10:38:53.916132",
+  "timestamp": "2026-01-10T10:53:35.899628",
   "error": null
 }
