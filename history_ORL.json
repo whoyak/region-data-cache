@@ -7311,9 +7311,26 @@
       "base_layer_percentage": 13,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "ORL",
+      "region_name": "Орловская область",
+      "base_layer": "ORL Базовый слой 10.01.2026 18:00:\n\n1) OR0804 2026-01-10T01:56:44\nPower Нет; Посещение Нет; WO Есть\n2) OR0911 2026-01-10T13:56:37\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- OR0911; wo Нет;Время 2026-01-10 12:55:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ORL Неприоритетные технологии 10.01.2026 18:00:\n\nНедоступно LTE1800:\n1) OR0804\n2) OR0911\nНедоступно 3G:\n1) OR0088\nНедоступно LTE2300:\n1) OR0248\n2) OR0236\n3) OR0178\n4) OR2422\n5) OR0077\n6) OR0056\n7) OR0159\n8) OR0353\n9) OR0632\n10) OR0274\n11) OR0604\n12) OR0140\n13) OR0172\n14) OR0046\n15) OR0977\n16) OR2424\n17) OR0045\n18) OR0634\n19) OR2015\n20) OR0430\n21) OR2020\n22) OR0321\n",
+      "base_layer_count": 2,
+      "total_bs_count": 33,
+      "power_problems": 4,
+      "non_priority_percentage": 94,
+      "timestamp": "18:00:30",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T18:00:30.269717",
+      "created_at": "2026-01-10T18:00:33.107447",
+      "base_layer_percentage": 6,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 430,
-  "timestamp": "2026-01-10T17:52:42.212537",
+  "count": 431,
+  "timestamp": "2026-01-10T18:00:53.997707",
   "error": null
 }
