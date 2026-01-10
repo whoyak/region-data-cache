@@ -5,23 +5,6 @@
     {
       "region_code": "NIN",
       "region_name": "Нижний Новгород",
-      "base_layer": "NIN Базовый слой 03.01.2026 23:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NIN Неприоритетные технологии 03.01.2026 23:00:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "23:00:17",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T23:00:17.274410",
-      "created_at": "2026-01-03T23:00:37.474766",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "NIN",
-      "region_name": "Нижний Новгород",
       "base_layer": "NIN Базовый слой 03.01.2026 23:05:\n\n1) NN0392 2026-01-03T21:51:15\nPower Да; Посещение Нет; WO Нет\n2) NN2625 2026-01-03T21:51:18\nPower Да; Посещение Нет; WO Есть\n3) NN0131 2026-01-03T21:10:13\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- NN0131; wo Есть;Время 2026-01-03 21:21:32\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NIN Неприоритетные технологии 03.01.2026 23:05:\n\nНедоступно LTE1800:\n1) NN0392\n2) NN2625\n3) NN0131\nНедоступно 3G:\n1) NN0392\n2) NN0131\n3) NN0357\nНедоступно LTE800:\n1) NN0392\nНедоступно LTE2100:\n1) NN0131\nНедоступно LTE2300:\n1) NN2054\n2) NN0402\n3) NN0861\n4) NN0204\n5) NN1818\n6) NN1990\n",
       "base_layer_count": 3,
@@ -7379,9 +7362,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "NIN",
+      "region_name": "Нижний Новгород",
+      "base_layer": "NIN Базовый слой 10.01.2026 23:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NIN Неприоритетные технологии 10.01.2026 23:00:\n\nНедоступно LTE2300:\n1) NN2054\n2) NN0402\n3) NN0861\n4) NN0204\n5) NN1818\n6) NN1990\n7) NN0365\n",
+      "base_layer_count": 0,
+      "total_bs_count": 9,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "23:00:22",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T23:00:22.564554",
+      "created_at": "2026-01-10T23:00:42.586687",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 434,
-  "timestamp": "2026-01-10T22:51:55.963659",
+  "timestamp": "2026-01-10T23:00:55.306207",
   "error": null
 }
