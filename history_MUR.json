@@ -5,23 +5,6 @@
     {
       "region_code": "MUR",
       "region_name": "Мурманская область",
-      "base_layer": "MUR Базовый слой 03.01.2026 15:19:\n\n1) MU0320 2026-01-03T00:23:14\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MUR Неприоритетные технологии 03.01.2026 15:19:\n\nНедоступно LTE1800:\n1) MU0320\nНедоступно 3G:\n1) MU0093\nНедоступно LTE800:\n1) MU0086\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 0,
-      "non_priority_percentage": 67,
-      "timestamp": "15:19:39",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T15:19:39.516768",
-      "created_at": "2026-01-03T15:19:55.558983",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "MUR",
-      "region_name": "Мурманская область",
       "base_layer": "MUR Базовый слой 03.01.2026 15:33:\n\n1) MU0320 2026-01-03T00:23:14\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MU0049; wo Есть;Время 2026-01-03 14:46:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MUR Неприоритетные технологии 03.01.2026 15:33:\n\nНедоступно LTE1800:\n1) MU0320\nНедоступно 3G:\n1) MU0093\n2) MU0049\nНедоступно LTE800:\n1) MU0086\nНедоступно LTE2100:\n1) MU0049\n",
       "base_layer_count": 1,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "MUR",
+      "region_name": "Мурманская область",
+      "base_layer": "MUR Базовый слой 10.01.2026 15:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MUR Неприоритетные технологии 10.01.2026 15:20:\n\nНедоступно 3G:\n1) MU0093\n2) MU0249\nНедоступно LTE800:\n1) MU0086\n2) MU0249\nНедоступно LTE2100:\n1) MU0249\n",
+      "base_layer_count": 0,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "15:20:19",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T15:20:19.352663",
+      "created_at": "2026-01-10T15:20:35.221472",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-10T15:06:25.808529",
+  "timestamp": "2026-01-10T15:20:54.355908",
   "error": null
 }
