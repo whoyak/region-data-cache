@@ -5,23 +5,6 @@
     {
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 03.01.2026 23:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 03.01.2026 23:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "23:34:54",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T23:34:54.448978",
-      "created_at": "2026-01-03T23:35:09.771390",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PSK",
-      "region_name": "Псковская область",
       "base_layer": "PSK Базовый слой 03.01.2026 23:49:\n\n1) PS0148 2026-01-03T23:05:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PSK Неприоритетные технологии 03.01.2026 23:49:\n\nНедоступно LTE1800:\n1) PS0148\n",
       "base_layer_count": 1,
@@ -7379,9 +7362,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 10.01.2026 23:35:\n\n1) PS0380 2026-01-10T22:17:34\nPower Нет; Посещение Нет; WO Есть\n2) PS0151 2026-01-10T14:56:36\nPower Нет; Посещение Да; WO Есть\n3) PS0170 2026-01-10T22:21:30\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PS0380; wo Есть;Время 2026-01-10 21:45:51\n\n9 приоритет:\n- PS0151; wo Есть;Время 2026-01-10 13:14:10\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 10.01.2026 23:35:\n\nНедоступно LTE1800:\n1) PS0380\n2) PS0151\n3) PS0170\nНедоступно LTE800:\n1) PS0380\n2) PS0151\n3) PS0170\n",
+      "base_layer_count": 3,
+      "total_bs_count": 4,
+      "power_problems": 2,
+      "non_priority_percentage": 25,
+      "timestamp": "23:35:10",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T23:35:10.409720",
+      "created_at": "2026-01-10T23:35:25.928498",
+      "base_layer_percentage": 75,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 434,
-  "timestamp": "2026-01-10T23:21:14.554071",
+  "timestamp": "2026-01-10T23:35:39.179451",
   "error": null
 }
