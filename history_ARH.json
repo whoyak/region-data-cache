@@ -7328,9 +7328,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "ARH",
+      "region_name": "Архангельская область",
+      "base_layer": "ARH Базовый слой 10.01.2026 19:02:\n\n1) AR2294 2026-01-10T18:29:59\nPower Да; Посещение Нет; WO Есть\n2) AR0066 2026-01-10T15:47:15\nPower Да; Посещение Нет; WO Есть\n3) AR2200 2026-01-10T12:25:39\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- AR2200; wo Есть;Время 2026-01-10 06:27:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 10.01.2026 19:02:\n\nНедоступно LTE1800:\n1) AR2294\n2) AR0066\nНедоступно 3G:\n1) AR2294\n2) AR0066\n3) AR2200\nНедоступно LTE800:\n1) AR2294\n2) AR0066\n3) AR2200\nНедоступно LTE2600:\n1) AR0066\nНедоступно LTE2100:\n1) AR0066\nНедоступно LTE2300:\n1) AR1196\n2) AR0211\n",
+      "base_layer_count": 3,
+      "total_bs_count": 6,
+      "power_problems": 1,
+      "non_priority_percentage": 50,
+      "timestamp": "19:02:43",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T19:02:43.843864",
+      "created_at": "2026-01-10T19:03:00.663918",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 431,
-  "timestamp": "2026-01-10T18:57:59.516352",
+  "count": 432,
+  "timestamp": "2026-01-10T19:03:20.495164",
   "error": null
 }
