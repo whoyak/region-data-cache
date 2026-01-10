@@ -7294,9 +7294,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 10.01.2026 17:00:\n\n1) MO3460 2026-01-10T13:01:51\nPower Да; Посещение Нет; WO Нет\n2) MO6417 2026-01-10T09:55:37\nPower Да; Посещение Нет; WO Нет\n3) MO0465 2026-01-10T04:53:34\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 10.01.2026 17:00:\n\nНедоступно 3G:\n1) MO3460\n2) MO6417\n3) MO0465\nНедоступно LTE2600:\n1) MO0465\nНедоступно LTE2100:\n1) MO6417\n2) MO0465\n",
+      "base_layer_count": 3,
+      "total_bs_count": 9,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "17:00:16",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T17:00:16.650060",
+      "created_at": "2026-01-10T17:00:34.529457",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 429,
-  "timestamp": "2026-01-10T16:54:34.779837",
+  "count": 430,
+  "timestamp": "2026-01-10T17:00:49.024626",
   "error": null
 }
