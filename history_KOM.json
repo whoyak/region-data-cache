@@ -5,23 +5,6 @@
     {
       "region_code": "KOM",
       "region_name": "Коми",
-      "base_layer": "KOM Базовый слой 03.01.2026 22:05:\n\n1) KO0233 2026-01-03T19:59:41\nPower Нет; Посещение Нет; WO Есть\n2) KO0540 2026-01-03T16:45:24\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KO0233; wo Есть;Время 2026-01-03 21:42:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOM Неприоритетные технологии 03.01.2026 22:05:\n\nНедоступно LTE1800:\n1) KO0540\nНедоступно 3G:\n1) KO0233\nНедоступно LTE800:\n1) KO0233\n2) KO0540\n",
-      "base_layer_count": 2,
-      "total_bs_count": 2,
-      "power_problems": 2,
-      "non_priority_percentage": 0,
-      "timestamp": "22:05:28",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T22:05:28.543235",
-      "created_at": "2026-01-03T22:05:37.720120",
-      "base_layer_percentage": 100,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "KOM",
-      "region_name": "Коми",
       "base_layer": "KOM Базовый слой 03.01.2026 22:19:\n\n1) KO0233 2026-01-03T19:59:41\nPower Нет; Посещение Нет; WO Есть\n2) KO0540 2026-01-03T16:45:24\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KO0233; wo Есть;Время 2026-01-03 21:52:22\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOM Неприоритетные технологии 03.01.2026 22:19:\n\nНедоступно LTE1800:\n1) KO0540\nНедоступно 3G:\n1) KO0233\nНедоступно LTE800:\n1) KO0233\n2) KO0540\n",
       "base_layer_count": 2,
@@ -7362,9 +7345,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "KOM",
+      "region_name": "Коми",
+      "base_layer": "KOM Базовый слой 10.01.2026 22:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOM Неприоритетные технологии 10.01.2026 22:05:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 0,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "22:05:25",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T22:05:25.110374",
+      "created_at": "2026-01-10T22:05:34.372928",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 433,
-  "timestamp": "2026-01-10T22:00:42.155232",
+  "timestamp": "2026-01-10T22:05:48.065473",
   "error": null
 }
