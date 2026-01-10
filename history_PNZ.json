@@ -5,23 +5,6 @@
     {
       "region_code": "PNZ",
       "region_name": "Пензенская область",
-      "base_layer": "PNZ Базовый слой 03.01.2026 06:33:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- PN0114; wo Нет;Время 2026-01-03 05:46:35\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PNZ Неприоритетные технологии 03.01.2026 06:33:\n\nНедоступно 3G:\n1) PN0114\nНедоступно LTE800:\n1) PN0114\n",
-      "base_layer_count": 0,
-      "total_bs_count": 1,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "06:33:50",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T06:33:50.221930",
-      "created_at": "2026-01-03T06:33:52.527056",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "PNZ",
-      "region_name": "Пензенская область",
       "base_layer": "PNZ Базовый слой 03.01.2026 06:48:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- PN0114; wo Нет;Время 2026-01-03 05:46:35\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PNZ Неприоритетные технологии 03.01.2026 06:48:\n\nНедоступно 3G:\n1) PN0114\nНедоступно LTE800:\n1) PN0114\n",
       "base_layer_count": 0,
@@ -7311,9 +7294,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "PNZ",
+      "region_name": "Пензенская область",
+      "base_layer": "PNZ Базовый слой 10.01.2026 06:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 10.01.2026 06:34:\n\nНедоступно LTE2100:\n1) PN0008\nНедоступно LTE2300:\n1) PN1206\n2) PN0705\n3) PN0031\n4) PN0535\n5) PN0905\n6) PN0033\n7) PN0536\n8) PN0750\n9) PN0153\n10) PN0716\n11) PN0008\n12) PN1230\n13) PN1247\n14) PN0019\n15) PN0549\n16) PN0155\n17) PN0545\n18) PN1243\n19) PN1263\n20) PN0055\n21) PN0207\n22) PN0096\n",
+      "base_layer_count": 0,
+      "total_bs_count": 22,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "06:34:27",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T06:34:27.828587",
+      "created_at": "2026-01-10T06:34:30.208036",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 430,
-  "timestamp": "2026-01-10T06:20:12.319857",
+  "timestamp": "2026-01-10T06:34:40.768633",
   "error": null
 }
