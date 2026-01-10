@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KAZ",
   "region_name": "Казань",
-  "base_layer": "KAZ Базовый слой 10.01.2026 09:40:\n\n1) TT0192 2026-01-10T09:10:49\nPower Да; Посещение Нет; WO Нет\n2) TT0073 2026-01-10T09:10:38\nPower Да; Посещение Нет; WO Нет\n3) TT0213 2026-01-10T09:15:33\nPower Да; Посещение Нет; WO Нет\n4) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\n5) TT0835 2026-01-09T15:18:51\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KAZ Неприоритетные технологии 10.01.2026 09:40:\n\nНедоступно LTE1800:\n1) TT0835\nНедоступно 3G:\n1) TT0073\nНедоступно LTE2300:\n1) TT1312\n2) TT1326\n3) TT1308\n4) TT1228\n5) TT1037\n6) TT1315\n7) TT2237\n8) TT0842\n9) TT1024\n",
-  "timestamp": "09:40:25",
+  "base_layer": "KAZ Базовый слой 10.01.2026 09:54:\n\n1) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\n2) TT1631 2026-01-10T09:06:48\nPower Да; Посещение Нет; WO Есть\n3) TT0835 2026-01-09T15:18:51\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KAZ Неприоритетные технологии 10.01.2026 09:54:\n\nНедоступно LTE1800:\n1) TT0835\nНедоступно 3G:\n1) TT1631\n2) TT0842\nНедоступно LTE2300:\n1) TT1312\n2) TT1326\n3) TT1308\n4) TT1228\n5) TT1315\n6) TT2237\n7) TT0842\n8) TT1024\n",
+  "timestamp": "09:54:48",
   "date": "2026-01-10",
-  "full_timestamp": "2026-01-10T09:40:25.994307",
+  "full_timestamp": "2026-01-10T09:54:48.544882",
   "stats": {
-    "total_bs": 20,
-    "base_layer_count": 5,
+    "total_bs": 19,
+    "base_layer_count": 3,
     "power_problems": 0,
-    "non_priority_percentage": 75,
-    "base_layer_percentage": 25
+    "non_priority_percentage": 85,
+    "base_layer_percentage": 15
   },
   "is_real_data": true,
-  "collected_at": "2026-01-10T09:40:25.994307",
+  "collected_at": "2026-01-10T09:54:48.544882",
   "macroregion": "Волга"
 }
