@@ -5,23 +5,6 @@
     {
       "region_code": "ROS",
       "region_name": "Ростовская область",
-      "base_layer": "ROS Базовый слой 03.01.2026 13:20:\n\n1) RO1876 2026-01-03T09:33:11\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\n10 приоритет:\n- RO1634; wo Есть;Время 2026-01-03 12:39:00\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ROS Неприоритетные технологии 03.01.2026 13:20:\n\nНедоступно LTE1800:\n1) RO1876\nНедоступно 3G:\n1) RO0545\n2) RO2670\nНедоступно LTE2600:\n1) RO0405\n2) RO0275\n",
-      "base_layer_count": 1,
-      "total_bs_count": 61,
-      "power_problems": 0,
-      "non_priority_percentage": 99,
-      "timestamp": "13:20:28",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T13:20:28.700743",
-      "created_at": "2026-01-03T13:20:29.462370",
-      "base_layer_percentage": 1,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "ROS",
-      "region_name": "Ростовская область",
       "base_layer": "ROS Базовый слой 03.01.2026 13:34:\n\n1) RO1876 2026-01-03T09:33:11\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- RO1634; wo Есть;Время 2026-01-03 12:59:28\n- RO1876; wo Есть;Время 2026-01-03 09:09:48\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ROS Неприоритетные технологии 03.01.2026 13:34:\n\nНедоступно LTE1800:\n1) RO1876\nНедоступно 3G:\n1) RO0545\n2) RO2670\n3) RO1876\nНедоступно LTE2600:\n1) RO0405\n2) RO0275\nНедоступно LTE2100:\n1) RO1876\n",
       "base_layer_count": 1,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 2,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "ROS",
+      "region_name": "Ростовская область",
+      "base_layer": "ROS Базовый слой 10.01.2026 13:34:\n\n1) RO0447 2026-01-05T05:41:44\nPower Да; Посещение Нет; WO Нет\n2) RO1749 2026-01-10T11:45:15\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- RO1174; wo Нет;Время 2026-01-10 13:01:29\n- RO1749; wo Нет;Время 2026-01-10 10:59:41\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ROS Неприоритетные технологии 10.01.2026 13:34:\n\nНедоступно LTE1800:\n1) RO0447\n2) RO1749\nНедоступно 3G:\n1) RO0062\n2) RO1174\n3) RO2670\nНедоступно LTE2100:\n1) RO1174\n",
+      "base_layer_count": 2,
+      "total_bs_count": 77,
+      "power_problems": 2,
+      "non_priority_percentage": 98,
+      "timestamp": "13:34:44",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T13:34:44.969883",
+      "created_at": "2026-01-10T13:34:45.710764",
+      "base_layer_percentage": 2,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-10T13:20:38.069349",
+  "timestamp": "2026-01-10T13:34:57.561924",
   "error": null
 }
