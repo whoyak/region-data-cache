@@ -5,23 +5,6 @@
     {
       "region_code": "KLN",
       "region_name": "Калининградская область",
-      "base_layer": "KLN Базовый слой 03.01.2026 16:00:\n\n1) KN2117 2026-01-03T15:28:26\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN1178; wo Нет;Время 2026-01-03 14:22:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KLN Неприоритетные технологии 03.01.2026 16:00:\n\nНедоступно LTE1800:\n1) KN2117\nНедоступно 3G:\n1) KN1178\nНедоступно LTE2600:\n1) KN1178\nНедоступно LTE2100:\n1) KN1178\nНедоступно LTE2300:\n1) KN2154\n",
-      "base_layer_count": 1,
-      "total_bs_count": 3,
-      "power_problems": 1,
-      "non_priority_percentage": 67,
-      "timestamp": "16:00:31",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T16:00:31.823573",
-      "created_at": "2026-01-03T16:00:47.995861",
-      "base_layer_percentage": 33,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "KLN",
-      "region_name": "Калининградская область",
       "base_layer": "KLN Базовый слой 03.01.2026 16:06:\n\n1) KN2117 2026-01-03T15:28:26\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN1178; wo Нет;Время 2026-01-03 14:22:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KLN Неприоритетные технологии 03.01.2026 16:06:\n\nНедоступно LTE1800:\n1) KN2117\nНедоступно 3G:\n1) KN1178\nНедоступно LTE2600:\n1) KN1178\nНедоступно LTE2100:\n1) KN1178\nНедоступно LTE2300:\n1) KN2154\n",
       "base_layer_count": 1,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "KLN",
+      "region_name": "Калининградская область",
+      "base_layer": "KLN Базовый слой 10.01.2026 16:00:\n\n1) KN1514 2026-01-10T15:29:37\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 10.01.2026 16:00:\n\nНедоступно LTE1800:\n1) KN1514\nНедоступно LTE2300:\n1) KN2154\n",
+      "base_layer_count": 1,
+      "total_bs_count": 2,
+      "power_problems": 0,
+      "non_priority_percentage": 50,
+      "timestamp": "16:00:39",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T16:00:39.287046",
+      "created_at": "2026-01-10T16:00:56.339921",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-10T15:50:52.196131",
+  "timestamp": "2026-01-10T16:01:16.355439",
   "error": null
 }
