@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 03.01.2026 04:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 03.01.2026 04:19:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 9,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "04:19:44",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T04:19:44.527569",
-      "created_at": "2026-01-03T04:20:05.534360",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 03.01.2026 04:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 03.01.2026 04:34:\n\n",
       "base_layer_count": 0,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 8,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 10.01.2026 04:19:\n\n1) MR5231 2026-01-09T23:47:43\nPower Нет; Посещение Да; WO Есть\n2) MO4540 2026-01-10T02:08:12\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- MO4540; wo Есть;Время 2026-01-09 23:00:21\n\n9 приоритет:\n- MO5496; wo Нет;Время 2026-01-09 23:34:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 10.01.2026 04:19:\n\nНедоступно 3G:\n1) MR5231\n2) MO4540\nНедоступно LTE800:\n1) MR5231\n2) MO4540\n3) MO5496\nНедоступно LTE2600:\n1) MR5231\n2) MO4540\n3) MO5496\nНедоступно LTE2100:\n1) MR5231\n2) MO4540\n",
+      "base_layer_count": 2,
+      "total_bs_count": 28,
+      "power_problems": 4,
+      "non_priority_percentage": 93,
+      "timestamp": "04:19:42",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T04:19:42.787477",
+      "created_at": "2026-01-10T04:20:00.991917",
+      "base_layer_percentage": 7,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-10T04:05:41.035597",
+  "timestamp": "2026-01-10T04:20:13.766010",
   "error": null
 }
