@@ -5,23 +5,6 @@
     {
       "region_code": "SMO",
       "region_name": "Смоленская область",
-      "base_layer": "SMO Базовый слой 03.01.2026 21:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SMO Неприоритетные технологии 03.01.2026 21:49:\n\nНедоступно 3G:\n1) SM0383\nНедоступно LTE2100:\n1) SM0383\nНедоступно LTE2300:\n1) SM0249\n2) SM0689\n3) SM0526\n4) SM0602\n5) SM0721\n6) SM0457\n7) SM0744\n8) SM0246\n9) SM0693\n10) SM0684\n11) SM0435\n12) SM0734\n13) SM0755\n",
-      "base_layer_count": 0,
-      "total_bs_count": 18,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "21:49:16",
-      "date": "2026-01-03",
-      "full_timestamp": "2026-01-03T21:49:16.947443",
-      "created_at": "2026-01-03T21:49:22.730615",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "SMO",
-      "region_name": "Смоленская область",
       "base_layer": "SMO Базовый слой 03.01.2026 22:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SMO Неприоритетные технологии 03.01.2026 22:05:\n\nНедоступно 3G:\n1) SM0383\nНедоступно LTE2100:\n1) SM0383\nНедоступно LTE2300:\n1) SM0249\n2) SM0689\n3) SM0526\n4) SM0602\n5) SM0721\n6) SM0457\n7) SM0744\n8) SM0246\n9) SM0693\n10) SM0684\n11) SM0435\n12) SM0734\n13) SM0755\n",
       "base_layer_count": 0,
@@ -7362,9 +7345,26 @@
       "base_layer_percentage": 9,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "SMO",
+      "region_name": "Смоленская область",
+      "base_layer": "SMO Базовый слой 10.01.2026 22:00:\n\n1) SM0599 2026-01-10T20:58:19\nPower Да; Посещение Нет; WO Есть\n2) SM0201 2026-01-09T21:00:24\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SMO Неприоритетные технологии 10.01.2026 22:00:\n\nНедоступно LTE1800:\n1) SM0599\nНедоступно LTE800:\n1) SM0201\nНедоступно LTE2300:\n1) SM0526\n2) SM0689\n3) SM0602\n4) SM0457\n5) SM0721\n6) SM0246\n7) SM0720\n8) SM0693\n9) SM0435\n10) SM0734\n11) SM0755\n",
+      "base_layer_count": 2,
+      "total_bs_count": 22,
+      "power_problems": 1,
+      "non_priority_percentage": 91,
+      "timestamp": "22:00:23",
+      "date": "2026-01-10",
+      "full_timestamp": "2026-01-10T22:00:23.168240",
+      "created_at": "2026-01-10T22:00:28.895047",
+      "base_layer_percentage": 9,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 433,
-  "timestamp": "2026-01-10T21:47:02.405199",
+  "timestamp": "2026-01-10T22:00:42.155253",
   "error": null
 }
