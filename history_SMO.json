@@ -7417,22 +7417,22 @@
     {
       "region_code": "SMO",
       "region_name": "Смоленская область",
-      "base_layer": "SMO Базовый слой 11.01.2026 22:41:\n\n1) SM0277 2026-01-11T22:05:48\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SMO Неприоритетные технологии 11.01.2026 22:41:\n\nНедоступно LTE1800:\n1) SM0277\nНедоступно 3G:\n1) SM0247\n2) SM0277\nНедоступно LTE2100:\n1) SM0277\nНедоступно LTE2300:\n1) SM0526\n2) SM0689\n3) SM0602\n4) SM0457\n5) SM0721\n6) SM0246\n7) SM0720\n8) SM0693\n9) SM0435\n10) SM0679\n11) SM0734\n12) SM0755\n",
-      "base_layer_count": 1,
+      "base_layer": "SMO Базовый слой 11.01.2026 22:55:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- SM0247; wo Нет;Время 2026-01-09 13:12:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SMO Неприоритетные технологии 11.01.2026 22:55:\n\nНедоступно 3G:\n1) SM0247\nНедоступно LTE2300:\n1) SM0526\n2) SM0689\n3) SM0602\n4) SM0457\n5) SM0721\n6) SM0246\n7) SM0720\n8) SM0693\n9) SM0435\n10) SM0679\n11) SM0734\n12) SM0755\n",
+      "base_layer_count": 0,
       "total_bs_count": 22,
       "power_problems": 1,
-      "non_priority_percentage": 96,
-      "timestamp": "22:41:32",
+      "non_priority_percentage": 100,
+      "timestamp": "22:55:56",
       "date": "2026-01-11",
-      "full_timestamp": "2026-01-11T22:41:32.356806",
-      "created_at": "2026-01-11T22:41:38.294996",
-      "base_layer_percentage": 4,
+      "full_timestamp": "2026-01-11T22:55:56.567460",
+      "created_at": "2026-01-11T22:56:02.376348",
+      "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
     }
   ],
   "count": 437,
-  "timestamp": "2026-01-11T22:41:48.981615",
+  "timestamp": "2026-01-11T22:56:14.007133",
   "error": null
 }
