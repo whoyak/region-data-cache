@@ -5,23 +5,6 @@
     {
       "region_code": "CNT",
       "region_name": "Центральный округ Москвы",
-      "base_layer": "CNT Базовый слой 05.01.2026 16:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CNT Неприоритетные технологии 05.01.2026 16:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "16:35:15",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T16:35:15.528504",
-      "created_at": "2026-01-05T16:35:33.750064",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "CNT",
-      "region_name": "Центральный округ Москвы",
       "base_layer": "CNT Базовый слой 05.01.2026 16:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CNT Неприоритетные технологии 05.01.2026 16:50:\n\n",
       "base_layer_count": 0,
@@ -7192,9 +7175,26 @@
       "base_layer_percentage": 46,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 12.01.2026 16:36:\n\n1) MC1271 2026-01-12T05:08:54\nPower Да; Посещение Нет; WO Нет\n2) MS4409 2026-01-12T14:16:09\nPower Нет; Посещение Нет; WO Нет\n3) MS4975 2026-01-09T12:16:32\nPower Да; Посещение Нет; WO Нет\n4) MC5940 2026-01-10T04:17:07\nPower Да; Посещение Нет; WO Нет\n5) MS5926 2026-01-11T15:06:20\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- MC5851; wo Нет;Время 2026-01-12 14:54:58\n- MS4409; wo Нет;Время 2026-01-12 12:51:52\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 12.01.2026 16:36:\n\nНедоступно 3G:\n1) MS4409\n2) MS4975\n3) MC5940\n4) MS5926\nНедоступно LTE800:\n1) MS4409\n2) MC5940\nНедоступно LTE2600:\n1) MS3662\n2) MS4409\n3) MC5940\nНедоступно LTE2100:\n1) MC1271\n2) MS4409\n3) MS4975\n4) MC5940\n5) MS5926\n",
+      "base_layer_count": 5,
+      "total_bs_count": 11,
+      "power_problems": 3,
+      "non_priority_percentage": 55,
+      "timestamp": "16:36:41",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T16:36:41.507627",
+      "created_at": "2026-01-12T16:37:05.986285",
+      "base_layer_percentage": 45,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 423,
-  "timestamp": "2026-01-12T16:22:06.755106",
+  "timestamp": "2026-01-12T16:37:19.298557",
   "error": null
 }
