@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 05.01.2026 14:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 05.01.2026 14:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:35:24",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T14:35:24.514672",
-      "created_at": "2026-01-05T14:35:42.246028",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 05.01.2026 14:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 05.01.2026 14:50:\n\n",
       "base_layer_count": 0,
@@ -7260,9 +7243,26 @@
       "base_layer_percentage": 27,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 12.01.2026 14:36:\n\n1) MO3062 2026-01-12T13:30:19\nPower Нет; Посещение Нет; WO Нет\n2) MR0759 2026-01-12T12:13:50\nPower Да; Посещение Да; WO Нет\n3) MO6423 2026-01-12T12:33:01\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- MO3062; wo Нет;Время 2026-01-12 13:29:14\n\n10 приоритет:\n- MO6423; wo Есть;Время 2026-01-12 09:59:36\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 12.01.2026 14:36:\n\nНедоступно 3G:\n1) MO3062\n2) MO6423\nНедоступно LTE800:\n1) MO3062\n2) MO6423\nНедоступно LTE2600:\n1) MO3062\n2) MO0915\n3) MO6423\nНедоступно LTE2100:\n1) MO3062\n2) MR0759\n3) MO6423\n",
+      "base_layer_count": 3,
+      "total_bs_count": 11,
+      "power_problems": 2,
+      "non_priority_percentage": 73,
+      "timestamp": "14:36:15",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T14:36:15.887647",
+      "created_at": "2026-01-12T14:36:39.764778",
+      "base_layer_percentage": 27,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 427,
-  "timestamp": "2026-01-12T14:22:02.861650",
+  "timestamp": "2026-01-12T14:36:52.205645",
   "error": null
 }
