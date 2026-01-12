@@ -5,23 +5,6 @@
     {
       "region_code": "SMO",
       "region_name": "Смоленская область",
-      "base_layer": "SMO Базовый слой 05.01.2026 12:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SMO Неприоритетные технологии 05.01.2026 12:50:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:50:01",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:50:01.741223",
-      "created_at": "2026-01-05T12:50:07.419344",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "SMO",
-      "region_name": "Смоленская область",
       "base_layer": "SMO Базовый слой 05.01.2026 13:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SMO Неприоритетные технологии 05.01.2026 13:00:\n\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "SMO",
+      "region_name": "Смоленская область",
+      "base_layer": "SMO Базовый слой 12.01.2026 12:50:\n\n1) SM0277 2026-01-12T12:18:12\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SMO Неприоритетные технологии 12.01.2026 12:50:\n\nНедоступно LTE1800:\n1) SM0277\nНедоступно 3G:\n1) SM0277\nНедоступно LTE2300:\n1) SM0689\n2) SM0526\n3) SM0602\n4) SM0721\n5) SM0457\n6) SM0246\n7) SM0720\n8) SM0693\n9) SM0684\n10) SM0435\n11) SM0734\n12) SM0755\n",
+      "base_layer_count": 1,
+      "total_bs_count": 19,
+      "power_problems": 0,
+      "non_priority_percentage": 95,
+      "timestamp": "12:50:46",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:50:46.562538",
+      "created_at": "2026-01-12T12:50:53.861248",
+      "base_layer_percentage": 5,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-12T12:36:06.358515",
+  "timestamp": "2026-01-12T12:51:05.501675",
   "error": null
 }
