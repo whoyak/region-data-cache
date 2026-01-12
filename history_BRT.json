@@ -5,23 +5,6 @@
     {
       "region_code": "BRT",
       "region_name": "Бурятия",
-      "base_layer": "BRT Базовый слой 05.01.2026 17:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRT Неприоритетные технологии 05.01.2026 17:00:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "17:00:25",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T17:00:25.747118",
-      "created_at": "2026-01-05T17:00:49.257571",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "BRT",
-      "region_name": "Бурятия",
       "base_layer": "BRT Базовый слой 05.01.2026 17:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRT Неприоритетные технологии 05.01.2026 17:05:\n\n",
       "base_layer_count": 0,
@@ -7192,9 +7175,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "BRT",
+      "region_name": "Бурятия",
+      "base_layer": "BRT Базовый слой 12.01.2026 17:00:\n\n1) ZB0607 2026-01-10T03:41:41\nPower Да; Посещение Нет; WO Нет\n2) BU0137 2026-01-12T16:23:15\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- BU0139; wo Есть;Время 2026-01-12 06:27:29\n- BU0019; wo Нет;Время 2026-01-12 16:20:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRT Неприоритетные технологии 12.01.2026 17:00:\n\nНедоступно LTE1800:\n1) ZB0607\n2) BU0137\nНедоступно 3G:\n1) BU0139\n2) BU0019\n3) BU0505\n4) BU0040\n5) BU0137\nНедоступно LTE2600:\n1) BU0139\n2) BU0019\n3) BU0040\n4) BU0137\nНедоступно LTE2100:\n1) BU0139\n2) BU0019\n3) BU0505\n4) BU0040\n5) BU0137\nНедоступно LTE2300:\n1) BU0139\n2) BU0019\n3) BU0137\n",
+      "base_layer_count": 2,
+      "total_bs_count": 6,
+      "power_problems": 5,
+      "non_priority_percentage": 67,
+      "timestamp": "17:00:17",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T17:00:17.309027",
+      "created_at": "2026-01-12T17:00:48.175417",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 423,
-  "timestamp": "2026-01-12T16:52:05.255584",
+  "timestamp": "2026-01-12T17:01:04.771939",
   "error": null
 }
