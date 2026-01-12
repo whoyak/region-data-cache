@@ -5,23 +5,6 @@
     {
       "region_code": "CHV",
       "region_name": "Чувашия",
-      "base_layer": "CHV Базовый слой 05.01.2026 11:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CHV Неприоритетные технологии 05.01.2026 11:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "11:05:15",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T11:05:15.193883",
-      "created_at": "2026-01-05T11:05:36.339734",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "CHV",
-      "region_name": "Чувашия",
       "base_layer": "CHV Базовый слой 05.01.2026 11:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CHV Неприоритетные технологии 05.01.2026 11:19:\n\n",
       "base_layer_count": 0,
@@ -7379,9 +7362,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "CHV",
+      "region_name": "Чувашия",
+      "base_layer": "CHV Базовый слой 12.01.2026 11:06:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- CV0607; wo Нет;Время 2026-01-12 08:22:45\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHV Неприоритетные технологии 12.01.2026 11:06:\n\nНедоступно LTE800:\n1) CV0607\nНедоступно LTE2100:\n1) CV0607\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "11:06:16",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T11:06:16.788313",
+      "created_at": "2026-01-12T11:06:44.654540",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 434,
-  "timestamp": "2026-01-12T11:01:17.384085",
+  "timestamp": "2026-01-12T11:06:56.330302",
   "error": null
 }
