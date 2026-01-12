@@ -5,23 +5,6 @@
     {
       "region_code": "MUR",
       "region_name": "Мурманская область",
-      "base_layer": "MUR Базовый слой 05.01.2026 14:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MUR Неприоритетные технологии 05.01.2026 14:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:05:54",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T14:05:54.361381",
-      "created_at": "2026-01-05T14:06:10.211801",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "MUR",
-      "region_name": "Мурманская область",
       "base_layer": "MUR Базовый слой 05.01.2026 14:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MUR Неприоритетные технологии 05.01.2026 14:20:\n\n",
       "base_layer_count": 0,
@@ -7277,9 +7260,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "MUR",
+      "region_name": "Мурманская область",
+      "base_layer": "MUR Базовый слой 12.01.2026 14:06:\n\n1) MU0050 2026-01-12T13:45:03\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MU0050; wo Есть;Время 2026-01-12 13:23:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MUR Неприоритетные технологии 12.01.2026 14:06:\n\nНедоступно 3G:\n1) MU0050\n2) MU0093\n3) MU0249\nНедоступно LTE800:\n1) MU0086\n2) MU0249\nНедоступно LTE2600:\n1) MU0050\nНедоступно LTE2100:\n1) MU0050\n2) MU0249\n",
+      "base_layer_count": 1,
+      "total_bs_count": 4,
+      "power_problems": 1,
+      "non_priority_percentage": 75,
+      "timestamp": "14:06:08",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T14:06:08.060197",
+      "created_at": "2026-01-12T14:06:29.238009",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 428,
-  "timestamp": "2026-01-12T14:01:01.538293",
+  "timestamp": "2026-01-12T14:06:40.643695",
   "error": null
 }
