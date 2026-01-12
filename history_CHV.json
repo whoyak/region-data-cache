@@ -5,23 +5,6 @@
     {
       "region_code": "CHV",
       "region_name": "Чувашия",
-      "base_layer": "CHV Базовый слой 05.01.2026 12:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CHV Неприоритетные технологии 05.01.2026 12:20:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:20:16",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:20:16.210852",
-      "created_at": "2026-01-05T12:20:36.572607",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "CHV",
-      "region_name": "Чувашия",
       "base_layer": "CHV Базовый слой 05.01.2026 12:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CHV Неприоритетные технологии 05.01.2026 12:34:\n\n",
       "base_layer_count": 0,
@@ -7345,9 +7328,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "CHV",
+      "region_name": "Чувашия",
+      "base_layer": "CHV Базовый слой 12.01.2026 12:20:\n\n1) CV0570 2026-01-12T11:05:31\nPower Нет; Посещение Да; WO Нет\nВсего активных POWER на сети: 6\n\n9 приоритет:\n- CV0651; wo Нет;Время 2026-01-12 11:51:37\n\n10 приоритет:\n- CV1165; wo Есть;Время 2026-01-12 11:16:51\n- CV1214; wo Нет;Время 2026-01-12 11:51:37\n- CV0354; wo Нет;Время 2026-01-12 11:13:08\n- CV0287; wo Нет;Время 2026-01-12 11:12:00\n- CV0570; wo Нет;Время 2026-01-12 11:02:36\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHV Неприоритетные технологии 12.01.2026 12:20:\n\nНедоступно LTE1800:\n1) CV0570\nНедоступно 3G:\n1) CV0651\n2) CV1165\n3) CV0354\n4) CV0287\n5) CV0570\nНедоступно LTE800:\n1) CV0651\n2) CV1165\n3) CV1214\n4) CV0287\nНедоступно LTE2600:\n1) CV0354\n2) CV0570\nНедоступно LTE2100:\n1) CV1165\n2) CV0354\n3) CV0570\nНедоступно LTE2300:\n1) CV0354\n",
+      "base_layer_count": 1,
+      "total_bs_count": 6,
+      "power_problems": 6,
+      "non_priority_percentage": 84,
+      "timestamp": "12:20:42",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:20:42.074021",
+      "created_at": "2026-01-12T12:21:09.016310",
+      "base_layer_percentage": 16,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 432,
-  "timestamp": "2026-01-12T12:06:27.366114",
+  "timestamp": "2026-01-12T12:21:20.930113",
   "error": null
 }
