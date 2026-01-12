@@ -5,23 +5,6 @@
     {
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 05.01.2026 16:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ARH Неприоритетные технологии 05.01.2026 16:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "16:05:52",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T16:05:52.829520",
-      "created_at": "2026-01-05T16:06:09.040123",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "ARH",
-      "region_name": "Архангельская область",
       "base_layer": "ARH Базовый слой 05.01.2026 16:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ARH Неприоритетные технологии 05.01.2026 16:20:\n\n",
       "base_layer_count": 0,
@@ -7209,9 +7192,26 @@
       "base_layer_percentage": 44,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "ARH",
+      "region_name": "Архангельская область",
+      "base_layer": "ARH Базовый слой 12.01.2026 16:06:\n\n1) AR0838 2026-01-11T21:34:58\nPower Нет; Посещение Нет; WO Есть\n2) AR0709 2026-01-12T14:54:35\nPower Да; Посещение Нет; WO Нет\n3) AR0958 2026-01-10T23:58:18\nPower Да; Посещение Нет; WO Нет\n4) AR0835 2026-01-12T13:06:43\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- AR0583; wo Нет;Время 2026-01-12 10:38:09\n\n9 приоритет:\n- AR0116; wo Есть;Время 2026-01-12 15:39:33\n- AR0835; wo Есть;Время 2026-01-12 12:44:46\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 12.01.2026 16:06:\n\nНедоступно LTE1800:\n1) AR0709\n2) AR0958\nНедоступно 3G:\n1) AR0116\nНедоступно LTE800:\n1) AR0583\nНедоступно LTE2300:\n1) AR0709\n2) AR1196\n3) AR0211\n4) AR0116\n",
+      "base_layer_count": 4,
+      "total_bs_count": 9,
+      "power_problems": 4,
+      "non_priority_percentage": 56,
+      "timestamp": "16:06:31",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T16:06:31.111841",
+      "created_at": "2026-01-12T16:06:57.779211",
+      "base_layer_percentage": 44,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 424,
-  "timestamp": "2026-01-12T16:01:02.073107",
+  "timestamp": "2026-01-12T16:07:12.930768",
   "error": null
 }
