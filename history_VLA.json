@@ -5,23 +5,6 @@
     {
       "region_code": "VLA",
       "region_name": "Владимирская область",
-      "base_layer": "VLA Базовый слой 05.01.2026 19:37:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLA Неприоритетные технологии 05.01.2026 19:37:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "19:37:23",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T19:37:23.203783",
-      "created_at": "2026-01-05T19:37:27.917494",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "VLA",
-      "region_name": "Владимирская область",
       "base_layer": "VLA Базовый слой 05.01.2026 19:52:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLA Неприоритетные технологии 05.01.2026 19:52:\n\n",
       "base_layer_count": 0,
@@ -7107,9 +7090,26 @@
       "base_layer_percentage": 18,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "VLA",
+      "region_name": "Владимирская область",
+      "base_layer": "VLA Базовый слой 12.01.2026 19:40:\n\n1) VL0963 2026-01-12T17:59:49\nPower Нет; Посещение Нет; WO Нет\n2) VL0487 2026-01-12T13:17:10\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 6\n\n10 приоритет:\n- VL0963; wo Нет;Время 2026-01-12 18:47:21\n\n9 приоритет:\n- VL0134; wo Нет;Время 2026-01-12 18:50:31\n- VL0487; wo Нет;Время 2026-01-12 16:01:46\n- VL0816; wo Нет;Время 2026-01-12 18:30:09\n- VL0250; wo Нет;Время 2026-01-12 16:15:19\n- VL0731; wo Нет;Время 2026-01-12 19:04:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLA Неприоритетные технологии 12.01.2026 19:40:\n\nНедоступно LTE1800:\n1) VL0963\n2) VL0487\nНедоступно 3G:\n1) VL0100\n2) VL0134\n3) VL0250\nНедоступно LTE800:\n1) VL0100\n2) VL0250\nНедоступно LTE2300:\n1) VL0110\n2) VL0037\n3) VL0188\n4) VL0963\n5) VL0559\n6) VL0187\n7) VL0943\n8) VL0937\n9) VL0073\n",
+      "base_layer_count": 2,
+      "total_bs_count": 16,
+      "power_problems": 6,
+      "non_priority_percentage": 88,
+      "timestamp": "19:40:18",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T19:40:18.034571",
+      "created_at": "2026-01-12T19:40:24.039316",
+      "base_layer_percentage": 12,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 418,
-  "timestamp": "2026-01-12T19:25:44.072014",
+  "timestamp": "2026-01-12T19:40:37.945951",
   "error": null
 }
