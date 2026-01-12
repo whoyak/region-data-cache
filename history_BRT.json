@@ -5,23 +5,6 @@
     {
       "region_code": "BRT",
       "region_name": "Бурятия",
-      "base_layer": "BRT Базовый слой 05.01.2026 12:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRT Неприоритетные технологии 05.01.2026 12:20:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:20:13",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:20:13.423492",
-      "created_at": "2026-01-05T12:20:36.571669",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "BRT",
-      "region_name": "Бурятия",
       "base_layer": "BRT Базовый слой 05.01.2026 12:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRT Неприоритетные технологии 05.01.2026 12:34:\n\n",
       "base_layer_count": 0,
@@ -7345,9 +7328,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "BRT",
+      "region_name": "Бурятия",
+      "base_layer": "BRT Базовый слой 12.01.2026 12:20:\n\n1) ZB0607 2026-01-10T03:41:41\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRT Неприоритетные технологии 12.01.2026 12:20:\n\nНедоступно LTE1800:\n1) ZB0607\n",
+      "base_layer_count": 1,
+      "total_bs_count": 1,
+      "power_problems": 0,
+      "non_priority_percentage": 0,
+      "timestamp": "12:20:38",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:20:38.481728",
+      "created_at": "2026-01-12T12:21:09.014895",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 432,
-  "timestamp": "2026-01-12T12:06:27.366067",
+  "timestamp": "2026-01-12T12:21:20.930067",
   "error": null
 }
