@@ -5,23 +5,6 @@
     {
       "region_code": "STV",
       "region_name": "Ставропольский край",
-      "base_layer": "STV Базовый слой 05.01.2026 15:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "STV Неприоритетные технологии 05.01.2026 15:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:05:53",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T15:05:53.552242",
-      "created_at": "2026-01-05T15:05:53.964058",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "STV",
-      "region_name": "Ставропольский край",
       "base_layer": "STV Базовый слой 05.01.2026 15:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "STV Неприоритетные технологии 05.01.2026 15:20:\n\n",
       "base_layer_count": 0,
@@ -7243,9 +7226,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "STV",
+      "region_name": "Ставропольский край",
+      "base_layer": "STV Базовый слой 12.01.2026 15:06:\n\n1) ST1887 2026-01-12T14:31:10\nPower Да; Посещение Нет; WO Нет\n2) ST0282 2026-01-12T14:31:55\nPower Да; Посещение Нет; WO Нет\n3) ST0279 2026-01-12T12:03:09\nPower Да; Посещение Да; WO Есть\n4) ST0578 2026-01-12T14:43:31\nPower Да; Посещение Нет; WO Нет\n5) ST0137 2026-01-12T14:31:55\nPower Да; Посещение Нет; WO Нет\n6) ST0319 2026-01-12T14:30:25\nPower Да; Посещение Нет; WO Нет\n7) ST0320 2026-01-12T14:30:54\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- ST0217; wo Нет;Время 2026-01-12 13:59:55\n\n10 приоритет:\n- ST0901; wo Нет;Время 2026-01-12 11:45:31\n- ST1881; wo Есть;Время 2026-01-12 12:10:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "STV Неприоритетные технологии 12.01.2026 15:06:\n\nНедоступно LTE1800:\n1) ST1887\n2) ST0282\n3) ST0279\n4) ST0137\n5) ST0319\n6) ST0320\nНедоступно LTE800:\n1) ST1887\n2) ST0538\n3) ST0901\n4) ST1881\n5) ST0320\nНедоступно LTE2600:\n1) ST0217\nНедоступно LTE2100:\n1) ST0217\n2) ST2277\n",
+      "base_layer_count": 7,
+      "total_bs_count": 27,
+      "power_problems": 4,
+      "non_priority_percentage": 75,
+      "timestamp": "15:06:21",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T15:06:21.802080",
+      "created_at": "2026-01-12T15:06:22.272859",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 426,
-  "timestamp": "2026-01-12T15:00:59.199363",
+  "timestamp": "2026-01-12T15:06:34.383005",
   "error": null
 }
