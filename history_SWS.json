@@ -5,23 +5,6 @@
     {
       "region_code": "SWS",
       "region_name": "Юго-Западный округ Москвы",
-      "base_layer": "SWS Базовый слой 05.01.2026 18:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SWS Неприоритетные технологии 05.01.2026 18:20:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "18:20:09",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T18:20:09.018056",
-      "created_at": "2026-01-05T18:20:26.194762",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SWS",
-      "region_name": "Юго-Западный округ Москвы",
       "base_layer": "SWS Базовый слой 05.01.2026 18:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SWS Неприоритетные технологии 05.01.2026 18:34:\n\n",
       "base_layer_count": 0,
@@ -7141,9 +7124,26 @@
       "base_layer_percentage": 60,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SWS",
+      "region_name": "Юго-Западный округ Москвы",
+      "base_layer": "SWS Базовый слой 12.01.2026 18:23:\n\n1) MC4271 2026-01-12T15:16:32\nPower Да; Посещение Да; WO Нет\n2) MO1333 2026-01-09T08:52:32\nPower Да; Посещение Нет; WO Есть\n3) MO2739 2026-01-11T07:06:03\nPower Да; Посещение Нет; WO Нет\n4) MS3260 2026-01-09T19:27:17\nPower Да; Посещение Да; WO Есть\n5) MS4840 2026-01-12T13:02:03\nPower Нет; Посещение Да; WO Есть\n6) MS5675 2026-01-11T12:17:50\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MS4840; wo Есть;Время 2026-01-12 12:21:33\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SWS Неприоритетные технологии 12.01.2026 18:23:\n\nНедоступно 3G:\n1) MC4271\n2) MO1333\n3) MO2739\n4) MS3260\n5) MS4840\n6) MS5675\nНедоступно LTE800:\n1) MS1307\n2) MS3260\nНедоступно LTE2600:\n1) MC4271\n2) MS1233\n3) MS3260\n4) MS4840\n5) MS0954\nНедоступно LTE2100:\n1) MS3260\n2) MS4840\n",
+      "base_layer_count": 6,
+      "total_bs_count": 10,
+      "power_problems": 1,
+      "non_priority_percentage": 40,
+      "timestamp": "18:23:04",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T18:23:04.621221",
+      "created_at": "2026-01-12T18:23:27.718323",
+      "base_layer_percentage": 60,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 420,
-  "timestamp": "2026-01-12T18:08:17.612922",
+  "timestamp": "2026-01-12T18:23:42.678586",
   "error": null
 }
