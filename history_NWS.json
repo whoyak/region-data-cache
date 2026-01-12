@@ -5,23 +5,6 @@
     {
       "region_code": "NWS",
       "region_name": "Северо-Западный округ Москвы",
-      "base_layer": "NWS Базовый слой 05.01.2026 22:06:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NWS Неприоритетные технологии 05.01.2026 22:06:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "22:06:22",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T22:06:22.747678",
-      "created_at": "2026-01-05T22:06:40.031061",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NWS",
-      "region_name": "Северо-Западный округ Москвы",
       "base_layer": "NWS Базовый слой 05.01.2026 22:21:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NWS Неприоритетные технологии 05.01.2026 22:21:\n\n",
       "base_layer_count": 0,
@@ -7039,9 +7022,26 @@
       "base_layer_percentage": 13,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NWS",
+      "region_name": "Северо-Западный округ Москвы",
+      "base_layer": "NWS Базовый слой 12.01.2026 22:10:\n\n1) MS4220 2026-01-12T16:33:03\nPower Да; Посещение Да; WO Нет\n2) MS1135 2026-01-12T21:34:16\nPower Нет; Посещение Нет; WO Нет\n3) MR0714 2026-01-10T11:22:00\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- MR3283; wo Есть;Время 2026-01-12 21:18:14\n- MR6527; wo Есть;Время 2026-01-12 20:54:20\n\n9 приоритет:\n- MS1135; wo Нет;Время 2026-01-12 21:05:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NWS Неприоритетные технологии 12.01.2026 22:10:\n\nНедоступно 3G:\n1) MS4220\n2) MS1135\n3) MR0714\nНедоступно LTE800:\n1) MR3283\n2) MS4220\n3) MS1135\n4) MO0805\n5) MS4359\nНедоступно LTE2600:\n1) MR3283\n2) MS4220\n3) MR6527\n4) MC2328\n5) MS1135\n6) MO0805\nНедоступно LTE2100:\n1) MS4220\n2) MS1135\n3) MR0714\n",
+      "base_layer_count": 3,
+      "total_bs_count": 16,
+      "power_problems": 4,
+      "non_priority_percentage": 82,
+      "timestamp": "22:10:04",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T22:10:04.162315",
+      "created_at": "2026-01-12T22:10:26.390470",
+      "base_layer_percentage": 18,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 414,
-  "timestamp": "2026-01-12T22:01:06.355436",
+  "timestamp": "2026-01-12T22:10:38.567789",
   "error": null
 }
