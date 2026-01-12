@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 05.01.2026 22:51:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 05.01.2026 22:51:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "22:51:48",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T22:51:48.121792",
-      "created_at": "2026-01-05T22:52:05.845050",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 05.01.2026 23:07:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 05.01.2026 23:07:\n\n",
       "base_layer_count": 0,
@@ -7022,9 +7005,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 12.01.2026 22:54:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MO6423; wo Есть;Время 2026-01-12 17:58:44\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 12.01.2026 22:54:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 15,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "22:54:13",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T22:54:13.560639",
+      "created_at": "2026-01-12T22:54:35.997664",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 413,
-  "timestamp": "2026-01-12T22:40:09.523660",
+  "timestamp": "2026-01-12T22:54:47.195931",
   "error": null
 }
