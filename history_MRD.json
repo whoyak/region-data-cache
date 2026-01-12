@@ -5,23 +5,6 @@
     {
       "region_code": "MRD",
       "region_name": "Мордовия",
-      "base_layer": "MRD Базовый слой 05.01.2026 15:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MRD Неприоритетные технологии 05.01.2026 15:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:49:35",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T15:49:35.107674",
-      "created_at": "2026-01-05T15:49:38.063804",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "MRD",
-      "region_name": "Мордовия",
       "base_layer": "MRD Базовый слой 05.01.2026 16:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "MRD Неприоритетные технологии 05.01.2026 16:00:\n\n",
       "base_layer_count": 0,
@@ -7226,9 +7209,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "MRD",
+      "region_name": "Мордовия",
+      "base_layer": "MRD Базовый слой 12.01.2026 15:51:\n\n1) MV1587 2026-01-12T04:11:59\nPower Нет; Посещение Нет; WO Есть\n2) MV0392 2026-01-12T07:02:15\nPower Нет; Посещение Нет; WO Есть\n3) MV0409 2026-01-12T03:02:57\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 7\n\n9 приоритет:\n- MV1533; wo Есть;Время 2026-01-12 14:06:09\n- MV0259; wo Нет;Время 2026-01-12 14:05:50\n\n10 приоритет:\n- MV0409; wo Есть;Время 2026-01-12 05:55:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 12.01.2026 15:51:\n\nНедоступно LTE1800:\n1) MV0392\n2) MV0409\nНедоступно 3G:\n1) MV0320\n2) MV0259\n3) MV0392\n4) MV0072\nНедоступно LTE800:\n1) MV0550\n2) MV0320\n3) MV1533\n4) MV0259\n5) MV0551\n6) MV0409\nНедоступно LTE2600:\n1) MV0259\nНедоступно LTE2100:\n1) MV1587\nНедоступно LTE2300:\n1) MV0108\n2) MV0468\n3) MV1533\n",
+      "base_layer_count": 3,
+      "total_bs_count": 12,
+      "power_problems": 7,
+      "non_priority_percentage": 75,
+      "timestamp": "15:51:02",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T15:51:02.151793",
+      "created_at": "2026-01-12T15:51:06.143070",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 425,
-  "timestamp": "2026-01-12T15:36:20.085661",
+  "timestamp": "2026-01-12T15:51:16.613448",
   "error": null
 }
