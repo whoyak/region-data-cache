@@ -5,23 +5,6 @@
     {
       "region_code": "CNT",
       "region_name": "Центральный округ Москвы",
-      "base_layer": "CNT Базовый слой 05.01.2026 20:21:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CNT Неприоритетные технологии 05.01.2026 20:21:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "20:21:13",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T20:21:13.745864",
-      "created_at": "2026-01-05T20:21:31.602055",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "CNT",
-      "region_name": "Центральный округ Москвы",
       "base_layer": "CNT Базовый слой 05.01.2026 20:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CNT Неприоритетные технологии 05.01.2026 20:35:\n\n",
       "base_layer_count": 0,
@@ -7090,9 +7073,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 12.01.2026 20:24:\n\n1) MS2196 2026-01-12T17:04:15\nPower Да; Посещение Нет; WO Нет\n2) MS4975 2026-01-09T12:16:32\nPower Да; Посещение Нет; WO Нет\n3) MS5926 2026-01-11T15:06:20\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 12.01.2026 20:24:\n\nНедоступно 3G:\n1) MS2196\n2) MS4975\n3) MS5926\nНедоступно LTE800:\n1) MS1758\n2) MS0260\nНедоступно LTE2600:\n1) MS1758\nНедоступно LTE2100:\n1) MS4975\n2) MS5926\n",
+      "base_layer_count": 3,
+      "total_bs_count": 10,
+      "power_problems": 0,
+      "non_priority_percentage": 70,
+      "timestamp": "20:24:54",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T20:24:54.432063",
+      "created_at": "2026-01-12T20:25:17.256719",
+      "base_layer_percentage": 30,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 417,
-  "timestamp": "2026-01-12T20:10:44.356963",
+  "timestamp": "2026-01-12T20:25:31.814211",
   "error": null
 }
