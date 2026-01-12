@@ -5,23 +5,6 @@
     {
       "region_code": "TVE",
       "region_name": "Тверская область",
-      "base_layer": "TVE Базовый слой 06.01.2026 01:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TVE Неприоритетные технологии 06.01.2026 01:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "01:49:41",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T01:49:41.944856",
-      "created_at": "2026-01-06T01:49:47.085705",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "TVE",
-      "region_name": "Тверская область",
       "base_layer": "TVE Базовый слой 06.01.2026 02:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TVE Неприоритетные технологии 06.01.2026 02:05:\n\n",
       "base_layer_count": 0,
@@ -6937,9 +6920,26 @@
       "base_layer_percentage": 5,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "TVE",
+      "region_name": "Тверская область",
+      "base_layer": "TVE Базовый слой 13.01.2026 01:52:\n\n1) TV0148 2026-01-10T15:36:32\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- TV0175; wo Нет;Время 2026-01-12 23:35:09\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TVE Неприоритетные технологии 13.01.2026 01:52:\n\nНедоступно LTE1800:\n1) TV0148\nНедоступно LTE2600:\n1) TV0035\n2) TV0175\nНедоступно LTE2300:\n1) TV0078\n2) TV0119\n3) TV0105\n4) TV0175\n5) TV0621\n6) TV0148\n7) TV0064\n8) TV0056\n9) TV0613\n10) TV0080\n11) TV0101\n12) TV0273\n13) TV0429\n14) TV1309\n15) TV0081\n",
+      "base_layer_count": 1,
+      "total_bs_count": 19,
+      "power_problems": 1,
+      "non_priority_percentage": 95,
+      "timestamp": "01:52:56",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T01:52:56.725881",
+      "created_at": "2026-01-13T01:53:03.169756",
+      "base_layer_percentage": 5,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 408,
-  "timestamp": "2026-01-13T01:38:29.053439",
+  "timestamp": "2026-01-13T01:53:15.662886",
   "error": null
 }
