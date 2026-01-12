@@ -5,23 +5,6 @@
     {
       "region_code": "HAN",
       "region_name": "Ханты-Мансийский АО",
-      "base_layer": "HAN Базовый слой 05.01.2026 14:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "HAN Неприоритетные технологии 05.01.2026 14:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:35:32",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T14:35:32.812123",
-      "created_at": "2026-01-05T14:35:42.249663",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "HAN",
-      "region_name": "Ханты-Мансийский АО",
       "base_layer": "HAN Базовый слой 05.01.2026 14:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "HAN Неприоритетные технологии 05.01.2026 14:50:\n\n",
       "base_layer_count": 0,
@@ -7260,9 +7243,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "HAN",
+      "region_name": "Ханты-Мансийский АО",
+      "base_layer": "HAN Базовый слой 12.01.2026 14:36:\n\n1) HM2486 2026-01-12T13:04:44\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "HAN Неприоритетные технологии 12.01.2026 14:36:\n\nНедоступно LTE2600:\n1) HM1199\nНедоступно LTE2300:\n1) HM0245\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "14:36:27",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T14:36:27.069856",
+      "created_at": "2026-01-12T14:36:39.768915",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 427,
-  "timestamp": "2026-01-12T14:22:02.861749",
+  "timestamp": "2026-01-12T14:36:52.205735",
   "error": null
 }
