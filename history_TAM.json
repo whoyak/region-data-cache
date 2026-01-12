@@ -5,23 +5,6 @@
     {
       "region_code": "TAM",
       "region_name": "Тамбовская область",
-      "base_layer": "TAM Базовый слой 05.01.2026 13:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TAM Неприоритетные технологии 05.01.2026 13:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "13:49:46",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T13:49:46.325352",
-      "created_at": "2026-01-05T13:49:47.968354",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "TAM",
-      "region_name": "Тамбовская область",
       "base_layer": "TAM Базовый слой 05.01.2026 14:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TAM Неприоритетные технологии 05.01.2026 14:00:\n\n",
       "base_layer_count": 0,
@@ -7294,9 +7277,26 @@
       "base_layer_percentage": 13,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "TAM",
+      "region_name": "Тамбовская область",
+      "base_layer": "TAM Базовый слой 12.01.2026 13:51:\n\n1) TM0191 2026-01-12T13:16:34\nPower Нет; Посещение Нет; WO Есть\n2) TM0292 2026-01-12T12:50:43\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- TM0191; wo Есть;Время 2026-01-12 13:11:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 12.01.2026 13:51:\n\nНедоступно LTE1800:\n1) TM0191\n2) TM0292\nНедоступно LTE800:\n1) TM0191\nНедоступно LTE2300:\n1) TM0021\n2) TM0022\n3) TM0944\n4) TM2023\n5) TM0292\n6) TM0844\n7) TM0705\n",
+      "base_layer_count": 2,
+      "total_bs_count": 14,
+      "power_problems": 1,
+      "non_priority_percentage": 86,
+      "timestamp": "13:51:33",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T13:51:33.653442",
+      "created_at": "2026-01-12T13:51:35.770911",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 429,
-  "timestamp": "2026-01-12T13:36:44.146763",
+  "timestamp": "2026-01-12T13:51:48.388606",
   "error": null
 }
