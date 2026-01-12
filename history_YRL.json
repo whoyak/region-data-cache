@@ -5,23 +5,6 @@
     {
       "region_code": "YRL",
       "region_name": "Ярославская область",
-      "base_layer": "YRL Базовый слой 05.01.2026 14:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "YRL Неприоритетные технологии 05.01.2026 14:50:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:50:14",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T14:50:14.933719",
-      "created_at": "2026-01-05T14:50:19.326010",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "YRL",
-      "region_name": "Ярославская область",
       "base_layer": "YRL Базовый слой 05.01.2026 15:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "YRL Неприоритетные технологии 05.01.2026 15:00:\n\n",
       "base_layer_count": 0,
@@ -7260,9 +7243,26 @@
       "base_layer_percentage": 3,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "YRL",
+      "region_name": "Ярославская область",
+      "base_layer": "YRL Базовый слой 12.01.2026 14:51:\n\n1) YR0327 2026-01-12T13:28:31\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "YRL Неприоритетные технологии 12.01.2026 14:51:\n\nНедоступно LTE2300:\n1) YR0308\n2) YR0003\n3) YR0026\n4) YR0328\n5) YR0020\n6) YR0109\n7) YR0005\n8) YR0086\n9) YR0118\n10) YR0183\n11) YR0142\n12) YR1514\n13) YR0111\n14) YR0110\n15) YR0639\n16) YR0699\n17) YR0124\n18) YR0135\n19) YR0047\n",
+      "base_layer_count": 1,
+      "total_bs_count": 28,
+      "power_problems": 0,
+      "non_priority_percentage": 97,
+      "timestamp": "14:51:30",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T14:51:30.065780",
+      "created_at": "2026-01-12T14:51:36.312017",
+      "base_layer_percentage": 3,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 427,
-  "timestamp": "2026-01-12T14:36:52.205789",
+  "timestamp": "2026-01-12T14:51:46.529739",
   "error": null
 }
