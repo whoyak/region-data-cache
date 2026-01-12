@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ULN",
   "region_name": "Ульяновск",
-  "base_layer": "ULN Базовый слой 12.01.2026 14:51:\n\n1) UL0583 2026-01-12T13:32:04\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- UL0242; wo Есть;Время 2026-01-12 09:06:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ULN Неприоритетные технологии 12.01.2026 14:51:\n\nНедоступно LTE2300:\n1) UL0023\n",
-  "timestamp": "14:51:11",
+  "base_layer": "ULN Базовый слой 12.01.2026 15:00:\n\n1) UL0583 2026-01-12T13:32:04\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ULN Неприоритетные технологии 12.01.2026 15:00:\n\nНедоступно LTE2300:\n1) UL0023\n",
+  "timestamp": "15:00:20",
   "date": "2026-01-12",
-  "full_timestamp": "2026-01-12T14:51:11.299173",
+  "full_timestamp": "2026-01-12T15:00:20.144953",
   "stats": {
-    "total_bs": 3,
+    "total_bs": 2,
     "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "power_problems": 0,
+    "non_priority_percentage": 50,
+    "base_layer_percentage": 50
   },
   "is_real_data": true,
-  "collected_at": "2026-01-12T14:51:11.299173",
+  "collected_at": "2026-01-12T15:00:20.144953",
   "macroregion": "Волга"
 }
