@@ -5,23 +5,6 @@
     {
       "region_code": "ROS",
       "region_name": "Ростовская область",
-      "base_layer": "ROS Базовый слой 05.01.2026 15:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ROS Неприоритетные технологии 05.01.2026 15:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:49:37",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T15:49:37.339403",
-      "created_at": "2026-01-05T15:49:38.064477",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "ROS",
-      "region_name": "Ростовская область",
       "base_layer": "ROS Базовый слой 05.01.2026 16:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ROS Неприоритетные технологии 05.01.2026 16:00:\n\n",
       "base_layer_count": 0,
@@ -7226,9 +7209,26 @@
       "base_layer_percentage": 5,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "ROS",
+      "region_name": "Ростовская область",
+      "base_layer": "ROS Базовый слой 12.01.2026 15:51:\n\n1) RO0447 2026-01-05T05:41:44\nPower Да; Посещение Нет; WO Есть\n2) RO0794 2026-01-12T14:34:17\nPower Да; Посещение Нет; WO Есть\n3) RO0635 2026-01-12T13:31:19\nPower Да; Посещение Нет; WO Есть\n4) RO0202 2026-01-12T14:51:43\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- RO1685; wo Нет;Время 2026-01-12 13:49:29\n- RO1785; wo Нет;Время 2026-01-12 13:26:49\n- RO0425; wo Нет;Время 2026-01-12 15:06:16\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ROS Неприоритетные технологии 12.01.2026 15:51:\n\nНедоступно LTE1800:\n1) RO0447\n2) RO0635\n3) RO0202\nНедоступно 3G:\n1) RO0062\n2) RO1685\n3) RO2670\n4) RO0684\nНедоступно LTE800:\n1) RO1685\n",
+      "base_layer_count": 4,
+      "total_bs_count": 77,
+      "power_problems": 3,
+      "non_priority_percentage": 95,
+      "timestamp": "15:51:05",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T15:51:05.226839",
+      "created_at": "2026-01-12T15:51:06.143997",
+      "base_layer_percentage": 5,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 425,
-  "timestamp": "2026-01-12T15:36:20.085684",
+  "timestamp": "2026-01-12T15:51:16.613469",
   "error": null
 }
