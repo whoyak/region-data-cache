@@ -5,23 +5,6 @@
     {
       "region_code": "KRS",
       "region_name": "Красноярск",
-      "base_layer": "KRS Базовый слой 05.01.2026 19:51:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KRS Неприоритетные технологии 05.01.2026 19:51:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "19:51:53",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T19:51:53.330862",
-      "created_at": "2026-01-05T19:52:05.197589",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "KRS",
-      "region_name": "Красноярск",
       "base_layer": "KRS Базовый слой 05.01.2026 20:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KRS Неприоритетные технологии 05.01.2026 20:00:\n\n",
       "base_layer_count": 0,
@@ -7107,9 +7090,26 @@
       "base_layer_percentage": 37,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KRS",
+      "region_name": "Красноярск",
+      "base_layer": "KRS Базовый слой 12.01.2026 19:54:\n\n1) KA2577 2026-01-12T19:17:25\nPower Нет; Посещение Нет; WO Есть\n2) KA1827 2026-01-12T15:36:23\nPower Да; Посещение Нет; WO Есть\n3) KA2926 2026-01-12T18:46:55\nPower Нет; Посещение Нет; WO Есть\n4) KA2512 2026-01-12T18:02:25\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 6\n\n10 приоритет:\n- KA0605; wo Нет;Время 2026-01-12 17:53:40\n- KA2926; wo Есть;Время 2026-01-12 17:54:20\n- KA2512; wo Есть;Время 2026-01-12 17:53:41\n- KA0571; wo Есть;Время 2026-01-12 17:53:38\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRS Неприоритетные технологии 12.01.2026 19:54:\n\nНедоступно LTE1800:\n1) KA1827\n2) KA2926\n3) KA2512\nНедоступно 3G:\n1) KA0849\n2) KA2926\n3) KA0571\nНедоступно LTE800:\n1) KA0849\n2) KA0605\n3) KA2926\n4) KA2512\n5) KA0571\nНедоступно LTE2600:\n1) KA0849\nНедоступно LTE2300:\n1) KA0638\n2) KA1510\n3) KA0082\n",
+      "base_layer_count": 4,
+      "total_bs_count": 10,
+      "power_problems": 6,
+      "non_priority_percentage": 60,
+      "timestamp": "19:54:57",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T19:54:57.749550",
+      "created_at": "2026-01-12T19:55:13.356599",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 418,
-  "timestamp": "2026-01-12T19:40:37.945870",
+  "timestamp": "2026-01-12T19:55:26.448938",
   "error": null
 }
