@@ -5,23 +5,6 @@
     {
       "region_code": "NOV",
       "region_name": "Новгородская область",
-      "base_layer": "NOV Базовый слой 05.01.2026 12:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NOV Неприоритетные технологии 05.01.2026 12:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:49:51",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:49:51.924258",
-      "created_at": "2026-01-05T12:50:07.414885",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "NOV",
-      "region_name": "Новгородская область",
       "base_layer": "NOV Базовый слой 05.01.2026 13:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NOV Неприоритетные технологии 05.01.2026 13:00:\n\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 58,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "NOV",
+      "region_name": "Новгородская область",
+      "base_layer": "NOV Базовый слой 12.01.2026 12:50:\n\n1) VN0326 2026-01-11T17:58:36\nPower Нет; Посещение Нет; WO Нет\n2) VN0371 2026-01-11T16:39:11\nPower Нет; Посещение Нет; WO Нет\n3) VN0541 2026-01-11T16:38:01\nPower Да; Посещение Нет; WO Нет\n4) VN0325 2026-01-11T18:28:26\nPower Нет; Посещение Нет; WO Нет\n5) VN0478 2026-01-09T17:10:34\nPower Нет; Посещение Нет; WO Нет\n6) VN0456 2026-01-11T19:13:57\nPower Нет; Посещение Нет; WO Нет\n7) VN0519 2026-01-09T15:16:42\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 6\n\n9 приоритет:\n- VN0326; wo Нет;Время 2026-01-09 17:12:46\n\n10 приоритет:\n- VN0371; wo Нет;Время 2026-01-11 17:23:30\n- VN0456; wo Нет;Время 2026-01-11 16:39:58\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NOV Неприоритетные технологии 12.01.2026 12:50:\n\nНедоступно LTE1800:\n1) VN0326\n2) VN0371\n3) VN0541\n4) VN0325\n5) VN0478\n6) VN0456\n7) VN0519\nНедоступно LTE800:\n1) VN0326\n2) VN0371\n3) VN0541\n4) VN0325\n5) VN0478\n6) VN0165\n7) VN0456\nНедоступно LTE2600:\n1) VN0010\nНедоступно LTE2300:\n1) VN0101\n2) VN0527\n",
+      "base_layer_count": 7,
+      "total_bs_count": 12,
+      "power_problems": 6,
+      "non_priority_percentage": 42,
+      "timestamp": "12:50:33",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:50:33.539096",
+      "created_at": "2026-01-12T12:50:53.856297",
+      "base_layer_percentage": 58,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-12T12:36:06.358404",
+  "timestamp": "2026-01-12T12:51:05.501564",
   "error": null
 }
