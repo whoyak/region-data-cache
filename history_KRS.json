@@ -5,23 +5,6 @@
     {
       "region_code": "KRS",
       "region_name": "Красноярск",
-      "base_layer": "KRS Базовый слой 05.01.2026 15:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KRS Неприоритетные технологии 05.01.2026 15:49:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "15:49:26",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T15:49:26.013045",
-      "created_at": "2026-01-05T15:49:38.060588",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "KRS",
-      "region_name": "Красноярск",
       "base_layer": "KRS Базовый слой 05.01.2026 16:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KRS Неприоритетные технологии 05.01.2026 16:00:\n\n",
       "base_layer_count": 0,
@@ -7226,9 +7209,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KRS",
+      "region_name": "Красноярск",
+      "base_layer": "KRS Базовый слой 12.01.2026 15:50:\n\n1) KA0694 2026-01-12T13:37:07\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRS Неприоритетные технологии 12.01.2026 15:50:\n\nНедоступно LTE2300:\n1) KA1195\n2) KA0638\n3) KA0652\n4) KA1510\n",
+      "base_layer_count": 1,
+      "total_bs_count": 5,
+      "power_problems": 0,
+      "non_priority_percentage": 80,
+      "timestamp": "15:50:51",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T15:50:51.426449",
+      "created_at": "2026-01-12T15:51:06.138594",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 425,
-  "timestamp": "2026-01-12T15:36:20.085560",
+  "timestamp": "2026-01-12T15:51:16.613350",
   "error": null
 }
