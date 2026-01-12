@@ -5,23 +5,6 @@
     {
       "region_code": "EKT",
       "region_name": "Екатеринбург",
-      "base_layer": "EKT Базовый слой 05.01.2026 22:36:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "EKT Неприоритетные технологии 05.01.2026 22:36:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "22:36:56",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T22:36:56.801453",
-      "created_at": "2026-01-05T22:37:06.303657",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "EKT",
-      "region_name": "Екатеринбург",
       "base_layer": "EKT Базовый слой 05.01.2026 22:51:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "EKT Неприоритетные технологии 05.01.2026 22:51:\n\n",
       "base_layer_count": 0,
@@ -7022,9 +7005,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "EKT",
+      "region_name": "Екатеринбург",
+      "base_layer": "EKT Базовый слой 12.01.2026 22:39:\n\n1) EK2518 2026-01-12T12:35:59\nPower Да; Посещение Нет; WO Есть\n2) EK0974 2026-01-11T22:01:33\nPower Да; Посещение Да; WO Есть\n3) EK0694 2026-01-09T06:25:45\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "EKT Неприоритетные технологии 12.01.2026 22:39:\n\nНедоступно LTE1800:\n1) EK2518\n2) EK0974\n3) EK0694\nНедоступно 3G:\n1) EK2518\n2) EK0974\nНедоступно LTE800:\n1) EK0974\n2) EO0082\n3) EK0402\nНедоступно LTE2600:\n1) EK2518\n2) EK0866\n3) EK1030\n4) EK0974\n5) EK0972\nНедоступно LTE2100:\n1) EK2518\n2) EK0974\nНедоступно LTE2300:\n1) EK1470\n2) EK0620\n3) EK1296\n",
+      "base_layer_count": 3,
+      "total_bs_count": 12,
+      "power_problems": 0,
+      "non_priority_percentage": 75,
+      "timestamp": "22:39:42",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T22:39:42.880978",
+      "created_at": "2026-01-12T22:39:55.119618",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 413,
-  "timestamp": "2026-01-12T22:25:28.840144",
+  "timestamp": "2026-01-12T22:40:09.523757",
   "error": null
 }
