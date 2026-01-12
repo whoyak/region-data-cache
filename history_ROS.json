@@ -5,23 +5,6 @@
     {
       "region_code": "ROS",
       "region_name": "Ростовская область",
-      "base_layer": "ROS Базовый слой 05.01.2026 12:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ROS Неприоритетные технологии 05.01.2026 12:50:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:50:06",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:50:06.696223",
-      "created_at": "2026-01-05T12:50:07.421228",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "ROS",
-      "region_name": "Ростовская область",
       "base_layer": "ROS Базовый слой 05.01.2026 13:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ROS Неприоритетные технологии 05.01.2026 13:00:\n\n",
       "base_layer_count": 0,
@@ -7328,9 +7311,26 @@
       "base_layer_percentage": 2,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "ROS",
+      "region_name": "Ростовская область",
+      "base_layer": "ROS Базовый слой 12.01.2026 12:50:\n\n1) RO0447 2026-01-05T05:41:44\nPower Да; Посещение Да; WO Есть\n2) RO0635 2026-01-12T11:12:47\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- RO1771; wo Есть;Время 2026-01-12 11:13:07\n\n3 приоритет:\n- RO0746; wo Есть;Время 2026-01-12 11:02:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ROS Неприоритетные технологии 12.01.2026 12:50:\n\nНедоступно LTE1800:\n1) RO0447\n2) RO0635\nНедоступно 3G:\n1) RO0062\n2) RO1771\n3) RO0746\n4) RO0684\n5) RO2670\nНедоступно LTE2600:\n1) RO0746\n",
+      "base_layer_count": 2,
+      "total_bs_count": 77,
+      "power_problems": 3,
+      "non_priority_percentage": 98,
+      "timestamp": "12:50:52",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:50:52.950371",
+      "created_at": "2026-01-12T12:50:53.863579",
+      "base_layer_percentage": 2,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 431,
-  "timestamp": "2026-01-12T12:36:06.358568",
+  "timestamp": "2026-01-12T12:51:05.501725",
   "error": null
 }
