@@ -5,23 +5,6 @@
     {
       "region_code": "VOL",
       "region_name": "Вологда",
-      "base_layer": "VOL Базовый слой 05.01.2026 17:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VOL Неприоритетные технологии 05.01.2026 17:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "17:35:10",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T17:35:10.988694",
-      "created_at": "2026-01-05T17:35:25.318655",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "VOL",
-      "region_name": "Вологда",
       "base_layer": "VOL Базовый слой 05.01.2026 17:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VOL Неприоритетные технологии 05.01.2026 17:49:\n\n",
       "base_layer_count": 0,
@@ -7175,9 +7158,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "VOL",
+      "region_name": "Вологда",
+      "base_layer": "VOL Базовый слой 12.01.2026 17:36:\n\n1) VG0438 2026-01-12T17:02:48\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VG0166; wo Нет;Время 2026-01-12 16:59:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VOL Неприоритетные технологии 12.01.2026 17:36:\n\nНедоступно LTE1800:\n1) VG0438\nНедоступно 3G:\n1) VG0438\nНедоступно LTE800:\n1) VG0438\nНедоступно LTE2600:\n1) VG0438\nНедоступно LTE2300:\n1) VG0438\n",
+      "base_layer_count": 1,
+      "total_bs_count": 2,
+      "power_problems": 2,
+      "non_priority_percentage": 50,
+      "timestamp": "17:36:57",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T17:36:57.811083",
+      "created_at": "2026-01-12T17:37:16.038068",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 422,
-  "timestamp": "2026-01-12T17:22:16.206316",
+  "timestamp": "2026-01-12T17:37:27.611827",
   "error": null
 }
