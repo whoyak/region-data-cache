@@ -5,23 +5,6 @@
     {
       "region_code": "SPS",
       "region_name": "Санкт-Петербург Юг",
-      "base_layer": "SPS Базовый слой 06.01.2026 01:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPS Неприоритетные технологии 06.01.2026 01:20:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "01:20:17",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T01:20:17.683864",
-      "created_at": "2026-01-06T01:20:31.728085",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "SPS",
-      "region_name": "Санкт-Петербург Юг",
       "base_layer": "SPS Базовый слой 06.01.2026 01:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SPS Неприоритетные технологии 06.01.2026 01:34:\n\n",
       "base_layer_count": 0,
@@ -6954,9 +6937,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPS",
+      "region_name": "Санкт-Петербург Юг",
+      "base_layer": "SPS Базовый слой 13.01.2026 01:22:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- LE0050; wo Нет;Время 2026-01-12 23:54:51\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPS Неприоритетные технологии 13.01.2026 01:22:\n\nНедоступно 3G:\n1) LE0050\nНедоступно LTE800:\n1) LE0050\nНедоступно LTE2100:\n1) LE0050\nНедоступно LTE2300:\n1) LE2684\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "01:22:46",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T01:22:46.646613",
+      "created_at": "2026-01-13T01:23:04.454619",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 409,
-  "timestamp": "2026-01-13T01:08:43.115860",
+  "timestamp": "2026-01-13T01:23:19.758893",
   "error": null
 }
