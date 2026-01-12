@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 05.01.2026 12:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 05.01.2026 12:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:05:46",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:05:46.723761",
-      "created_at": "2026-01-05T12:06:03.743785",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 05.01.2026 12:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 05.01.2026 12:20:\n\n",
       "base_layer_count": 0,
@@ -7345,9 +7328,26 @@
       "base_layer_percentage": 10,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 12.01.2026 12:05:\n\n1) MS1439 2026-01-12T09:31:24\nPower Да; Посещение Нет; WO Нет\n2) MS2246 2026-01-12T09:31:24\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MO2717; wo Нет;Время 2026-01-12 09:30:35\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 12.01.2026 12:05:\n\nНедоступно 3G:\n1) MS1439\n2) MS2246\nНедоступно LTE2600:\n1) MS1439\n2) MS2246\nНедоступно LTE2100:\n1) MS1439\n2) MS2246\n",
+      "base_layer_count": 2,
+      "total_bs_count": 19,
+      "power_problems": 1,
+      "non_priority_percentage": 90,
+      "timestamp": "12:05:49",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:05:49.733177",
+      "created_at": "2026-01-12T12:06:12.834674",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 432,
-  "timestamp": "2026-01-12T12:01:16.295106",
+  "timestamp": "2026-01-12T12:06:27.366154",
   "error": null
 }
