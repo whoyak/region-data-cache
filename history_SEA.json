@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 05.01.2026 14:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 05.01.2026 14:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "14:35:25",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T14:35:25.122082",
-      "created_at": "2026-01-05T14:35:42.246301",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 05.01.2026 14:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 05.01.2026 14:50:\n\n",
       "base_layer_count": 0,
@@ -7260,9 +7243,26 @@
       "base_layer_percentage": 22,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 12.01.2026 14:36:\n\n1) MS2494 2026-01-12T11:32:02\nPower Да; Посещение Нет; WO Нет\n2) MS1439 2026-01-12T09:31:24\nPower Да; Посещение Да; WO Нет\n3) MC6432 2026-01-12T11:32:01\nPower Да; Посещение Нет; WO Нет\n4) MS1267 2026-01-12T13:59:25\nPower Нет; Посещение Да; WO Нет\n5) MS2246 2026-01-12T09:31:24\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 12.01.2026 14:36:\n\nНедоступно 3G:\n1) MS2494\n2) MS1439\n3) MC6432\n4) MS1267\n5) MS2246\nНедоступно LTE800:\n1) MS2494\nНедоступно LTE2600:\n1) MS2494\n2) MS1439\n3) MR3379\n4) MC6432\n5) MS1267\n6) MS2246\nНедоступно LTE2100:\n1) MS2494\n2) MS1439\n3) MC6432\n4) MS1267\n5) MS2246\n",
+      "base_layer_count": 5,
+      "total_bs_count": 23,
+      "power_problems": 2,
+      "non_priority_percentage": 79,
+      "timestamp": "14:36:16",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T14:36:16.801074",
+      "created_at": "2026-01-12T14:36:39.765086",
+      "base_layer_percentage": 21,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 427,
-  "timestamp": "2026-01-12T14:22:02.861658",
+  "timestamp": "2026-01-12T14:36:52.205652",
   "error": null
 }
