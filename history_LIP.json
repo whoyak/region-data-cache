@@ -5,23 +5,6 @@
     {
       "region_code": "LIP",
       "region_name": "Липецкая область",
-      "base_layer": "LIP Базовый слой 06.01.2026 00:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "LIP Неприоритетные технологии 06.01.2026 00:50:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "00:50:46",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T00:50:46.478017",
-      "created_at": "2026-01-06T00:50:49.699161",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "LIP",
-      "region_name": "Липецкая область",
       "base_layer": "LIP Базовый слой 06.01.2026 01:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "LIP Неприоритетные технологии 06.01.2026 01:00:\n\n",
       "base_layer_count": 0,
@@ -6971,9 +6954,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "LIP",
+      "region_name": "Липецкая область",
+      "base_layer": "LIP Базовый слой 13.01.2026 00:53:\n\n1) LI0519 2026-01-12T21:41:37\nPower Нет; Посещение Нет; WO Есть\n2) LI0144 2026-01-12T21:39:59\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- LI0144; wo Есть;Время 2026-01-12 21:39:18\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "LIP Неприоритетные технологии 13.01.2026 00:53:\n\nНедоступно LTE1800:\n1) LI0519\n2) LI0144\nНедоступно 3G:\n1) LI0519\n2) LI0144\n3) LI0276\nНедоступно LTE800:\n1) LI2167\nНедоступно LTE2600:\n1) LI0651\nНедоступно LTE2300:\n1) LI0918\n2) LI0326\n3) LI0916\n",
+      "base_layer_count": 2,
+      "total_bs_count": 14,
+      "power_problems": 4,
+      "non_priority_percentage": 86,
+      "timestamp": "00:53:21",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T00:53:21.304732",
+      "created_at": "2026-01-13T00:53:25.365707",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 410,
-  "timestamp": "2026-01-13T00:38:57.128198",
+  "timestamp": "2026-01-13T00:53:38.392214",
   "error": null
 }
