@@ -5,23 +5,6 @@
     {
       "region_code": "BRN",
       "region_name": "Барнаул",
-      "base_layer": "BRN Базовый слой 06.01.2026 02:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRN Неприоритетные технологии 06.01.2026 02:48:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "02:48:48",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T02:48:48.687986",
-      "created_at": "2026-01-06T02:49:01.471210",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "BRN",
-      "region_name": "Барнаул",
       "base_layer": "BRN Базовый слой 06.01.2026 03:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRN Неприоритетные технологии 06.01.2026 03:00:\n\n",
       "base_layer_count": 0,
@@ -6920,9 +6903,26 @@
       "base_layer_percentage": 45,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "BRN",
+      "region_name": "Барнаул",
+      "base_layer": "BRN Базовый слой 13.01.2026 02:51:\n\n1) AL1417 2026-01-12T21:53:42\nPower Нет; Посещение Нет; WO Нет\n2) AL1008 2026-01-12T23:54:12\nPower Нет; Посещение Нет; WO Нет\n3) AL1038 2026-01-13T01:08:12\nPower Да; Посещение Нет; WO Нет\n4) AL0721 2026-01-12T23:43:42\nPower Да; Посещение Нет; WO Нет\n5) AL1255 2026-01-13T02:02:59\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 7\n\n10 приоритет:\n- AL1417; wo Нет;Время 2026-01-12 20:38:09\n- AL1008; wo Нет;Время 2026-01-12 19:54:07\n- AL1255; wo Есть;Время 2026-01-12 20:44:51\n- AL0847; wo Нет;Время 2026-01-12 23:05:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 13.01.2026 02:51:\n\nНедоступно LTE1800:\n1) AL1417\n2) AL1008\n3) AL1038\n4) AL0721\n5) AL1255\nНедоступно 3G:\n1) AL0136\n2) AL0847\nНедоступно LTE800:\n1) AL0623\n2) AL0476\n3) AL0721\n4) AL0847\nНедоступно LTE2300:\n1) AL0623\n2) AL0476\n3) AL1008\n4) AL1038\n5) AL0721\n6) AL0964\n",
+      "base_layer_count": 5,
+      "total_bs_count": 11,
+      "power_problems": 7,
+      "non_priority_percentage": 55,
+      "timestamp": "02:51:34",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T02:51:34.313036",
+      "created_at": "2026-01-13T02:51:50.539104",
+      "base_layer_percentage": 45,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 407,
-  "timestamp": "2026-01-13T02:37:35.022801",
+  "timestamp": "2026-01-13T02:52:02.117931",
   "error": null
 }
