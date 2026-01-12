@@ -5,23 +5,6 @@
     {
       "region_code": "ORB",
       "region_name": "Оренбургская область",
-      "base_layer": "ORB Базовый слой 05.01.2026 19:37:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ORB Неприоритетные технологии 05.01.2026 19:37:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "19:37:19",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T19:37:19.290788",
-      "created_at": "2026-01-05T19:37:27.915780",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "ORB",
-      "region_name": "Оренбургская область",
       "base_layer": "ORB Базовый слой 05.01.2026 19:51:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ORB Неприоритетные технологии 05.01.2026 19:51:\n\n",
       "base_layer_count": 0,
@@ -7107,9 +7090,26 @@
       "base_layer_percentage": 10,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "ORB",
+      "region_name": "Оренбургская область",
+      "base_layer": "ORB Базовый слой 12.01.2026 19:40:\n\n1) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ORB Неприоритетные технологии 12.01.2026 19:40:\n\nНедоступно LTE1800:\n1) OB0228\nНедоступно 3G:\n1) OB0346\nНедоступно LTE800:\n1) OB0260\nНедоступно LTE2100:\n1) OB0346\nНедоступно LTE2300:\n1) OB0209\n2) OB0236\n3) OB0548\n4) OB0437\n5) OB2039\n6) OB0237\n7) OB0235\n",
+      "base_layer_count": 1,
+      "total_bs_count": 10,
+      "power_problems": 0,
+      "non_priority_percentage": 90,
+      "timestamp": "19:40:12",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T19:40:12.937386",
+      "created_at": "2026-01-12T19:40:24.037385",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 418,
-  "timestamp": "2026-01-12T19:25:44.071972",
+  "timestamp": "2026-01-12T19:40:37.945910",
   "error": null
 }
