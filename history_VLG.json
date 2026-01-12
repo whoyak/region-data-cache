@@ -5,23 +5,6 @@
     {
       "region_code": "VLG",
       "region_name": "Волгоградская область",
-      "base_layer": "VLG Базовый слой 05.01.2026 16:50:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLG Неприоритетные технологии 05.01.2026 16:50:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "16:50:23",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T16:50:23.873852",
-      "created_at": "2026-01-05T16:50:23.987094",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "VLG",
-      "region_name": "Волгоградская область",
       "base_layer": "VLG Базовый слой 05.01.2026 17:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "VLG Неприоритетные технологии 05.01.2026 17:00:\n\n",
       "base_layer_count": 0,
@@ -7192,9 +7175,26 @@
       "base_layer_percentage": 38,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "VLG",
+      "region_name": "Волгоградская область",
+      "base_layer": "VLG Базовый слой 12.01.2026 16:51:\n\n1) VD0905 2026-01-12T09:03:46\nPower Нет; Посещение Нет; WO Есть\n2) VD0210 2026-01-08T10:14:43\nPower Да; Посещение Нет; WO Есть\n3) VD0688 2026-01-12T14:29:23\nPower Да; Посещение Нет; WO Нет\n4) VD0436 2026-01-09T02:19:23\nPower Да; Посещение Нет; WO Нет\n5) VD1903 2026-01-12T15:52:53\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n9 приоритет:\n- VD0905; wo Есть;Время 2026-01-12 06:51:29\n- VD0776; wo Нет;Время 2026-01-12 15:43:24\n\n10 приоритет:\n- VD1903; wo Нет;Время 2026-01-12 12:50:27\n- VD2038; wo Нет;Время 2026-01-12 15:43:20\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLG Неприоритетные технологии 12.01.2026 16:51:\n\nНедоступно LTE1800:\n1) VD0688\n2) VD0436\n3) VD1903\nНедоступно 3G:\n1) VD0905\n2) VD0776\nНедоступно LTE800:\n1) VD0905\n2) VD0776\n3) VD2038\nНедоступно LTE2600:\n1) VD0776\nНедоступно LTE2100:\n1) VD0905\n",
+      "base_layer_count": 5,
+      "total_bs_count": 11,
+      "power_problems": 5,
+      "non_priority_percentage": 55,
+      "timestamp": "16:51:51",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T16:51:51.677256",
+      "created_at": "2026-01-12T16:51:51.790887",
+      "base_layer_percentage": 45,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 423,
-  "timestamp": "2026-01-12T16:37:19.298748",
+  "timestamp": "2026-01-12T16:52:05.255858",
   "error": null
 }
