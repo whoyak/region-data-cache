@@ -5,23 +5,6 @@
     {
       "region_code": "EKT",
       "region_name": "Екатеринбург",
-      "base_layer": "EKT Базовый слой 05.01.2026 12:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "EKT Неприоритетные технологии 05.01.2026 12:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:05:54",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:05:54.123763",
-      "created_at": "2026-01-05T12:06:03.746118",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "EKT",
-      "region_name": "Екатеринбург",
       "base_layer": "EKT Базовый слой 05.01.2026 12:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "EKT Неприоритетные технологии 05.01.2026 12:20:\n\n",
       "base_layer_count": 0,
@@ -7345,9 +7328,26 @@
       "base_layer_percentage": 38,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "EKT",
+      "region_name": "Екатеринбург",
+      "base_layer": "EKT Базовый слой 12.01.2026 12:05:\n\n1) EK2518 2026-01-12T11:28:08\nPower Да; Посещение Нет; WO Нет\n2) EK0740 2026-01-12T11:23:51\nPower Нет; Посещение Нет; WO Есть\n3) EK0478 2026-01-12T07:02:27\nPower Нет; Посещение Да; WO Есть\n4) EK0974 2026-01-11T22:01:33\nPower Да; Посещение Нет; WO Есть\n5) EK0665 2026-01-12T10:52:08\nPower Да; Посещение Да; WO Есть\n6) EK0694 2026-01-09T06:25:45\nPower Да; Посещение Нет; WO Есть\n7) EK0126 2026-01-01T17:15:39\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- EK0740; wo Есть;Время 2026-01-12 10:38:03\n\n3 приоритет:\n- EK0478; wo Есть;Время 2026-01-12 07:01:28\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "EKT Неприоритетные технологии 12.01.2026 12:05:\n\nНедоступно LTE1800:\n1) EK2518\n2) EK0740\n3) EK0974\n4) EK0694\nНедоступно 3G:\n1) EK0740\n2) EK0478\n3) EK0974\nНедоступно LTE800:\n1) EK0740\n2) EK0478\n3) EK0974\n4) EO0082\nНедоступно LTE2600:\n1) EK2518\n2) EK0866\n3) EK0740\n4) EK0478\n5) EK1030\n6) EK0974\nНедоступно LTE2100:\n1) EK2518\n2) EK0974\nНедоступно LTE2300:\n1) EK1470\n2) EK0620\n3) EK0763\n4) EK1296\n",
+      "base_layer_count": 7,
+      "total_bs_count": 18,
+      "power_problems": 2,
+      "non_priority_percentage": 62,
+      "timestamp": "12:05:59",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:05:59.530699",
+      "created_at": "2026-01-12T12:06:12.838978",
+      "base_layer_percentage": 38,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 432,
-  "timestamp": "2026-01-12T12:01:16.295190",
+  "timestamp": "2026-01-12T12:06:27.366238",
   "error": null
 }
