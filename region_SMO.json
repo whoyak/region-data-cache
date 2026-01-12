@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SMO",
   "region_name": "Смоленская область",
-  "base_layer": "SMO Базовый слой 12.01.2026 15:50:\n\n1) SM0147 2026-01-12T14:56:39\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- SM0390; wo Нет;Время 2026-01-12 13:47:24\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SMO Неприоритетные технологии 12.01.2026 15:50:\n\nНедоступно LTE1800:\n1) SM0147\nНедоступно 3G:\n1) SM0390\nНедоступно LTE800:\n1) SM0147\n2) SM0390\nНедоступно LTE2300:\n1) SM0526\n2) SM0689\n3) SM0602\n4) SM0457\n5) SM0721\n6) SM0720\n7) SM0693\n8) SM0684\n9) SM0435\n10) SM0734\n11) SM0755\n",
-  "timestamp": "15:50:58",
+  "base_layer": "SMO Базовый слой 12.01.2026 16:00:\n\n1) SM0390 2026-01-12T15:43:00\nPower Нет; Посещение Нет; WO Есть\n2) SM0161 2026-01-12T15:23:59\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- SM0390; wo Есть;Время 2026-01-12 13:47:24\n- SM0161; wo Нет;Время 2026-01-12 15:25:07\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SMO Неприоритетные технологии 12.01.2026 16:00:\n\nНедоступно 3G:\n1) SM0390\n2) SM0161\nНедоступно LTE800:\n1) SM0390\n2) SM0161\nНедоступно LTE2300:\n1) SM0526\n2) SM0689\n3) SM0602\n4) SM0457\n5) SM0721\n6) SM0720\n7) SM0693\n8) SM0684\n9) SM0435\n10) SM0734\n11) SM0755\n",
+  "timestamp": "16:00:37",
   "date": "2026-01-12",
-  "full_timestamp": "2026-01-12T15:50:58.545006",
+  "full_timestamp": "2026-01-12T16:00:37.484331",
   "stats": {
-    "total_bs": 19,
-    "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 95,
-    "base_layer_percentage": 5
+    "total_bs": 20,
+    "base_layer_count": 2,
+    "power_problems": 2,
+    "non_priority_percentage": 90,
+    "base_layer_percentage": 10
   },
   "is_real_data": true,
-  "collected_at": "2026-01-12T15:50:58.545006",
+  "collected_at": "2026-01-12T16:00:37.484331",
   "macroregion": "Центр"
 }
