@@ -5,23 +5,6 @@
     {
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 06.01.2026 02:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ARH Неприоритетные технологии 06.01.2026 02:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "02:34:21",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T02:34:21.840588",
-      "created_at": "2026-01-06T02:34:38.210802",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "ARH",
-      "region_name": "Архангельская область",
       "base_layer": "ARH Базовый слой 06.01.2026 02:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "ARH Неприоритетные технологии 06.01.2026 02:48:\n\n",
       "base_layer_count": 0,
@@ -6920,9 +6903,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "ARH",
+      "region_name": "Архангельская область",
+      "base_layer": "ARH Базовый слой 13.01.2026 02:37:\n\n1) AR0838 2026-01-12T22:28:56\nPower Нет; Посещение Нет; WO Есть\n2) AR0958 2026-01-10T23:58:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- AR0232; wo Есть;Время 2026-01-13 00:33:47\n\n10 приоритет:\n- AR2195; wo Нет;Время 2026-01-13 01:45:03\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 13.01.2026 02:37:\n\nНедоступно LTE1800:\n1) AR0958\nНедоступно 3G:\n1) AR0232\n2) AR2195\nНедоступно LTE800:\n1) AR0232\n2) AR2195\nНедоступно LTE2300:\n1) AR1196\n2) AR0211\n",
+      "base_layer_count": 2,
+      "total_bs_count": 6,
+      "power_problems": 3,
+      "non_priority_percentage": 67,
+      "timestamp": "02:37:00",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T02:37:00.156187",
+      "created_at": "2026-01-13T02:37:21.328732",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 407,
-  "timestamp": "2026-01-13T02:22:57.353260",
+  "timestamp": "2026-01-13T02:37:35.022761",
   "error": null
 }
