@@ -5,23 +5,6 @@
     {
       "region_code": "SAM",
       "region_name": "Самара",
-      "base_layer": "SAM Базовый слой 05.01.2026 13:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SAM Неприоритетные технологии 05.01.2026 13:20:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "13:20:17",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T13:20:17.884680",
-      "created_at": "2026-01-05T13:20:37.608592",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "SAM",
-      "region_name": "Самара",
       "base_layer": "SAM Базовый слой 05.01.2026 13:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SAM Неприоритетные технологии 05.01.2026 13:34:\n\n",
       "base_layer_count": 0,
@@ -7311,9 +7294,26 @@
       "base_layer_percentage": 26,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "SAM",
+      "region_name": "Самара",
+      "base_layer": "SAM Базовый слой 12.01.2026 13:21:\n\n1) SR0035 2026-01-11T13:35:02\nPower Да; Посещение Да; WO Есть\n2) SR1768 2026-01-12T08:25:58\nPower Да; Посещение Нет; WO Нет\n3) SR0419 2025-12-05T06:08:39\nPower Да; Посещение Нет; WO Нет\n4) SR0922 2025-12-15T01:15:58\nPower Да; Посещение Нет; WO Нет\n5) SR0177 2026-01-12T12:15:43\nPower Да; Посещение Нет; WO Есть\n6) SR1254 2025-12-24T09:33:09\nPower Да; Посещение Нет; WO Нет\n7) SR1052 2025-12-14T04:06:06\nPower Да; Посещение Нет; WO Нет\n8) SR1284 2025-12-20T04:38:24\nPower Да; Посещение Нет; WO Нет\n9) SR1495 2026-01-12T12:15:44\nPower Да; Посещение Нет; WO Нет\n10) SR0537 2025-12-29T08:29:15\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SAM Неприоритетные технологии 12.01.2026 13:21:\n\nНедоступно 3G:\n1) SR0177\n2) SR1495\n3) SR0537\nНедоступно LTE800:\n1) SR0035\n2) SR0537\nНедоступно LTE2600:\n1) SR0177\nНедоступно LTE2100:\n1) SR0177\n2) SR1495\n3) SR0537\nНедоступно LTE2300:\n1) SR1768\n2) SR0419\n3) SR0922\n4) SR1254\n5) SR1052\n6) SR1284\n",
+      "base_layer_count": 10,
+      "total_bs_count": 37,
+      "power_problems": 0,
+      "non_priority_percentage": 73,
+      "timestamp": "13:21:07",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T13:21:07.793098",
+      "created_at": "2026-01-12T13:21:33.685162",
+      "base_layer_percentage": 27,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 430,
-  "timestamp": "2026-01-12T13:06:31.573027",
+  "timestamp": "2026-01-12T13:21:44.949100",
   "error": null
 }
