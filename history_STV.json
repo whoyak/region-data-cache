@@ -5,23 +5,6 @@
     {
       "region_code": "STV",
       "region_name": "Ставропольский край",
-      "base_layer": "STV Базовый слой 05.01.2026 12:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "STV Неприоритетные технологии 05.01.2026 12:20:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "12:20:36",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T12:20:36.169185",
-      "created_at": "2026-01-05T12:20:36.578784",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "ЮГ"
-    },
-    {
-      "region_code": "STV",
-      "region_name": "Ставропольский край",
       "base_layer": "STV Базовый слой 05.01.2026 12:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "STV Неприоритетные технологии 05.01.2026 12:35:\n\n",
       "base_layer_count": 0,
@@ -7345,9 +7328,26 @@
       "base_layer_percentage": 8,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "STV",
+      "region_name": "Ставропольский край",
+      "base_layer": "STV Базовый слой 12.01.2026 12:21:\n\n1) ST0895 2026-01-12T10:45:58\nPower Нет; Посещение Нет; WO Есть\n2) ST0265 2026-01-12T10:00:27\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- ST1532; wo Нет;Время 2026-01-12 11:10:06\n\n3 приоритет:\n- ST0098; wo Нет;Время 2026-01-12 11:10:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "STV Неприоритетные технологии 12.01.2026 12:21:\n\nНедоступно LTE1800:\n1) ST0895\nНедоступно LTE800:\n1) ST1532\n2) ST0895\n3) ST0538\n4) ST0098\n5) ST1881\n",
+      "base_layer_count": 2,
+      "total_bs_count": 21,
+      "power_problems": 4,
+      "non_priority_percentage": 91,
+      "timestamp": "12:21:08",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T12:21:08.519139",
+      "created_at": "2026-01-12T12:21:09.026076",
+      "base_layer_percentage": 9,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
   "count": 432,
-  "timestamp": "2026-01-12T12:06:27.366335",
+  "timestamp": "2026-01-12T12:21:20.930338",
   "error": null
 }
