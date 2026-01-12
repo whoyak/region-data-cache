@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 05.01.2026 13:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 05.01.2026 13:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "13:05:41",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T13:05:41.288807",
-      "created_at": "2026-01-05T13:05:58.429021",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 05.01.2026 13:20:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 05.01.2026 13:20:\n\n",
       "base_layer_count": 0,
@@ -7311,9 +7294,26 @@
       "base_layer_percentage": 18,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 12.01.2026 13:05:\n\n1) MS2494 2026-01-12T11:32:02\nPower Да; Посещение Нет; WO Нет\n2) MS1439 2026-01-12T09:31:24\nPower Да; Посещение Нет; WO Нет\n3) MC6432 2026-01-12T11:32:01\nPower Да; Посещение Нет; WO Нет\n4) MS2246 2026-01-12T09:31:24\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 12.01.2026 13:05:\n\nНедоступно 3G:\n1) MS2494\n2) MS1439\n3) MC6432\n4) MS2246\nНедоступно LTE800:\n1) MS2494\nНедоступно LTE2600:\n1) MS2494\n2) MS1439\n3) MR3379\n4) MC6432\n5) MS2246\nНедоступно LTE2100:\n1) MS2494\n2) MS1439\n3) MC6432\n4) MS2246\n",
+      "base_layer_count": 4,
+      "total_bs_count": 22,
+      "power_problems": 1,
+      "non_priority_percentage": 82,
+      "timestamp": "13:05:54",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T13:05:54.210239",
+      "created_at": "2026-01-12T13:06:17.641091",
+      "base_layer_percentage": 18,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 430,
-  "timestamp": "2026-01-12T13:01:12.539843",
+  "timestamp": "2026-01-12T13:06:31.573052",
   "error": null
 }
