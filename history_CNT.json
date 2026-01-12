@@ -5,23 +5,6 @@
     {
       "region_code": "CNT",
       "region_name": "Центральный округ Москвы",
-      "base_layer": "CNT Базовый слой 05.01.2026 17:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CNT Неприоритетные технологии 05.01.2026 17:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "17:35:06",
-      "date": "2026-01-05",
-      "full_timestamp": "2026-01-05T17:35:06.395489",
-      "created_at": "2026-01-05T17:35:25.316682",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "CNT",
-      "region_name": "Центральный округ Москвы",
       "base_layer": "CNT Базовый слой 05.01.2026 17:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CNT Неприоритетные технологии 05.01.2026 17:49:\n\n",
       "base_layer_count": 0,
@@ -7175,9 +7158,26 @@
       "base_layer_percentage": 35,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 12.01.2026 17:36:\n\n1) MS4409 2026-01-12T14:16:09\nPower Нет; Посещение Нет; WO Есть\n2) MS3662 2026-01-12T16:34:56\nPower Нет; Посещение Да; WO Нет\n3) MC1271 2026-01-12T05:08:54\nPower Да; Посещение Нет; WO Нет\n4) MS2196 2026-01-12T17:04:15\nPower Да; Посещение Нет; WO Нет\n5) MS4975 2026-01-09T12:16:32\nPower Да; Посещение Нет; WO Нет\n6) MS5926 2026-01-11T15:06:20\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- MS4409; wo Есть;Время 2026-01-12 12:51:52\n- MC0600; wo Нет;Время 2026-01-12 16:59:46\n- MS2964; wo Нет;Время 2026-01-12 16:40:16\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 12.01.2026 17:36:\n\nНедоступно 3G:\n1) MS4409\n2) MS3662\n3) MC1271\n4) MS2196\n5) MS4975\n6) MS5926\nНедоступно LTE800:\n1) MS4409\n2) MS1758\n3) MC0600\n4) MC0221\n5) MS0260\nНедоступно LTE2600:\n1) MS4409\n2) MS1758\n3) MC0600\n4) MS3662\n5) MC0221\nНедоступно LTE2100:\n1) MS4409\n2) MS3662\n3) MC1271\n4) MS4975\n5) MS5926\n",
+      "base_layer_count": 6,
+      "total_bs_count": 15,
+      "power_problems": 4,
+      "non_priority_percentage": 60,
+      "timestamp": "17:36:51",
+      "date": "2026-01-12",
+      "full_timestamp": "2026-01-12T17:36:51.518598",
+      "created_at": "2026-01-12T17:37:16.035879",
+      "base_layer_percentage": 40,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 422,
-  "timestamp": "2026-01-12T17:22:16.206265",
+  "timestamp": "2026-01-12T17:37:27.611771",
   "error": null
 }
