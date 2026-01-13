@@ -5,23 +5,6 @@
     {
       "region_code": "NSK",
       "region_name": "Новосибирская область",
-      "base_layer": "NSK Базовый слой 06.01.2026 04:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NSK Неприоритетные технологии 06.01.2026 04:00:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "04:00:34",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T04:00:34.257467",
-      "created_at": "2026-01-06T04:00:47.332411",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "NSK",
-      "region_name": "Новосибирская область",
       "base_layer": "NSK Базовый слой 06.01.2026 04:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NSK Неприоритетные технологии 06.01.2026 04:05:\n\n",
       "base_layer_count": 0,
@@ -6886,9 +6869,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "NSK",
+      "region_name": "Новосибирская область",
+      "base_layer": "NSK Базовый слой 13.01.2026 04:00:\n\n1) NS1110 2026-01-12T18:07:14\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NSK Неприоритетные технологии 13.01.2026 04:00:\n\nНедоступно LTE1800:\n1) NS1110\nНедоступно 3G:\n1) NS1093\n2) NS1110\nНедоступно LTE2100:\n1) NS1110\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "04:00:25",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T04:00:25.323491",
+      "created_at": "2026-01-13T04:00:40.483998",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 405,
-  "timestamp": "2026-01-13T03:51:15.956605",
+  "timestamp": "2026-01-13T04:00:52.332394",
   "error": null
 }
