@@ -5,23 +5,6 @@
     {
       "region_code": "BRN",
       "region_name": "Барнаул",
-      "base_layer": "BRN Базовый слой 06.01.2026 04:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRN Неприоритетные технологии 06.01.2026 04:00:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "04:00:33",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T04:00:33.226111",
-      "created_at": "2026-01-06T04:00:47.331977",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "BRN",
-      "region_name": "Барнаул",
       "base_layer": "BRN Базовый слой 06.01.2026 04:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "BRN Неприоритетные технологии 06.01.2026 04:05:\n\n",
       "base_layer_count": 0,
@@ -6886,9 +6869,26 @@
       "base_layer_percentage": 57,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "BRN",
+      "region_name": "Барнаул",
+      "base_layer": "BRN Базовый слой 13.01.2026 04:00:\n\n1) AL0109 2026-01-13T02:28:15\nPower Да; Посещение Нет; WO Есть\n2) AL0623 2026-01-13T03:11:12\nPower Нет; Посещение Нет; WO Есть\n3) AL1417 2026-01-12T21:53:42\nPower Нет; Посещение Нет; WO Нет\n4) AL1289 2026-01-13T02:41:27\nPower Да; Посещение Нет; WO Нет\n5) AL1038 2026-01-13T01:08:12\nPower Да; Посещение Нет; WO Нет\n6) AL0721 2026-01-12T23:43:42\nPower Да; Посещение Нет; WO Нет\n7) AL1240 2026-01-13T02:33:42\nPower Нет; Посещение Нет; WO Есть\n8) AL1255 2026-01-13T02:02:59\nPower Нет; Посещение Нет; WO Есть\n9) AL0847 2026-01-13T03:33:11\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 7\n\n10 приоритет:\n- AL1417; wo Нет;Время 2026-01-12 20:38:09\n- AL1240; wo Есть;Время 2026-01-12 17:46:10\n- AL1255; wo Есть;Время 2026-01-12 20:44:51\n- AL0847; wo Есть;Время 2026-01-12 23:05:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 13.01.2026 04:00:\n\nНедоступно LTE1800:\n1) AL0109\n2) AL0623\n3) AL1417\n4) AL1289\n5) AL1038\n6) AL0721\n7) AL1240\n8) AL1255\n9) AL0847\nНедоступно 3G:\n1) AL0136\n2) AL0847\nНедоступно LTE800:\n1) AL0623\n2) AL0476\n3) AL0721\n4) AL0847\nНедоступно LTE2300:\n1) AL0623\n2) AL0476\n3) AL1038\n4) AL0721\n5) AL0964\n",
+      "base_layer_count": 9,
+      "total_bs_count": 13,
+      "power_problems": 7,
+      "non_priority_percentage": 31,
+      "timestamp": "04:00:24",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T04:00:24.131688",
+      "created_at": "2026-01-13T04:00:40.483531",
+      "base_layer_percentage": 69,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 405,
-  "timestamp": "2026-01-13T03:51:15.956591",
+  "timestamp": "2026-01-13T04:00:52.332384",
   "error": null
 }
