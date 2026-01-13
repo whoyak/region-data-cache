@@ -5,23 +5,6 @@
     {
       "region_code": "HAN",
       "region_name": "Ханты-Мансийский АО",
-      "base_layer": "HAN Базовый слой 06.01.2026 03:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "HAN Неприоритетные технологии 06.01.2026 03:48:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "03:48:49",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T03:48:49.446813",
-      "created_at": "2026-01-06T03:48:58.824491",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "HAN",
-      "region_name": "Ханты-Мансийский АО",
       "base_layer": "HAN Базовый слой 06.01.2026 04:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "HAN Неприоритетные технологии 06.01.2026 04:00:\n\n",
       "base_layer_count": 0,
@@ -6886,9 +6869,26 @@
       "base_layer_percentage": 57,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "HAN",
+      "region_name": "Ханты-Мансийский АО",
+      "base_layer": "HAN Базовый слой 13.01.2026 03:50:\n\n1) HM0445 2026-01-12T14:48:14\nPower Да; Посещение Нет; WO Нет\n2) HM2186 2026-01-12T23:44:21\nPower Да; Посещение Нет; WO Нет\n3) HM0017 2026-01-12T22:01:04\nPower Да; Посещение Нет; WO Есть\n4) HM2486 2026-01-13T02:14:44\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "HAN Неприоритетные технологии 13.01.2026 03:50:\n\nНедоступно LTE1800:\n1) HM0017\nНедоступно LTE800:\n1) HM2404\nНедоступно LTE2600:\n1) HM1199\nНедоступно LTE2300:\n1) HM0245\n",
+      "base_layer_count": 4,
+      "total_bs_count": 7,
+      "power_problems": 0,
+      "non_priority_percentage": 43,
+      "timestamp": "03:50:48",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T03:50:48.275330",
+      "created_at": "2026-01-13T03:51:00.302677",
+      "base_layer_percentage": 57,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 405,
-  "timestamp": "2026-01-13T03:36:45.282386",
+  "timestamp": "2026-01-13T03:51:15.956634",
   "error": null
 }
