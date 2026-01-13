@@ -5,23 +5,6 @@
     {
       "region_code": "KAM",
       "region_name": "Камчатский край",
-      "base_layer": "KAM Базовый слой 06.01.2026 21:38:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KAM Неприоритетные технологии 06.01.2026 21:38:\n\nНедоступно LTE2300:\n1) KM0108\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "21:38:52",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T21:38:52.702515",
-      "created_at": "2026-01-06T21:39:15.570953",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Байкал и Дальний Восток"
-    },
-    {
-      "region_code": "KAM",
-      "region_name": "Камчатский край",
       "base_layer": "KAM Базовый слой 06.01.2026 21:53:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KAM Неприоритетные технологии 06.01.2026 21:53:\n\nНедоступно LTE2300:\n1) KM0108\n",
       "base_layer_count": 0,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "KAM",
+      "region_name": "Камчатский край",
+      "base_layer": "KAM Базовый слой 13.01.2026 21:42:\n\n1) KM0185 2026-01-12T22:14:39\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KAM Неприоритетные технологии 13.01.2026 21:42:\n\nНедоступно LTE1800:\n1) KM0185\nНедоступно LTE800:\n1) KM0185\nНедоступно LTE2300:\n1) KM0108\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "21:42:09",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T21:42:09.161820",
+      "created_at": "2026-01-13T21:42:38.495210",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T21:28:06.015246",
+  "timestamp": "2026-01-13T21:42:55.435638",
   "error": null
 }
