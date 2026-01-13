@@ -5,23 +5,6 @@
     {
       "region_code": "KLN",
       "region_name": "Калининградская область",
-      "base_layer": "KLN Базовый слой 06.01.2026 19:38:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- KN1556; wo Нет;Время 2026-01-06 19:03:42\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KLN Неприоритетные технологии 06.01.2026 19:38:\n\nНедоступно 3G:\n1) KN1556\nНедоступно LTE2600:\n1) KN1556\nНедоступно LTE2100:\n1) KN1556\nНедоступно LTE2300:\n1) KN2154\n",
-      "base_layer_count": 0,
-      "total_bs_count": 2,
-      "power_problems": 1,
-      "non_priority_percentage": 100,
-      "timestamp": "19:38:56",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T19:38:56.196390",
-      "created_at": "2026-01-06T19:39:12.983568",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "KLN",
-      "region_name": "Калининградская область",
       "base_layer": "KLN Базовый слой 06.01.2026 19:53:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- KN1556; wo Нет;Время 2026-01-06 19:03:42\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KLN Неприоритетные технологии 06.01.2026 19:53:\n\nНедоступно 3G:\n1) KN1556\nНедоступно LTE2600:\n1) KN1556\nНедоступно LTE2100:\n1) KN1556\nНедоступно LTE2300:\n1) KN2154\n",
       "base_layer_count": 0,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "KLN",
+      "region_name": "Калининградская область",
+      "base_layer": "KLN Базовый слой 13.01.2026 19:42:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN2727; wo Нет;Время 2026-01-13 19:12:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 13.01.2026 19:42:\n\nНедоступно LTE2600:\n1) KN2727\nНедоступно LTE2300:\n1) KN2154\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "19:42:27",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T19:42:27.878060",
+      "created_at": "2026-01-13T19:42:48.711200",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T19:27:36.422988",
+  "timestamp": "2026-01-13T19:43:03.809672",
   "error": null
 }
