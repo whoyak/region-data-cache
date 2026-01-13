@@ -5,23 +5,6 @@
     {
       "region_code": "KOS",
       "region_name": "Костромская область",
-      "base_layer": "KOS Базовый слой 06.01.2026 20:54:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KS0052; wo Есть;Время 2026-01-06 19:48:36\n\n10 приоритет:\n- KS0618; wo Нет;Время 2026-01-06 17:35:34\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOS Неприоритетные технологии 06.01.2026 20:54:\n\nНедоступно 3G:\n1) KS0052\n2) KS0618\nНедоступно LTE2100:\n1) KS0618\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0070\n4) KS0145\n",
-      "base_layer_count": 0,
-      "total_bs_count": 6,
-      "power_problems": 2,
-      "non_priority_percentage": 100,
-      "timestamp": "20:54:43",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T20:54:43.538874",
-      "created_at": "2026-01-06T20:54:50.104817",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "KOS",
-      "region_name": "Костромская область",
       "base_layer": "KOS Базовый слой 06.01.2026 21:00:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- KS0052; wo Есть;Время 2026-01-06 19:48:36\n\n10 приоритет:\n- KS0618; wo Нет;Время 2026-01-06 17:35:34\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KOS Неприоритетные технологии 06.01.2026 21:00:\n\nНедоступно 3G:\n1) KS0052\n2) KS0618\nНедоступно LTE2100:\n1) KS0618\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0070\n4) KS0145\n",
       "base_layer_count": 0,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KOS",
+      "region_name": "Костромская область",
+      "base_layer": "KOS Базовый слой 13.01.2026 20:57:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 13.01.2026 20:57:\n\nНедоступно LTE2300:\n1) KS0151\n2) KS0015\n3) KS0070\n4) KS0145\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "20:57:51",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T20:57:51.406639",
+      "created_at": "2026-01-13T20:57:59.376226",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T20:43:14.965617",
+  "timestamp": "2026-01-13T20:58:14.922473",
   "error": null
 }
