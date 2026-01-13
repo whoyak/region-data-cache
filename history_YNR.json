@@ -5,23 +5,6 @@
     {
       "region_code": "YNR",
       "region_name": "Ямало-Ненецкий АО",
-      "base_layer": "YNR Базовый слой 06.01.2026 11:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "YNR Неприоритетные технологии 06.01.2026 11:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "11:35:17",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T11:35:17.682618",
-      "created_at": "2026-01-06T11:35:25.701504",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Урал"
-    },
-    {
-      "region_code": "YNR",
-      "region_name": "Ямало-Ненецкий АО",
       "base_layer": "YNR Базовый слой 06.01.2026 11:49:\n\n1) YN0046 2026-01-06T06:48:51\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- YN0483; wo Нет;Время 2026-01-06 11:16:29\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "YNR Неприоритетные технологии 06.01.2026 11:49:\n\nНедоступно 3G:\n1) YN0483\n2) YN0646\nНедоступно LTE2600:\n1) YN0483\n",
       "base_layer_count": 1,
@@ -6665,9 +6648,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "YNR",
+      "region_name": "Ямало-Ненецкий АО",
+      "base_layer": "YNR Базовый слой 13.01.2026 11:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "YNR Неприоритетные технологии 13.01.2026 11:35:\n\nНедоступно 3G:\n1) YN0646\n",
+      "base_layer_count": 0,
+      "total_bs_count": 1,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "11:35:56",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T11:35:56.797429",
+      "created_at": "2026-01-13T11:36:08.236522",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-13T11:21:35.749535",
+  "timestamp": "2026-01-13T11:36:20.993676",
   "error": null
 }
