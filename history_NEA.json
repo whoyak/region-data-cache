@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 06.01.2026 14:49:\n\n1) MC0633 2026-01-06T10:14:35\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 06.01.2026 14:49:\n\nНедоступно 3G:\n1) MC0633\n",
-      "base_layer_count": 1,
-      "total_bs_count": 18,
-      "power_problems": 0,
-      "non_priority_percentage": 95,
-      "timestamp": "14:49:34",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T14:49:34.318837",
-      "created_at": "2026-01-06T14:49:52.697511",
-      "base_layer_percentage": 5,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 06.01.2026 15:00:\n\n1) MC0633 2026-01-06T10:14:35\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 06.01.2026 15:00:\n\nНедоступно 3G:\n1) MC0633\n",
       "base_layer_count": 1,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 13.01.2026 14:51:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 13.01.2026 14:51:\n\nНедоступно LTE800:\n1) MO4939\n",
+      "base_layer_count": 0,
+      "total_bs_count": 6,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "14:51:03",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T14:51:03.473056",
+      "created_at": "2026-01-13T14:51:27.053100",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T14:36:46.172179",
+  "timestamp": "2026-01-13T14:51:41.193137",
   "error": null
 }
