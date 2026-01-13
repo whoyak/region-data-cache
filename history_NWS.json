@@ -5,23 +5,6 @@
     {
       "region_code": "NWS",
       "region_name": "Северо-Западный округ Москвы",
-      "base_layer": "NWS Базовый слой 06.01.2026 06:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NWS Неприоритетные технологии 06.01.2026 06:19:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "06:19:49",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T06:19:49.957765",
-      "created_at": "2026-01-06T06:20:07.258175",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NWS",
-      "region_name": "Северо-Западный округ Москвы",
       "base_layer": "NWS Базовый слой 06.01.2026 06:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NWS Неприоритетные технологии 06.01.2026 06:34:\n\n",
       "base_layer_count": 0,
@@ -6818,9 +6801,26 @@
       "base_layer_percentage": 23,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NWS",
+      "region_name": "Северо-Западный округ Москвы",
+      "base_layer": "NWS Базовый слой 13.01.2026 06:19:\n\n1) MR0714 2026-01-10T11:22:00\nPower Да; Посещение Нет; WO Есть\n2) MS1135 2026-01-12T21:34:16\nPower Нет; Посещение Нет; WO Есть\n3) MR6527 2026-01-13T01:44:02\nPower Нет; Посещение Да; WO Есть\n4) MO2679 2026-01-13T05:04:29\nPower Нет; Посещение Нет; WO Нет\n5) MO1988 2026-01-13T04:50:10\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- MS1135; wo Есть;Время 2026-01-12 21:05:01\n\n10 приоритет:\n- MR6527; wo Есть;Время 2026-01-12 20:54:20\n- MO1988; wo Нет;Время 2026-01-13 03:03:24\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NWS Неприоритетные технологии 13.01.2026 06:19:\n\nНедоступно 3G:\n1) MR0714\n2) MS1135\n3) MR6527\n4) MO2679\n5) MO1988\nНедоступно LTE800:\n1) MS1135\n2) MR6527\n3) MO2679\n4) MO1988\n5) MS4359\nНедоступно LTE2600:\n1) MS1135\n2) MR6527\n3) MO2679\n4) MC2328\n5) MO1988\nНедоступно LTE2100:\n1) MR0714\n2) MS1135\n",
+      "base_layer_count": 5,
+      "total_bs_count": 21,
+      "power_problems": 4,
+      "non_priority_percentage": 77,
+      "timestamp": "06:19:41",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T06:19:41.399024",
+      "created_at": "2026-01-13T06:20:03.646087",
+      "base_layer_percentage": 23,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 401,
-  "timestamp": "2026-01-13T06:05:40.494247",
+  "timestamp": "2026-01-13T06:20:18.581760",
   "error": null
 }
