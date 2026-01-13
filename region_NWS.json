@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NWS",
   "region_name": "Северо-Западный округ Москвы",
-  "base_layer": "NWS Базовый слой 13.01.2026 10:20:\n\n1) MS1135 2026-01-12T21:34:16\nPower Нет; Посещение Нет; WO Есть\n2) MR0714 2026-01-10T11:22:00\nPower Да; Посещение Нет; WO Есть\n3) MC5684 2026-01-13T09:18:28\nPower Да; Посещение Нет; WO Нет\n4) MC0143 2026-01-13T08:43:05\nPower Да; Посещение Нет; WO Нет\n5) MC4308 2026-01-13T08:43:19\nPower Да; Посещение Нет; WO Нет\n6) MC6276 2026-01-13T08:43:19\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- MS1135; wo Есть;Время 2026-01-12 21:05:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NWS Неприоритетные технологии 13.01.2026 10:20:\n\nНедоступно 3G:\n1) MS1135\n2) MR0714\n3) MC5684\n4) MC0143\n5) MC4308\n6) MC6276\nНедоступно LTE800:\n1) MS1135\n2) MC0143\n3) MC4308\n4) MR6220\n5) MC6276\n6) MS4359\nНедоступно LTE2600:\n1) MR0627\n2) MS1135\n3) MC5684\n4) MC0143\n5) MS3844\n6) MC4308\n7) MR6220\n8) MC2328\n9) MC6276\nНедоступно LTE2100:\n1) MS1135\n2) MR0714\n3) MC5684\n4) MC0143\n5) MC4308\n6) MC6276\n",
-  "timestamp": "10:20:18",
+  "base_layer": "NWS Базовый слой 13.01.2026 10:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NWS Неприоритетные технологии 13.01.2026 10:35:\n\n",
+  "timestamp": "10:35:08",
   "date": "2026-01-13",
-  "full_timestamp": "2026-01-13T10:20:18.969956",
+  "full_timestamp": "2026-01-13T10:35:08.933974",
   "stats": {
-    "total_bs": 23,
-    "base_layer_count": 6,
-    "power_problems": 4,
-    "non_priority_percentage": 74,
-    "base_layer_percentage": 26
+    "total_bs": 0,
+    "base_layer_count": 0,
+    "power_problems": 0,
+    "non_priority_percentage": 100,
+    "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-13T10:20:18.969956",
+  "collected_at": "2026-01-13T10:35:08.933974",
   "macroregion": "Москва"
 }
