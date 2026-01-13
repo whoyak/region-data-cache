@@ -5,23 +5,6 @@
     {
       "region_code": "NEA",
       "region_name": "Северо-Восточный округ Москвы",
-      "base_layer": "NEA Базовый слой 06.01.2026 19:38:\n\n1) MS3813 2026-01-06T17:56:48\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MS3813; wo Нет;Время 2026-01-06 16:54:28\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEA Неприоритетные технологии 06.01.2026 19:38:\n\nНедоступно 3G:\n1) MS3813\nНедоступно LTE800:\n1) MC1103\nНедоступно LTE2600:\n1) MS3813\n2) MC1103\nНедоступно LTE2100:\n1) MS3813\n",
-      "base_layer_count": 1,
-      "total_bs_count": 18,
-      "power_problems": 1,
-      "non_priority_percentage": 95,
-      "timestamp": "19:38:54",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T19:38:54.619453",
-      "created_at": "2026-01-06T19:39:12.983066",
-      "base_layer_percentage": 5,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "NEA",
-      "region_name": "Северо-Восточный округ Москвы",
       "base_layer": "NEA Базовый слой 06.01.2026 19:53:\n\n1) MS3813 2026-01-06T17:56:48\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MS3813; wo Нет;Время 2026-01-06 16:54:28\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NEA Неприоритетные технологии 06.01.2026 19:53:\n\nНедоступно 3G:\n1) MS3813\nНедоступно LTE2600:\n1) MS3813\nНедоступно LTE2100:\n1) MS3813\n",
       "base_layer_count": 1,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "NEA",
+      "region_name": "Северо-Восточный округ Москвы",
+      "base_layer": "NEA Базовый слой 13.01.2026 19:42:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEA Неприоритетные технологии 13.01.2026 19:42:\n\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "19:42:25",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T19:42:25.909579",
+      "created_at": "2026-01-13T19:42:48.710453",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T19:27:36.422970",
+  "timestamp": "2026-01-13T19:43:03.809654",
   "error": null
 }
