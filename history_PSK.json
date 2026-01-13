@@ -5,23 +5,6 @@
     {
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 06.01.2026 03:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 06.01.2026 03:05:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "03:05:29",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T03:05:29.293347",
-      "created_at": "2026-01-06T03:05:44.637604",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "PSK",
-      "region_name": "Псковская область",
       "base_layer": "PSK Базовый слой 06.01.2026 03:19:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "PSK Неприоритетные технологии 06.01.2026 03:19:\n\n",
       "base_layer_count": 0,
@@ -6903,9 +6886,26 @@
       "base_layer_percentage": 75,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PSK",
+      "region_name": "Псковская область",
+      "base_layer": "PSK Базовый слой 13.01.2026 03:06:\n\n1) PS0681 2026-01-12T23:59:49\nPower Нет; Посещение Нет; WO Нет\n2) PS0618 2026-01-12T22:26:13\nPower Нет; Посещение Нет; WO Нет\n3) PS0534 2026-01-12T23:59:49\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PS0618; wo Нет;Время 2026-01-12 23:47:32\n- PS0175; wo Есть;Время 2026-01-12 20:36:11\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 13.01.2026 03:06:\n\nНедоступно LTE1800:\n1) PS0681\n2) PS0618\n3) PS0534\nНедоступно 3G:\n1) PS0175\n",
+      "base_layer_count": 3,
+      "total_bs_count": 4,
+      "power_problems": 2,
+      "non_priority_percentage": 25,
+      "timestamp": "03:06:40",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T03:06:40.437484",
+      "created_at": "2026-01-13T03:07:00.093765",
+      "base_layer_percentage": 75,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 406,
-  "timestamp": "2026-01-13T03:00:48.008404",
+  "timestamp": "2026-01-13T03:07:12.726249",
   "error": null
 }
