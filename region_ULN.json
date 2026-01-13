@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ULN",
   "region_name": "Ульяновск",
-  "base_layer": "ULN Базовый слой 13.01.2026 15:51:\n\n1) UL0291 2026-01-13T15:16:03\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n3 приоритет:\n- UL0291; wo Нет;Время 2026-01-13 15:11:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ULN Неприоритетные технологии 13.01.2026 15:51:\n\nНедоступно LTE1800:\n1) UL0291\nНедоступно 3G:\n1) UL0291\nНедоступно LTE800:\n1) UL0291\n2) UL0974\nНедоступно LTE2600:\n1) UL0291\nНедоступно LTE2100:\n1) UL0291\nНедоступно LTE2300:\n1) UL0023\n",
-  "timestamp": "15:51:01",
+  "base_layer": "ULN Базовый слой 13.01.2026 16:00:\n\n1) UL0039 2026-01-13T15:20:04\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n3 приоритет:\n- UL0291; wo Нет;Время 2026-01-13 15:11:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ULN Неприоритетные технологии 13.01.2026 16:00:\n\nНедоступно LTE2300:\n1) UL0023\n",
+  "timestamp": "16:00:36",
   "date": "2026-01-13",
-  "full_timestamp": "2026-01-13T15:51:01.275042",
+  "full_timestamp": "2026-01-13T16:00:36.172104",
   "stats": {
-    "total_bs": 3,
+    "total_bs": 4,
     "base_layer_count": 1,
     "power_problems": 2,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "non_priority_percentage": 75,
+    "base_layer_percentage": 25
   },
   "is_real_data": true,
-  "collected_at": "2026-01-13T15:51:01.275042",
+  "collected_at": "2026-01-13T16:00:36.172104",
   "macroregion": "Волга"
 }
