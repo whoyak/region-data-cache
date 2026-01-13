@@ -5,23 +5,6 @@
     {
       "region_code": "SPS",
       "region_name": "Санкт-Петербург Юг",
-      "base_layer": "SPS Базовый слой 06.01.2026 20:08:\n\n1) LE2856 2026-01-05T22:13:52\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPS Неприоритетные технологии 06.01.2026 20:08:\n\nНедоступно LTE1800:\n1) LE2856\nНедоступно 3G:\n1) LE2637\n2) LE2856\nНедоступно LTE800:\n1) SP0865\nНедоступно LTE2100:\n1) LE2637\nНедоступно LTE2300:\n1) SP1357\n",
-      "base_layer_count": 1,
-      "total_bs_count": 5,
-      "power_problems": 0,
-      "non_priority_percentage": 80,
-      "timestamp": "20:08:16",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T20:08:16.717074",
-      "created_at": "2026-01-06T20:08:30.699635",
-      "base_layer_percentage": 20,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "SPS",
-      "region_name": "Санкт-Петербург Юг",
       "base_layer": "SPS Базовый слой 06.01.2026 20:23:\n\n1) LE2856 2026-01-05T22:13:52\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SPS Неприоритетные технологии 06.01.2026 20:23:\n\nНедоступно LTE1800:\n1) LE2856\nНедоступно 3G:\n1) LE2637\n2) LE2856\nНедоступно LTE800:\n1) SP0865\nНедоступно LTE2100:\n1) LE2637\nНедоступно LTE2300:\n1) SP1357\n",
       "base_layer_count": 1,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPS",
+      "region_name": "Санкт-Петербург Юг",
+      "base_layer": "SPS Базовый слой 13.01.2026 20:12:\n\n1) LE2852 2026-01-13T19:45:16\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPS Неприоритетные технологии 13.01.2026 20:12:\n\nНедоступно LTE1800:\n1) LE2852\n",
+      "base_layer_count": 1,
+      "total_bs_count": 1,
+      "power_problems": 0,
+      "non_priority_percentage": 0,
+      "timestamp": "20:12:46",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T20:12:46.371985",
+      "created_at": "2026-01-13T20:13:04.769426",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T20:03:25.525177",
+  "timestamp": "2026-01-13T20:13:20.241208",
   "error": null
 }
