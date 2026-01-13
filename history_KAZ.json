@@ -5,23 +5,6 @@
     {
       "region_code": "KAZ",
       "region_name": "Казань",
-      "base_layer": "KAZ Базовый слой 06.01.2026 07:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KAZ Неприоритетные технологии 06.01.2026 07:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "07:34:18",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T07:34:18.909669",
-      "created_at": "2026-01-06T07:34:38.664353",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "KAZ",
-      "region_name": "Казань",
       "base_layer": "KAZ Базовый слой 06.01.2026 07:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KAZ Неприоритетные технологии 06.01.2026 07:48:\n\n",
       "base_layer_count": 0,
@@ -6784,9 +6767,26 @@
       "base_layer_percentage": 4,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "KAZ",
+      "region_name": "Казань",
+      "base_layer": "KAZ Базовый слой 13.01.2026 07:34:\n\n1) TT1003 2025-12-10T10:35:54\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KAZ Неприоритетные технологии 13.01.2026 07:34:\n\nНедоступно 3G:\n1) TT2517\nНедоступно LTE2100:\n1) TT2517\nНедоступно LTE2300:\n1) TT1326\n2) TT1308\n3) TT1312\n4) TT0192\n5) TT0073\n6) TT1327\n7) TT0199\n8) TT0213\n9) TT1228\n10) TT1315\n11) TT2237\n12) TT1329\n13) TT0832\n",
+      "base_layer_count": 1,
+      "total_bs_count": 21,
+      "power_problems": 0,
+      "non_priority_percentage": 96,
+      "timestamp": "07:34:10",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T07:34:10.560379",
+      "created_at": "2026-01-13T07:34:36.260924",
+      "base_layer_percentage": 4,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 399,
-  "timestamp": "2026-01-13T07:20:15.574061",
+  "timestamp": "2026-01-13T07:34:48.095842",
   "error": null
 }
