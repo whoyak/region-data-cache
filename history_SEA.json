@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 06.01.2026 07:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 06.01.2026 07:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "07:34:21",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T07:34:21.706660",
-      "created_at": "2026-01-06T07:34:38.665594",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 06.01.2026 07:48:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 06.01.2026 07:48:\n\n",
       "base_layer_count": 0,
@@ -6784,9 +6767,26 @@
       "base_layer_percentage": 17,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 13.01.2026 07:34:\n\n1) MR2988 2026-01-13T03:29:20\nPower Нет; Посещение Нет; WO Есть\n2) MO1517 2026-01-13T03:33:40\nPower Нет; Посещение Да; WO Есть\n3) MS4749 2026-01-13T00:45:44\nPower Да; Посещение Нет; WO Нет\n4) MS0177 2026-01-13T03:35:30\nPower Да; Посещение Нет; WO Нет\n5) MS1267 2026-01-12T14:03:55\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 13.01.2026 07:34:\n\nНедоступно 3G:\n1) MR2988\n2) MO1517\n3) MS4749\n4) MS0177\n5) MS1267\nНедоступно LTE2600:\n1) MR2988\n2) MR5759\n3) MO1517\nНедоступно LTE2100:\n1) MO1517\n2) MS4749\n3) MS0177\n",
+      "base_layer_count": 5,
+      "total_bs_count": 27,
+      "power_problems": 3,
+      "non_priority_percentage": 82,
+      "timestamp": "07:34:14",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T07:34:14.171882",
+      "created_at": "2026-01-13T07:34:36.262343",
+      "base_layer_percentage": 18,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 399,
-  "timestamp": "2026-01-13T07:20:15.574094",
+  "timestamp": "2026-01-13T07:34:48.095877",
   "error": null
 }
