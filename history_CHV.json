@@ -52,9 +52,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "CHV",
+      "region_name": "Чувашия",
+      "base_layer": "CHV Базовый слой 13.01.2026 22:24:\n\n1) CV0024 2026-01-13T18:10:53\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- CV0231; wo Нет;Время 2026-01-13 21:40:51\n\n9 приоритет:\n- CV0174; wo Есть;Время 2026-01-13 21:41:04\n- CV0666; wo Нет;Время 2026-01-13 21:40:53\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHV Неприоритетные технологии 13.01.2026 22:24:\n\nНедоступно LTE1800:\n1) CV0024\nНедоступно 3G:\n1) CV0231\n2) CV0174\nНедоступно LTE800:\n1) CV0024\n",
+      "base_layer_count": 1,
+      "total_bs_count": 4,
+      "power_problems": 3,
+      "non_priority_percentage": 75,
+      "timestamp": "22:24:08",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T22:24:08.276156",
+      "created_at": "2026-01-13T22:24:34.845219",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
-  "count": 3,
-  "timestamp": "2026-01-13T22:11:41.637347",
+  "count": 4,
+  "timestamp": "2026-01-13T22:24:37.217819",
   "error": null
 }
