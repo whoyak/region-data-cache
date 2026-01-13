@@ -5,23 +5,6 @@
     {
       "region_code": "NOV",
       "region_name": "Новгородская область",
-      "base_layer": "NOV Базовый слой 06.01.2026 17:19:\n\n1) VN0484 2026-01-06T16:31:23\nPower Да; Посещение Нет; WO Нет\n2) VN0318 2026-01-06T15:21:42\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NOV Неприоритетные технологии 06.01.2026 17:19:\n\nНедоступно LTE1800:\n1) VN0484\n2) VN0318\nНедоступно 3G:\n1) VN0059\n2) VN0628\nНедоступно LTE800:\n1) VN0059\n2) VN0318\nНедоступно LTE2600:\n1) VN0010\nНедоступно LTE2300:\n1) VN0101\n2) VN0354\n",
-      "base_layer_count": 2,
-      "total_bs_count": 12,
-      "power_problems": 3,
-      "non_priority_percentage": 84,
-      "timestamp": "17:19:55",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T17:19:55.528813",
-      "created_at": "2026-01-06T17:20:11.810372",
-      "base_layer_percentage": 16,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "NOV",
-      "region_name": "Новгородская область",
       "base_layer": "NOV Базовый слой 06.01.2026 17:34:\n\n1) VN0484 2026-01-06T16:31:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "NOV Неприоритетные технологии 06.01.2026 17:34:\n\nНедоступно LTE1800:\n1) VN0484\nНедоступно 3G:\n1) VN0628\nНедоступно LTE2600:\n1) VN0010\nНедоступно LTE2300:\n1) VN0101\n2) VN0354\n",
       "base_layer_count": 1,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "NOV",
+      "region_name": "Новгородская область",
+      "base_layer": "NOV Базовый слой 13.01.2026 17:21:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NOV Неприоритетные технологии 13.01.2026 17:21:\n\nНедоступно 3G:\n1) VN0156\nНедоступно LTE2600:\n1) VN0010\n",
+      "base_layer_count": 0,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 100,
+      "timestamp": "17:21:06",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T17:21:06.958990",
+      "created_at": "2026-01-13T17:21:27.376247",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T17:06:45.132973",
+  "timestamp": "2026-01-13T17:21:42.093924",
   "error": null
 }
