@@ -5,23 +5,6 @@
     {
       "region_code": "LIP",
       "region_name": "Липецкая область",
-      "base_layer": "LIP Базовый слой 06.01.2026 09:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "LIP Неприоритетные технологии 06.01.2026 09:00:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "09:00:38",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T09:00:38.056877",
-      "created_at": "2026-01-06T09:00:41.496050",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Черноземье"
-    },
-    {
-      "region_code": "LIP",
-      "region_name": "Липецкая область",
       "base_layer": "LIP Базовый слой 06.01.2026 09:05:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "LIP Неприоритетные технологии 06.01.2026 09:05:\n\n",
       "base_layer_count": 0,
@@ -6750,9 +6733,26 @@
       "base_layer_percentage": 12,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "LIP",
+      "region_name": "Липецкая область",
+      "base_layer": "LIP Базовый слой 13.01.2026 09:00:\n\n1) LI0519 2026-01-12T21:41:37\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- LI0016; wo Есть;Время 2026-01-13 06:51:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "LIP Неприоритетные технологии 13.01.2026 09:00:\n\nНедоступно LTE1800:\n1) LI0519\nНедоступно 3G:\n1) LI0276\nНедоступно LTE2600:\n1) LI0651\nНедоступно LTE2300:\n1) LI0918\n2) LI0326\n3) LI0916\n",
+      "base_layer_count": 1,
+      "total_bs_count": 8,
+      "power_problems": 1,
+      "non_priority_percentage": 88,
+      "timestamp": "09:00:57",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T09:00:57.658255",
+      "created_at": "2026-01-13T09:01:01.834791",
+      "base_layer_percentage": 12,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
   "count": 397,
-  "timestamp": "2026-01-13T08:50:14.288749",
+  "timestamp": "2026-01-13T09:01:14.637404",
   "error": null
 }
