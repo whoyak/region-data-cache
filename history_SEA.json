@@ -5,23 +5,6 @@
     {
       "region_code": "SEA",
       "region_name": "Юго-Восточный округ Москвы",
-      "base_layer": "SEA Базовый слой 06.01.2026 16:05:\n\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- MR3844; wo Нет;Время 2026-01-06 14:39:30\n\n9 приоритет:\n- MO2581; wo Нет;Время 2026-01-02 23:52:50\n- MR1314; wo Нет;Время 2026-01-06 15:30:55\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SEA Неприоритетные технологии 06.01.2026 16:05:\n\nНедоступно LTE800:\n1) MO2237\nНедоступно LTE2600:\n1) MC0487\n2) MR3844\n3) MO2237\n",
-      "base_layer_count": 0,
-      "total_bs_count": 51,
-      "power_problems": 4,
-      "non_priority_percentage": 100,
-      "timestamp": "16:05:22",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T16:05:22.937599",
-      "created_at": "2026-01-06T16:05:40.620074",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SEA",
-      "region_name": "Юго-Восточный округ Москвы",
       "base_layer": "SEA Базовый слой 06.01.2026 16:19:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- MO2581; wo Нет;Время 2026-01-02 23:52:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SEA Неприоритетные технологии 06.01.2026 16:19:\n\nНедоступно LTE800:\n1) MO2237\nНедоступно LTE2600:\n1) MO2237\n",
       "base_layer_count": 0,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 8,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 13.01.2026 16:06:\n\n1) MS0177 2026-01-13T09:41:56\nPower Да; Посещение Нет; WO Нет\n2) MS1267 2026-01-12T14:03:55\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 13.01.2026 16:06:\n\nНедоступно 3G:\n1) MS1267\nНедоступно LTE2600:\n1) MC2801\nНедоступно LTE2100:\n1) MS0177\n",
+      "base_layer_count": 2,
+      "total_bs_count": 23,
+      "power_problems": 0,
+      "non_priority_percentage": 92,
+      "timestamp": "16:06:21",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T16:06:21.884479",
+      "created_at": "2026-01-13T16:06:46.450361",
+      "base_layer_percentage": 8,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T16:01:13.999736",
+  "timestamp": "2026-01-13T16:07:01.125062",
   "error": null
 }
