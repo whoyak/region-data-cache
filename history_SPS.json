@@ -5,23 +5,6 @@
     {
       "region_code": "SPS",
       "region_name": "Санкт-Петербург Юг",
-      "base_layer": "SPS Базовый слой 06.01.2026 12:00:\n\n1) LE2856 2026-01-05T22:13:52\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPS Неприоритетные технологии 06.01.2026 12:00:\n\nНедоступно LTE1800:\n1) LE2856\nНедоступно 3G:\n1) LE2815\n2) LE2917\n3) LE2637\n4) LE2856\n5) LE2640\nНедоступно LTE800:\n1) SP0865\n2) LE2640\nНедоступно LTE2100:\n1) LE2637\n2) LE2640\nНедоступно LTE2300:\n1) SP1357\n",
-      "base_layer_count": 1,
-      "total_bs_count": 7,
-      "power_problems": 1,
-      "non_priority_percentage": 86,
-      "timestamp": "12:00:39",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T12:00:39.372794",
-      "created_at": "2026-01-06T12:00:53.763161",
-      "base_layer_percentage": 14,
-      "is_historical": true,
-      "macroregion": "Северо-запад"
-    },
-    {
-      "region_code": "SPS",
-      "region_name": "Санкт-Петербург Юг",
       "base_layer": "SPS Базовый слой 06.01.2026 12:05:\n\n1) LE2856 2026-01-05T22:13:52\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SPS Неприоритетные технологии 06.01.2026 12:05:\n\nНедоступно LTE1800:\n1) LE2856\nНедоступно 3G:\n1) LE2815\n2) LE2917\n3) LE2637\n4) LE2856\n5) LE2640\nНедоступно LTE800:\n1) SP0865\n2) LE2640\nНедоступно LTE2100:\n1) LE2637\n2) LE2640\nНедоступно LTE2300:\n1) SP1357\n",
       "base_layer_count": 1,
@@ -6665,9 +6648,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPS",
+      "region_name": "Санкт-Петербург Юг",
+      "base_layer": "SPS Базовый слой 13.01.2026 12:00:\n\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- LE0049; wo Нет;Время 2026-01-13 10:02:40\n\n9 приоритет:\n- LE1633; wo Есть;Время 2026-01-13 10:42:22\n- LE2783; wo Есть;Время 2026-01-13 11:20:05\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPS Неприоритетные технологии 13.01.2026 12:00:\n\nНедоступно 3G:\n1) LE0049\n2) LE2783\nНедоступно LTE800:\n1) LE2783\nНедоступно LTE2600:\n1) LE2783\nНедоступно LTE2100:\n1) LE2783\n",
+      "base_layer_count": 0,
+      "total_bs_count": 3,
+      "power_problems": 3,
+      "non_priority_percentage": 100,
+      "timestamp": "12:00:23",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T12:00:23.959995",
+      "created_at": "2026-01-13T12:00:44.615330",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-13T11:51:38.188567",
+  "timestamp": "2026-01-13T12:00:57.771530",
   "error": null
 }
