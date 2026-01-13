@@ -5,23 +5,6 @@
     {
       "region_code": "KIR",
       "region_name": "Киров",
-      "base_layer": "KIR Базовый слой 06.01.2026 11:35:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KIR Неприоритетные технологии 06.01.2026 11:35:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "11:35:06",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T11:35:06.731533",
-      "created_at": "2026-01-06T11:35:25.696643",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Волга"
-    },
-    {
-      "region_code": "KIR",
-      "region_name": "Киров",
       "base_layer": "KIR Базовый слой 06.01.2026 11:49:\n\n1) KI0135 2026-01-06T09:40:05\nPower Нет; Посещение Нет; WO Нет\n2) KI0174 2026-01-06T09:56:31\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- KI0174; wo Есть;Время 2026-01-06 07:24:47\n\n10 приоритет:\n- KI0316; wo Нет;Время 2026-01-06 10:18:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KIR Неприоритетные технологии 06.01.2026 11:49:\n\nНедоступно LTE1800:\n1) KI0174\nНедоступно LTE800:\n1) KI0174\n2) KI0316\n",
       "base_layer_count": 2,
@@ -6665,9 +6648,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "KIR",
+      "region_name": "Киров",
+      "base_layer": "KIR Базовый слой 13.01.2026 11:35:\n\n1) KI0191 2026-01-13T11:02:48\nPower Нет; Посещение Нет; WO Есть\n2) KI0741 2026-01-12T21:29:31\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KI0191; wo Есть;Время 2026-01-13 10:00:45\n- KI1186; wo Нет;Время 2026-01-13 06:16:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KIR Неприоритетные технологии 13.01.2026 11:35:\n\nНедоступно LTE1800:\n1) KI0191\n2) KI0741\nНедоступно 3G:\n1) KI0191\nНедоступно LTE800:\n1) KI0191\nНедоступно LTE2300:\n1) KI1186\n2) KI0741\n",
+      "base_layer_count": 2,
+      "total_bs_count": 3,
+      "power_problems": 3,
+      "non_priority_percentage": 34,
+      "timestamp": "11:35:42",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T11:35:42.316101",
+      "created_at": "2026-01-13T11:36:08.231386",
+      "base_layer_percentage": 66,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
   "count": 392,
-  "timestamp": "2026-01-13T11:21:35.749408",
+  "timestamp": "2026-01-13T11:36:20.993553",
   "error": null
 }
