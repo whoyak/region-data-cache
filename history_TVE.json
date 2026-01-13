@@ -5,23 +5,6 @@
     {
       "region_code": "TVE",
       "region_name": "Тверская область",
-      "base_layer": "TVE Базовый слой 06.01.2026 10:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TVE Неприоритетные технологии 06.01.2026 10:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "10:34:58",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T10:34:58.122265",
-      "created_at": "2026-01-06T10:35:03.240113",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Центр"
-    },
-    {
-      "region_code": "TVE",
-      "region_name": "Тверская область",
       "base_layer": "TVE Базовый слой 06.01.2026 10:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "TVE Неприоритетные технологии 06.01.2026 10:49:\n\n",
       "base_layer_count": 0,
@@ -6699,9 +6682,26 @@
       "base_layer_percentage": 12,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "TVE",
+      "region_name": "Тверская область",
+      "base_layer": "TVE Базовый слой 13.01.2026 10:35:\n\n1) TV0148 2026-01-10T15:36:43\nPower Да; Посещение Нет; WO Нет\n2) TV0536 2026-01-13T09:36:36\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- TV0693; wo Нет;Время 2026-01-13 03:10:08\n- TV0536; wo Нет;Время 2026-01-13 05:55:26\n- TV1116; wo Нет;Время 2026-01-13 09:45:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TVE Неприоритетные технологии 13.01.2026 10:35:\n\nНедоступно LTE1800:\n1) TV0148\n2) TV0536\nНедоступно 3G:\n1) TV0693\n2) TV0536\n3) TV1116\nНедоступно LTE800:\n1) TV0693\n2) TV1116\nНедоступно LTE2600:\n1) TV0035\nНедоступно LTE2300:\n1) TV0119\n2) TV0105\n3) TV0621\n4) TV0148\n5) TV0064\n6) TV0056\n7) TV0613\n8) TV0273\n9) TV0429\n10) TV1309\n",
+      "base_layer_count": 2,
+      "total_bs_count": 17,
+      "power_problems": 3,
+      "non_priority_percentage": 89,
+      "timestamp": "10:35:28",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T10:35:28.273417",
+      "created_at": "2026-01-13T10:35:35.036797",
+      "base_layer_percentage": 11,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
   "count": 394,
-  "timestamp": "2026-01-13T10:20:55.491282",
+  "timestamp": "2026-01-13T10:35:47.386595",
   "error": null
 }
