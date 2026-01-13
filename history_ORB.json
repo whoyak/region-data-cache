@@ -6801,9 +6801,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "ORB",
+      "region_name": "Оренбургская область",
+      "base_layer": "ORB Базовый слой 13.01.2026 07:00:\n\n1) OB0977 2026-01-13T05:23:30\nPower Нет; Посещение Нет; WO Нет\n2) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ORB Неприоритетные технологии 13.01.2026 07:00:\n\nНедоступно LTE1800:\n1) OB0228\nНедоступно LTE800:\n1) OB0260\nНедоступно LTE2300:\n1) OB0209\n2) OB0236\n3) OB0548\n4) OB0437\n5) OB2039\n6) OB0237\n7) OB0235\n",
+      "base_layer_count": 2,
+      "total_bs_count": 10,
+      "power_problems": 1,
+      "non_priority_percentage": 80,
+      "timestamp": "07:00:31",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T07:00:31.328778",
+      "created_at": "2026-01-13T07:00:42.845083",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 400,
-  "timestamp": "2026-01-13T06:49:25.521651",
+  "count": 401,
+  "timestamp": "2026-01-13T07:00:54.713542",
   "error": null
 }
