@@ -5,23 +5,6 @@
     {
       "region_code": "CNT",
       "region_name": "Центральный округ Москвы",
-      "base_layer": "CNT Базовый слой 06.01.2026 21:38:\n\n1) MS4088 2026-01-04T00:36:51\nPower Да; Посещение Да; WO Нет\n2) MS4863 2026-01-06T16:16:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CNT Неприоритетные технологии 06.01.2026 21:38:\n\nНедоступно 3G:\n1) MS4088\n2) MS4863\nНедоступно LTE800:\n1) MS4088\n2) MS4863\nНедоступно LTE2600:\n1) MS4088\n2) MS4863\nНедоступно LTE2100:\n1) MS4088\n2) MS4863\n",
-      "base_layer_count": 2,
-      "total_bs_count": 4,
-      "power_problems": 0,
-      "non_priority_percentage": 50,
-      "timestamp": "21:38:57",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T21:38:57.374167",
-      "created_at": "2026-01-06T21:39:15.573127",
-      "base_layer_percentage": 50,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "CNT",
-      "region_name": "Центральный округ Москвы",
       "base_layer": "CNT Базовый слой 06.01.2026 21:53:\n\n1) MS4088 2026-01-04T00:36:51\nPower Да; Посещение Да; WO Нет\n2) MS4863 2026-01-06T16:16:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "CNT Неприоритетные технологии 06.01.2026 21:53:\n\nНедоступно 3G:\n1) MS4088\n2) MS4863\nНедоступно LTE800:\n1) MS4088\n2) MS4863\nНедоступно LTE2600:\n1) MS4088\n2) MS4863\nНедоступно LTE2100:\n1) MS4088\n2) MS4863\n",
       "base_layer_count": 2,
@@ -6648,9 +6631,26 @@
       "base_layer_percentage": 37,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 13.01.2026 21:42:\n\n1) MS2196 2026-01-12T17:04:15\nPower Да; Посещение Нет; WO Нет\n2) MS0321 2026-01-13T18:14:08\nPower Да; Посещение Да; WO Нет\n3) MS2998 2026-01-13T15:35:37\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MS1596; wo Есть;Время 2026-01-13 15:20:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 13.01.2026 21:42:\n\nНедоступно 3G:\n1) MS2196\nНедоступно LTE800:\n1) MS1596\n2) MS1758\nНедоступно LTE2600:\n1) MS1596\n2) MS1758\n3) MS0321\n4) MS2998\nНедоступно LTE2100:\n1) MS0321\n2) MS2998\n",
+      "base_layer_count": 3,
+      "total_bs_count": 8,
+      "power_problems": 1,
+      "non_priority_percentage": 63,
+      "timestamp": "21:42:15",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T21:42:15.033083",
+      "created_at": "2026-01-13T21:42:38.497343",
+      "base_layer_percentage": 37,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 391,
-  "timestamp": "2026-01-13T21:28:06.015304",
+  "timestamp": "2026-01-13T21:42:55.435694",
   "error": null
 }
