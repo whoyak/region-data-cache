@@ -5,23 +5,6 @@
     {
       "region_code": "SWS",
       "region_name": "Юго-Западный округ Москвы",
-      "base_layer": "SWS Базовый слой 06.01.2026 04:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SWS Неприоритетные технологии 06.01.2026 04:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "04:34:28",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T04:34:28.636500",
-      "created_at": "2026-01-06T04:34:45.719241",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Москва"
-    },
-    {
-      "region_code": "SWS",
-      "region_name": "Юго-Западный округ Москвы",
       "base_layer": "SWS Базовый слой 06.01.2026 04:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "SWS Неприоритетные технологии 06.01.2026 04:49:\n\n",
       "base_layer_count": 0,
@@ -6869,9 +6852,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SWS",
+      "region_name": "Юго-Западный округ Москвы",
+      "base_layer": "SWS Базовый слой 13.01.2026 04:34:\n\n1) MS1382 2026-01-12T21:28:23\nPower Да; Посещение Нет; WO Нет\n2) MO1333 2026-01-09T08:52:32\nPower Да; Посещение Нет; WO Есть\n3) MO2739 2026-01-11T07:06:03\nPower Да; Посещение Нет; WO Нет\n4) MS4840 2026-01-12T21:31:08\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MS4840; wo Есть;Время 2026-01-12 21:27:33\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SWS Неприоритетные технологии 13.01.2026 04:34:\n\nНедоступно 3G:\n1) MS1382\n2) MO1333\n3) MO2739\n4) MS4840\nНедоступно LTE800:\n1) MS1382\n2) MS5355\nНедоступно LTE2600:\n1) MS1382\n2) MS1233\n3) MS4840\n4) MS0954\nНедоступно LTE2100:\n1) MS1382\n2) MS4840\n",
+      "base_layer_count": 4,
+      "total_bs_count": 16,
+      "power_problems": 1,
+      "non_priority_percentage": 75,
+      "timestamp": "04:34:54",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T04:34:54.741020",
+      "created_at": "2026-01-13T04:35:16.297303",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
   "count": 404,
-  "timestamp": "2026-01-13T04:20:51.289596",
+  "timestamp": "2026-01-13T04:35:26.275103",
   "error": null
 }
