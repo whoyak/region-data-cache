@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ORB",
   "region_name": "Оренбургская область",
-  "base_layer": "ORB Базовый слой 13.01.2026 15:51:\n\n1) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ORB Неприоритетные технологии 13.01.2026 15:51:\n\nНедоступно LTE1800:\n1) OB0228\nНедоступно LTE800:\n1) OB0260\n2) OB0016\nНедоступно LTE2100:\n1) OB2840\nНедоступно LTE2300:\n1) OB0209\n2) OB0236\n3) OB0548\n4) OB0437\n5) OB2039\n6) OB0237\n7) OB0235\n",
-  "timestamp": "15:51:14",
+  "base_layer": "ORB Базовый слой 13.01.2026 16:00:\n\n1) OB0329 2026-01-13T15:28:30\nPower Да; Посещение Нет; WO Нет\n2) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- OB0322; wo Нет;Время 2026-01-13 15:17:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ORB Неприоритетные технологии 13.01.2026 16:00:\n\nНедоступно LTE1800:\n1) OB0329\n2) OB0228\nНедоступно 3G:\n1) OB0329\n2) OB0322\nНедоступно LTE800:\n1) OB0016\n2) OB0260\n3) OB0329\n4) OB0322\nНедоступно LTE2100:\n1) OB2840\nНедоступно LTE2300:\n1) OB0209\n2) OB0236\n3) OB0548\n4) OB0437\n5) OB2039\n6) OB0237\n7) OB0235\n",
+  "timestamp": "16:00:48",
   "date": "2026-01-13",
-  "full_timestamp": "2026-01-13T15:51:14.323722",
+  "full_timestamp": "2026-01-13T16:00:48.776804",
   "stats": {
     "total_bs": 13,
-    "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 93,
-    "base_layer_percentage": 7
+    "base_layer_count": 2,
+    "power_problems": 2,
+    "non_priority_percentage": 85,
+    "base_layer_percentage": 15
   },
   "is_real_data": true,
-  "collected_at": "2026-01-13T15:51:14.323722",
+  "collected_at": "2026-01-13T16:00:48.776804",
   "macroregion": "Урал"
 }
