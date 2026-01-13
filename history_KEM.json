@@ -5,23 +5,6 @@
     {
       "region_code": "KEM",
       "region_name": "Кемеровская область",
-      "base_layer": "KEM Базовый слой 06.01.2026 09:34:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KEM Неприоритетные технологии 06.01.2026 09:34:\n\n",
-      "base_layer_count": 0,
-      "total_bs_count": 0,
-      "power_problems": 0,
-      "non_priority_percentage": 100,
-      "timestamp": "09:34:48",
-      "date": "2026-01-06",
-      "full_timestamp": "2026-01-06T09:34:48.687228",
-      "created_at": "2026-01-06T09:34:59.510868",
-      "base_layer_percentage": 0,
-      "is_historical": true,
-      "macroregion": "Сибирь"
-    },
-    {
-      "region_code": "KEM",
-      "region_name": "Кемеровская область",
       "base_layer": "KEM Базовый слой 06.01.2026 09:49:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
       "non_priority": "KEM Неприоритетные технологии 06.01.2026 09:49:\n\n",
       "base_layer_count": 0,
@@ -6733,9 +6716,26 @@
       "base_layer_percentage": 40,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KEM",
+      "region_name": "Кемеровская область",
+      "base_layer": "KEM Базовый слой 13.01.2026 09:35:\n\n1) KE1204 2026-01-13T00:28:02\nPower Нет; Посещение Нет; WO Есть\n2) KE1527 2026-01-13T09:03:01\nPower Нет; Посещение Да; WO Есть\n3) KE0895 2025-12-31T18:54:32\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KE1204; wo Есть;Время 2026-01-12 23:28:52\n\n9 приоритет:\n- KE1527; wo Есть;Время 2026-01-13 06:02:28\n- KE1120; wo Есть;Время 2026-01-13 08:32:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KEM Неприоритетные технологии 13.01.2026 09:35:\n\nНедоступно LTE1800:\n1) KE1204\n2) KE1527\n3) KE0895\nНедоступно 3G:\n1) KE1204\n2) KE1120\nНедоступно LTE800:\n1) KE1633\n2) KE1204\n3) KE1527\n4) KE1120\n5) KE0895\nНедоступно LTE2100:\n1) KE1120\n",
+      "base_layer_count": 3,
+      "total_bs_count": 5,
+      "power_problems": 3,
+      "non_priority_percentage": 40,
+      "timestamp": "09:35:25",
+      "date": "2026-01-13",
+      "full_timestamp": "2026-01-13T09:35:25.880925",
+      "created_at": "2026-01-13T09:35:40.066782",
+      "base_layer_percentage": 60,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
   "count": 396,
-  "timestamp": "2026-01-13T09:21:05.534371",
+  "timestamp": "2026-01-13T09:35:53.121453",
   "error": null
 }
