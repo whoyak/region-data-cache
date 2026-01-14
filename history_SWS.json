@@ -868,9 +868,26 @@
       "base_layer_percentage": 63,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SWS",
+      "region_name": "Юго-Западный округ Москвы",
+      "base_layer": "SWS Базовый слой 14.01.2026 19:13:\n\n1) MS4432 2026-01-14T17:54:23\nPower Да; Посещение Нет; WO Нет\n2) MS5077 2026-01-14T14:11:44\nPower Да; Посещение Нет; WO Нет\n3) MS5566 2026-01-14T17:47:20\nPower Нет; Посещение Да; WO Нет\n4) MS4529 2026-01-14T17:34:20\nPower Нет; Посещение Да; WO Нет\n5) MS3183 2026-01-14T17:47:45\nPower Нет; Посещение Нет; WO Нет\n6) MC0355 2026-01-13T11:01:30\nPower Да; Посещение Нет; WO Нет\n7) MR5334 2026-01-14T14:11:43\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- MS5366; wo Нет;Время 2026-01-14 14:43:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SWS Неприоритетные технологии 14.01.2026 19:13:\n\nНедоступно 3G:\n1) MS4432\n2) MS5077\n3) MS5566\n4) MS4529\n5) MS3183\n6) MC0355\n7) MR5334\nНедоступно LTE800:\n1) MS5077\n2) MS3915\nНедоступно LTE2600:\n1) MS4432\n2) MS5077\n3) MS5366\n4) MS5566\n5) MS3915\n6) MS4529\n7) MS3183\n8) MR5334\nНедоступно LTE2100:\n1) MS4432\n2) MS5077\n3) MS4529\n4) MS3183\n5) MC0355\n6) MR5334\n",
+      "base_layer_count": 7,
+      "total_bs_count": 13,
+      "power_problems": 5,
+      "non_priority_percentage": 47,
+      "timestamp": "19:13:46",
+      "date": "2026-01-14",
+      "full_timestamp": "2026-01-14T19:13:46.290983",
+      "created_at": "2026-01-14T19:14:08.993400",
+      "base_layer_percentage": 53,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 51,
-  "timestamp": "2026-01-14T19:04:25.348676",
+  "count": 52,
+  "timestamp": "2026-01-14T19:14:14.042716",
   "error": null
 }
