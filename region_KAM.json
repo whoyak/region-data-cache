@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KAM",
   "region_name": "Камчатский край",
-  "base_layer": "KAM Базовый слой 14.01.2026 10:35:\n\n1) KM0445 2026-01-14T07:23:24\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- KM0445; wo Есть;Время 2026-01-14 05:05:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KAM Неприоритетные технологии 14.01.2026 10:35:\n\nНедоступно LTE1800:\n1) KM0445\nНедоступно LTE800:\n1) KM0445\nНедоступно LTE2300:\n1) KM0108\n",
-  "timestamp": "10:35:38",
+  "base_layer": "KAM Базовый слой 14.01.2026 10:48:\n\n1) KM0445 2026-01-14T07:23:24\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KM0445; wo Есть;Время 2026-01-14 05:05:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KAM Неприоритетные технологии 14.01.2026 10:48:\n\nНедоступно LTE1800:\n1) KM0445\nНедоступно LTE800:\n1) KM0445\nНедоступно LTE2300:\n1) KM0108\n",
+  "timestamp": "10:48:43",
   "date": "2026-01-14",
-  "full_timestamp": "2026-01-14T10:35:38.707546",
+  "full_timestamp": "2026-01-14T10:48:43.185175",
   "stats": {
-    "total_bs": 4,
+    "total_bs": 3,
     "base_layer_count": 1,
-    "power_problems": 2,
-    "non_priority_percentage": 75,
-    "base_layer_percentage": 25
+    "power_problems": 1,
+    "non_priority_percentage": 67,
+    "base_layer_percentage": 33
   },
   "is_real_data": true,
-  "collected_at": "2026-01-14T10:35:38.707546",
+  "collected_at": "2026-01-14T10:48:43.185175",
   "macroregion": "Байкал и Дальний Восток"
 }
