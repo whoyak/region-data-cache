@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "TUL",
   "region_name": "Тульская область",
-  "base_layer": "TUL Базовый слой 14.01.2026 15:44:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "TUL Неприоритетные технологии 14.01.2026 15:44:\n\nНедоступно 3G:\n1) TL0473\nНедоступно LTE2300:\n1) TL0085\n",
-  "timestamp": "15:44:56",
+  "base_layer": "TUL Базовый слой 14.01.2026 15:58:\n\n1) TL0473 2026-01-14T15:27:09\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "TUL Неприоритетные технологии 14.01.2026 15:58:\n\nНедоступно LTE1800:\n1) TL0473\nНедоступно LTE800:\n1) TL0473\nНедоступно LTE2300:\n1) TL0085\n",
+  "timestamp": "15:58:20",
   "date": "2026-01-14",
-  "full_timestamp": "2026-01-14T15:44:56.505176",
+  "full_timestamp": "2026-01-14T15:58:20.257588",
   "stats": {
     "total_bs": 5,
-    "base_layer_count": 0,
+    "base_layer_count": 1,
     "power_problems": 1,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 80,
+    "base_layer_percentage": 20
   },
   "is_real_data": true,
-  "collected_at": "2026-01-14T15:44:56.505176",
+  "collected_at": "2026-01-14T15:58:20.257588",
   "macroregion": "Центр"
 }
