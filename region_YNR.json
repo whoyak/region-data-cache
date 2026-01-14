@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "YNR",
   "region_name": "Ямало-Ненецкий АО",
-  "base_layer": "YNR Базовый слой 14.01.2026 15:18:\n\n1) YN0210 2026-01-14T14:38:41\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "YNR Неприоритетные технологии 14.01.2026 15:18:\n\nНедоступно LTE1800:\n1) YN0210\nНедоступно 3G:\n1) YN0646\nНедоступно LTE2300:\n1) YN0303\n",
-  "timestamp": "15:18:06",
+  "base_layer": "YNR Базовый слой 14.01.2026 15:31:\n\n1) YN0210 2026-01-14T14:38:41\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- YN0401; wo Нет;Время 2026-01-14 15:01:34\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "YNR Неприоритетные технологии 14.01.2026 15:31:\n\nНедоступно LTE1800:\n1) YN0210\nНедоступно 3G:\n1) YN0401\n2) YN0646\nНедоступно LTE800:\n1) YN0401\nНедоступно LTE2600:\n1) YN0401\nНедоступно LTE2100:\n1) YN0401\nНедоступно LTE2300:\n1) YN0401\n2) YN0303\n",
+  "timestamp": "15:31:28",
   "date": "2026-01-14",
-  "full_timestamp": "2026-01-14T15:18:06.956612",
+  "full_timestamp": "2026-01-14T15:31:28.452415",
   "stats": {
-    "total_bs": 3,
+    "total_bs": 4,
     "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "power_problems": 1,
+    "non_priority_percentage": 75,
+    "base_layer_percentage": 25
   },
   "is_real_data": true,
-  "collected_at": "2026-01-14T15:18:06.956612",
+  "collected_at": "2026-01-14T15:31:28.452415",
   "macroregion": "Урал"
 }
