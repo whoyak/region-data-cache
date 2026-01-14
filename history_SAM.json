@@ -613,9 +613,26 @@
       "base_layer_percentage": 22,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "SAM",
+      "region_name": "Самара",
+      "base_layer": "SAM Базовый слой 14.01.2026 15:58:\n\n1) SR0878 2026-01-14T12:15:30\nPower Да; Посещение Нет; WO Есть\n2) SR1877 2026-01-13T22:51:52\nPower Да; Посещение Нет; WO Нет\n3) SR0419 2025-12-05T06:08:39\nPower Да; Посещение Нет; WO Нет\n4) SR1768 2026-01-14T10:43:26\nPower Да; Посещение Нет; WO Нет\n5) SR0922 2025-12-15T01:15:58\nPower Да; Посещение Нет; WO Нет\n6) SR1254 2025-12-24T09:33:09\nPower Да; Посещение Нет; WO Нет\n7) SR1284 2025-12-20T04:38:24\nPower Да; Посещение Нет; WO Нет\n8) SR0537 2025-12-29T08:29:15\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- SR0198; wo Нет;Время 2026-01-14 15:20:10\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SAM Неприоритетные технологии 14.01.2026 15:58:\n\nНедоступно 3G:\n1) SR0878\n2) SR1877\n3) SR0537\nНедоступно LTE800:\n1) SR0878\n2) SR0537\nНедоступно LTE2100:\n1) SR0878\n2) SR0537\nНедоступно LTE2300:\n1) SR0419\n2) SR1768\n3) SR0922\n4) SR1254\n5) SR1284\n",
+      "base_layer_count": 8,
+      "total_bs_count": 37,
+      "power_problems": 2,
+      "non_priority_percentage": 79,
+      "timestamp": "15:58:02",
+      "date": "2026-01-14",
+      "full_timestamp": "2026-01-14T15:58:02.111568",
+      "created_at": "2026-01-14T15:58:27.248143",
+      "base_layer_percentage": 21,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
-  "count": 36,
-  "timestamp": "2026-01-14T15:45:07.401226",
+  "count": 37,
+  "timestamp": "2026-01-14T15:58:31.780006",
   "error": null
 }
