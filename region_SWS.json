@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SWS",
   "region_name": "Юго-Западный округ Москвы",
-  "base_layer": "SWS Базовый слой 14.01.2026 14:51:\n\n1) MS5077 2026-01-14T14:11:44\nPower Да; Посещение Нет; WO Нет\n2) MC0355 2026-01-13T11:01:30\nPower Да; Посещение Нет; WO Нет\n3) MR5334 2026-01-14T14:11:43\nPower Да; Посещение Нет; WO Есть\n4) MS5675 2026-01-14T14:21:43\nPower Нет; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SWS Неприоритетные технологии 14.01.2026 14:51:\n\nНедоступно 3G:\n1) MS5077\n2) MC0355\n3) MR5334\n4) MS5675\nНедоступно LTE800:\n1) MS5077\nНедоступно LTE2600:\n1) MS5077\n2) MR5334\nНедоступно LTE2100:\n1) MS5077\n2) MC0355\n3) MR5334\n",
-  "timestamp": "14:51:02",
+  "base_layer": "SWS Базовый слой 14.01.2026 15:00:\n\n1) MS5077 2026-01-14T14:11:44\nPower Да; Посещение Нет; WO Нет\n2) MC0355 2026-01-13T11:01:30\nPower Да; Посещение Нет; WO Нет\n3) MR5334 2026-01-14T14:11:43\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SWS Неприоритетные технологии 14.01.2026 15:00:\n\nНедоступно 3G:\n1) MS5077\n2) MC0355\n3) MR5334\nНедоступно LTE800:\n1) MS5077\nНедоступно LTE2600:\n1) MS5077\n2) MR5334\nНедоступно LTE2100:\n1) MS5077\n2) MC0355\n3) MR5334\n",
+  "timestamp": "15:00:15",
   "date": "2026-01-14",
-  "full_timestamp": "2026-01-14T14:51:02.932578",
+  "full_timestamp": "2026-01-14T15:00:15.233635",
   "stats": {
-    "total_bs": 11,
-    "base_layer_count": 4,
-    "power_problems": 1,
-    "non_priority_percentage": 64,
-    "base_layer_percentage": 36
+    "total_bs": 10,
+    "base_layer_count": 3,
+    "power_problems": 0,
+    "non_priority_percentage": 70,
+    "base_layer_percentage": 30
   },
   "is_real_data": true,
-  "collected_at": "2026-01-14T14:51:02.932578",
+  "collected_at": "2026-01-14T15:00:15.233635",
   "macroregion": "Москва"
 }
