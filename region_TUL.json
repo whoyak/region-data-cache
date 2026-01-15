@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "TUL",
   "region_name": "Тульская область",
-  "base_layer": "TUL Базовый слой 15.01.2026 14:23:\n\n1) TL0665 2026-01-15T14:11:40\nPower Нет; Посещение Нет; WO Есть\n2) TL1549 2026-01-15T11:40:10\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "TUL Неприоритетные технологии 15.01.2026 14:23:\n\nНедоступно LTE1800:\n1) TL0665\n2) TL1549\nНедоступно 3G:\n1) TL0665\nНедоступно LTE800:\n1) TL0665\n2) TL1549\nНедоступно LTE2300:\n1) TL0085\n2) TL1549\n",
-  "timestamp": "14:23:44",
+  "base_layer": "TUL Базовый слой 15.01.2026 14:37:\n\n1) TL0665 2026-01-15T14:11:40\nPower Нет; Посещение Нет; WO Есть\n2) TL1549 2026-01-15T11:40:10\nPower Нет; Посещение Нет; WO Нет\n3) TL0580 2026-01-15T14:19:17\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "TUL Неприоритетные технологии 15.01.2026 14:37:\n\nНедоступно LTE1800:\n1) TL0665\n2) TL1549\n3) TL0580\nНедоступно 3G:\n1) TL0665\nНедоступно LTE800:\n1) TL0665\n2) TL1549\nНедоступно LTE2300:\n1) TL0085\n2) TL1549\n",
+  "timestamp": "14:37:09",
   "date": "2026-01-15",
-  "full_timestamp": "2026-01-15T14:23:44.365037",
+  "full_timestamp": "2026-01-15T14:37:09.697163",
   "stats": {
     "total_bs": 8,
-    "base_layer_count": 2,
+    "base_layer_count": 3,
     "power_problems": 2,
-    "non_priority_percentage": 75,
-    "base_layer_percentage": 25
+    "non_priority_percentage": 63,
+    "base_layer_percentage": 37
   },
   "is_real_data": true,
-  "collected_at": "2026-01-15T14:23:44.365037",
+  "collected_at": "2026-01-15T14:37:09.697163",
   "macroregion": "Центр"
 }
