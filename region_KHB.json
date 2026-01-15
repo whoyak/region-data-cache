@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KHB",
   "region_name": "Хабаровский край",
-  "base_layer": "KHB Базовый слой 15.01.2026 10:22:\n\n1) HB0616 2026-01-15T07:19:32\nPower Да; Посещение Нет; WO Нет\n2) HB0610 2026-01-15T04:30:40\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- HB0599; wo Нет;Время 2026-01-15 10:00:42\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KHB Неприоритетные технологии 15.01.2026 10:22:\n\nНедоступно LTE1800:\n1) HB0616\n2) HB0610\n",
-  "timestamp": "10:22:50",
+  "base_layer": "KHB Базовый слой 15.01.2026 10:36:\n\n1) HB0616 2026-01-15T07:19:32\nPower Да; Посещение Нет; WO Нет\n2) HB0610 2026-01-15T04:30:40\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KHB Неприоритетные технологии 15.01.2026 10:36:\n\nНедоступно LTE1800:\n1) HB0616\n2) HB0610\n",
+  "timestamp": "10:36:35",
   "date": "2026-01-15",
-  "full_timestamp": "2026-01-15T10:22:50.245696",
+  "full_timestamp": "2026-01-15T10:36:35.607200",
   "stats": {
-    "total_bs": 3,
+    "total_bs": 2,
     "base_layer_count": 2,
-    "power_problems": 1,
-    "non_priority_percentage": 34,
-    "base_layer_percentage": 66
+    "power_problems": 0,
+    "non_priority_percentage": 0,
+    "base_layer_percentage": 100
   },
   "is_real_data": true,
-  "collected_at": "2026-01-15T10:22:50.245696",
+  "collected_at": "2026-01-15T10:36:35.607200",
   "macroregion": "Байкал и Дальний Восток"
 }
