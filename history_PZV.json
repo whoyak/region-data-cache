@@ -1157,9 +1157,26 @@
       "base_layer_percentage": 57,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "PZV",
+      "region_name": "Петрозаводск",
+      "base_layer": "PZV Базовый слой 16.01.2026 02:45:\n\n1) PZ0075 2026-01-15T23:52:16\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PZ0075; wo Есть;Время 2026-01-15 22:22:45\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PZV Неприоритетные технологии 16.01.2026 02:45:\n\nНедоступно LTE1800:\n1) PZ0075\nНедоступно 3G:\n1) PZ0075\nНедоступно LTE800:\n1) PZ0075\nНедоступно LTE2100:\n1) PZ0075\n",
+      "base_layer_count": 1,
+      "total_bs_count": 5,
+      "power_problems": 1,
+      "non_priority_percentage": 80,
+      "timestamp": "02:45:50",
+      "date": "2026-01-16",
+      "full_timestamp": "2026-01-16T02:45:50.053360",
+      "created_at": "2026-01-16T02:46:10.125267",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 68,
-  "timestamp": "2026-01-16T02:32:35.884257",
+  "count": 69,
+  "timestamp": "2026-01-16T02:46:14.643546",
   "error": null
 }
