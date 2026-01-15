@@ -1803,9 +1803,26 @@
       "base_layer_percentage": 21,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "PNZ",
+      "region_name": "Пензенская область",
+      "base_layer": "PNZ Базовый слой 15.01.2026 06:55:\n\n1) PN0749 2026-01-14T18:35:08\nPower Да; Посещение Нет; WO Есть\n2) PN0538 2026-01-14T23:51:50\nPower Да; Посещение Нет; WO Есть\n3) PN0652 2026-01-14T15:46:50\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 15.01.2026 06:55:\n\nНедоступно LTE1800:\n1) PN0749\nНедоступно 3G:\n1) PN0749\nНедоступно LTE800:\n1) PN0749\n2) PN1338\nНедоступно LTE2100:\n1) PN0749\nНедоступно LTE2300:\n1) PN0905\n2) PN0581\n3) PN0716\n4) PN0021\n5) PN0150\n6) PN1263\n7) PN1243\n8) PN0015\n9) PN0342\n10) PN0207\n11) PN0096\n",
+      "base_layer_count": 3,
+      "total_bs_count": 15,
+      "power_problems": 0,
+      "non_priority_percentage": 80,
+      "timestamp": "06:55:13",
+      "date": "2026-01-15",
+      "full_timestamp": "2026-01-15T06:55:13.930150",
+      "created_at": "2026-01-15T06:55:16.910612",
+      "base_layer_percentage": 20,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 106,
-  "timestamp": "2026-01-15T06:41:30.211715",
+  "count": 107,
+  "timestamp": "2026-01-15T06:55:22.758050",
   "error": null
 }
