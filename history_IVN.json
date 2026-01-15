@@ -957,22 +957,22 @@
     {
       "region_code": "IVN",
       "region_name": "Ивановская область",
-      "base_layer": "IVN Базовый слой 15.01.2026 23:59:\n\n1) IV0212 2026-01-15T05:55:08\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "IVN Неприоритетные технологии 15.01.2026 23:59:\n\nНедоступно LTE1800:\n1) IV0212\nНедоступно LTE2300:\n1) IV0091\n2) IV0090\n3) IV0093\n4) IV0575\n5) IV0087\n6) IV0094\n",
-      "base_layer_count": 1,
-      "total_bs_count": 9,
+      "base_layer": "IVN Базовый слой 16.01.2026 00:04:\n\n1) IV0212 2026-01-15T05:55:08\nPower Да; Посещение Нет; WO Есть\n2) IV0580 2026-01-15T23:48:53\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IVN Неприоритетные технологии 16.01.2026 00:04:\n\nНедоступно LTE1800:\n1) IV0212\n2) IV0580\nНедоступно 3G:\n1) IV0580\nНедоступно LTE2100:\n1) IV0580\nНедоступно LTE2300:\n1) IV0091\n2) IV0090\n3) IV0093\n4) IV0575\n5) IV0087\n6) IV0094\n",
+      "base_layer_count": 2,
+      "total_bs_count": 10,
       "power_problems": 0,
-      "non_priority_percentage": 89,
-      "timestamp": "23:59:43",
-      "date": "2026-01-15",
-      "full_timestamp": "2026-01-15T23:59:43.023505",
-      "created_at": "2026-01-15T23:59:51.808519",
-      "base_layer_percentage": 11,
+      "non_priority_percentage": 80,
+      "timestamp": "00:04:34",
+      "date": "2026-01-16",
+      "full_timestamp": "2026-01-16T00:04:34.251610",
+      "created_at": "2026-01-16T00:04:43.484600",
+      "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Центр"
     }
   ],
   "count": 57,
-  "timestamp": "2026-01-15T23:59:56.734136",
+  "timestamp": "2026-01-16T00:04:47.780944",
   "error": null
 }
