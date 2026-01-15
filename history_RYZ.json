@@ -1939,9 +1939,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "RYZ",
+      "region_name": "Рязанская область",
+      "base_layer": "RYZ Базовый слой 15.01.2026 08:32:\n\n1) RZ0557 2026-01-15T04:16:34\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "RYZ Неприоритетные технологии 15.01.2026 08:32:\n\nНедоступно LTE1800:\n1) RZ0557\nНедоступно LTE800:\n1) RZ0557\nНедоступно LTE2300:\n1) RZ0461\n2) RZ0093\n3) RZ0745\n",
+      "base_layer_count": 1,
+      "total_bs_count": 4,
+      "power_problems": 1,
+      "non_priority_percentage": 75,
+      "timestamp": "08:32:18",
+      "date": "2026-01-15",
+      "full_timestamp": "2026-01-15T08:32:18.995896",
+      "created_at": "2026-01-15T08:32:27.257227",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 114,
-  "timestamp": "2026-01-15T08:18:42.973579",
+  "count": 115,
+  "timestamp": "2026-01-15T08:32:32.517650",
   "error": null
 }
