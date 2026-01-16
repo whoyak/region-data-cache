@@ -1803,9 +1803,26 @@
       "base_layer_percentage": 42,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "SPE",
+      "region_name": "Санкт-Петербург Восток",
+      "base_layer": "SPE Базовый слой 16.01.2026 10:50:\n\n1) LE1216 2026-01-16T09:06:26\nPower Нет; Посещение Нет; WO Есть\n2) LE2030 2026-01-16T09:08:35\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- LE1216; wo Есть;Время 2026-01-16 06:38:21\n\n10 приоритет:\n- SP0333; wo Нет;Время 2026-01-16 10:11:30\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPE Неприоритетные технологии 16.01.2026 10:50:\n\nНедоступно LTE1800:\n1) LE1216\n2) LE2030\nНедоступно 3G:\n1) LE1216\n2) SP0333\n3) LE2030\nНедоступно LTE800:\n1) LE1216\n2) SP0333\n3) LE2030\nНедоступно LTE2100:\n1) SP0333\nНедоступно LTE2300:\n1) SP1020\n",
+      "base_layer_count": 2,
+      "total_bs_count": 7,
+      "power_problems": 3,
+      "non_priority_percentage": 72,
+      "timestamp": "10:50:43",
+      "date": "2026-01-16",
+      "full_timestamp": "2026-01-16T10:50:43.383094",
+      "created_at": "2026-01-16T10:51:02.671877",
+      "base_layer_percentage": 28,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 106,
-  "timestamp": "2026-01-16T10:37:05.264435",
+  "count": 107,
+  "timestamp": "2026-01-16T10:51:08.621534",
   "error": null
 }
