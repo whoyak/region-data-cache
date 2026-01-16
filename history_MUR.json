@@ -35,9 +35,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "MUR",
+      "region_name": "Мурманская область",
+      "base_layer": "MUR Базовый слой 16.01.2026 14:10:\n\n1) MU0207 2026-01-15T18:46:40\nPower Да; Посещение Нет; WO Нет\n2) MU0194 2026-01-15T18:46:41\nPower Да; Посещение Нет; WO Нет\n3) MU2973 2026-01-15T18:46:42\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- MU0093; wo Есть;Время 2026-01-16 13:57:20\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MUR Неприоритетные технологии 16.01.2026 14:10:\n\nНедоступно LTE1800:\n1) MU0207\n2) MU0194\n3) MU2973\nНедоступно 3G:\n1) MU0207\n2) MU0086\n3) MU0194\n4) MU0093\nНедоступно LTE800:\n1) MU0207\n2) MU0194\nНедоступно LTE2300:\n1) MU0194\n",
+      "base_layer_count": 3,
+      "total_bs_count": 6,
+      "power_problems": 1,
+      "non_priority_percentage": 50,
+      "timestamp": "14:10:20",
+      "date": "2026-01-16",
+      "full_timestamp": "2026-01-16T14:10:20.928529",
+      "created_at": "2026-01-16T14:10:37.903680",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 2,
-  "timestamp": "2026-01-16T14:00:52.680065",
+  "count": 3,
+  "timestamp": "2026-01-16T14:10:40.224678",
   "error": null
 }
