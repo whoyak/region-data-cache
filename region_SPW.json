@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SPW",
   "region_name": "Санкт-Петербург Запад",
-  "base_layer": "SPW Базовый слой 16.01.2026 14:23:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SPW Неприоритетные технологии 16.01.2026 14:23:\n\nНедоступно 3G:\n1) SP1049\nНедоступно LTE2100:\n1) SP1049\nНедоступно LTE2300:\n1) LE1433\n2) LE1607\n3) LE1297\n",
-  "timestamp": "14:23:09",
+  "base_layer": "SPW Базовый слой 16.01.2026 14:36:\n\n1) SC0178 2026-01-16T14:20:56\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SPW Неприоритетные технологии 16.01.2026 14:36:\n\nНедоступно 3G:\n1) SC2388\n2) LE1087\n3) SP1049\nНедоступно LTE2600:\n1) LE1087\nНедоступно LTE2100:\n1) SC2388\n2) SP1049\nНедоступно LTE2300:\n1) SC2388\n2) LE1433\n3) LE1607\n4) LE1297\n",
+  "timestamp": "14:36:01",
   "date": "2026-01-16",
-  "full_timestamp": "2026-01-16T14:23:09.874872",
+  "full_timestamp": "2026-01-16T14:36:01.610968",
   "stats": {
-    "total_bs": 4,
-    "base_layer_count": 0,
-    "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "total_bs": 7,
+    "base_layer_count": 1,
+    "power_problems": 1,
+    "non_priority_percentage": 86,
+    "base_layer_percentage": 14
   },
   "is_real_data": true,
-  "collected_at": "2026-01-16T14:23:09.874872",
+  "collected_at": "2026-01-16T14:36:01.610968",
   "macroregion": "Северо-запад"
 }
