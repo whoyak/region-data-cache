@@ -35,9 +35,26 @@
       "base_layer_percentage": 4,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SEA",
+      "region_name": "Юго-Восточный округ Москвы",
+      "base_layer": "SEA Базовый слой 16.01.2026 14:10:\n\n1) MS0728 2026-01-15T04:00:41\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- MR4563; wo Нет;Время 2026-01-16 13:11:32\n- MS0728; wo Нет;Время 2026-01-14 18:51:30\n\n3 приоритет:\n- MO3765; wo Есть;Время 2026-01-16 13:11:29\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SEA Неприоритетные технологии 16.01.2026 14:10:\n\nНедоступно 3G:\n1) MS0728\nНедоступно LTE800:\n1) MS0728\nНедоступно LTE2600:\n1) MO5747\n2) MS4100\n3) MR4563\n4) MS0728\n5) MO3765\n6) MO4857\nНедоступно LTE2100:\n1) MS0728\n",
+      "base_layer_count": 1,
+      "total_bs_count": 23,
+      "power_problems": 3,
+      "non_priority_percentage": 96,
+      "timestamp": "14:10:19",
+      "date": "2026-01-16",
+      "full_timestamp": "2026-01-16T14:10:19.627388",
+      "created_at": "2026-01-16T14:10:37.903660",
+      "base_layer_percentage": 4,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 2,
-  "timestamp": "2026-01-16T14:00:52.680059",
+  "count": 3,
+  "timestamp": "2026-01-16T14:10:40.224668",
   "error": null
 }
