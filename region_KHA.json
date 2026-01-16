@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KHA",
   "region_name": "Красноярский край",
-  "base_layer": "KHA Базовый слой 16.01.2026 11:18:\n\n1) HK0080 2026-01-15T18:03:35\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- HK0148; wo Нет;Время 2026-01-16 09:31:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KHA Неприоритетные технологии 16.01.2026 11:18:\n\nНедоступно LTE1800:\n1) HK0080\nНедоступно LTE800:\n1) HK0011\n2) HK0080\n",
-  "timestamp": "11:18:35",
+  "base_layer": "KHA Базовый слой 16.01.2026 11:32:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KHA Неприоритетные технологии 16.01.2026 11:32:\n\nНедоступно LTE800:\n1) HK0011\n",
+  "timestamp": "11:32:44",
   "date": "2026-01-16",
-  "full_timestamp": "2026-01-16T11:18:35.854816",
+  "full_timestamp": "2026-01-16T11:32:44.218408",
   "stats": {
-    "total_bs": 3,
-    "base_layer_count": 1,
-    "power_problems": 2,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "total_bs": 2,
+    "base_layer_count": 0,
+    "power_problems": 1,
+    "non_priority_percentage": 100,
+    "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-16T11:18:35.854816",
+  "collected_at": "2026-01-16T11:32:44.218408",
   "macroregion": "Сибирь"
 }
