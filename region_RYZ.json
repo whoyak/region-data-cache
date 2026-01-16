@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "RYZ",
   "region_name": "Рязанская область",
-  "base_layer": "RYZ Базовый слой 16.01.2026 13:18:\n\n1) RZ0336 2026-01-16T12:24:02\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- RZ0058; wo Нет;Время 2026-01-16 12:57:05\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "RYZ Неприоритетные технологии 16.01.2026 13:18:\n\nНедоступно LTE1800:\n1) RZ0336\nНедоступно 3G:\n1) RZ0336\n2) RZ0046\nНедоступно LTE800:\n1) RZ0336\nНедоступно LTE2300:\n1) RZ0461\n2) RZ0093\n3) RZ0745\n",
-  "timestamp": "13:18:45",
+  "base_layer": "RYZ Базовый слой 16.01.2026 13:31:\n\n1) RZ0471 2026-01-16T13:16:26\nPower Нет; Посещение Нет; WO Есть\n2) RZ0336 2026-01-16T12:24:02\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- RZ0471; wo Есть;Время 2026-01-16 08:09:11\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "RYZ Неприоритетные технологии 16.01.2026 13:31:\n\nНедоступно LTE1800:\n1) RZ0471\n2) RZ0336\nНедоступно 3G:\n1) RZ0336\n2) RZ0046\n3) RZ0241\nНедоступно LTE800:\n1) RZ0336\nНедоступно LTE2300:\n1) RZ0461\n2) RZ0093\n3) RZ0745\n",
+  "timestamp": "13:31:34",
   "date": "2026-01-16",
-  "full_timestamp": "2026-01-16T13:18:45.402262",
+  "full_timestamp": "2026-01-16T13:31:34.387588",
   "stats": {
-    "total_bs": 6,
-    "base_layer_count": 1,
+    "total_bs": 8,
+    "base_layer_count": 2,
     "power_problems": 1,
-    "non_priority_percentage": 84,
-    "base_layer_percentage": 16
+    "non_priority_percentage": 75,
+    "base_layer_percentage": 25
   },
   "is_real_data": true,
-  "collected_at": "2026-01-16T13:18:45.402262",
+  "collected_at": "2026-01-16T13:31:34.387588",
   "macroregion": "Центр"
 }
