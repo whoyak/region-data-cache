@@ -18,9 +18,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "TUM",
+      "region_name": "Тюменская область",
+      "base_layer": "TUM Базовый слой 17.01.2026 12:54:\n\n1) TU0419 2026-01-16T06:53:23\nPower Да; Посещение Нет; WO Нет\n2) TU0826 2026-01-16T10:42:33\nPower Да; Посещение Да; WO Есть\n3) TU0187 2026-01-17T11:23:33\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUM Неприоритетные технологии 17.01.2026 12:54:\n\nНедоступно 3G:\n1) TU0115\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0618\n",
+      "base_layer_count": 3,
+      "total_bs_count": 9,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "12:54:16",
+      "date": "2026-01-17",
+      "full_timestamp": "2026-01-17T12:54:16.320720",
+      "created_at": "2026-01-17T12:54:24.872363",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 1,
-  "timestamp": "2026-01-17T12:41:50.454742",
+  "count": 2,
+  "timestamp": "2026-01-17T12:54:26.765745",
   "error": null
 }
