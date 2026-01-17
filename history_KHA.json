@@ -18,9 +18,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KHA",
+      "region_name": "Красноярский край",
+      "base_layer": "KHA Базовый слой 17.01.2026 20:35:\n\n1) HK0271 2026-01-17T16:59:35\nPower Да; Посещение Нет; WO Есть\n2) HK0084 2026-01-17T17:41:35\nPower Да; Посещение Нет; WO Есть\n3) HK0328 2026-01-17T19:45:05\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- HK0232; wo Есть;Время 2026-01-17 19:12:25\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KHA Неприоритетные технологии 17.01.2026 20:35:\n\nНедоступно LTE1800:\n1) HK0271\n2) HK0328\nНедоступно 3G:\n1) HK0048\n2) HK0185\n3) HK0232\nНедоступно LTE800:\n1) HK0271\n2) HK0092\n3) HK0232\nНедоступно LTE2600:\n1) HK0232\n",
+      "base_layer_count": 3,
+      "total_bs_count": 7,
+      "power_problems": 1,
+      "non_priority_percentage": 58,
+      "timestamp": "20:35:01",
+      "date": "2026-01-17",
+      "full_timestamp": "2026-01-17T20:35:01.627398",
+      "created_at": "2026-01-17T20:35:14.945038",
+      "base_layer_percentage": 42,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 1,
-  "timestamp": "2026-01-17T20:22:39.410120",
+  "count": 2,
+  "timestamp": "2026-01-17T20:35:16.969003",
   "error": null
 }
