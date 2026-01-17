@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "TAM",
   "region_name": "Тамбовская область",
-  "base_layer": "TAM Базовый слой 17.01.2026 08:10:\n\n1) TM0908 2026-01-17T07:04:20\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "TAM Неприоритетные технологии 17.01.2026 08:10:\n\nНедоступно LTE1800:\n1) TM0908\nНедоступно LTE2300:\n1) TM0893\n2) TM0944\n3) TM0908\n4) TM0705\n5) TM0949\n6) TM0844\n",
-  "timestamp": "08:10:53",
+  "base_layer": "TAM Базовый слой 17.01.2026 08:23:\n\n1) TM0908 2026-01-17T07:04:20\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "TAM Неприоритетные технологии 17.01.2026 08:23:\n\nНедоступно LTE1800:\n1) TM0908\nНедоступно 3G:\n1) TM2163\nНедоступно LTE2100:\n1) TM2163\nНедоступно LTE2300:\n1) TM0893\n2) TM0944\n3) TM0908\n4) TM0705\n5) TM0949\n6) TM0844\n",
+  "timestamp": "08:23:31",
   "date": "2026-01-17",
-  "full_timestamp": "2026-01-17T08:10:53.694508",
+  "full_timestamp": "2026-01-17T08:23:31.373125",
   "stats": {
-    "total_bs": 12,
+    "total_bs": 13,
     "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 92,
-    "base_layer_percentage": 8
+    "power_problems": 2,
+    "non_priority_percentage": 93,
+    "base_layer_percentage": 7
   },
   "is_real_data": true,
-  "collected_at": "2026-01-17T08:10:53.694508",
+  "collected_at": "2026-01-17T08:23:31.373125",
   "macroregion": "Черноземье"
 }
