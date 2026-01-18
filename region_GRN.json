@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "GRN",
   "region_name": "Горно-Алтайск",
-  "base_layer": "GRN Базовый слой 18.01.2026 11:19:\n\n1) GA0513 2026-01-17T16:33:34\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "GRN Неприоритетные технологии 18.01.2026 11:19:\n\nНедоступно LTE1800:\n1) GA0513\nНедоступно LTE2600:\n1) GA0513\nНедоступно LTE2300:\n1) GA0151\n",
-  "timestamp": "11:19:18",
+  "base_layer": "GRN Базовый слой 18.01.2026 11:31:\n\n1) GA0320 2026-01-18T10:54:57\nPower Нет; Посещение Нет; WO Есть\n2) GA0513 2026-01-17T16:33:34\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "GRN Неприоритетные технологии 18.01.2026 11:31:\n\nНедоступно LTE1800:\n1) GA0320\n2) GA0513\nНедоступно LTE2600:\n1) GA0513\nНедоступно LTE2300:\n1) GA0151\n",
+  "timestamp": "11:31:56",
   "date": "2026-01-18",
-  "full_timestamp": "2026-01-18T11:19:18.008899",
+  "full_timestamp": "2026-01-18T11:31:56.723774",
   "stats": {
-    "total_bs": 2,
-    "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 50,
-    "base_layer_percentage": 50
+    "total_bs": 3,
+    "base_layer_count": 2,
+    "power_problems": 1,
+    "non_priority_percentage": 34,
+    "base_layer_percentage": 66
   },
   "is_real_data": true,
-  "collected_at": "2026-01-18T11:19:18.008899",
+  "collected_at": "2026-01-18T11:31:56.723774",
   "macroregion": "Сибирь"
 }
