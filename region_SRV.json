@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SRV",
   "region_name": "Саратовская область",
-  "base_layer": "SRV Базовый слой 19.01.2026 15:48:\n\n1) SV0811 2026-01-19T01:26:29\nPower Да; Посещение Нет; WO Нет\n2) SV0440 2026-01-19T15:13:59\nPower Да; Посещение Нет; WO Нет\n3) SV1175 2026-01-19T15:18:59\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SRV Неприоритетные технологии 19.01.2026 15:48:\n\nНедоступно LTE1800:\n1) SV0811\nНедоступно 3G:\n1) SV0811\n2) SV2164\n3) SV0042\n4) SV0271\n5) SV1024\n6) SV1450\nНедоступно LTE800:\n1) SV0811\n2) SV1545\nНедоступно LTE2100:\n1) SV0042\n2) SV0271\n3) SV1024\nНедоступно LTE2300:\n1) SV1515\n2) SV1455\n3) SV0688\n4) SV1793\n5) SV1685\n6) SV1468\n7) SV1775\n8) SV1925\n9) SV0042\n10) SV0445\n11) SV0742\n12) SV0452\n",
-  "timestamp": "15:48:28",
+  "base_layer": "SRV Базовый слой 19.01.2026 16:00:\n\n1) SV0811 2026-01-19T01:26:29\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SRV Неприоритетные технологии 19.01.2026 16:00:\n\nНедоступно LTE1800:\n1) SV0811\nНедоступно 3G:\n1) SV0811\n2) SV2164\n3) SV0042\n4) SV0271\n5) SV1024\n6) SV1450\nНедоступно LTE800:\n1) SV0811\n2) SV1545\nНедоступно LTE2100:\n1) SV0042\n2) SV0271\n3) SV1024\nНедоступно LTE2300:\n1) SV1515\n2) SV1455\n3) SV0688\n4) SV1793\n5) SV1685\n6) SV1468\n7) SV1775\n8) SV1925\n9) SV0042\n10) SV0445\n11) SV0742\n12) SV0452\n",
+  "timestamp": "16:00:26",
   "date": "2026-01-19",
-  "full_timestamp": "2026-01-19T15:48:28.992821",
+  "full_timestamp": "2026-01-19T16:00:26.707065",
   "stats": {
     "total_bs": 20,
-    "base_layer_count": 3,
+    "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 85,
-    "base_layer_percentage": 15
+    "non_priority_percentage": 95,
+    "base_layer_percentage": 5
   },
   "is_real_data": true,
-  "collected_at": "2026-01-19T15:48:28.992821",
+  "collected_at": "2026-01-19T16:00:26.707065",
   "macroregion": "Черноземье"
 }
