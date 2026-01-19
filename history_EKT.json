@@ -18,9 +18,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "EKT",
+      "region_name": "Екатеринбург",
+      "base_layer": "EKT Базовый слой 19.01.2026 07:29:\n\n1) EK1291 2026-01-19T06:39:00\nPower Да; Посещение Нет; WO Есть\n2) EK0694 2026-01-09T06:25:45\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- EK1218; wo Нет;Время 2026-01-19 06:37:20\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "EKT Неприоритетные технологии 19.01.2026 07:29:\n\nНедоступно LTE1800:\n1) EK0694\nНедоступно 3G:\n1) EK1218\n2) EK1291\nНедоступно LTE800:\n1) EK1218\n2) EK1291\n3) EO0082\nНедоступно LTE2600:\n1) EK1291\n2) EK1030\nНедоступно LTE2100:\n1) EK1218\n2) EK1291\nНедоступно LTE2300:\n1) EK1447\n2) EK1224\n3) EK1296\n",
+      "base_layer_count": 2,
+      "total_bs_count": 9,
+      "power_problems": 1,
+      "non_priority_percentage": 78,
+      "timestamp": "07:29:20",
+      "date": "2026-01-19",
+      "full_timestamp": "2026-01-19T07:29:20.065594",
+      "created_at": "2026-01-19T07:29:30.464581",
+      "base_layer_percentage": 22,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 1,
-  "timestamp": "2026-01-19T07:16:52.892783",
+  "count": 2,
+  "timestamp": "2026-01-19T07:29:32.476428",
   "error": null
 }
