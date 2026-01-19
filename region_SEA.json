@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SEA",
   "region_name": "Юго-Восточный округ Москвы",
-  "base_layer": "SEA Базовый слой 19.01.2026 10:29:\n\n1) MR6038 2026-01-19T05:03:40\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SEA Неприоритетные технологии 19.01.2026 10:29:\n\nНедоступно 3G:\n1) MR6038\nНедоступно LTE2600:\n1) MS0176\n2) MR6038\n",
-  "timestamp": "10:29:37",
+  "base_layer": "SEA Базовый слой 19.01.2026 10:42:\n\n1) MR6038 2026-01-19T05:03:40\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- MO4047; wo Нет;Время 2026-01-19 10:20:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SEA Неприоритетные технологии 19.01.2026 10:42:\n\nНедоступно 3G:\n1) MR6038\nНедоступно LTE2600:\n1) MS0176\n2) MR6038\n3) MR0128\n",
+  "timestamp": "10:42:43",
   "date": "2026-01-19",
-  "full_timestamp": "2026-01-19T10:29:37.583713",
+  "full_timestamp": "2026-01-19T10:42:43.580448",
   "stats": {
-    "total_bs": 23,
+    "total_bs": 26,
     "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 96,
-    "base_layer_percentage": 4
+    "power_problems": 2,
+    "non_priority_percentage": 97,
+    "base_layer_percentage": 3
   },
   "is_real_data": true,
-  "collected_at": "2026-01-19T10:29:37.583713",
+  "collected_at": "2026-01-19T10:42:43.580448",
   "macroregion": "Москва"
 }
