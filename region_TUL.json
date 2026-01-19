@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "TUL",
   "region_name": "Тульская область",
-  "base_layer": "TUL Базовый слой 19.01.2026 20:03:\n\n1) TL0348 2026-01-19T19:13:04\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- TL0149; wo Есть;Время 2026-01-19 16:40:00\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "TUL Неприоритетные технологии 19.01.2026 20:03:\n\nНедоступно LTE1800:\n1) TL0348\nНедоступно LTE800:\n1) TL0348\nНедоступно LTE2600:\n1) TL0348\nНедоступно LTE2300:\n1) TL1514\n",
-  "timestamp": "20:03:47",
+  "base_layer": "TUL Базовый слой 19.01.2026 20:16:\n\n1) TL0348 2026-01-19T19:13:04\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "TUL Неприоритетные технологии 19.01.2026 20:16:\n\nНедоступно LTE2300:\n1) TL1514\n",
+  "timestamp": "20:16:45",
   "date": "2026-01-19",
-  "full_timestamp": "2026-01-19T20:03:47.790929",
+  "full_timestamp": "2026-01-19T20:16:45.125831",
   "stats": {
-    "total_bs": 7,
+    "total_bs": 4,
     "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 86,
-    "base_layer_percentage": 14
+    "power_problems": 0,
+    "non_priority_percentage": 75,
+    "base_layer_percentage": 25
   },
   "is_real_data": true,
-  "collected_at": "2026-01-19T20:03:47.790929",
+  "collected_at": "2026-01-19T20:16:45.125831",
   "macroregion": "Центр"
 }
