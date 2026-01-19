@@ -18,9 +18,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "VLD",
+      "region_name": "Владивосток",
+      "base_layer": "VLD Базовый слой 19.01.2026 16:56:\n\n1) VV0256 2026-01-19T16:35:48\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VV0256; wo Есть;Время 2026-01-19 13:02:09\n- VV0440; wo Нет;Время 2026-01-19 16:25:52\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLD Неприоритетные технологии 19.01.2026 16:56:\n\nНедоступно LTE1800:\n1) VV0256\nНедоступно 3G:\n1) VV0256\n2) VV0440\nНедоступно LTE2100:\n1) VV0256\n2) VV0440\n",
+      "base_layer_count": 1,
+      "total_bs_count": 2,
+      "power_problems": 2,
+      "non_priority_percentage": 50,
+      "timestamp": "16:56:46",
+      "date": "2026-01-19",
+      "full_timestamp": "2026-01-19T16:56:46.314020",
+      "created_at": "2026-01-19T16:57:11.028307",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 1,
-  "timestamp": "2026-01-19T16:44:13.740554",
+  "count": 2,
+  "timestamp": "2026-01-19T16:57:13.226440",
   "error": null
 }
