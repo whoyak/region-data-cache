@@ -35,9 +35,26 @@
       "base_layer_percentage": 19,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "SRV",
+      "region_name": "Саратовская область",
+      "base_layer": "SRV Базовый слой 19.01.2026 05:00:\n\n1) SV0811 2026-01-19T01:26:29\nPower Да; Посещение Нет; WO Нет\n2) SV0106 2026-01-18T17:18:29\nPower Да; Посещение Нет; WO Есть\n3) SV1993 2026-01-18T10:18:54\nPower Да; Посещение Нет; WO Есть\n4) SV0217 2026-01-18T11:36:29\nPower Да; Посещение Нет; WO Есть\n5) SV1942 2026-01-18T18:13:45\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SRV Неприоритетные технологии 19.01.2026 05:00:\n\nНедоступно LTE1800:\n1) SV0811\n2) SV0106\n3) SV1993\nНедоступно 3G:\n1) SV0811\n2) SV0106\n3) SV2164\n4) SV0271\n5) SV1024\n6) SV1450\nНедоступно LTE800:\n1) SV0852\n2) SV0811\n3) SV1545\nНедоступно LTE2600:\n1) SV1993\nНедоступно LTE2100:\n1) SV0106\n2) SV2164\n3) SV0271\n4) SV1024\nНедоступно LTE2300:\n1) SV0254\n2) SV0160\n3) SV1515\n4) SV0106\n5) SV0435\n6) SV0351\n7) SV0434\n8) SV1685\n9) SV1468\n10) SV1993\n11) SV0509\n12) SV1775\n13) SV1925\n14) SV0445\n15) SV0329\n16) SV0452\n",
+      "base_layer_count": 5,
+      "total_bs_count": 26,
+      "power_problems": 0,
+      "non_priority_percentage": 81,
+      "timestamp": "05:00:23",
+      "date": "2026-01-19",
+      "full_timestamp": "2026-01-19T05:00:23.909687",
+      "created_at": "2026-01-19T05:00:25.935494",
+      "base_layer_percentage": 19,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 2,
-  "timestamp": "2026-01-19T04:54:47.708394",
+  "count": 3,
+  "timestamp": "2026-01-19T05:00:28.154937",
   "error": null
 }
