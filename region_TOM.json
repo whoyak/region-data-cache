@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "TOM",
   "region_name": "Томская область",
-  "base_layer": "TOM Базовый слой 20.01.2026 14:17:\n\n1) TO0167 2026-01-17T08:03:37\nPower Да; Посещение Нет; WO Нет\n2) TO0258 2026-01-17T07:03:04\nPower Да; Посещение Нет; WO Есть\n3) TO0826 2026-01-18T21:03:37\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "TOM Неприоритетные технологии 20.01.2026 14:17:\n\nНедоступно LTE1800:\n1) TO0258\n2) TO0826\nНедоступно 3G:\n1) TO0478\n2) TO0392\n3) TO0421\n4) TO0024\n5) TO0178\nНедоступно LTE800:\n1) TO0258\n2) TO0421\nНедоступно LTE2100:\n1) TO0392\n2) TO0421\n",
-  "timestamp": "14:17:42",
+  "base_layer": "TOM Базовый слой 20.01.2026 14:31:\n\n1) TO0167 2026-01-17T08:03:37\nPower Да; Посещение Нет; WO Нет\n2) TO0258 2026-01-17T07:03:04\nPower Да; Посещение Нет; WO Есть\n3) TO0826 2026-01-18T21:03:37\nPower Да; Посещение Нет; WO Есть\n4) TO2914 2026-01-20T13:49:42\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "TOM Неприоритетные технологии 20.01.2026 14:31:\n\nНедоступно LTE1800:\n1) TO0258\n2) TO0826\n3) TO2914\nНедоступно 3G:\n1) TO0478\n2) TO0392\n3) TO0421\n4) TO0024\n5) TO0178\nНедоступно LTE800:\n1) TO0258\n2) TO0421\nНедоступно LTE2100:\n1) TO0392\n2) TO0421\n",
+  "timestamp": "14:31:47",
   "date": "2026-01-20",
-  "full_timestamp": "2026-01-20T14:17:42.477667",
+  "full_timestamp": "2026-01-20T14:31:47.210038",
   "stats": {
-    "total_bs": 8,
-    "base_layer_count": 3,
-    "power_problems": 0,
-    "non_priority_percentage": 63,
-    "base_layer_percentage": 37
+    "total_bs": 9,
+    "base_layer_count": 4,
+    "power_problems": 1,
+    "non_priority_percentage": 56,
+    "base_layer_percentage": 44
   },
   "is_real_data": true,
-  "collected_at": "2026-01-20T14:17:42.477667",
+  "collected_at": "2026-01-20T14:31:47.210038",
   "macroregion": "Сибирь"
 }
