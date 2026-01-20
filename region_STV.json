@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "STV",
   "region_name": "Ставропольский край",
-  "base_layer": "STV Базовый слой 20.01.2026 14:00:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "STV Неприоритетные технологии 20.01.2026 14:00:\n\nНедоступно LTE800:\n1) ST0538\n",
-  "timestamp": "14:00:32",
+  "base_layer": "STV Базовый слой 20.01.2026 14:04:\n\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- ST1859; wo Нет;Время 2026-01-20 12:13:41\n- ST1677; wo Нет;Время 2026-01-20 09:14:10\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "STV Неприоритетные технологии 20.01.2026 14:04:\n\nНедоступно LTE800:\n1) ST0538\n2) ST1859\n3) ST1677\n",
+  "timestamp": "14:04:33",
   "date": "2026-01-20",
-  "full_timestamp": "2026-01-20T14:00:32.013603",
+  "full_timestamp": "2026-01-20T14:04:33.876446",
   "stats": {
-    "total_bs": 14,
+    "total_bs": 15,
     "base_layer_count": 0,
-    "power_problems": 0,
+    "power_problems": 2,
     "non_priority_percentage": 100,
     "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-20T14:00:32.013603",
+  "collected_at": "2026-01-20T14:04:33.876446",
   "macroregion": "ЮГ"
 }
