@@ -18,9 +18,26 @@
       "base_layer_percentage": 20,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "SWS",
+      "region_name": "Юго-Западный округ Москвы",
+      "base_layer": "SWS Базовый слой 20.01.2026 15:33:\n\n1) MS6270 2026-01-20T15:21:23\nPower Да; Посещение Да; WO Нет\n2) MS3535 2026-01-20T15:20:51\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n9 приоритет:\n- MR5942; wo Нет;Время 2026-01-20 14:34:34\n\n10 приоритет:\n- MS3535; wo Нет;Время 2026-01-20 12:12:57\n- MC5120; wo Нет;Время 2026-01-20 14:38:13\n- MS2827; wo Нет;Время 2026-01-20 14:51:43\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SWS Неприоритетные технологии 20.01.2026 15:33:\n\nНедоступно 3G:\n1) MS6270\n2) MS3535\nНедоступно LTE2600:\n1) MR5942\n2) MO4424\n3) MO3694\n4) MS2827\n",
+      "base_layer_count": 2,
+      "total_bs_count": 24,
+      "power_problems": 5,
+      "non_priority_percentage": 92,
+      "timestamp": "15:33:28",
+      "date": "2026-01-20",
+      "full_timestamp": "2026-01-20T15:33:28.082922",
+      "created_at": "2026-01-20T15:33:48.846423",
+      "base_layer_percentage": 8,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 1,
-  "timestamp": "2026-01-20T15:19:25.997528",
+  "count": 2,
+  "timestamp": "2026-01-20T15:33:53.088369",
   "error": null
 }
