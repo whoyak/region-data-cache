@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ORB",
   "region_name": "Оренбургская область",
-  "base_layer": "ORB Базовый слой 20.01.2026 07:16:\n\n1) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- OB0419; wo Нет;Время 2026-01-20 06:56:27\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ORB Неприоритетные технологии 20.01.2026 07:16:\n\nНедоступно LTE1800:\n1) OB0228\nНедоступно 3G:\n1) OB0419\nНедоступно LTE800:\n1) OB0260\nНедоступно LTE2300:\n1) OB0222\n2) OB0102\n3) OB0652\n4) OB0015\n5) OB0005\n6) OB2245\n7) OB0277\n8) OB0011\n9) OB0548\n10) OB0454\n11) OB2928\n12) OB2212\n13) OB0019\n14) OB0210\n15) OB0408\n16) OB0809\n",
-  "timestamp": "07:16:52",
+  "base_layer": "ORB Базовый слой 20.01.2026 07:29:\n\n1) OB0015 2026-01-20T07:21:13\nPower Да; Посещение Нет; WO Нет\n2) OB0911 2026-01-20T07:18:17\nPower Да; Посещение Нет; WO Нет\n3) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ORB Неприоритетные технологии 20.01.2026 07:29:\n\nНедоступно LTE1800:\n1) OB0015\n2) OB0911\n3) OB0228\nНедоступно 3G:\n1) OB0911\nНедоступно LTE800:\n1) OB0911\n2) OB0260\nНедоступно LTE2100:\n1) OB0911\nНедоступно LTE2300:\n1) OB0222\n2) OB0102\n3) OB0652\n4) OB0015\n5) OB0005\n6) OB2245\n7) OB0277\n8) OB0011\n9) OB0548\n10) OB0454\n11) OB2928\n12) OB2212\n13) OB0019\n14) OB0101\n15) OB0210\n16) OB0408\n17) OB0411\n18) OB0809\n",
+  "timestamp": "07:29:40",
   "date": "2026-01-20",
-  "full_timestamp": "2026-01-20T07:16:52.665214",
+  "full_timestamp": "2026-01-20T07:29:40.763187",
   "stats": {
-    "total_bs": 22,
-    "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 96,
-    "base_layer_percentage": 4
+    "total_bs": 25,
+    "base_layer_count": 3,
+    "power_problems": 0,
+    "non_priority_percentage": 88,
+    "base_layer_percentage": 12
   },
   "is_real_data": true,
-  "collected_at": "2026-01-20T07:16:52.665214",
+  "collected_at": "2026-01-20T07:29:40.763187",
   "macroregion": "Урал"
 }
