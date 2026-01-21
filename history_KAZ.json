@@ -69,9 +69,26 @@
       "base_layer_percentage": 8,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "KAZ",
+      "region_name": "Казань",
+      "base_layer": "KAZ Базовый слой 21.01.2026 13:16:\n\n1) TT1051 2026-01-21T12:58:41\nPower Да; Посещение Нет; WO Нет\n2) TT1208 2026-01-21T13:01:28\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KAZ Неприоритетные технологии 21.01.2026 13:16:\n\nНедоступно LTE1800:\n1) TT1051\n2) TT1208\nНедоступно 3G:\n1) TT0346\n2) TT1049\nНедоступно LTE800:\n1) TT1049\n2) TT1051\n3) TT1208\nНедоступно LTE2600:\n1) TT1049\nНедоступно LTE2100:\n1) TT1049\n2) TT1051\n3) TT1208\nНедоступно LTE2300:\n1) TT1316\n2) TT1331\n3) TT1051\n4) TT1208\n",
+      "base_layer_count": 2,
+      "total_bs_count": 14,
+      "power_problems": 1,
+      "non_priority_percentage": 86,
+      "timestamp": "13:16:02",
+      "date": "2026-01-21",
+      "full_timestamp": "2026-01-21T13:16:02.781327",
+      "created_at": "2026-01-21T13:16:23.850202",
+      "base_layer_percentage": 14,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
-  "count": 4,
-  "timestamp": "2026-01-21T13:03:28.977324",
+  "count": 5,
+  "timestamp": "2026-01-21T13:16:26.822196",
   "error": null
 }
