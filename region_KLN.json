@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KLN",
   "region_name": "Калининградская область",
-  "base_layer": "KLN Базовый слой 21.01.2026 11:18:\n\n1) KN2154 2026-01-21T11:02:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KLN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2300:\n1) KN2154\n",
-  "timestamp": "11:18:12",
+  "base_layer": "KLN Базовый слой 21.01.2026 11:31:\n\n1) KN2355 2026-01-21T11:03:57\nPower Да; Посещение Нет; WO Нет\n2) KN2049 2026-01-21T11:13:40\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN2136; wo Нет;Время 2026-01-21 10:51:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KLN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KN2355\nНедоступно 3G:\n1) KN2049\n2) KN2136\nНедоступно LTE2300:\n1) KN2154\n",
+  "timestamp": "11:31:25",
   "date": "2026-01-21",
-  "full_timestamp": "2026-01-21T11:18:12.442082",
+  "full_timestamp": "2026-01-21T11:31:25.239941",
   "stats": {
-    "total_bs": 1,
-    "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 0,
-    "base_layer_percentage": 100
+    "total_bs": 12,
+    "base_layer_count": 2,
+    "power_problems": 1,
+    "non_priority_percentage": 84,
+    "base_layer_percentage": 16
   },
   "is_real_data": true,
-  "collected_at": "2026-01-21T11:18:12.442082",
+  "collected_at": "2026-01-21T11:31:25.239941",
   "macroregion": "Северо-запад"
 }
