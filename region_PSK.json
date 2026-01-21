@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "PSK",
   "region_name": "Псковская область",
-  "base_layer": "PSK Базовый слой 21.01.2026 10:09:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "PSK Неприоритетные технологии 21.01.2026 10:09:\n\nНедоступно 3G:\n1) PS0096\nНедоступно LTE800:\n1) PS0096\nНедоступно LTE2100:\n1) PS0096\n",
-  "timestamp": "10:09:59",
+  "base_layer": "PSK Базовый слой 21.01.2026 10:24:\n\n1) PS0096 2026-01-21T10:04:20\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\n10 приоритет:\n- PS0096; wo Нет;Время 2026-01-21 04:02:05\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "PSK Неприоритетные технологии 21.01.2026 10:24:\n\nНедоступно 3G:\n1) PS0096\n",
+  "timestamp": "10:24:46",
   "date": "2026-01-21",
-  "full_timestamp": "2026-01-21T10:09:59.736001",
+  "full_timestamp": "2026-01-21T10:24:46.629392",
   "stats": {
     "total_bs": 1,
-    "base_layer_count": 0,
+    "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 0,
+    "base_layer_percentage": 100
   },
   "is_real_data": true,
-  "collected_at": "2026-01-21T10:09:59.736001",
+  "collected_at": "2026-01-21T10:24:46.629392",
   "macroregion": "Северо-запад"
 }
