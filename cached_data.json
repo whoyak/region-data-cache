@@ -1,12 +1,12 @@
 {
   "_meta": {
     "created_at": "2026-01-21T11:18:30.533944",
-    "last_updated": "2026-01-21T11:18:30.533944",
+    "last_updated": "2026-01-21T11:31:41.657023",
     "history_enabled": true,
     "max_history_days": 7,
     "total_regions": 76,
     "full_history": true,
-    "history_entries": 76,
+    "history_entries": 128,
     "full_history_enabled": true
   },
   "BRT": {
@@ -916,20 +916,20 @@
       "success": true,
       "region_code": "ARH",
       "region_name": "Архангельская область",
-      "base_layer": "ARH Базовый слой 21.01.2026 11:18:\n\n1) AR0610 2026-01-20T20:41:07\nPower Нет; Посещение Нет; WO Есть\n2) AR2200 2026-01-21T00:57:00\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- AR0136; wo Нет;Время 2026-01-21 10:33:17\n\n10 приоритет:\n- AR0719; wo Нет;Время 2026-01-21 10:31:22\n- AR2200; wo Есть;Время 2026-01-20 19:21:45\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ARH Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) AR0610\nНедоступно 3G:\n1) AR0136\n2) AR1165\n3) AR0719\n4) AR2200\nНедоступно LTE800:\n1) AR2200\nНедоступно LTE2100:\n1) AR1165\n2) AR0719\n",
-      "timestamp": "11:18:12",
+      "base_layer": "ARH Базовый слой 21.01.2026 11:31:\n\n1) AR2200 2026-01-21T00:57:00\nPower Нет; Посещение Нет; WO Нет\n2) AR0610 2026-01-20T20:41:07\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- AR0719; wo Нет;Время 2026-01-21 10:31:22\n- AR2200; wo Нет;Время 2026-01-20 19:21:45\n\n9 приоритет:\n- AR0136; wo Нет;Время 2026-01-21 10:33:17\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ARH Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) AR0610\nНедоступно 3G:\n1) AR0719\n2) AR0222\n3) AR2200\n4) AR0136\nНедоступно LTE800:\n1) AR0222\n2) AR2200\nНедоступно LTE2100:\n1) AR0719\n",
+      "timestamp": "11:31:24",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:12.122876",
+      "full_timestamp": "2026-01-21T11:31:24.946669",
       "stats": {
-        "total_bs": 7,
+        "total_bs": 6,
         "base_layer_count": 2,
-        "power_problems": 4,
-        "non_priority_percentage": 72,
-        "base_layer_percentage": 28
+        "power_problems": 5,
+        "non_priority_percentage": 67,
+        "base_layer_percentage": 33
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:12.122876",
+      "collected_at": "2026-01-21T11:31:24.946669",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -949,6 +949,23 @@
         "base_layer_percentage": 28,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "ARH",
+        "region_name": "Архангельская область",
+        "base_layer": "ARH Базовый слой 21.01.2026 11:31:\n\n1) AR2200 2026-01-21T00:57:00\nPower Нет; Посещение Нет; WO Нет\n2) AR0610 2026-01-20T20:41:07\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- AR0719; wo Нет;Время 2026-01-21 10:31:22\n- AR2200; wo Нет;Время 2026-01-20 19:21:45\n\n9 приоритет:\n- AR0136; wo Нет;Время 2026-01-21 10:33:17\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "ARH Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) AR0610\nНедоступно 3G:\n1) AR0719\n2) AR0222\n3) AR2200\n4) AR0136\nНедоступно LTE800:\n1) AR0222\n2) AR2200\nНедоступно LTE2100:\n1) AR0719\n",
+        "base_layer_count": 2,
+        "total_bs_count": 6,
+        "power_problems": 5,
+        "non_priority_percentage": 67,
+        "timestamp": "11:31:24",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:24.946669",
+        "created_at": "2026-01-21T11:31:41.657039",
+        "base_layer_percentage": 33,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -957,20 +974,20 @@
       "success": true,
       "region_code": "KLN",
       "region_name": "Калининградская область",
-      "base_layer": "KLN Базовый слой 21.01.2026 11:18:\n\n1) KN2154 2026-01-21T11:02:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KLN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2300:\n1) KN2154\n",
-      "timestamp": "11:18:12",
+      "base_layer": "KLN Базовый слой 21.01.2026 11:31:\n\n1) KN2355 2026-01-21T11:03:57\nPower Да; Посещение Нет; WO Нет\n2) KN2049 2026-01-21T11:13:40\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN2136; wo Нет;Время 2026-01-21 10:51:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KN2355\nНедоступно 3G:\n1) KN2049\n2) KN2136\nНедоступно LTE2300:\n1) KN2154\n",
+      "timestamp": "11:31:25",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:12.442082",
+      "full_timestamp": "2026-01-21T11:31:25.239941",
       "stats": {
-        "total_bs": 1,
-        "base_layer_count": 1,
-        "power_problems": 0,
-        "non_priority_percentage": 0,
-        "base_layer_percentage": 100
+        "total_bs": 12,
+        "base_layer_count": 2,
+        "power_problems": 1,
+        "non_priority_percentage": 84,
+        "base_layer_percentage": 16
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:12.442082",
+      "collected_at": "2026-01-21T11:31:25.239941",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -990,6 +1007,23 @@
         "base_layer_percentage": 100,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "KLN",
+        "region_name": "Калининградская область",
+        "base_layer": "KLN Базовый слой 21.01.2026 11:31:\n\n1) KN2355 2026-01-21T11:03:57\nPower Да; Посещение Нет; WO Нет\n2) KN2049 2026-01-21T11:13:40\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KN2136; wo Нет;Время 2026-01-21 10:51:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KLN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KN2355\nНедоступно 3G:\n1) KN2049\n2) KN2136\nНедоступно LTE2300:\n1) KN2154\n",
+        "base_layer_count": 2,
+        "total_bs_count": 12,
+        "power_problems": 1,
+        "non_priority_percentage": 84,
+        "timestamp": "11:31:25",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:25.239941",
+        "created_at": "2026-01-21T11:31:41.657395",
+        "base_layer_percentage": 16,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -998,20 +1032,20 @@
       "success": true,
       "region_code": "MUR",
       "region_name": "Мурманская область",
-      "base_layer": "MUR Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MUR Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) MU0093\nНедоступно LTE800:\n1) MU0086\n",
-      "timestamp": "11:18:12",
+      "base_layer": "MUR Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MUR Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) MU0093\nНедоступно LTE800:\n1) MU0086\n",
+      "timestamp": "11:31:25",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:12.765376",
+      "full_timestamp": "2026-01-21T11:31:25.521535",
       "stats": {
-        "total_bs": 3,
+        "total_bs": 2,
         "base_layer_count": 0,
         "power_problems": 0,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:12.765376",
+      "collected_at": "2026-01-21T11:31:25.521535",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1031,6 +1065,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "MUR",
+        "region_name": "Мурманская область",
+        "base_layer": "MUR Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "MUR Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) MU0093\nНедоступно LTE800:\n1) MU0086\n",
+        "base_layer_count": 0,
+        "total_bs_count": 2,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:25",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:25.521535",
+        "created_at": "2026-01-21T11:31:41.657409",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1039,11 +1090,11 @@
       "success": true,
       "region_code": "NOV",
       "region_name": "Новгородская область",
-      "base_layer": "NOV Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NOV Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2600:\n1) VN0010\n",
-      "timestamp": "11:18:13",
+      "base_layer": "NOV Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NOV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2600:\n1) VN0010\n",
+      "timestamp": "11:31:25",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:13.079609",
+      "full_timestamp": "2026-01-21T11:31:25.804038",
       "stats": {
         "total_bs": 2,
         "base_layer_count": 0,
@@ -1052,7 +1103,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:13.079609",
+      "collected_at": "2026-01-21T11:31:25.804038",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1072,6 +1123,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "NOV",
+        "region_name": "Новгородская область",
+        "base_layer": "NOV Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "NOV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2600:\n1) VN0010\n",
+        "base_layer_count": 0,
+        "total_bs_count": 2,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:25",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:25.804038",
+        "created_at": "2026-01-21T11:31:41.657417",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1080,20 +1148,20 @@
       "success": true,
       "region_code": "PSK",
       "region_name": "Псковская область",
-      "base_layer": "PSK Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PS0885; wo Нет;Время 2026-01-21 10:47:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PSK Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE800:\n1) PS0885\n",
-      "timestamp": "11:18:13",
+      "base_layer": "PSK Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PSK Неприоритетные технологии 21.01.2026 11:31:\n\n",
+      "timestamp": "11:31:26",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:13.392696",
+      "full_timestamp": "2026-01-21T11:31:26.085191",
       "stats": {
-        "total_bs": 1,
+        "total_bs": 0,
         "base_layer_count": 0,
-        "power_problems": 1,
+        "power_problems": 0,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:13.392696",
+      "collected_at": "2026-01-21T11:31:26.085191",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1113,6 +1181,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "PSK",
+        "region_name": "Псковская область",
+        "base_layer": "PSK Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "PSK Неприоритетные технологии 21.01.2026 11:31:\n\n",
+        "base_layer_count": 0,
+        "total_bs_count": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:26",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:26.085191",
+        "created_at": "2026-01-21T11:31:41.657425",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1121,11 +1206,11 @@
       "success": true,
       "region_code": "PZV",
       "region_name": "Петрозаводск",
-      "base_layer": "PZV Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PZ0416; wo Есть;Время 2026-01-21 10:35:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PZV Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) PZ0416\n",
-      "timestamp": "11:18:13",
+      "base_layer": "PZV Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PZ0416; wo Нет;Время 2026-01-21 10:35:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PZV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) PZ0416\n",
+      "timestamp": "11:31:26",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:13.730563",
+      "full_timestamp": "2026-01-21T11:31:26.362504",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -1134,7 +1219,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:13.730563",
+      "collected_at": "2026-01-21T11:31:26.362504",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1154,6 +1239,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "PZV",
+        "region_name": "Петрозаводск",
+        "base_layer": "PZV Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PZ0416; wo Нет;Время 2026-01-21 10:35:26\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "PZV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) PZ0416\n",
+        "base_layer_count": 0,
+        "total_bs_count": 1,
+        "power_problems": 1,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:26",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:26.362504",
+        "created_at": "2026-01-21T11:31:41.657432",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1162,20 +1264,20 @@
       "success": true,
       "region_code": "SPE",
       "region_name": "Санкт-Петербург Восток",
-      "base_layer": "SPE Базовый слой 21.01.2026 11:18:\n\n1) LE1287 2026-01-21T10:21:26\nPower Нет; Посещение Нет; WO Есть\n2) SC0221 2026-01-20T11:25:19\nPower Да; Посещение Да; WO Нет\n3) SP0583 2026-01-21T10:03:58\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- LE1287; wo Есть;Время 2026-01-21 10:18:55\n\n10 приоритет:\n- LE1380; wo Нет;Время 2026-01-21 09:51:27\n- LE2388; wo Нет;Время 2026-01-21 10:03:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPE Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) LE1287\n2) SC0221\n3) SP0583\nНедоступно 3G:\n1) SC2216\n2) SC0515\n3) LE1287\n4) LE1380\n5) SP0583\n6) LE2388\nНедоступно LTE800:\n1) LE1287\n2) LE1380\n3) SC0221\nНедоступно LTE2600:\n1) SP0583\nНедоступно LTE2100:\n1) SC0515\n2) SP0583\n3) LE2388\nНедоступно LTE2300:\n1) LE0383\n2) SP0583\n",
-      "timestamp": "11:18:14",
+      "base_layer": "SPE Базовый слой 21.01.2026 11:31:\n\n1) SC0221 2026-01-20T11:25:19\nPower Да; Посещение Да; WO Нет\n2) SP0583 2026-01-21T10:03:58\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- LE1287; wo Нет;Время 2026-01-21 10:18:55\n\n10 приоритет:\n- LE1380; wo Нет;Время 2026-01-21 09:51:27\n- LE2388; wo Нет;Время 2026-01-21 10:03:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPE Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SC0221\n2) SP0583\nНедоступно 3G:\n1) SC0515\n2) LE1380\n3) SC2216\n4) SP0583\n5) LE2388\nНедоступно LTE800:\n1) LE1380\n2) SC0221\nНедоступно LTE2600:\n1) SP0583\nНедоступно LTE2100:\n1) SC0515\n2) SP0583\n3) LE2388\nНедоступно LTE2300:\n1) SP0583\n2) LE0383\n",
+      "timestamp": "11:31:26",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:14.058100",
+      "full_timestamp": "2026-01-21T11:31:26.661342",
       "stats": {
         "total_bs": 8,
-        "base_layer_count": 3,
+        "base_layer_count": 2,
         "power_problems": 4,
-        "non_priority_percentage": 63,
-        "base_layer_percentage": 37
+        "non_priority_percentage": 75,
+        "base_layer_percentage": 25
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:14.058100",
+      "collected_at": "2026-01-21T11:31:26.661342",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1195,6 +1297,23 @@
         "base_layer_percentage": 37,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "SPE",
+        "region_name": "Санкт-Петербург Восток",
+        "base_layer": "SPE Базовый слой 21.01.2026 11:31:\n\n1) SC0221 2026-01-20T11:25:19\nPower Да; Посещение Да; WO Нет\n2) SP0583 2026-01-21T10:03:58\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 4\n\n9 приоритет:\n- LE1287; wo Нет;Время 2026-01-21 10:18:55\n\n10 приоритет:\n- LE1380; wo Нет;Время 2026-01-21 09:51:27\n- LE2388; wo Нет;Время 2026-01-21 10:03:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "SPE Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SC0221\n2) SP0583\nНедоступно 3G:\n1) SC0515\n2) LE1380\n3) SC2216\n4) SP0583\n5) LE2388\nНедоступно LTE800:\n1) LE1380\n2) SC0221\nНедоступно LTE2600:\n1) SP0583\nНедоступно LTE2100:\n1) SC0515\n2) SP0583\n3) LE2388\nНедоступно LTE2300:\n1) SP0583\n2) LE0383\n",
+        "base_layer_count": 2,
+        "total_bs_count": 8,
+        "power_problems": 4,
+        "non_priority_percentage": 75,
+        "timestamp": "11:31:26",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:26.661342",
+        "created_at": "2026-01-21T11:31:41.657440",
+        "base_layer_percentage": 25,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1203,20 +1322,20 @@
       "success": true,
       "region_code": "SPN",
       "region_name": "Санкт-Петербург Север",
-      "base_layer": "SPN Базовый слой 21.01.2026 11:18:\n\n1) SP0814 2026-01-20T14:32:23\nPower Нет; Посещение Нет; WO Нет\n2) LE0320 2026-01-21T00:51:28\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- SP0814; wo Нет;Время 2026-01-20 13:52:10\n- LE0320; wo Есть;Время 2026-01-16 17:30:02\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) SP0814\n2) LE0320\nНедоступно 3G:\n1) SP0814\n2) SP0215\nНедоступно LTE800:\n1) SP0814\n2) LE0320\nНедоступно LTE2100:\n1) SP0215\n",
-      "timestamp": "11:18:14",
+      "base_layer": "SPN Базовый слой 21.01.2026 11:31:\n\n1) SP0814 2026-01-20T14:32:23\nPower Нет; Посещение Нет; WO Нет\n2) LE0320 2026-01-21T00:51:28\nPower Нет; Посещение Да; WO Нет\n3) LE2157 2026-01-21T11:03:25\nPower Нет; Посещение Да; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- LE2193; wo Нет;Время 2026-01-21 10:56:25\n- SP0814; wo Нет;Время 2026-01-20 13:52:10\n- LE2497; wo Нет;Время 2026-01-21 10:52:18\n- LE0320; wo Нет;Время 2026-01-16 17:30:02\n\n9 приоритет:\n- LE2157; wo Нет;Время 2026-01-21 11:00:52\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SP0814\n2) LE0320\n3) LE2157\nНедоступно 3G:\n1) LE2193\n2) SP0215\n3) SP0814\n4) LE2157\nНедоступно LTE800:\n1) LE2193\n2) SP0814\n3) LE0320\nНедоступно LTE2600:\n1) LE2157\nНедоступно LTE2100:\n1) SP0215\n2) LE2157\nНедоступно LTE2300:\n1) LE2193\n",
+      "timestamp": "11:31:26",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:14.390073",
+      "full_timestamp": "2026-01-21T11:31:26.962150",
       "stats": {
-        "total_bs": 5,
-        "base_layer_count": 2,
-        "power_problems": 2,
-        "non_priority_percentage": 60,
-        "base_layer_percentage": 40
+        "total_bs": 9,
+        "base_layer_count": 3,
+        "power_problems": 5,
+        "non_priority_percentage": 67,
+        "base_layer_percentage": 33
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:14.390073",
+      "collected_at": "2026-01-21T11:31:26.962150",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1236,6 +1355,23 @@
         "base_layer_percentage": 40,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "SPN",
+        "region_name": "Санкт-Петербург Север",
+        "base_layer": "SPN Базовый слой 21.01.2026 11:31:\n\n1) SP0814 2026-01-20T14:32:23\nPower Нет; Посещение Нет; WO Нет\n2) LE0320 2026-01-21T00:51:28\nPower Нет; Посещение Да; WO Нет\n3) LE2157 2026-01-21T11:03:25\nPower Нет; Посещение Да; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- LE2193; wo Нет;Время 2026-01-21 10:56:25\n- SP0814; wo Нет;Время 2026-01-20 13:52:10\n- LE2497; wo Нет;Время 2026-01-21 10:52:18\n- LE0320; wo Нет;Время 2026-01-16 17:30:02\n\n9 приоритет:\n- LE2157; wo Нет;Время 2026-01-21 11:00:52\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "SPN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SP0814\n2) LE0320\n3) LE2157\nНедоступно 3G:\n1) LE2193\n2) SP0215\n3) SP0814\n4) LE2157\nНедоступно LTE800:\n1) LE2193\n2) SP0814\n3) LE0320\nНедоступно LTE2600:\n1) LE2157\nНедоступно LTE2100:\n1) SP0215\n2) LE2157\nНедоступно LTE2300:\n1) LE2193\n",
+        "base_layer_count": 3,
+        "total_bs_count": 9,
+        "power_problems": 5,
+        "non_priority_percentage": 67,
+        "timestamp": "11:31:26",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:26.962150",
+        "created_at": "2026-01-21T11:31:41.657447",
+        "base_layer_percentage": 33,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1244,20 +1380,20 @@
       "success": true,
       "region_code": "SPS",
       "region_name": "Санкт-Петербург Юг",
-      "base_layer": "SPS Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPS Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2300:\n1) SP1159\n",
-      "timestamp": "11:18:14",
+      "base_layer": "SPS Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPS Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2300:\n1) SP1159\n",
+      "timestamp": "11:31:27",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:14.734402",
+      "full_timestamp": "2026-01-21T11:31:27.244073",
       "stats": {
-        "total_bs": 2,
+        "total_bs": 1,
         "base_layer_count": 0,
         "power_problems": 0,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:14.734402",
+      "collected_at": "2026-01-21T11:31:27.244073",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1277,6 +1413,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "SPS",
+        "region_name": "Санкт-Петербург Юг",
+        "base_layer": "SPS Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "SPS Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2300:\n1) SP1159\n",
+        "base_layer_count": 0,
+        "total_bs_count": 1,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:27",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:27.244073",
+        "created_at": "2026-01-21T11:31:41.657456",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1285,20 +1438,20 @@
       "success": true,
       "region_code": "SPW",
       "region_name": "Санкт-Петербург Запад",
-      "base_layer": "SPW Базовый слой 21.01.2026 11:18:\n\n1) SP1403 2026-01-21T10:37:26\nPower Да; Посещение Нет; WO Нет\n2) SP1662 2026-01-21T10:37:26\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPW Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) SP1403\n2) SP1662\nНедоступно 3G:\n1) SP1403\n2) SP1662\nНедоступно LTE2100:\n1) SP1403\n2) SP1662\nНедоступно LTE2300:\n1) SP1662\n2) LE1000\n3) SP1210\n4) SP2136\n5) LE1297\n",
-      "timestamp": "11:18:15",
+      "base_layer": "SPW Базовый слой 21.01.2026 11:31:\n\n1) SP1403 2026-01-21T10:37:26\nPower Да; Посещение Нет; WO Нет\n2) SP1662 2026-01-21T10:37:26\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- LE0193; wo Нет;Время 2026-01-21 10:53:04\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPW Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SP1403\n2) SP1662\nНедоступно 3G:\n1) SP1403\n2) SP1662\n3) LE0193\nНедоступно LTE2600:\n1) LE0193\nНедоступно LTE2100:\n1) SP1403\n2) SP1662\nНедоступно LTE2300:\n1) SP2136\n2) SP1662\n3) LE1297\n4) SP1210\n5) LE1000\n",
+      "timestamp": "11:31:27",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:15.073622",
+      "full_timestamp": "2026-01-21T11:31:27.516588",
       "stats": {
-        "total_bs": 6,
+        "total_bs": 7,
         "base_layer_count": 2,
-        "power_problems": 0,
-        "non_priority_percentage": 67,
-        "base_layer_percentage": 33
+        "power_problems": 1,
+        "non_priority_percentage": 72,
+        "base_layer_percentage": 28
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:15.073622",
+      "collected_at": "2026-01-21T11:31:27.516588",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1318,6 +1471,23 @@
         "base_layer_percentage": 33,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "SPW",
+        "region_name": "Санкт-Петербург Запад",
+        "base_layer": "SPW Базовый слой 21.01.2026 11:31:\n\n1) SP1403 2026-01-21T10:37:26\nPower Да; Посещение Нет; WO Нет\n2) SP1662 2026-01-21T10:37:26\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- LE0193; wo Нет;Время 2026-01-21 10:53:04\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "SPW Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SP1403\n2) SP1662\nНедоступно 3G:\n1) SP1403\n2) SP1662\n3) LE0193\nНедоступно LTE2600:\n1) LE0193\nНедоступно LTE2100:\n1) SP1403\n2) SP1662\nНедоступно LTE2300:\n1) SP2136\n2) SP1662\n3) LE1297\n4) SP1210\n5) LE1000\n",
+        "base_layer_count": 2,
+        "total_bs_count": 7,
+        "power_problems": 1,
+        "non_priority_percentage": 72,
+        "timestamp": "11:31:27",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:27.516588",
+        "created_at": "2026-01-21T11:31:41.657463",
+        "base_layer_percentage": 28,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1326,11 +1496,11 @@
       "success": true,
       "region_code": "VOL",
       "region_name": "Вологда",
-      "base_layer": "VOL Базовый слой 21.01.2026 11:18:\n\n1) VG0198 2026-01-21T11:01:50\nPower Нет; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VG1288; wo Нет;Время 2026-01-21 09:31:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VOL Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) VG0198\nНедоступно LTE800:\n1) VG1288\n2) VG0198\nНедоступно LTE2300:\n1) VG0148\n2) VG0438\n3) VG0172\n",
-      "timestamp": "11:18:15",
+      "base_layer": "VOL Базовый слой 21.01.2026 11:31:\n\n1) VG0198 2026-01-21T11:01:50\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VG1288; wo Нет;Время 2026-01-21 09:31:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VOL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) VG0198\nНедоступно LTE800:\n1) VG0198\n2) VG1288\nНедоступно LTE2300:\n1) VG0148\n2) VG0172\n3) VG0438\n",
+      "timestamp": "11:31:27",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:15.452935",
+      "full_timestamp": "2026-01-21T11:31:27.816185",
       "stats": {
         "total_bs": 5,
         "base_layer_count": 1,
@@ -1339,7 +1509,7 @@
         "base_layer_percentage": 20
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:15.452935",
+      "collected_at": "2026-01-21T11:31:27.816185",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1359,6 +1529,23 @@
         "base_layer_percentage": 20,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "VOL",
+        "region_name": "Вологда",
+        "base_layer": "VOL Базовый слой 21.01.2026 11:31:\n\n1) VG0198 2026-01-21T11:01:50\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VG1288; wo Нет;Время 2026-01-21 09:31:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "VOL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) VG0198\nНедоступно LTE800:\n1) VG0198\n2) VG1288\nНедоступно LTE2300:\n1) VG0148\n2) VG0172\n3) VG0438\n",
+        "base_layer_count": 1,
+        "total_bs_count": 5,
+        "power_problems": 1,
+        "non_priority_percentage": 80,
+        "timestamp": "11:31:27",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:27.816185",
+        "created_at": "2026-01-21T11:31:41.657471",
+        "base_layer_percentage": 20,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1367,11 +1554,11 @@
       "success": true,
       "region_code": "NEN",
       "region_name": "Ненецкий автономный округ",
-      "base_layer": "NEN Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "NEN Неприоритетные технологии 21.01.2026 11:18:\n\n",
-      "timestamp": "11:18:15",
+      "base_layer": "NEN Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NEN Неприоритетные технологии 21.01.2026 11:31:\n\n",
+      "timestamp": "11:31:28",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:15.788612",
+      "full_timestamp": "2026-01-21T11:31:28.100587",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -1380,7 +1567,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:15.788612",
+      "collected_at": "2026-01-21T11:31:28.100587",
       "macroregion": "Северо-запад"
     },
     "history": [
@@ -1400,6 +1587,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Северо-запад"
+      },
+      {
+        "region_code": "NEN",
+        "region_name": "Ненецкий автономный округ",
+        "base_layer": "NEN Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "NEN Неприоритетные технологии 21.01.2026 11:31:\n\n",
+        "base_layer_count": 0,
+        "total_bs_count": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:28",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:28.100587",
+        "created_at": "2026-01-21T11:31:41.657478",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Северо-запад"
       }
     ]
   },
@@ -1408,20 +1612,20 @@
       "success": true,
       "region_code": "BRN",
       "region_name": "Барнаул",
-      "base_layer": "BRN Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- AL0514; wo Есть;Время 2026-01-21 09:03:13\n- AL0388; wo Есть;Время 2026-01-21 04:28:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) AL0514\n2) AL0388\nНедоступно LTE800:\n1) AL0514\n2) AL0388\nНедоступно LTE2100:\n1) AL0514\n2) AL0388\n",
-      "timestamp": "11:18:16",
+      "base_layer": "BRN Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- AL0388; wo Нет;Время 2026-01-21 04:28:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) AL0388\nНедоступно LTE800:\n1) AL0388\nНедоступно LTE2100:\n1) AL0388\n",
+      "timestamp": "11:31:28",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:16.108414",
+      "full_timestamp": "2026-01-21T11:31:28.391649",
       "stats": {
-        "total_bs": 4,
+        "total_bs": 1,
         "base_layer_count": 0,
-        "power_problems": 2,
+        "power_problems": 1,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:16.108414",
+      "collected_at": "2026-01-21T11:31:28.391649",
       "macroregion": "Сибирь"
     },
     "history": [
@@ -1441,6 +1645,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Сибирь"
+      },
+      {
+        "region_code": "BRN",
+        "region_name": "Барнаул",
+        "base_layer": "BRN Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- AL0388; wo Нет;Время 2026-01-21 04:28:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "BRN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) AL0388\nНедоступно LTE800:\n1) AL0388\nНедоступно LTE2100:\n1) AL0388\n",
+        "base_layer_count": 0,
+        "total_bs_count": 1,
+        "power_problems": 1,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:28",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:28.391649",
+        "created_at": "2026-01-21T11:31:41.657485",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Сибирь"
       }
     ]
   },
@@ -1449,11 +1670,11 @@
       "success": true,
       "region_code": "KHA",
       "region_name": "Красноярский край",
-      "base_layer": "KHA Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KHA Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE800:\n1) HK0092\n",
-      "timestamp": "11:18:16",
+      "base_layer": "KHA Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KHA Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE800:\n1) HK0092\n",
+      "timestamp": "11:31:28",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:16.428556",
+      "full_timestamp": "2026-01-21T11:31:28.670751",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -1462,7 +1683,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:16.428556",
+      "collected_at": "2026-01-21T11:31:28.670751",
       "macroregion": "Сибирь"
     },
     "history": [
@@ -1479,6 +1700,23 @@
         "date": "2026-01-21",
         "full_timestamp": "2026-01-21T11:18:16.428556",
         "created_at": "2026-01-21T11:18:30.534861",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Сибирь"
+      },
+      {
+        "region_code": "KHA",
+        "region_name": "Красноярский край",
+        "base_layer": "KHA Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KHA Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE800:\n1) HK0092\n",
+        "base_layer_count": 0,
+        "total_bs_count": 1,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:28",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:28.670751",
+        "created_at": "2026-01-21T11:31:41.657492",
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Сибирь"
@@ -1572,11 +1810,11 @@
       "success": true,
       "region_code": "OMS",
       "region_name": "Омская область",
-      "base_layer": "OMS Базовый слой 21.01.2026 11:18:\n\n1) OM0991 2026-01-21T10:05:20\nPower Да; Посещение Да; WO Нет\n2) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "OMS Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) OM0991\n2) OM2321\nНедоступно 3G:\n1) OM0991\nНедоступно LTE2600:\n1) OM0991\nНедоступно LTE2100:\n1) OM0991\n",
-      "timestamp": "11:18:17",
+      "base_layer": "OMS Базовый слой 21.01.2026 11:31:\n\n1) OM0991 2026-01-21T10:05:20\nPower Да; Посещение Да; WO Нет\n2) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "OMS Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) OM2321\nНедоступно 3G:\n1) OM0991\n",
+      "timestamp": "11:31:29",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:17.416239",
+      "full_timestamp": "2026-01-21T11:31:29.485705",
       "stats": {
         "total_bs": 3,
         "base_layer_count": 2,
@@ -1585,7 +1823,7 @@
         "base_layer_percentage": 66
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:17.416239",
+      "collected_at": "2026-01-21T11:31:29.485705",
       "macroregion": "Сибирь"
     },
     "history": [
@@ -1605,6 +1843,23 @@
         "base_layer_percentage": 66,
         "is_historical": true,
         "macroregion": "Сибирь"
+      },
+      {
+        "region_code": "OMS",
+        "region_name": "Омская область",
+        "base_layer": "OMS Базовый слой 21.01.2026 11:31:\n\n1) OM0991 2026-01-21T10:05:20\nPower Да; Посещение Да; WO Нет\n2) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "OMS Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) OM2321\nНедоступно 3G:\n1) OM0991\n",
+        "base_layer_count": 2,
+        "total_bs_count": 3,
+        "power_problems": 0,
+        "non_priority_percentage": 34,
+        "timestamp": "11:31:29",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:29.485705",
+        "created_at": "2026-01-21T11:31:41.657498",
+        "base_layer_percentage": 66,
+        "is_historical": true,
+        "macroregion": "Сибирь"
       }
     ]
   },
@@ -1613,20 +1868,20 @@
       "success": true,
       "region_code": "TYV",
       "region_name": "Тыва",
-      "base_layer": "TYV Базовый слой 21.01.2026 11:18:\n\n1) TY0318 2026-01-21T08:59:19\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TYV Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) TY0318\nНедоступно 3G:\n1) TY0013\nНедоступно LTE2100:\n1) TY0013\n",
-      "timestamp": "11:18:17",
+      "base_layer": "TYV Базовый слой 21.01.2026 11:31:\n\n1) TY0318 2026-01-21T08:59:19\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TYV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TY0318\nНедоступно 3G:\n1) TY0236\n2) TY0013\nНедоступно LTE800:\n1) TY0236\nНедоступно LTE2100:\n1) TY0236\n2) TY0013\n",
+      "timestamp": "11:31:29",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:17.760860",
+      "full_timestamp": "2026-01-21T11:31:29.771956",
       "stats": {
-        "total_bs": 2,
+        "total_bs": 3,
         "base_layer_count": 1,
-        "power_problems": 0,
-        "non_priority_percentage": 50,
-        "base_layer_percentage": 50
+        "power_problems": 1,
+        "non_priority_percentage": 67,
+        "base_layer_percentage": 33
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:17.760860",
+      "collected_at": "2026-01-21T11:31:29.771956",
       "macroregion": "Сибирь"
     },
     "history": [
@@ -1646,6 +1901,23 @@
         "base_layer_percentage": 50,
         "is_historical": true,
         "macroregion": "Сибирь"
+      },
+      {
+        "region_code": "TYV",
+        "region_name": "Тыва",
+        "base_layer": "TYV Базовый слой 21.01.2026 11:31:\n\n1) TY0318 2026-01-21T08:59:19\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "TYV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TY0318\nНедоступно 3G:\n1) TY0236\n2) TY0013\nНедоступно LTE800:\n1) TY0236\nНедоступно LTE2100:\n1) TY0236\n2) TY0013\n",
+        "base_layer_count": 1,
+        "total_bs_count": 3,
+        "power_problems": 1,
+        "non_priority_percentage": 67,
+        "timestamp": "11:31:29",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:29.771956",
+        "created_at": "2026-01-21T11:31:41.657506",
+        "base_layer_percentage": 33,
+        "is_historical": true,
+        "macroregion": "Сибирь"
       }
     ]
   },
@@ -1654,11 +1926,11 @@
       "success": true,
       "region_code": "GRN",
       "region_name": "Горно-Алтайск",
-      "base_layer": "GRN Базовый слой 21.01.2026 11:18:\n\n1) GA0108 2026-01-18T17:37:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "GRN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) GA0108\nНедоступно LTE2300:\n1) GA0108\n",
-      "timestamp": "11:18:18",
+      "base_layer": "GRN Базовый слой 21.01.2026 11:31:\n\n1) GA0108 2026-01-18T17:37:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "GRN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) GA0108\nНедоступно LTE2300:\n1) GA0108\n",
+      "timestamp": "11:31:30",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:18.084526",
+      "full_timestamp": "2026-01-21T11:31:30.082171",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 1,
@@ -1667,7 +1939,7 @@
         "base_layer_percentage": 100
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:18.084526",
+      "collected_at": "2026-01-21T11:31:30.082171",
       "macroregion": "Сибирь"
     },
     "history": [
@@ -1687,6 +1959,23 @@
         "base_layer_percentage": 100,
         "is_historical": true,
         "macroregion": "Сибирь"
+      },
+      {
+        "region_code": "GRN",
+        "region_name": "Горно-Алтайск",
+        "base_layer": "GRN Базовый слой 21.01.2026 11:31:\n\n1) GA0108 2026-01-18T17:37:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "GRN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) GA0108\nНедоступно LTE2300:\n1) GA0108\n",
+        "base_layer_count": 1,
+        "total_bs_count": 1,
+        "power_problems": 0,
+        "non_priority_percentage": 0,
+        "timestamp": "11:31:30",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:30.082171",
+        "created_at": "2026-01-21T11:31:41.657512",
+        "base_layer_percentage": 100,
+        "is_historical": true,
+        "macroregion": "Сибирь"
       }
     ]
   },
@@ -1695,20 +1984,20 @@
       "success": true,
       "region_code": "KEM",
       "region_name": "Кемеровская область",
-      "base_layer": "KEM Базовый слой 21.01.2026 11:18:\n\n1) KE1466 2026-01-21T09:11:22\nPower Да; Посещение Нет; WO Есть\n2) KE1422 2026-01-20T06:10:19\nPower Да; Посещение Нет; WO Нет\n3) KE0895 2025-12-31T18:54:32\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KEM Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) KE1466\n2) KE1422\n3) KE0895\nНедоступно 3G:\n1) KE1466\n2) KE1464\nНедоступно LTE800:\n1) KE1466\n2) KE0386\n3) KE0895\n4) KE1464\n",
-      "timestamp": "11:18:18",
+      "base_layer": "KEM Базовый слой 21.01.2026 11:31:\n\n1) KE1466 2026-01-21T09:11:22\nPower Да; Посещение Нет; WO Нет\n2) KE1422 2026-01-20T06:10:19\nPower Да; Посещение Нет; WO Нет\n3) KE0895 2025-12-31T18:54:32\nPower Да; Посещение Нет; WO Нет\n4) KE1626 2026-01-21T11:12:33\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KEM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KE1466\n2) KE1422\n3) KE0895\n4) KE1626\nНедоступно 3G:\n1) KE1464\n2) KE1466\nНедоступно LTE800:\n1) KE1464\n2) KE1466\n3) KE0386\n4) KE0895\n5) KE1626\nНедоступно LTE2100:\n1) KE1626\nНедоступно LTE2300:\n1) KE0003\n",
+      "timestamp": "11:31:30",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:18.419943",
+      "full_timestamp": "2026-01-21T11:31:30.378853",
       "stats": {
-        "total_bs": 8,
-        "base_layer_count": 3,
+        "total_bs": 9,
+        "base_layer_count": 4,
         "power_problems": 1,
-        "non_priority_percentage": 63,
-        "base_layer_percentage": 37
+        "non_priority_percentage": 56,
+        "base_layer_percentage": 44
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:18.419943",
+      "collected_at": "2026-01-21T11:31:30.378853",
       "macroregion": "Сибирь"
     },
     "history": [
@@ -1728,6 +2017,23 @@
         "base_layer_percentage": 37,
         "is_historical": true,
         "macroregion": "Сибирь"
+      },
+      {
+        "region_code": "KEM",
+        "region_name": "Кемеровская область",
+        "base_layer": "KEM Базовый слой 21.01.2026 11:31:\n\n1) KE1466 2026-01-21T09:11:22\nPower Да; Посещение Нет; WO Нет\n2) KE1422 2026-01-20T06:10:19\nPower Да; Посещение Нет; WO Нет\n3) KE0895 2025-12-31T18:54:32\nPower Да; Посещение Нет; WO Нет\n4) KE1626 2026-01-21T11:12:33\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KEM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KE1466\n2) KE1422\n3) KE0895\n4) KE1626\nНедоступно 3G:\n1) KE1464\n2) KE1466\nНедоступно LTE800:\n1) KE1464\n2) KE1466\n3) KE0386\n4) KE0895\n5) KE1626\nНедоступно LTE2100:\n1) KE1626\nНедоступно LTE2300:\n1) KE0003\n",
+        "base_layer_count": 4,
+        "total_bs_count": 9,
+        "power_problems": 1,
+        "non_priority_percentage": 56,
+        "timestamp": "11:31:30",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:30.378853",
+        "created_at": "2026-01-21T11:31:41.657520",
+        "base_layer_percentage": 44,
+        "is_historical": true,
+        "macroregion": "Сибирь"
       }
     ]
   },
@@ -1736,11 +2042,11 @@
       "success": true,
       "region_code": "TOM",
       "region_name": "Томская область",
-      "base_layer": "TOM Базовый слой 21.01.2026 11:18:\n\n1) TO0167 2026-01-17T08:03:37\nPower Да; Посещение Нет; WO Нет\n2) TO0258 2026-01-17T07:03:04\nPower Да; Посещение Да; WO Есть\n3) TO0826 2026-01-21T06:10:32\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TOM Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) TO0258\n2) TO0826\nНедоступно 3G:\n1) TO0028\n2) TO0478\n3) TO0178\nНедоступно LTE800:\n1) TO0258\n",
-      "timestamp": "11:18:18",
+      "base_layer": "TOM Базовый слой 21.01.2026 11:31:\n\n1) TO0167 2026-01-17T08:03:37\nPower Да; Посещение Нет; WO Нет\n2) TO0258 2026-01-17T07:03:04\nPower Да; Посещение Да; WO Нет\n3) TO0826 2026-01-21T06:10:32\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TOM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TO0258\n2) TO0826\nНедоступно 3G:\n1) TO0028\n2) TO0478\n3) TO0178\nНедоступно LTE800:\n1) TO0258\n",
+      "timestamp": "11:31:30",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:18.740323",
+      "full_timestamp": "2026-01-21T11:31:30.667886",
       "stats": {
         "total_bs": 6,
         "base_layer_count": 3,
@@ -1749,7 +2055,7 @@
         "base_layer_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:18.740323",
+      "collected_at": "2026-01-21T11:31:30.667886",
       "macroregion": "Сибирь"
     },
     "history": [
@@ -1769,6 +2075,23 @@
         "base_layer_percentage": 50,
         "is_historical": true,
         "macroregion": "Сибирь"
+      },
+      {
+        "region_code": "TOM",
+        "region_name": "Томская область",
+        "base_layer": "TOM Базовый слой 21.01.2026 11:31:\n\n1) TO0167 2026-01-17T08:03:37\nPower Да; Посещение Нет; WO Нет\n2) TO0258 2026-01-17T07:03:04\nPower Да; Посещение Да; WO Нет\n3) TO0826 2026-01-21T06:10:32\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "TOM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TO0258\n2) TO0826\nНедоступно 3G:\n1) TO0028\n2) TO0478\n3) TO0178\nНедоступно LTE800:\n1) TO0258\n",
+        "base_layer_count": 3,
+        "total_bs_count": 6,
+        "power_problems": 0,
+        "non_priority_percentage": 50,
+        "timestamp": "11:31:30",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:30.667886",
+        "created_at": "2026-01-21T11:31:41.657527",
+        "base_layer_percentage": 50,
+        "is_historical": true,
+        "macroregion": "Сибирь"
       }
     ]
   },
@@ -1777,20 +2100,20 @@
       "success": true,
       "region_code": "CHE",
       "region_name": "Челябинская область",
-      "base_layer": "CHE Базовый слой 21.01.2026 11:18:\n\n1) CH0028 2026-01-16T09:35:10\nPower Да; Посещение Нет; WO Нет\n2) CH1188 2026-01-20T20:45:53\nPower Да; Посещение Да; WO Нет\n3) CH2416 2026-01-16T12:50:39\nPower Да; Посещение Нет; WO Нет\n4) CH2576 2026-01-20T18:07:04\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "CHE Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) CH0028\n2) CH1188\n3) CH2416\n4) CH2576\nНедоступно 3G:\n1) CH0711\n2) CH0879\n3) CH0277\n4) CH2206\n5) CH2764\n6) CH0420\n7) CH1349\n8) CH2299\n9) CH1188\n10) CH0562\n11) CH2615\n12) CH1129\n13) CH0313\n14) CH0291\n15) CH2041\n16) CH1085\n17) CH1350\n18) CH0085\n19) CH2409\n20) CH2009\n21) CH2524\nНедоступно LTE800:\n1) CH2423\n2) CH2586\n3) CH2470\n4) CO0102\n5) CH1188\n6) CH0562\n7) CH2236\n8) CH0085\n9) CH2396\nНедоступно LTE2600:\n1) CH0542\n2) CH0085\nНедоступно LTE2100:\n1) CH0711\n2) CH0879\n3) CH0277\n4) CH0428\n5) CH1188\n6) CH0562\n7) CH1350\n8) CH2409\nНедоступно LTE2300:\n1) CH0028\n2) CH0277\n3) CH0047\n4) CH2015\n5) CH1177\n6) CH0360\n7) CH0197\n8) CH0011\n9) CH2637\n10) CH0085\n11) CH0097\n12) CH0130\n13) CH2205\n14) CH0567\n15) CH2576\n",
-      "timestamp": "11:18:19",
+      "base_layer": "CHE Базовый слой 21.01.2026 11:31:\n\n1) CH1085 2026-01-21T11:12:25\nPower Да; Посещение Да; WO Нет\n2) CH0303 2026-01-21T10:53:24\nPower Да; Посещение Да; WO Нет\n3) CH0028 2026-01-16T09:35:10\nPower Да; Посещение Нет; WO Нет\n4) CH0282 2026-01-21T11:02:35\nPower Да; Посещение Да; WO Нет\n5) CH2416 2026-01-16T12:50:39\nPower Да; Посещение Нет; WO Нет\n6) CH2576 2026-01-20T18:07:04\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHE Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) CH0303\n2) CH0028\n3) CH0282\n4) CH2416\n5) CH2576\nНедоступно 3G:\n1) CH1085\n2) CH2409\n3) CH2615\n4) CH0085\n5) CH0711\n6) CH0879\n7) CH1350\n8) CH1349\n9) CH1129\n10) CH2299\n11) CH0277\n12) CH0313\n13) CH0291\n14) CH2009\n15) CH2524\n16) CH2206\n17) CH0562\n18) CH2041\n19) CH0420\nНедоступно LTE800:\n1) CH1085\n2) CH2423\n3) CH0085\n4) CH2586\n5) CH2470\n6) CH2396\n7) CH2236\n8) CO0102\n9) CH0562\nНедоступно LTE2600:\n1) CH1085\n2) CH0085\n3) CH0542\nНедоступно LTE2100:\n1) CH2409\n2) CH0711\n3) CH0879\n4) CH1350\n5) CH0277\n6) CH0428\n7) CH0562\nНедоступно LTE2300:\n1) CH0360\n2) CH1097\n3) CH2015\n4) CH2637\n5) CH0085\n6) CH0097\n7) CH0028\n8) CH0130\n9) CH1177\n10) CH0277\n11) CH0197\n12) CH0047\n13) CH2205\n14) CH0567\n15) CH2576\n16) CH0011\n",
+      "timestamp": "11:31:30",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:19.077824",
+      "full_timestamp": "2026-01-21T11:31:30.964003",
       "stats": {
-        "total_bs": 45,
-        "base_layer_count": 4,
+        "total_bs": 47,
+        "base_layer_count": 6,
         "power_problems": 0,
-        "non_priority_percentage": 92,
-        "base_layer_percentage": 8
+        "non_priority_percentage": 88,
+        "base_layer_percentage": 12
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:19.077824",
+      "collected_at": "2026-01-21T11:31:30.964003",
       "macroregion": "Урал"
     },
     "history": [
@@ -1810,6 +2133,23 @@
         "base_layer_percentage": 8,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "CHE",
+        "region_name": "Челябинская область",
+        "base_layer": "CHE Базовый слой 21.01.2026 11:31:\n\n1) CH1085 2026-01-21T11:12:25\nPower Да; Посещение Да; WO Нет\n2) CH0303 2026-01-21T10:53:24\nPower Да; Посещение Да; WO Нет\n3) CH0028 2026-01-16T09:35:10\nPower Да; Посещение Нет; WO Нет\n4) CH0282 2026-01-21T11:02:35\nPower Да; Посещение Да; WO Нет\n5) CH2416 2026-01-16T12:50:39\nPower Да; Посещение Нет; WO Нет\n6) CH2576 2026-01-20T18:07:04\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "CHE Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) CH0303\n2) CH0028\n3) CH0282\n4) CH2416\n5) CH2576\nНедоступно 3G:\n1) CH1085\n2) CH2409\n3) CH2615\n4) CH0085\n5) CH0711\n6) CH0879\n7) CH1350\n8) CH1349\n9) CH1129\n10) CH2299\n11) CH0277\n12) CH0313\n13) CH0291\n14) CH2009\n15) CH2524\n16) CH2206\n17) CH0562\n18) CH2041\n19) CH0420\nНедоступно LTE800:\n1) CH1085\n2) CH2423\n3) CH0085\n4) CH2586\n5) CH2470\n6) CH2396\n7) CH2236\n8) CO0102\n9) CH0562\nНедоступно LTE2600:\n1) CH1085\n2) CH0085\n3) CH0542\nНедоступно LTE2100:\n1) CH2409\n2) CH0711\n3) CH0879\n4) CH1350\n5) CH0277\n6) CH0428\n7) CH0562\nНедоступно LTE2300:\n1) CH0360\n2) CH1097\n3) CH2015\n4) CH2637\n5) CH0085\n6) CH0097\n7) CH0028\n8) CH0130\n9) CH1177\n10) CH0277\n11) CH0197\n12) CH0047\n13) CH2205\n14) CH0567\n15) CH2576\n16) CH0011\n",
+        "base_layer_count": 6,
+        "total_bs_count": 47,
+        "power_problems": 0,
+        "non_priority_percentage": 88,
+        "timestamp": "11:31:30",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:30.964003",
+        "created_at": "2026-01-21T11:31:41.657534",
+        "base_layer_percentage": 12,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -1818,20 +2158,20 @@
       "success": true,
       "region_code": "EKT",
       "region_name": "Екатеринбург",
-      "base_layer": "EKT Базовый слой 21.01.2026 11:18:\n\n1) EK0236 2026-01-21T11:02:14\nPower Да; Посещение Нет; WO Нет\n2) EK1677 2026-01-21T09:03:37\nPower Да; Посещение Нет; WO Есть\n3) EK2196 2026-01-21T10:21:51\nPower Да; Посещение Да; WO Есть\n4) EK0694 2026-01-09T06:25:45\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- EK1689; wo Нет;Время 2026-01-21 10:29:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "EKT Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) EK0236\n2) EK1677\n3) EK2196\n4) EK0694\nНедоступно 3G:\n1) EK0779\n2) EK1689\nНедоступно LTE800:\n1) EK0236\n2) EK2799\n3) EK1677\n4) EO0082\n5) EK1689\nНедоступно LTE2600:\n1) EK0236\n2) EK1677\n3) EK1689\nНедоступно LTE2100:\n1) EK0236\n2) EK0779\n3) EK1677\n4) EK1689\nНедоступно LTE2300:\n1) EK1677\n2) EK0363\n3) EK0529\n",
-      "timestamp": "11:18:19",
+      "base_layer": "EKT Базовый слой 21.01.2026 11:31:\n\n1) EK0694 2026-01-09T06:25:45\nPower Да; Посещение Нет; WO Нет\n2) EK1677 2026-01-21T09:03:37\nPower Да; Посещение Нет; WO Нет\n3) EK2196 2026-01-21T10:21:51\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "EKT Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) EK0694\n2) EK1677\n3) EK2196\nНедоступно 3G:\n1) EK1689\n2) EK0779\nНедоступно LTE800:\n1) EK1689\n2) EK1677\n3) EO0082\nНедоступно LTE2600:\n1) EK1689\n2) EK1677\nНедоступно LTE2100:\n1) EK1689\n2) EK0779\n3) EK1677\nНедоступно LTE2300:\n1) EK1677\n",
+      "timestamp": "11:31:31",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:19.408812",
+      "full_timestamp": "2026-01-21T11:31:31.255179",
       "stats": {
-        "total_bs": 11,
-        "base_layer_count": 4,
+        "total_bs": 7,
+        "base_layer_count": 3,
         "power_problems": 1,
-        "non_priority_percentage": 64,
-        "base_layer_percentage": 36
+        "non_priority_percentage": 58,
+        "base_layer_percentage": 42
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:19.408812",
+      "collected_at": "2026-01-21T11:31:31.255179",
       "macroregion": "Урал"
     },
     "history": [
@@ -1851,6 +2191,23 @@
         "base_layer_percentage": 36,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "EKT",
+        "region_name": "Екатеринбург",
+        "base_layer": "EKT Базовый слой 21.01.2026 11:31:\n\n1) EK0694 2026-01-09T06:25:45\nPower Да; Посещение Нет; WO Нет\n2) EK1677 2026-01-21T09:03:37\nPower Да; Посещение Нет; WO Нет\n3) EK2196 2026-01-21T10:21:51\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "EKT Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) EK0694\n2) EK1677\n3) EK2196\nНедоступно 3G:\n1) EK1689\n2) EK0779\nНедоступно LTE800:\n1) EK1689\n2) EK1677\n3) EO0082\nНедоступно LTE2600:\n1) EK1689\n2) EK1677\nНедоступно LTE2100:\n1) EK1689\n2) EK0779\n3) EK1677\nНедоступно LTE2300:\n1) EK1677\n",
+        "base_layer_count": 3,
+        "total_bs_count": 7,
+        "power_problems": 1,
+        "non_priority_percentage": 58,
+        "timestamp": "11:31:31",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:31.255179",
+        "created_at": "2026-01-21T11:31:41.657542",
+        "base_layer_percentage": 42,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -1859,11 +2216,11 @@
       "success": true,
       "region_code": "HAN",
       "region_name": "Ханты-Мансийский АО",
-      "base_layer": "HAN Базовый слой 21.01.2026 11:18:\n\n1) HM1581 2026-01-21T11:02:03\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "HAN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2600:\n1) HM1199\n",
-      "timestamp": "11:18:19",
+      "base_layer": "HAN Базовый слой 21.01.2026 11:31:\n\n1) HM1119 2026-01-21T10:56:24\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "HAN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2600:\n1) HM1199\n",
+      "timestamp": "11:31:31",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:19.744379",
+      "full_timestamp": "2026-01-21T11:31:31.543227",
       "stats": {
         "total_bs": 2,
         "base_layer_count": 1,
@@ -1872,7 +2229,7 @@
         "base_layer_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:19.744379",
+      "collected_at": "2026-01-21T11:31:31.543227",
       "macroregion": "Урал"
     },
     "history": [
@@ -1892,6 +2249,23 @@
         "base_layer_percentage": 50,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "HAN",
+        "region_name": "Ханты-Мансийский АО",
+        "base_layer": "HAN Базовый слой 21.01.2026 11:31:\n\n1) HM1119 2026-01-21T10:56:24\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "HAN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2600:\n1) HM1199\n",
+        "base_layer_count": 1,
+        "total_bs_count": 2,
+        "power_problems": 0,
+        "non_priority_percentage": 50,
+        "timestamp": "11:31:31",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:31.543227",
+        "created_at": "2026-01-21T11:31:41.657548",
+        "base_layer_percentage": 50,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -1900,20 +2274,20 @@
       "success": true,
       "region_code": "KOM",
       "region_name": "Коми",
-      "base_layer": "KOM Базовый слой 21.01.2026 11:18:\n\n1) KO0559 2026-01-21T10:50:22\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- KO0559; wo Нет;Время 2026-01-21 10:49:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOM Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) KO0559\nНедоступно 3G:\n1) KO0233\n2) KO0224\nНедоступно LTE2300:\n1) KO0559\n",
-      "timestamp": "11:18:20",
+      "base_layer": "KOM Базовый слой 21.01.2026 11:31:\n\n1) KO0559 2026-01-21T10:50:22\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KO0106; wo Нет;Время 2026-01-21 10:50:28\n- KO0559; wo Нет;Время 2026-01-21 10:49:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KO0559\nНедоступно 3G:\n1) KO0224\n2) KO0106\n3) KO0233\n",
+      "timestamp": "11:31:31",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:20.079154",
+      "full_timestamp": "2026-01-21T11:31:31.821229",
       "stats": {
         "total_bs": 4,
         "base_layer_count": 1,
-        "power_problems": 2,
+        "power_problems": 3,
         "non_priority_percentage": 75,
         "base_layer_percentage": 25
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:20.079154",
+      "collected_at": "2026-01-21T11:31:31.821229",
       "macroregion": "Урал"
     },
     "history": [
@@ -1933,6 +2307,23 @@
         "base_layer_percentage": 25,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "KOM",
+        "region_name": "Коми",
+        "base_layer": "KOM Базовый слой 21.01.2026 11:31:\n\n1) KO0559 2026-01-21T10:50:22\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KO0106; wo Нет;Время 2026-01-21 10:50:28\n- KO0559; wo Нет;Время 2026-01-21 10:49:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KOM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KO0559\nНедоступно 3G:\n1) KO0224\n2) KO0106\n3) KO0233\n",
+        "base_layer_count": 1,
+        "total_bs_count": 4,
+        "power_problems": 3,
+        "non_priority_percentage": 75,
+        "timestamp": "11:31:31",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:31.821229",
+        "created_at": "2026-01-21T11:31:41.657555",
+        "base_layer_percentage": 25,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -1941,20 +2332,20 @@
       "success": true,
       "region_code": "ORB",
       "region_name": "Оренбургская область",
-      "base_layer": "ORB Базовый слой 21.01.2026 11:18:\n\n1) OB0550 2026-01-21T11:03:00\nPower Нет; Посещение Нет; WO Есть\n2) OB0540 2026-01-21T10:53:23\nPower Нет; Посещение Нет; WO Нет\n3) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- OB0550; wo Есть;Время 2026-01-14 19:20:56\n- OB0540; wo Нет;Время 2026-01-21 10:24:06\n- OB0192; wo Нет;Время 2026-01-21 10:50:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ORB Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) OB0540\n2) OB0228\nНедоступно 3G:\n1) OB0550\n2) OB0540\n3) OB0158\nНедоступно LTE800:\n1) OB0550\n2) OB0540\nНедоступно LTE2600:\n1) OB0540\nНедоступно LTE2100:\n1) OB0550\n2) OB0540\n3) OB0192\nНедоступно LTE2300:\n1) OB0550\n2) OB0102\n3) OB0540\n",
-      "timestamp": "11:18:20",
+      "base_layer": "ORB Базовый слой 21.01.2026 11:31:\n\n1) OB0540 2026-01-21T10:55:30\nPower Нет; Посещение Нет; WO Нет\n2) OB0550 2026-01-21T11:03:00\nPower Нет; Посещение Нет; WO Нет\n3) OB0030 2026-01-21T10:54:59\nPower Да; Посещение Нет; WO Нет\n4) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- OB0540; wo Нет;Время 2026-01-21 10:24:06\n- OB0192; wo Нет;Время 2026-01-21 10:50:15\n- OB0550; wo Нет;Время 2026-01-14 19:20:56\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ORB Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) OB0550\n2) OB0030\n3) OB0228\nНедоступно 3G:\n1) OB0550\n2) OB0158\n3) OB0030\nНедоступно LTE800:\n1) OB0550\nНедоступно LTE2600:\n1) OB0030\nНедоступно LTE2100:\n1) OB0192\n2) OB0550\nНедоступно LTE2300:\n1) OB0550\n2) OB0102\n",
+      "timestamp": "11:31:32",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:20.424992",
+      "full_timestamp": "2026-01-21T11:31:32.141873",
       "stats": {
         "total_bs": 7,
-        "base_layer_count": 3,
+        "base_layer_count": 4,
         "power_problems": 3,
-        "non_priority_percentage": 58,
-        "base_layer_percentage": 42
+        "non_priority_percentage": 43,
+        "base_layer_percentage": 57
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:20.424992",
+      "collected_at": "2026-01-21T11:31:32.141873",
       "macroregion": "Урал"
     },
     "history": [
@@ -1974,6 +2365,23 @@
         "base_layer_percentage": 42,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "ORB",
+        "region_name": "Оренбургская область",
+        "base_layer": "ORB Базовый слой 21.01.2026 11:31:\n\n1) OB0540 2026-01-21T10:55:30\nPower Нет; Посещение Нет; WO Нет\n2) OB0550 2026-01-21T11:03:00\nPower Нет; Посещение Нет; WO Нет\n3) OB0030 2026-01-21T10:54:59\nPower Да; Посещение Нет; WO Нет\n4) OB0228 2026-01-05T16:47:18\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- OB0540; wo Нет;Время 2026-01-21 10:24:06\n- OB0192; wo Нет;Время 2026-01-21 10:50:15\n- OB0550; wo Нет;Время 2026-01-14 19:20:56\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "ORB Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) OB0550\n2) OB0030\n3) OB0228\nНедоступно 3G:\n1) OB0550\n2) OB0158\n3) OB0030\nНедоступно LTE800:\n1) OB0550\nНедоступно LTE2600:\n1) OB0030\nНедоступно LTE2100:\n1) OB0192\n2) OB0550\nНедоступно LTE2300:\n1) OB0550\n2) OB0102\n",
+        "base_layer_count": 4,
+        "total_bs_count": 7,
+        "power_problems": 3,
+        "non_priority_percentage": 43,
+        "timestamp": "11:31:32",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:32.141873",
+        "created_at": "2026-01-21T11:31:41.657561",
+        "base_layer_percentage": 57,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -1982,20 +2390,20 @@
       "success": true,
       "region_code": "PRM",
       "region_name": "Пермский край",
-      "base_layer": "PRM Базовый слой 21.01.2026 11:18:\n\n1) PM2889 2026-01-16T09:25:39\nPower Да; Посещение Нет; WO Есть\n2) PM0229 2026-01-20T06:50:07\nPower Да; Посещение Нет; WO Есть\n3) PM2782 2026-01-19T09:37:48\nPower Да; Посещение Нет; WO Есть\n4) PM0472 2026-01-17T12:10:00\nPower Да; Посещение Да; WO Есть\n5) PM1546 2026-01-20T22:01:09\nPower Да; Посещение Нет; WO Нет\n6) PM2434 2026-01-21T11:02:25\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PM0495; wo Есть;Время 2026-01-21 07:56:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PRM Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) PM2889\n2) PM0229\n3) PM2782\n4) PM1546\n5) PM2434\nНедоступно 3G:\n1) PM0673\n2) PM0220\n3) PM1546\n4) PM0084\n5) PM0332\n6) PM0424\nНедоступно LTE800:\n1) PM2889\n2) PM0495\n3) PM0229\n4) PM0603\n5) PM2779\n6) PM0084\nНедоступно LTE2600:\n1) PM2889\n2) PM0229\n3) PM0396\n4) PM1966\nНедоступно LTE2100:\n1) PM0673\n2) PM0229\n3) PM1546\n4) PM0332\nНедоступно LTE2300:\n1) PM0229\n2) PM0336\n3) PM0230\n4) PM0410\n5) PM0492\n",
-      "timestamp": "11:18:20",
+      "base_layer": "PRM Базовый слой 21.01.2026 11:31:\n\n1) PM2889 2026-01-16T09:25:39\nPower Да; Посещение Нет; WO Нет\n2) PM2782 2026-01-19T09:37:48\nPower Да; Посещение Нет; WO Нет\n3) PM2434 2026-01-21T11:14:01\nPower Да; Посещение Нет; WO Нет\n4) PM0472 2026-01-17T12:10:00\nPower Да; Посещение Да; WO Нет\n5) PM2124 2026-01-21T11:16:26\nPower Да; Посещение Нет; WO Нет\n6) PM1546 2026-01-20T22:01:09\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PM0495; wo Нет;Время 2026-01-21 07:56:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PRM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) PM2889\n2) PM2782\n3) PM2434\n4) PM2124\n5) PM1546\nНедоступно 3G:\n1) PM0332\n2) PM0673\n3) PM0084\n4) PM0220\n5) PM0424\n6) PM1546\nНедоступно LTE800:\n1) PM2889\n2) PM0495\n3) PM0084\n4) PM0603\n5) PM2779\n6) PM2124\nНедоступно LTE2600:\n1) PM2889\n2) PM1966\n3) PM0396\nНедоступно LTE2100:\n1) PM0332\n2) PM0673\n3) PM1546\nНедоступно LTE2300:\n1) PM0336\n2) PM0492\n3) PM0230\n4) PM0410\n",
+      "timestamp": "11:31:32",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:20.775872",
+      "full_timestamp": "2026-01-21T11:31:32.440471",
       "stats": {
-        "total_bs": 21,
+        "total_bs": 22,
         "base_layer_count": 6,
         "power_problems": 2,
-        "non_priority_percentage": 72,
-        "base_layer_percentage": 28
+        "non_priority_percentage": 73,
+        "base_layer_percentage": 27
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:20.775872",
+      "collected_at": "2026-01-21T11:31:32.440471",
       "macroregion": "Урал"
     },
     "history": [
@@ -2015,6 +2423,23 @@
         "base_layer_percentage": 28,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "PRM",
+        "region_name": "Пермский край",
+        "base_layer": "PRM Базовый слой 21.01.2026 11:31:\n\n1) PM2889 2026-01-16T09:25:39\nPower Да; Посещение Нет; WO Нет\n2) PM2782 2026-01-19T09:37:48\nPower Да; Посещение Нет; WO Нет\n3) PM2434 2026-01-21T11:14:01\nPower Да; Посещение Нет; WO Нет\n4) PM0472 2026-01-17T12:10:00\nPower Да; Посещение Да; WO Нет\n5) PM2124 2026-01-21T11:16:26\nPower Да; Посещение Нет; WO Нет\n6) PM1546 2026-01-20T22:01:09\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- PM0495; wo Нет;Время 2026-01-21 07:56:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "PRM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) PM2889\n2) PM2782\n3) PM2434\n4) PM2124\n5) PM1546\nНедоступно 3G:\n1) PM0332\n2) PM0673\n3) PM0084\n4) PM0220\n5) PM0424\n6) PM1546\nНедоступно LTE800:\n1) PM2889\n2) PM0495\n3) PM0084\n4) PM0603\n5) PM2779\n6) PM2124\nНедоступно LTE2600:\n1) PM2889\n2) PM1966\n3) PM0396\nНедоступно LTE2100:\n1) PM0332\n2) PM0673\n3) PM1546\nНедоступно LTE2300:\n1) PM0336\n2) PM0492\n3) PM0230\n4) PM0410\n",
+        "base_layer_count": 6,
+        "total_bs_count": 22,
+        "power_problems": 2,
+        "non_priority_percentage": 73,
+        "timestamp": "11:31:32",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:32.440471",
+        "created_at": "2026-01-21T11:31:41.657569",
+        "base_layer_percentage": 27,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -2023,11 +2448,11 @@
       "success": true,
       "region_code": "TUM",
       "region_name": "Тюменская область",
-      "base_layer": "TUM Базовый слой 21.01.2026 11:18:\n\n1) TU0419 2026-01-16T06:53:23\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TUM Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) TU0191\nНедоступно LTE2600:\n1) TU0517\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0618\n",
-      "timestamp": "11:18:21",
+      "base_layer": "TUM Базовый слой 21.01.2026 11:31:\n\n1) TU0419 2026-01-16T06:53:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) TU0191\nНедоступно LTE2600:\n1) TU0517\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0618\n",
+      "timestamp": "11:31:32",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:21.121244",
+      "full_timestamp": "2026-01-21T11:31:32.725830",
       "stats": {
         "total_bs": 7,
         "base_layer_count": 1,
@@ -2036,7 +2461,7 @@
         "base_layer_percentage": 14
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:21.121244",
+      "collected_at": "2026-01-21T11:31:32.725830",
       "macroregion": "Урал"
     },
     "history": [
@@ -2056,6 +2481,23 @@
         "base_layer_percentage": 14,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "TUM",
+        "region_name": "Тюменская область",
+        "base_layer": "TUM Базовый слой 21.01.2026 11:31:\n\n1) TU0419 2026-01-16T06:53:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "TUM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) TU0191\nНедоступно LTE2600:\n1) TU0517\nНедоступно LTE2300:\n1) TU0150\n2) TU2004\n3) TU2048\n4) TU0618\n",
+        "base_layer_count": 1,
+        "total_bs_count": 7,
+        "power_problems": 0,
+        "non_priority_percentage": 86,
+        "timestamp": "11:31:32",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:32.725830",
+        "created_at": "2026-01-21T11:31:41.657576",
+        "base_layer_percentage": 14,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -2064,11 +2506,11 @@
       "success": true,
       "region_code": "YNR",
       "region_name": "Ямало-Ненецкий АО",
-      "base_layer": "YNR Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "YNR Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) YN0646\nНедоступно LTE800:\n1) YN0546\n",
-      "timestamp": "11:18:21",
+      "base_layer": "YNR Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "YNR Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) YN0646\nНедоступно LTE800:\n1) YN0546\n",
+      "timestamp": "11:31:33",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:21.465274",
+      "full_timestamp": "2026-01-21T11:31:33.011037",
       "stats": {
         "total_bs": 2,
         "base_layer_count": 0,
@@ -2077,7 +2519,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:21.465274",
+      "collected_at": "2026-01-21T11:31:33.011037",
       "macroregion": "Урал"
     },
     "history": [
@@ -2097,6 +2539,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "YNR",
+        "region_name": "Ямало-Ненецкий АО",
+        "base_layer": "YNR Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "YNR Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) YN0646\nНедоступно LTE800:\n1) YN0546\n",
+        "base_layer_count": 0,
+        "total_bs_count": 2,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:33",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:33.011037",
+        "created_at": "2026-01-21T11:31:41.657582",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -2105,11 +2564,11 @@
       "success": true,
       "region_code": "KRG",
       "region_name": "Курганская область",
-      "base_layer": "KRG Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KRG Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) KG0150\n",
-      "timestamp": "11:18:21",
+      "base_layer": "KRG Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRG Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) KG0150\n",
+      "timestamp": "11:31:33",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:21.794421",
+      "full_timestamp": "2026-01-21T11:31:33.304972",
       "stats": {
         "total_bs": 1,
         "base_layer_count": 0,
@@ -2118,7 +2577,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:21.794421",
+      "collected_at": "2026-01-21T11:31:33.304972",
       "macroregion": "Урал"
     },
     "history": [
@@ -2138,6 +2597,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "KRG",
+        "region_name": "Курганская область",
+        "base_layer": "KRG Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KRG Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) KG0150\n",
+        "base_layer_count": 0,
+        "total_bs_count": 1,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:33",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:33.304972",
+        "created_at": "2026-01-21T11:31:41.657588",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -2146,11 +2622,11 @@
       "success": true,
       "region_code": "UFA",
       "region_name": "Уфа",
-      "base_layer": "UFA Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "UFA Неприоритетные технологии 21.01.2026 11:18:\n\n",
-      "timestamp": "11:18:22",
+      "base_layer": "UFA Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "UFA Неприоритетные технологии 21.01.2026 11:31:\n\n",
+      "timestamp": "11:31:33",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:22.114960",
+      "full_timestamp": "2026-01-21T11:31:33.634888",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -2159,7 +2635,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:22.114960",
+      "collected_at": "2026-01-21T11:31:33.634888",
       "macroregion": "Урал"
     },
     "history": [
@@ -2179,6 +2655,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Урал"
+      },
+      {
+        "region_code": "UFA",
+        "region_name": "Уфа",
+        "base_layer": "UFA Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "UFA Неприоритетные технологии 21.01.2026 11:31:\n\n",
+        "base_layer_count": 0,
+        "total_bs_count": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:33",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:33.634888",
+        "created_at": "2026-01-21T11:31:41.657595",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Урал"
       }
     ]
   },
@@ -2187,20 +2680,20 @@
       "success": true,
       "region_code": "IVN",
       "region_name": "Ивановская область",
-      "base_layer": "IVN Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "IVN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) IV0268\nНедоступно LTE2100:\n1) IV0268\n",
-      "timestamp": "11:18:22",
+      "base_layer": "IVN Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IVN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) IV0268\nНедоступно LTE2100:\n1) IV0268\n",
+      "timestamp": "11:31:33",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:22.473171",
+      "full_timestamp": "2026-01-21T11:31:33.952698",
       "stats": {
-        "total_bs": 4,
+        "total_bs": 2,
         "base_layer_count": 0,
         "power_problems": 0,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:22.473171",
+      "collected_at": "2026-01-21T11:31:33.952698",
       "macroregion": "Центр"
     },
     "history": [
@@ -2220,6 +2713,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "IVN",
+        "region_name": "Ивановская область",
+        "base_layer": "IVN Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "IVN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) IV0268\nНедоступно LTE2100:\n1) IV0268\n",
+        "base_layer_count": 0,
+        "total_bs_count": 2,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:33",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:33.952698",
+        "created_at": "2026-01-21T11:31:41.657601",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2228,11 +2738,11 @@
       "success": true,
       "region_code": "KLG",
       "region_name": "Калужская область",
-      "base_layer": "KLG Базовый слой 21.01.2026 11:18:\n\n1) KL0627 2026-01-21T09:18:49\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KL0383; wo Нет;Время 2026-01-21 10:43:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KLG Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) KL0627\nНедоступно 3G:\n1) KL0383\nНедоступно LTE800:\n1) KL0383\nНедоступно LTE2300:\n1) KL0484\n2) KL0351\n3) KL0729\n4) KL0564\n5) KL0203\n6) KL0502\n7) KL0075\n8) KL0554\n9) KL0336\n10) KL0690\n11) KL0253\n12) KL0419\n13) KL0560\n14) KL0571\n15) KL0229\n16) KL0725\n17) KL0381\n18) KL0405\n19) KL0426\n20) KL0717\n21) KL0373\n22) KL0447\n23) KL0503\n24) KL0005\n25) KL0324\n26) KL0014\n27) KL0691\n28) KL0228\n29) KL0658\n30) KL0204\n",
-      "timestamp": "11:18:22",
+      "base_layer": "KLG Базовый слой 21.01.2026 11:31:\n\n1) KL0627 2026-01-21T09:18:49\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KL0383; wo Нет;Время 2026-01-21 10:43:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLG Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KL0627\nНедоступно LTE2300:\n1) KL0203\n2) KL0351\n3) KL0447\n4) KL0419\n5) KL0502\n6) KL0503\n7) KL0005\n8) KL0560\n9) KL0571\n10) KL0229\n11) KL0324\n12) KL0014\n13) KL0075\n14) KL0725\n15) KL0691\n16) KL0484\n17) KL0554\n18) KL0336\n19) KL0381\n20) KL0405\n21) KL0426\n22) KL0690\n23) KL0253\n24) KL0729\n25) KL0228\n26) KL0564\n27) KL0717\n28) KL0373\n29) KL0658\n30) KL0204\n",
+      "timestamp": "11:31:34",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:22.805149",
+      "full_timestamp": "2026-01-21T11:31:34.294508",
       "stats": {
         "total_bs": 55,
         "base_layer_count": 1,
@@ -2241,7 +2751,7 @@
         "base_layer_percentage": 1
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:22.805149",
+      "collected_at": "2026-01-21T11:31:34.294508",
       "macroregion": "Центр"
     },
     "history": [
@@ -2261,6 +2771,23 @@
         "base_layer_percentage": 1,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "KLG",
+        "region_name": "Калужская область",
+        "base_layer": "KLG Базовый слой 21.01.2026 11:31:\n\n1) KL0627 2026-01-21T09:18:49\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KL0383; wo Нет;Время 2026-01-21 10:43:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KLG Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KL0627\nНедоступно LTE2300:\n1) KL0203\n2) KL0351\n3) KL0447\n4) KL0419\n5) KL0502\n6) KL0503\n7) KL0005\n8) KL0560\n9) KL0571\n10) KL0229\n11) KL0324\n12) KL0014\n13) KL0075\n14) KL0725\n15) KL0691\n16) KL0484\n17) KL0554\n18) KL0336\n19) KL0381\n20) KL0405\n21) KL0426\n22) KL0690\n23) KL0253\n24) KL0729\n25) KL0228\n26) KL0564\n27) KL0717\n28) KL0373\n29) KL0658\n30) KL0204\n",
+        "base_layer_count": 1,
+        "total_bs_count": 55,
+        "power_problems": 1,
+        "non_priority_percentage": 99,
+        "timestamp": "11:31:34",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:34.294508",
+        "created_at": "2026-01-21T11:31:41.657607",
+        "base_layer_percentage": 1,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2269,11 +2796,11 @@
       "success": true,
       "region_code": "KOS",
       "region_name": "Костромская область",
-      "base_layer": "KOS Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KOS Неприоритетные технологии 21.01.2026 11:18:\n\n",
-      "timestamp": "11:18:23",
+      "base_layer": "KOS Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 21.01.2026 11:31:\n\n",
+      "timestamp": "11:31:34",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:23.119539",
+      "full_timestamp": "2026-01-21T11:31:34.617842",
       "stats": {
         "total_bs": 0,
         "base_layer_count": 0,
@@ -2282,7 +2809,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:23.119539",
+      "collected_at": "2026-01-21T11:31:34.617842",
       "macroregion": "Центр"
     },
     "history": [
@@ -2302,6 +2829,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "KOS",
+        "region_name": "Костромская область",
+        "base_layer": "KOS Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KOS Неприоритетные технологии 21.01.2026 11:31:\n\n",
+        "base_layer_count": 0,
+        "total_bs_count": 0,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:34",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:34.617842",
+        "created_at": "2026-01-21T11:31:41.657613",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2310,20 +2854,20 @@
       "success": true,
       "region_code": "RYZ",
       "region_name": "Рязанская область",
-      "base_layer": "RYZ Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "RYZ Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2300:\n1) RZ0745\n2) RZ0755\n3) RZ0040\n4) RZ0461\n5) RZ0093\n6) RZ0039\n",
-      "timestamp": "11:18:23",
+      "base_layer": "RYZ Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- RZ0008; wo Нет;Время 2026-01-21 10:59:20\n\n10 приоритет:\n- RZ0479; wo Нет;Время 2026-01-21 11:03:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "RYZ Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) RZ0008\n2) RZ0479\nНедоступно LTE800:\n1) RZ0479\nНедоступно LTE2600:\n1) RZ0008\nНедоступно LTE2300:\n1) RZ0745\n2) RZ0755\n3) RZ0040\n4) RZ0461\n5) RZ0093\n6) RZ0039\n",
+      "timestamp": "11:31:34",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:23.400807",
+      "full_timestamp": "2026-01-21T11:31:34.954251",
       "stats": {
-        "total_bs": 7,
+        "total_bs": 8,
         "base_layer_count": 0,
-        "power_problems": 0,
+        "power_problems": 2,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:23.400807",
+      "collected_at": "2026-01-21T11:31:34.954251",
       "macroregion": "Центр"
     },
     "history": [
@@ -2343,6 +2887,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "RYZ",
+        "region_name": "Рязанская область",
+        "base_layer": "RYZ Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- RZ0008; wo Нет;Время 2026-01-21 10:59:20\n\n10 приоритет:\n- RZ0479; wo Нет;Время 2026-01-21 11:03:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "RYZ Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) RZ0008\n2) RZ0479\nНедоступно LTE800:\n1) RZ0479\nНедоступно LTE2600:\n1) RZ0008\nНедоступно LTE2300:\n1) RZ0745\n2) RZ0755\n3) RZ0040\n4) RZ0461\n5) RZ0093\n6) RZ0039\n",
+        "base_layer_count": 0,
+        "total_bs_count": 8,
+        "power_problems": 2,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:34",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:34.954251",
+        "created_at": "2026-01-21T11:31:41.657619",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2351,11 +2912,11 @@
       "success": true,
       "region_code": "SMO",
       "region_name": "Смоленская область",
-      "base_layer": "SMO Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SMO Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2300:\n1) SM0526\n2) SM0689\n3) SM0678\n4) SM0693\n5) SM0684\n6) SM0719\n7) SM0435\n8) SM0751\n9) SM0735\n10) SM0018\n11) SM0734\n12) SM0711\n",
-      "timestamp": "11:18:23",
+      "base_layer": "SMO Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SMO Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2300:\n1) SM0684\n2) SM0719\n3) SM0526\n4) SM0689\n5) SM0734\n6) SM0711\n7) SM0435\n8) SM0678\n9) SM0751\n10) SM0735\n11) SM0018\n12) SM0693\n",
+      "timestamp": "11:31:35",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:23.738439",
+      "full_timestamp": "2026-01-21T11:31:35.532069",
       "stats": {
         "total_bs": 19,
         "base_layer_count": 0,
@@ -2364,7 +2925,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:23.738439",
+      "collected_at": "2026-01-21T11:31:35.532069",
       "macroregion": "Центр"
     },
     "history": [
@@ -2384,6 +2945,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "SMO",
+        "region_name": "Смоленская область",
+        "base_layer": "SMO Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "SMO Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2300:\n1) SM0684\n2) SM0719\n3) SM0526\n4) SM0689\n5) SM0734\n6) SM0711\n7) SM0435\n8) SM0678\n9) SM0751\n10) SM0735\n11) SM0018\n12) SM0693\n",
+        "base_layer_count": 0,
+        "total_bs_count": 19,
+        "power_problems": 0,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:35",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:35.532069",
+        "created_at": "2026-01-21T11:31:41.657625",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2392,20 +2970,20 @@
       "success": true,
       "region_code": "TUL",
       "region_name": "Тульская область",
-      "base_layer": "TUL Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TUL Неприоритетные технологии 21.01.2026 11:18:\n\n",
-      "timestamp": "11:18:24",
+      "base_layer": "TUL Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TUL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE800:\n1) TL0577\nНедоступно LTE2600:\n1) TL0577\nНедоступно LTE2300:\n1) TL0577\n",
+      "timestamp": "11:31:35",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:24.124728",
+      "full_timestamp": "2026-01-21T11:31:35.862856",
       "stats": {
-        "total_bs": 2,
+        "total_bs": 3,
         "base_layer_count": 0,
-        "power_problems": 0,
+        "power_problems": 1,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:24.124728",
+      "collected_at": "2026-01-21T11:31:35.862856",
       "macroregion": "Центр"
     },
     "history": [
@@ -2425,6 +3003,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "TUL",
+        "region_name": "Тульская область",
+        "base_layer": "TUL Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "TUL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE800:\n1) TL0577\nНедоступно LTE2600:\n1) TL0577\nНедоступно LTE2300:\n1) TL0577\n",
+        "base_layer_count": 0,
+        "total_bs_count": 3,
+        "power_problems": 1,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:35",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:35.862856",
+        "created_at": "2026-01-21T11:31:41.657632",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2433,20 +3028,20 @@
       "success": true,
       "region_code": "TVE",
       "region_name": "Тверская область",
-      "base_layer": "TVE Базовый слой 21.01.2026 11:18:\n\n1) TV0536 2026-01-21T05:52:38\nPower Нет; Посещение Да; WO Есть\n2) TV1302 2026-01-21T08:37:34\nPower Да; Посещение Нет; WO Нет\n3) TV0868 2026-01-21T01:55:25\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- TV0536; wo Есть;Время 2026-01-21 02:55:25\n\n9 приоритет:\n- TV0313; wo Нет;Время 2026-01-21 10:05:31\n- TV0310; wo Нет;Время 2026-01-21 10:17:42\n- TV0515; wo Нет;Время 2026-01-21 10:47:06\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TVE Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) TV0536\n2) TV1302\n3) TV0868\nНедоступно 3G:\n1) TV0536\n2) TV0313\n3) TV0310\n4) TV0515\nНедоступно LTE800:\n1) TV0313\n2) TV0123\n3) TV1302\n4) TV0310\n5) TV0515\nНедоступно LTE2300:\n1) TV0119\n2) TV0148\n3) TV0056\n4) TV0613\n5) TV1302\n",
-      "timestamp": "11:18:24",
+      "base_layer": "TVE Базовый слой 21.01.2026 11:31:\n\n1) TV0536 2026-01-21T05:52:38\nPower Нет; Посещение Да; WO Нет\n2) TV1302 2026-01-21T08:37:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- TV0515; wo Нет;Время 2026-01-21 10:47:06\n- TV0536; wo Нет;Время 2026-01-21 02:55:25\n\n9 приоритет:\n- TV0313; wo Нет;Время 2026-01-21 10:05:31\n- TV0310; wo Нет;Время 2026-01-21 10:17:42\n- TV0246; wo Нет;Время 2026-01-21 11:01:11\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TVE Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TV0536\n2) TV1302\nНедоступно 3G:\n1) TV0515\n2) TV0536\n3) TV0313\n4) TV0310\n5) TV0246\nНедоступно LTE800:\n1) TV0515\n2) TV0313\n3) TV0310\n4) TV0246\n5) TV0123\n6) TV1302\nНедоступно LTE2300:\n1) TV0613\n2) TV0119\n3) TV0148\n4) TV1302\n5) TV0056\n",
+      "timestamp": "11:31:36",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:24.503747",
+      "full_timestamp": "2026-01-21T11:31:36.189015",
       "stats": {
-        "total_bs": 16,
-        "base_layer_count": 3,
+        "total_bs": 17,
+        "base_layer_count": 2,
         "power_problems": 5,
-        "non_priority_percentage": 82,
-        "base_layer_percentage": 18
+        "non_priority_percentage": 89,
+        "base_layer_percentage": 11
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:24.503747",
+      "collected_at": "2026-01-21T11:31:36.189015",
       "macroregion": "Центр"
     },
     "history": [
@@ -2466,6 +3061,23 @@
         "base_layer_percentage": 18,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "TVE",
+        "region_name": "Тверская область",
+        "base_layer": "TVE Базовый слой 21.01.2026 11:31:\n\n1) TV0536 2026-01-21T05:52:38\nPower Нет; Посещение Да; WO Нет\n2) TV1302 2026-01-21T08:37:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- TV0515; wo Нет;Время 2026-01-21 10:47:06\n- TV0536; wo Нет;Время 2026-01-21 02:55:25\n\n9 приоритет:\n- TV0313; wo Нет;Время 2026-01-21 10:05:31\n- TV0310; wo Нет;Время 2026-01-21 10:17:42\n- TV0246; wo Нет;Время 2026-01-21 11:01:11\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "TVE Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TV0536\n2) TV1302\nНедоступно 3G:\n1) TV0515\n2) TV0536\n3) TV0313\n4) TV0310\n5) TV0246\nНедоступно LTE800:\n1) TV0515\n2) TV0313\n3) TV0310\n4) TV0246\n5) TV0123\n6) TV1302\nНедоступно LTE2300:\n1) TV0613\n2) TV0119\n3) TV0148\n4) TV1302\n5) TV0056\n",
+        "base_layer_count": 2,
+        "total_bs_count": 17,
+        "power_problems": 5,
+        "non_priority_percentage": 89,
+        "timestamp": "11:31:36",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:36.189015",
+        "created_at": "2026-01-21T11:31:41.657637",
+        "base_layer_percentage": 11,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2474,20 +3086,20 @@
       "success": true,
       "region_code": "VLA",
       "region_name": "Владимирская область",
-      "base_layer": "VLA Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- VL0501; wo Нет;Время 2026-01-21 10:14:15\n- VL0943; wo Нет;Время 2026-01-21 10:14:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLA Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) VL0501\n2) VL0237\nНедоступно LTE800:\n1) VL0501\n2) VL0237\nНедоступно LTE2300:\n1) VL0559\n2) VL0197\n3) VL0076\n4) VL0110\n5) VL0943\n6) VL0937\n",
-      "timestamp": "11:18:24",
+      "base_layer": "VLA Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- VL0514; wo Нет;Время 2026-01-21 10:59:11\n- VL0943; wo Нет;Время 2026-01-21 10:14:47\n- VL0501; wo Нет;Время 2026-01-21 10:14:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLA Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) VL0237\n2) VL0501\nНедоступно LTE800:\n1) VL0237\n2) VL0501\nНедоступно LTE2300:\n1) VL0943\n2) VL0559\n3) VL0197\n4) VL0076\n5) VL0110\n6) VL0937\n",
+      "timestamp": "11:31:36",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:24.870450",
+      "full_timestamp": "2026-01-21T11:31:36.474827",
       "stats": {
-        "total_bs": 11,
+        "total_bs": 12,
         "base_layer_count": 0,
-        "power_problems": 3,
+        "power_problems": 4,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:24.870450",
+      "collected_at": "2026-01-21T11:31:36.474827",
       "macroregion": "Центр"
     },
     "history": [
@@ -2507,6 +3119,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "VLA",
+        "region_name": "Владимирская область",
+        "base_layer": "VLA Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- VL0514; wo Нет;Время 2026-01-21 10:59:11\n- VL0943; wo Нет;Время 2026-01-21 10:14:47\n- VL0501; wo Нет;Время 2026-01-21 10:14:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "VLA Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) VL0237\n2) VL0501\nНедоступно LTE800:\n1) VL0237\n2) VL0501\nНедоступно LTE2300:\n1) VL0943\n2) VL0559\n3) VL0197\n4) VL0076\n5) VL0110\n6) VL0937\n",
+        "base_layer_count": 0,
+        "total_bs_count": 12,
+        "power_problems": 4,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:36",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:36.474827",
+        "created_at": "2026-01-21T11:31:41.657645",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2515,20 +3144,20 @@
       "success": true,
       "region_code": "YRL",
       "region_name": "Ярославская область",
-      "base_layer": "YRL Базовый слой 21.01.2026 11:18:\n\n1) YR0568 2026-01-21T09:27:42\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- YR0462; wo Нет;Время 2026-01-21 08:45:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "YRL Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) YR0568\nНедоступно 3G:\n1) YR0568\n2) YR0462\nНедоступно LTE800:\n1) YR0462\nНедоступно LTE2100:\n1) YR0568\n2) YR0462\nНедоступно LTE2300:\n1) YR0003\n2) YR0328\n3) YR0026\n4) YR0086\n5) YR0111\n6) YR1514\n7) YR0699\n",
-      "timestamp": "11:18:25",
+      "base_layer": "YRL Базовый слой 21.01.2026 11:31:\n\n1) YR0157 2026-01-21T11:00:50\nPower Да; Посещение Да; WO Нет\n2) YR0568 2026-01-21T09:27:42\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- YR0462; wo Нет;Время 2026-01-21 08:45:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "YRL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) YR0157\n2) YR0568\nНедоступно 3G:\n1) YR0157\n2) YR0462\n3) YR0568\nНедоступно LTE800:\n1) YR0462\nНедоступно LTE2600:\n1) YR0157\nНедоступно LTE2100:\n1) YR0157\n2) YR0462\n3) YR0568\nНедоступно LTE2300:\n1) YR0157\n2) YR0086\n3) YR0003\n4) YR0328\n5) YR0026\n6) YR0699\n7) YR0111\n8) YR1514\n",
+      "timestamp": "11:31:36",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:25.219854",
+      "full_timestamp": "2026-01-21T11:31:36.753303",
       "stats": {
-        "total_bs": 14,
-        "base_layer_count": 1,
+        "total_bs": 15,
+        "base_layer_count": 2,
         "power_problems": 1,
-        "non_priority_percentage": 93,
-        "base_layer_percentage": 7
+        "non_priority_percentage": 87,
+        "base_layer_percentage": 13
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:25.219854",
+      "collected_at": "2026-01-21T11:31:36.753303",
       "macroregion": "Центр"
     },
     "history": [
@@ -2548,6 +3177,23 @@
         "base_layer_percentage": 7,
         "is_historical": true,
         "macroregion": "Центр"
+      },
+      {
+        "region_code": "YRL",
+        "region_name": "Ярославская область",
+        "base_layer": "YRL Базовый слой 21.01.2026 11:31:\n\n1) YR0157 2026-01-21T11:00:50\nPower Да; Посещение Да; WO Нет\n2) YR0568 2026-01-21T09:27:42\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- YR0462; wo Нет;Время 2026-01-21 08:45:01\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "YRL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) YR0157\n2) YR0568\nНедоступно 3G:\n1) YR0157\n2) YR0462\n3) YR0568\nНедоступно LTE800:\n1) YR0462\nНедоступно LTE2600:\n1) YR0157\nНедоступно LTE2100:\n1) YR0157\n2) YR0462\n3) YR0568\nНедоступно LTE2300:\n1) YR0157\n2) YR0086\n3) YR0003\n4) YR0328\n5) YR0026\n6) YR0699\n7) YR0111\n8) YR1514\n",
+        "base_layer_count": 2,
+        "total_bs_count": 15,
+        "power_problems": 1,
+        "non_priority_percentage": 87,
+        "timestamp": "11:31:36",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:36.753303",
+        "created_at": "2026-01-21T11:31:41.657651",
+        "base_layer_percentage": 13,
+        "is_historical": true,
+        "macroregion": "Центр"
       }
     ]
   },
@@ -2556,20 +3202,20 @@
       "success": true,
       "region_code": "BEL",
       "region_name": "Белгородская область",
-      "base_layer": "BEL Базовый слой 21.01.2026 11:18:\n\n1) BE0974 2026-01-08T18:03:49\nPower Да; Посещение Нет; WO Нет\n2) BE2248 2026-01-19T10:07:08\nPower Да; Посещение Нет; WO Нет\n3) BE0092 2026-01-09T00:03:42\nPower Да; Посещение Нет; WO Нет\n4) BE0065 2026-01-10T20:42:13\nPower Да; Посещение Нет; WO Нет\n5) BE0692 2025-12-31T15:41:31\nPower Да; Посещение Нет; WO Нет\n6) BE0253 2026-01-21T10:09:18\nPower Да; Посещение Нет; WO Нет\n7) BE0118 2026-01-02T00:33:50\nPower Да; Посещение Нет; WO Нет\n8) BE2115 2026-01-11T13:27:51\nPower Да; Посещение Нет; WO Нет\n9) BE0123 2026-01-02T00:50:52\nPower Да; Посещение Нет; WO Нет\n10) BE0058 2025-12-28T09:39:27\nPower Да; Посещение Нет; WO Нет\n11) BE0245 2026-01-09T04:25:21\nPower Да; Посещение Нет; WO Нет\n12) BE0357 2026-01-20T14:34:04\nPower Да; Посещение Нет; WO Нет\n13) BE0154 2026-01-21T10:50:48\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- BE0943; wo Нет;Время 2026-01-21 07:55:14\n\n3 приоритет:\n- BE0154; wo Нет;Время 2026-01-21 10:57:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BEL Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) BE0974\n2) BE2248\n3) BE0065\n4) BE0692\n5) BE0253\n6) BE0118\n7) BE2115\n8) BE0123\n9) BE0058\n10) BE0245\n11) BE0154\nНедоступно 3G:\n1) BE0232\n2) BE0290\n3) BE0989\n4) BE0974\n5) BE0490\n6) BE0220\n7) BE0092\n8) BE0065\n9) BE0899\n10) BE0138\n11) BE0943\n12) BE0123\n13) BE0154\n14) BE0234\nНедоступно LTE800:\n1) BE0290\n2) BE0656\n3) BE0810\nНедоступно LTE2600:\n1) BE0232\n2) BE0900\n3) BE0398\n4) BE0617\n5) BE0092\n6) BE0065\n7) BE0245\n8) BE0306\n9) BE0154\nНедоступно LTE2100:\n1) BE0974\n2) BE0138\n3) BE0123\n4) BE0154\nНедоступно LTE2300:\n1) BE0090\n2) BE0193\n3) BE2088\n4) BE0989\n5) BE2358\n6) BE0261\n7) BE0102\n8) BE2303\n9) BE0014\n10) BE0092\n11) BE0015\n12) BE0275\n13) BE0312\n14) BE0080\n15) BE0018\n16) BE0154\n17) BE0142\n",
-      "timestamp": "11:18:25",
+      "base_layer": "BEL Базовый слой 21.01.2026 11:31:\n\n1) BE0118 2026-01-02T00:33:50\nPower Да; Посещение Нет; WO Нет\n2) BE2115 2026-01-11T13:27:51\nPower Да; Посещение Нет; WO Нет\n3) BE0123 2026-01-02T00:50:52\nPower Да; Посещение Нет; WO Нет\n4) BE0974 2026-01-08T18:03:49\nPower Да; Посещение Нет; WO Нет\n5) BE0058 2025-12-28T09:39:27\nPower Да; Посещение Нет; WO Нет\n6) BE0245 2026-01-09T04:25:21\nPower Да; Посещение Нет; WO Нет\n7) BE0092 2026-01-09T00:03:42\nPower Да; Посещение Нет; WO Нет\n8) BE0065 2026-01-10T20:42:13\nPower Да; Посещение Нет; WO Нет\n9) BE0357 2026-01-20T14:34:04\nPower Да; Посещение Нет; WO Нет\n10) BE0692 2025-12-31T15:41:31\nPower Да; Посещение Нет; WO Нет\n11) BE2248 2026-01-19T10:07:08\nPower Да; Посещение Нет; WO Нет\n12) BE0253 2026-01-21T10:09:18\nPower Да; Посещение Нет; WO Нет\n13) BE0154 2026-01-21T10:50:48\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- BE0943; wo Нет;Время 2026-01-21 07:55:14\n\n9 приоритет:\n- BE0899; wo Нет;Время 2026-01-21 10:56:43\n\n3 приоритет:\n- BE0154; wo Нет;Время 2026-01-21 10:57:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BEL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) BE0118\n2) BE2115\n3) BE0123\n4) BE0974\n5) BE0058\n6) BE0245\n7) BE0065\n8) BE0692\n9) BE2248\n10) BE0253\n11) BE0154\nНедоступно 3G:\n1) BE0989\n2) BE0490\n3) BE0943\n4) BE0220\n5) BE0123\n6) BE0974\n7) BE0092\n8) BE0232\n9) BE0065\n10) BE0899\n11) BE0290\n12) BE0154\n13) BE0138\n14) BE0234\nНедоступно LTE800:\n1) BE0656\n2) BE0290\n3) BE0810\nНедоступно LTE2600:\n1) BE0245\n2) BE0092\n3) BE0232\n4) BE0900\n5) BE0065\n6) BE0306\n7) BE0154\n8) BE0617\n9) BE0398\nНедоступно LTE2100:\n1) BE0123\n2) BE0974\n3) BE0154\n4) BE0138\nНедоступно LTE2300:\n1) BE0989\n2) BE0127\n3) BE0312\n4) BE2358\n5) BE0080\n6) BE0090\n7) BE0014\n8) BE0261\n9) BE0092\n10) BE0018\n11) BE0154\n12) BE0193\n13) BE0102\n14) BE0015\n15) BE2303\n16) BE0275\n17) BE0142\n18) BE2088\n",
+      "timestamp": "11:31:37",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:25.634783",
+      "full_timestamp": "2026-01-21T11:31:37.353355",
       "stats": {
-        "total_bs": 68,
+        "total_bs": 69,
         "base_layer_count": 13,
         "power_problems": 4,
-        "non_priority_percentage": 81,
-        "base_layer_percentage": 19
+        "non_priority_percentage": 82,
+        "base_layer_percentage": 18
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:25.634783",
+      "collected_at": "2026-01-21T11:31:37.353355",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2589,6 +3235,23 @@
         "base_layer_percentage": 19,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "BEL",
+        "region_name": "Белгородская область",
+        "base_layer": "BEL Базовый слой 21.01.2026 11:31:\n\n1) BE0118 2026-01-02T00:33:50\nPower Да; Посещение Нет; WO Нет\n2) BE2115 2026-01-11T13:27:51\nPower Да; Посещение Нет; WO Нет\n3) BE0123 2026-01-02T00:50:52\nPower Да; Посещение Нет; WO Нет\n4) BE0974 2026-01-08T18:03:49\nPower Да; Посещение Нет; WO Нет\n5) BE0058 2025-12-28T09:39:27\nPower Да; Посещение Нет; WO Нет\n6) BE0245 2026-01-09T04:25:21\nPower Да; Посещение Нет; WO Нет\n7) BE0092 2026-01-09T00:03:42\nPower Да; Посещение Нет; WO Нет\n8) BE0065 2026-01-10T20:42:13\nPower Да; Посещение Нет; WO Нет\n9) BE0357 2026-01-20T14:34:04\nPower Да; Посещение Нет; WO Нет\n10) BE0692 2025-12-31T15:41:31\nPower Да; Посещение Нет; WO Нет\n11) BE2248 2026-01-19T10:07:08\nPower Да; Посещение Нет; WO Нет\n12) BE0253 2026-01-21T10:09:18\nPower Да; Посещение Нет; WO Нет\n13) BE0154 2026-01-21T10:50:48\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- BE0943; wo Нет;Время 2026-01-21 07:55:14\n\n9 приоритет:\n- BE0899; wo Нет;Время 2026-01-21 10:56:43\n\n3 приоритет:\n- BE0154; wo Нет;Время 2026-01-21 10:57:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "BEL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) BE0118\n2) BE2115\n3) BE0123\n4) BE0974\n5) BE0058\n6) BE0245\n7) BE0065\n8) BE0692\n9) BE2248\n10) BE0253\n11) BE0154\nНедоступно 3G:\n1) BE0989\n2) BE0490\n3) BE0943\n4) BE0220\n5) BE0123\n6) BE0974\n7) BE0092\n8) BE0232\n9) BE0065\n10) BE0899\n11) BE0290\n12) BE0154\n13) BE0138\n14) BE0234\nНедоступно LTE800:\n1) BE0656\n2) BE0290\n3) BE0810\nНедоступно LTE2600:\n1) BE0245\n2) BE0092\n3) BE0232\n4) BE0900\n5) BE0065\n6) BE0306\n7) BE0154\n8) BE0617\n9) BE0398\nНедоступно LTE2100:\n1) BE0123\n2) BE0974\n3) BE0154\n4) BE0138\nНедоступно LTE2300:\n1) BE0989\n2) BE0127\n3) BE0312\n4) BE2358\n5) BE0080\n6) BE0090\n7) BE0014\n8) BE0261\n9) BE0092\n10) BE0018\n11) BE0154\n12) BE0193\n13) BE0102\n14) BE0015\n15) BE2303\n16) BE0275\n17) BE0142\n18) BE2088\n",
+        "base_layer_count": 13,
+        "total_bs_count": 69,
+        "power_problems": 4,
+        "non_priority_percentage": 82,
+        "timestamp": "11:31:37",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:37.353355",
+        "created_at": "2026-01-21T11:31:41.657658",
+        "base_layer_percentage": 18,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2597,11 +3260,11 @@
       "success": true,
       "region_code": "BRY",
       "region_name": "Брянская область",
-      "base_layer": "BRY Базовый слой 21.01.2026 11:18:\n\n1) BR0401 2026-01-20T00:53:14\nPower Да; Посещение Нет; WO Нет\n2) BR0112 2025-12-27T15:42:36\nPower Да; Посещение Нет; WO Нет\n3) BR1522 2026-01-21T03:22:53\nPower Да; Посещение Нет; WO Нет\n4) BR0736 2026-01-10T11:32:31\nPower Да; Посещение Нет; WO Нет\n5) BR1238 2026-01-10T00:04:10\nPower Да; Посещение Нет; WO Нет\n6) BR0642 2025-12-30T06:37:37\nPower Да; Посещение Нет; WO Нет\n7) BR0363 2026-01-11T14:17:03\nPower Да; Посещение Нет; WO Нет\n8) BR1612 2026-01-20T12:39:29\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "BRY Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) BR0401\n2) BR0112\n3) BR1522\n4) BR0736\n5) BR1238\n6) BR0642\n7) BR0363\n8) BR1612\nНедоступно 3G:\n1) BR0082\n2) BR0736\n3) BR0184\n4) BR0190\nНедоступно LTE800:\n1) BR0112\n2) BR0736\n3) BR0072\nНедоступно LTE2100:\n1) BR0736\n2) BR0190\nНедоступно LTE2300:\n1) BR0614\n2) BR0231\n3) BR0619\n4) BR1238\n5) BR0360\n6) BR0542\n7) BR0072\n",
-      "timestamp": "11:18:26",
+      "base_layer": "BRY Базовый слой 21.01.2026 11:31:\n\n1) BR1612 2026-01-20T12:39:29\nPower Да; Посещение Нет; WO Нет\n2) BR1238 2026-01-10T00:04:10\nPower Да; Посещение Нет; WO Нет\n3) BR1522 2026-01-21T03:22:53\nPower Да; Посещение Нет; WO Нет\n4) BR0401 2026-01-20T00:53:14\nPower Да; Посещение Нет; WO Нет\n5) BR0112 2025-12-27T15:42:36\nPower Да; Посещение Нет; WO Нет\n6) BR0736 2026-01-10T11:32:31\nPower Да; Посещение Нет; WO Нет\n7) BR0642 2025-12-30T06:37:37\nPower Да; Посещение Нет; WO Нет\n8) BR0363 2026-01-11T14:17:03\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRY Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) BR1612\n2) BR1238\n3) BR1522\n4) BR0401\n5) BR0112\n6) BR0736\n7) BR0642\n8) BR0363\nНедоступно 3G:\n1) BR0082\n2) BR0736\n3) BR0190\n4) BR0184\nНедоступно LTE800:\n1) BR0072\n2) BR0112\n3) BR0736\nНедоступно LTE2100:\n1) BR0736\n2) BR0190\nНедоступно LTE2300:\n1) BR0360\n2) BR0542\n3) BR0614\n4) BR1238\n5) BR0072\n6) BR0231\n7) BR0619\n",
+      "timestamp": "11:31:37",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:26.001943",
+      "full_timestamp": "2026-01-21T11:31:37.639472",
       "stats": {
         "total_bs": 47,
         "base_layer_count": 8,
@@ -2610,7 +3273,7 @@
         "base_layer_percentage": 17
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:26.001943",
+      "collected_at": "2026-01-21T11:31:37.639472",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2630,6 +3293,23 @@
         "base_layer_percentage": 17,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "BRY",
+        "region_name": "Брянская область",
+        "base_layer": "BRY Базовый слой 21.01.2026 11:31:\n\n1) BR1612 2026-01-20T12:39:29\nPower Да; Посещение Нет; WO Нет\n2) BR1238 2026-01-10T00:04:10\nPower Да; Посещение Нет; WO Нет\n3) BR1522 2026-01-21T03:22:53\nPower Да; Посещение Нет; WO Нет\n4) BR0401 2026-01-20T00:53:14\nPower Да; Посещение Нет; WO Нет\n5) BR0112 2025-12-27T15:42:36\nPower Да; Посещение Нет; WO Нет\n6) BR0736 2026-01-10T11:32:31\nPower Да; Посещение Нет; WO Нет\n7) BR0642 2025-12-30T06:37:37\nPower Да; Посещение Нет; WO Нет\n8) BR0363 2026-01-11T14:17:03\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "BRY Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) BR1612\n2) BR1238\n3) BR1522\n4) BR0401\n5) BR0112\n6) BR0736\n7) BR0642\n8) BR0363\nНедоступно 3G:\n1) BR0082\n2) BR0736\n3) BR0190\n4) BR0184\nНедоступно LTE800:\n1) BR0072\n2) BR0112\n3) BR0736\nНедоступно LTE2100:\n1) BR0736\n2) BR0190\nНедоступно LTE2300:\n1) BR0360\n2) BR0542\n3) BR0614\n4) BR1238\n5) BR0072\n6) BR0231\n7) BR0619\n",
+        "base_layer_count": 8,
+        "total_bs_count": 47,
+        "power_problems": 1,
+        "non_priority_percentage": 83,
+        "timestamp": "11:31:37",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:37.639472",
+        "created_at": "2026-01-21T11:31:41.657664",
+        "base_layer_percentage": 17,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2638,11 +3318,11 @@
       "success": true,
       "region_code": "KUR",
       "region_name": "Курская область",
-      "base_layer": "KUR Базовый слой 21.01.2026 11:18:\n\n1) KU0058 2026-01-20T18:08:05\nPower Да; Посещение Нет; WO Нет\n2) KU0750 2026-01-18T17:17:05\nPower Да; Посещение Нет; WO Нет\n3) KU0054 2026-01-18T17:17:11\nPower Да; Посещение Нет; WO Нет\n4) KU1214 2026-01-18T17:09:17\nPower Да; Посещение Нет; WO Нет\n5) KU1359 2026-01-19T13:05:03\nPower Да; Посещение Нет; WO Нет\n6) KU0150 2026-01-20T10:15:49\nPower Да; Посещение Нет; WO Нет\n7) KU1575 2026-01-16T15:09:26\nPower Нет; Посещение Нет; WO Нет\n8) KU0048 2026-01-11T15:48:04\nPower Да; Посещение Нет; WO Нет\n9) KU2065 2026-01-18T17:13:53\nPower Да; Посещение Нет; WO Нет\n10) KU0847 2026-01-18T17:10:03\nPower Да; Посещение Нет; WO Нет\n11) KU0655 2026-01-21T01:29:17\nPower Да; Посещение Нет; WO Нет\n12) KU1112 2026-01-10T20:27:01\nPower Да; Посещение Нет; WO Нет\n13) KU1308 2026-01-06T18:23:35\nPower Да; Посещение Нет; WO Нет\n14) KU0529 2026-01-21T10:58:04\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KU1575; wo Нет;Время 2026-01-21 03:11:34\n- KU0222; wo Есть;Время 2026-01-21 10:41:03\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KUR Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) KU0058\n2) KU0750\n3) KU0054\n4) KU1214\n5) KU1359\n6) KU0150\n7) KU1575\n8) KU2065\n9) KU0847\n10) KU0655\n11) KU1112\n12) KU1308\nНедоступно 3G:\n1) KU0058\n2) KU0750\n3) KU0054\n4) KU1575\n5) KU0233\n6) KU0222\n7) KU0145\n8) KU0529\nНедоступно LTE800:\n1) KU0058\n2) KU0750\n3) KU0054\n4) KU0222\n5) KU0145\nНедоступно LTE2600:\n1) KU0058\n2) KU0048\nНедоступно LTE2100:\n1) KU0233\nНедоступно LTE2300:\n1) KU2112\n2) KU0022\n3) KU2101\n4) KU2073\n5) KU0034\n6) KU2031\n7) KU2084\n8) KU0046\n9) KU2065\n10) KU2089\n11) KU2074\n12) KU0355\n13) KU2118\n",
-      "timestamp": "11:18:26",
+      "base_layer": "KUR Базовый слой 21.01.2026 11:31:\n\n1) KU0529 2026-01-21T11:12:06\nPower Нет; Посещение Нет; WO Нет\n2) KU0058 2026-01-20T18:08:05\nPower Да; Посещение Нет; WO Нет\n3) KU0750 2026-01-18T17:17:05\nPower Да; Посещение Нет; WO Нет\n4) KU0054 2026-01-18T17:17:11\nPower Да; Посещение Нет; WO Нет\n5) KU1575 2026-01-16T15:09:26\nPower Нет; Посещение Нет; WO Нет\n6) KU1214 2026-01-18T17:09:17\nPower Да; Посещение Нет; WO Нет\n7) KU0048 2026-01-11T15:48:04\nPower Да; Посещение Нет; WO Нет\n8) KU2065 2026-01-18T17:13:53\nPower Да; Посещение Нет; WO Нет\n9) KU0847 2026-01-18T17:10:03\nPower Да; Посещение Нет; WO Нет\n10) KU0655 2026-01-21T01:29:17\nPower Да; Посещение Нет; WO Нет\n11) KU1359 2026-01-19T13:05:03\nPower Да; Посещение Нет; WO Нет\n12) KU0150 2026-01-20T10:15:49\nPower Да; Посещение Нет; WO Нет\n13) KU1112 2026-01-10T20:27:01\nPower Да; Посещение Нет; WO Нет\n14) KU1308 2026-01-06T18:23:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KU1575; wo Нет;Время 2026-01-21 03:11:34\n- KU0222; wo Нет;Время 2026-01-21 10:41:03\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KUR Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KU0529\n2) KU0058\n3) KU0750\n4) KU0054\n5) KU1575\n6) KU1214\n7) KU2065\n8) KU0847\n9) KU0655\n10) KU1359\n11) KU0150\n12) KU1308\nНедоступно 3G:\n1) KU0145\n2) KU0529\n3) KU0058\n4) KU0750\n5) KU0054\n6) KU1575\n7) KU0233\n8) KU0222\nНедоступно LTE800:\n1) KU0145\n2) KU0058\n3) KU0750\n4) KU0054\n5) KU0222\nНедоступно LTE2600:\n1) KU0058\n2) KU0048\nНедоступно LTE2100:\n1) KU0529\n2) KU0233\nНедоступно LTE2300:\n1) KU0355\n2) KU0529\n3) KU2073\n4) KU2084\n5) KU0046\n6) KU2065\n7) KU2112\n8) KU2089\n9) KU0034\n10) KU2074\n11) KU0022\n12) KU2118\n13) KU2101\n14) KU2031\n",
+      "timestamp": "11:31:37",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:26.487457",
+      "full_timestamp": "2026-01-21T11:31:37.921492",
       "stats": {
         "total_bs": 49,
         "base_layer_count": 14,
@@ -2651,7 +3331,7 @@
         "base_layer_percentage": 28
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:26.487457",
+      "collected_at": "2026-01-21T11:31:37.921492",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2671,6 +3351,23 @@
         "base_layer_percentage": 28,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "KUR",
+        "region_name": "Курская область",
+        "base_layer": "KUR Базовый слой 21.01.2026 11:31:\n\n1) KU0529 2026-01-21T11:12:06\nPower Нет; Посещение Нет; WO Нет\n2) KU0058 2026-01-20T18:08:05\nPower Да; Посещение Нет; WO Нет\n3) KU0750 2026-01-18T17:17:05\nPower Да; Посещение Нет; WO Нет\n4) KU0054 2026-01-18T17:17:11\nPower Да; Посещение Нет; WO Нет\n5) KU1575 2026-01-16T15:09:26\nPower Нет; Посещение Нет; WO Нет\n6) KU1214 2026-01-18T17:09:17\nPower Да; Посещение Нет; WO Нет\n7) KU0048 2026-01-11T15:48:04\nPower Да; Посещение Нет; WO Нет\n8) KU2065 2026-01-18T17:13:53\nPower Да; Посещение Нет; WO Нет\n9) KU0847 2026-01-18T17:10:03\nPower Да; Посещение Нет; WO Нет\n10) KU0655 2026-01-21T01:29:17\nPower Да; Посещение Нет; WO Нет\n11) KU1359 2026-01-19T13:05:03\nPower Да; Посещение Нет; WO Нет\n12) KU0150 2026-01-20T10:15:49\nPower Да; Посещение Нет; WO Нет\n13) KU1112 2026-01-10T20:27:01\nPower Да; Посещение Нет; WO Нет\n14) KU1308 2026-01-06T18:23:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KU1575; wo Нет;Время 2026-01-21 03:11:34\n- KU0222; wo Нет;Время 2026-01-21 10:41:03\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KUR Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KU0529\n2) KU0058\n3) KU0750\n4) KU0054\n5) KU1575\n6) KU1214\n7) KU2065\n8) KU0847\n9) KU0655\n10) KU1359\n11) KU0150\n12) KU1308\nНедоступно 3G:\n1) KU0145\n2) KU0529\n3) KU0058\n4) KU0750\n5) KU0054\n6) KU1575\n7) KU0233\n8) KU0222\nНедоступно LTE800:\n1) KU0145\n2) KU0058\n3) KU0750\n4) KU0054\n5) KU0222\nНедоступно LTE2600:\n1) KU0058\n2) KU0048\nНедоступно LTE2100:\n1) KU0529\n2) KU0233\nНедоступно LTE2300:\n1) KU0355\n2) KU0529\n3) KU2073\n4) KU2084\n5) KU0046\n6) KU2065\n7) KU2112\n8) KU2089\n9) KU0034\n10) KU2074\n11) KU0022\n12) KU2118\n13) KU2101\n14) KU2031\n",
+        "base_layer_count": 14,
+        "total_bs_count": 49,
+        "power_problems": 3,
+        "non_priority_percentage": 72,
+        "timestamp": "11:31:37",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:37.921492",
+        "created_at": "2026-01-21T11:31:41.657671",
+        "base_layer_percentage": 28,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2679,20 +3376,20 @@
       "success": true,
       "region_code": "LIP",
       "region_name": "Липецкая область",
-      "base_layer": "LIP Базовый слой 21.01.2026 11:18:\n\n1) LI1803 2026-01-21T10:24:34\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "LIP Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) LI1803\nНедоступно LTE2600:\n1) LI0336\nНедоступно LTE2300:\n1) LI0918\n2) LI0916\n",
-      "timestamp": "11:18:26",
+      "base_layer": "LIP Базовый слой 21.01.2026 11:31:\n\n1) LI1803 2026-01-21T10:24:34\nPower Да; Посещение Да; WO Нет\n2) LI0257 2026-01-21T11:04:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "LIP Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) LI1803\n2) LI0257\nНедоступно 3G:\n1) LI0257\nНедоступно LTE2600:\n1) LI0257\nНедоступно LTE2300:\n1) LI0918\n2) LI0916\n",
+      "timestamp": "11:31:38",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:26.960266",
+      "full_timestamp": "2026-01-21T11:31:38.194368",
       "stats": {
         "total_bs": 6,
-        "base_layer_count": 1,
+        "base_layer_count": 2,
         "power_problems": 0,
-        "non_priority_percentage": 84,
-        "base_layer_percentage": 16
+        "non_priority_percentage": 67,
+        "base_layer_percentage": 33
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:26.960266",
+      "collected_at": "2026-01-21T11:31:38.194368",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2712,6 +3409,23 @@
         "base_layer_percentage": 16,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "LIP",
+        "region_name": "Липецкая область",
+        "base_layer": "LIP Базовый слой 21.01.2026 11:31:\n\n1) LI1803 2026-01-21T10:24:34\nPower Да; Посещение Да; WO Нет\n2) LI0257 2026-01-21T11:04:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "LIP Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) LI1803\n2) LI0257\nНедоступно 3G:\n1) LI0257\nНедоступно LTE2600:\n1) LI0257\nНедоступно LTE2300:\n1) LI0918\n2) LI0916\n",
+        "base_layer_count": 2,
+        "total_bs_count": 6,
+        "power_problems": 0,
+        "non_priority_percentage": 67,
+        "timestamp": "11:31:38",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:38.194368",
+        "created_at": "2026-01-21T11:31:41.657677",
+        "base_layer_percentage": 33,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2720,20 +3434,20 @@
       "success": true,
       "region_code": "MRD",
       "region_name": "Мордовия",
-      "base_layer": "MRD Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- MV0550; wo Нет;Время 2026-01-21 06:21:14\n- MV0464; wo Есть;Время 2026-01-21 10:02:59\n\n9 приоритет:\n- MV0197; wo Есть;Время 2026-01-21 10:20:25\n- MV0551; wo Нет;Время 2026-01-21 08:23:42\n- MV0338; wo Есть;Время 2026-01-15 03:58:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "MRD Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) MV0056\n2) MV0464\n3) MV0197\n4) MV0563\n5) MV0338\nНедоступно LTE800:\n1) MV0550\n2) MV0464\n3) MV0197\n4) MV0551\n5) MV0338\nНедоступно LTE2600:\n1) MV0464\n2) MV0338\nНедоступно LTE2100:\n1) MV0464\n2) MV0197\n3) MV0338\nНедоступно LTE2300:\n1) MV0056\n2) MV0464\n3) MV0182\n4) MV0563\n5) MV0284\n6) MV0136\n",
-      "timestamp": "11:18:27",
+      "base_layer": "MRD Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- MV0550; wo Нет;Время 2026-01-21 06:21:14\n- MV0464; wo Есть;Время 2026-01-21 10:02:59\n\n9 приоритет:\n- MV0197; wo Есть;Время 2026-01-21 10:20:25\n- MV0551; wo Нет;Время 2026-01-21 08:23:42\n- MV0338; wo Есть;Время 2026-01-15 03:58:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) MV0464\n2) MV0197\n3) MV0338\nНедоступно LTE800:\n1) MV0550\n2) MV0464\n3) MV0197\n4) MV0551\n5) MV0338\nНедоступно LTE2600:\n1) MV0464\n2) MV0338\nНедоступно LTE2100:\n1) MV0464\n2) MV0197\n3) MV0338\nНедоступно LTE2300:\n1) MV0056\n2) MV0464\n3) MV0182\n4) MV0563\n5) MV0284\n6) MV0136\n",
+      "timestamp": "11:31:38",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:27.331499",
+      "full_timestamp": "2026-01-21T11:31:38.529888",
       "stats": {
-        "total_bs": 12,
+        "total_bs": 10,
         "base_layer_count": 0,
         "power_problems": 5,
         "non_priority_percentage": 100,
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:27.331499",
+      "collected_at": "2026-01-21T11:31:38.529888",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2753,6 +3467,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "MRD",
+        "region_name": "Мордовия",
+        "base_layer": "MRD Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- MV0550; wo Нет;Время 2026-01-21 06:21:14\n- MV0464; wo Есть;Время 2026-01-21 10:02:59\n\n9 приоритет:\n- MV0197; wo Есть;Время 2026-01-21 10:20:25\n- MV0551; wo Нет;Время 2026-01-21 08:23:42\n- MV0338; wo Есть;Время 2026-01-15 03:58:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "MRD Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно 3G:\n1) MV0464\n2) MV0197\n3) MV0338\nНедоступно LTE800:\n1) MV0550\n2) MV0464\n3) MV0197\n4) MV0551\n5) MV0338\nНедоступно LTE2600:\n1) MV0464\n2) MV0338\nНедоступно LTE2100:\n1) MV0464\n2) MV0197\n3) MV0338\nНедоступно LTE2300:\n1) MV0056\n2) MV0464\n3) MV0182\n4) MV0563\n5) MV0284\n6) MV0136\n",
+        "base_layer_count": 0,
+        "total_bs_count": 10,
+        "power_problems": 5,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:38",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:38.529888",
+        "created_at": "2026-01-21T11:31:41.657683",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2761,11 +3492,11 @@
       "success": true,
       "region_code": "ORL",
       "region_name": "Орловская область",
-      "base_layer": "ORL Базовый слой 21.01.2026 11:18:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ORL Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE2300:\n1) OR2422\n2) OR0040\n3) OR0634\n4) OR0912\n5) OR2015\n6) OR0321\n",
-      "timestamp": "11:18:27",
+      "base_layer": "ORL Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ORL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2300:\n1) OR2422\n2) OR0040\n3) OR0634\n4) OR0912\n5) OR2015\n6) OR0321\n",
+      "timestamp": "11:31:38",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:27.677316",
+      "full_timestamp": "2026-01-21T11:31:38.853851",
       "stats": {
         "total_bs": 17,
         "base_layer_count": 0,
@@ -2774,7 +3505,7 @@
         "base_layer_percentage": 0
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:27.677316",
+      "collected_at": "2026-01-21T11:31:38.853851",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2794,6 +3525,23 @@
         "base_layer_percentage": 0,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "ORL",
+        "region_name": "Орловская область",
+        "base_layer": "ORL Базовый слой 21.01.2026 11:31:\n\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "ORL Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE2300:\n1) OR2422\n2) OR0040\n3) OR0634\n4) OR0912\n5) OR2015\n6) OR0321\n",
+        "base_layer_count": 0,
+        "total_bs_count": 17,
+        "power_problems": 1,
+        "non_priority_percentage": 100,
+        "timestamp": "11:31:38",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:38.853851",
+        "created_at": "2026-01-21T11:31:41.657689",
+        "base_layer_percentage": 0,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2802,11 +3550,11 @@
       "success": true,
       "region_code": "PNZ",
       "region_name": "Пензенская область",
-      "base_layer": "PNZ Базовый слой 21.01.2026 11:18:\n\n1) PN0134 2026-01-20T12:22:21\nPower Да; Посещение Нет; WO Есть\n2) PN1407 2026-01-19T19:38:06\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "PNZ Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) PN1407\nНедоступно LTE2100:\n1) PN0134\nНедоступно LTE2300:\n1) PN0108\n",
-      "timestamp": "11:18:28",
+      "base_layer": "PNZ Базовый слой 21.01.2026 11:31:\n\n1) PN0134 2026-01-20T12:22:21\nPower Да; Посещение Нет; WO Есть\n2) PN1407 2026-01-19T19:38:06\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "PNZ Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) PN1407\nНедоступно 3G:\n1) PN0204\nНедоступно LTE800:\n1) PN0204\nНедоступно LTE2100:\n1) PN0204\n2) PN0134\nНедоступно LTE2300:\n1) PN0108\n",
+      "timestamp": "11:31:39",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:28.032607",
+      "full_timestamp": "2026-01-21T11:31:39.184165",
       "stats": {
         "total_bs": 4,
         "base_layer_count": 2,
@@ -2815,7 +3563,7 @@
         "base_layer_percentage": 50
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:28.032607",
+      "collected_at": "2026-01-21T11:31:39.184165",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2835,6 +3583,23 @@
         "base_layer_percentage": 50,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "PNZ",
+        "region_name": "Пензенская область",
+        "base_layer": "PNZ Базовый слой 21.01.2026 11:31:\n\n1) PN0134 2026-01-20T12:22:21\nPower Да; Посещение Нет; WO Есть\n2) PN1407 2026-01-19T19:38:06\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "PNZ Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) PN1407\nНедоступно 3G:\n1) PN0204\nНедоступно LTE800:\n1) PN0204\nНедоступно LTE2100:\n1) PN0204\n2) PN0134\nНедоступно LTE2300:\n1) PN0108\n",
+        "base_layer_count": 2,
+        "total_bs_count": 4,
+        "power_problems": 0,
+        "non_priority_percentage": 50,
+        "timestamp": "11:31:39",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:39.184165",
+        "created_at": "2026-01-21T11:31:41.657695",
+        "base_layer_percentage": 50,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2843,11 +3608,11 @@
       "success": true,
       "region_code": "SRV",
       "region_name": "Саратовская область",
-      "base_layer": "SRV Базовый слой 21.01.2026 11:18:\n\n1) SV0811 2026-01-19T01:26:29\nPower Да; Посещение Нет; WO Нет\n2) SV0435 2026-01-21T05:46:43\nPower Нет; Посещение Да; WO Есть\n3) SV0042 2026-01-21T09:08:24\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SRV Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) SV0811\n2) SV0435\n3) SV0042\nНедоступно 3G:\n1) SV0811\n2) SV0435\n3) SV0042\n4) SV0271\n5) SV1024\n6) SV1450\nНедоступно LTE800:\n1) SV0852\n2) SV0811\n3) SV0435\n4) SV1545\n5) SV1450\nНедоступно LTE2600:\n1) SV0042\nНедоступно LTE2100:\n1) SV0042\n2) SV0271\n3) SV1024\nНедоступно LTE2300:\n1) SV1515\n2) SV1455\n3) SV0317\n4) SV0688\n5) SV0435\n6) SV0315\n7) SV1793\n8) SV1685\n9) SV1468\n10) SV1775\n11) SV1925\n12) SV0042\n13) SV0445\n14) SV0318\n15) SV0329\n16) SV0452\n",
-      "timestamp": "11:18:28",
+      "base_layer": "SRV Базовый слой 21.01.2026 11:31:\n\n1) SV0811 2026-01-19T01:26:29\nPower Да; Посещение Нет; WO Нет\n2) SV0435 2026-01-21T05:46:43\nPower Нет; Посещение Да; WO Есть\n3) SV0042 2026-01-21T09:08:24\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SRV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SV0811\n2) SV0435\n3) SV0042\nНедоступно 3G:\n1) SV0811\n2) SV0435\n3) SV0042\n4) SV0271\n5) SV1024\n6) SV1450\nНедоступно LTE800:\n1) SV0852\n2) SV0811\n3) SV0435\n4) SV1545\n5) SV1450\nНедоступно LTE2600:\n1) SV0042\nНедоступно LTE2100:\n1) SV0042\n2) SV0271\n3) SV1024\nНедоступно LTE2300:\n1) SV1515\n2) SV1455\n3) SV0317\n4) SV0688\n5) SV0435\n6) SV0315\n7) SV1793\n8) SV1685\n9) SV1468\n10) SV1775\n11) SV1925\n12) SV0042\n13) SV0445\n14) SV0318\n15) SV0329\n16) SV0452\n",
+      "timestamp": "11:31:39",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:28.388542",
+      "full_timestamp": "2026-01-21T11:31:39.567489",
       "stats": {
         "total_bs": 23,
         "base_layer_count": 3,
@@ -2856,7 +3621,7 @@
         "base_layer_percentage": 13
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:28.388542",
+      "collected_at": "2026-01-21T11:31:39.567489",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2876,6 +3641,23 @@
         "base_layer_percentage": 13,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "SRV",
+        "region_name": "Саратовская область",
+        "base_layer": "SRV Базовый слой 21.01.2026 11:31:\n\n1) SV0811 2026-01-19T01:26:29\nPower Да; Посещение Нет; WO Нет\n2) SV0435 2026-01-21T05:46:43\nPower Нет; Посещение Да; WO Есть\n3) SV0042 2026-01-21T09:08:24\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "SRV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) SV0811\n2) SV0435\n3) SV0042\nНедоступно 3G:\n1) SV0811\n2) SV0435\n3) SV0042\n4) SV0271\n5) SV1024\n6) SV1450\nНедоступно LTE800:\n1) SV0852\n2) SV0811\n3) SV0435\n4) SV1545\n5) SV1450\nНедоступно LTE2600:\n1) SV0042\nНедоступно LTE2100:\n1) SV0042\n2) SV0271\n3) SV1024\nНедоступно LTE2300:\n1) SV1515\n2) SV1455\n3) SV0317\n4) SV0688\n5) SV0435\n6) SV0315\n7) SV1793\n8) SV1685\n9) SV1468\n10) SV1775\n11) SV1925\n12) SV0042\n13) SV0445\n14) SV0318\n15) SV0329\n16) SV0452\n",
+        "base_layer_count": 3,
+        "total_bs_count": 23,
+        "power_problems": 1,
+        "non_priority_percentage": 87,
+        "timestamp": "11:31:39",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:39.567489",
+        "created_at": "2026-01-21T11:31:41.657701",
+        "base_layer_percentage": 13,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2884,20 +3666,20 @@
       "success": true,
       "region_code": "TAM",
       "region_name": "Тамбовская область",
-      "base_layer": "TAM Базовый слой 21.01.2026 11:18:\n\n1) TM0012 2026-01-21T11:01:13\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- TM0012; wo Есть;Время 2026-01-21 08:54:55\n- TM0109; wo Есть;Время 2026-01-21 10:07:46\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "TAM Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно 3G:\n1) TM0012\n2) TM2112\n3) TM0109\nНедоступно LTE800:\n1) TM2112\n2) TM0109\nНедоступно LTE2600:\n1) TM0012\nНедоступно LTE2100:\n1) TM0012\nНедоступно LTE2300:\n1) TM0893\n2) TM0558\n3) TM0944\n4) TM0949\n5) TM0705\n6) TM0844\n7) TM0652\n",
-      "timestamp": "11:18:28",
+      "base_layer": "TAM Базовый слой 21.01.2026 11:31:\n\n1) TM0012 2026-01-21T11:01:13\nPower Нет; Посещение Нет; WO Есть\n2) TM0109 2026-01-21T11:07:47\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- TM0012; wo Есть;Время 2026-01-21 08:54:55\n- TM0109; wo Есть;Время 2026-01-21 10:07:46\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TAM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TM0012\n2) TM0109\nНедоступно 3G:\n1) TM0012\n2) TM2112\n3) TM0109\nНедоступно LTE800:\n1) TM2112\n2) TM0109\nНедоступно LTE2600:\n1) TM0012\nНедоступно LTE2100:\n1) TM0012\nНедоступно LTE2300:\n1) TM0893\n2) TM0558\n3) TM0944\n4) TM0949\n5) TM0705\n6) TM0844\n7) TM0652\n",
+      "timestamp": "11:31:39",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:28.715995",
+      "full_timestamp": "2026-01-21T11:31:39.889800",
       "stats": {
-        "total_bs": 16,
-        "base_layer_count": 1,
+        "total_bs": 15,
+        "base_layer_count": 2,
         "power_problems": 3,
-        "non_priority_percentage": 94,
-        "base_layer_percentage": 6
+        "non_priority_percentage": 87,
+        "base_layer_percentage": 13
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:28.715995",
+      "collected_at": "2026-01-21T11:31:39.889800",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2917,6 +3699,23 @@
         "base_layer_percentage": 6,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "TAM",
+        "region_name": "Тамбовская область",
+        "base_layer": "TAM Базовый слой 21.01.2026 11:31:\n\n1) TM0012 2026-01-21T11:01:13\nPower Нет; Посещение Нет; WO Есть\n2) TM0109 2026-01-21T11:07:47\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- TM0012; wo Есть;Время 2026-01-21 08:54:55\n- TM0109; wo Есть;Время 2026-01-21 10:07:46\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "TAM Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) TM0012\n2) TM0109\nНедоступно 3G:\n1) TM0012\n2) TM2112\n3) TM0109\nНедоступно LTE800:\n1) TM2112\n2) TM0109\nНедоступно LTE2600:\n1) TM0012\nНедоступно LTE2100:\n1) TM0012\nНедоступно LTE2300:\n1) TM0893\n2) TM0558\n3) TM0944\n4) TM0949\n5) TM0705\n6) TM0844\n7) TM0652\n",
+        "base_layer_count": 2,
+        "total_bs_count": 15,
+        "power_problems": 3,
+        "non_priority_percentage": 87,
+        "timestamp": "11:31:39",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:39.889800",
+        "created_at": "2026-01-21T11:31:41.657707",
+        "base_layer_percentage": 13,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2925,20 +3724,20 @@
       "success": true,
       "region_code": "VRN",
       "region_name": "Воронежская область",
-      "base_layer": "VRN Базовый слой 21.01.2026 11:18:\n\n1) VO0101 2026-01-13T16:23:48\nPower Да; Посещение Нет; WO Нет\n2) VO1991 2026-01-21T04:14:13\nPower Да; Посещение Нет; WO Есть\n3) VO1262 2026-01-06T02:55:54\nPower Да; Посещение Нет; WO Нет\n4) VO0286 2026-01-04T04:49:49\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VO2680; wo Нет;Время 2026-01-21 10:21:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VRN Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) VO0101\n2) VO1991\n3) VO1262\n4) VO0286\nНедоступно 3G:\n1) VO0271\n2) VO2680\nНедоступно LTE800:\n1) VO2989\n2) VO1262\n3) VO2680\nНедоступно LTE2600:\n1) VO0536\nНедоступно LTE2300:\n1) VO0101\n2) VO0098\n3) VO0542\n4) VO0896\n",
-      "timestamp": "11:18:29",
+      "base_layer": "VRN Базовый слой 21.01.2026 11:31:\n\n1) VO0101 2026-01-13T16:23:48\nPower Да; Посещение Нет; WO Нет\n2) VO1991 2026-01-21T04:14:13\nPower Да; Посещение Нет; WO Есть\n3) VO1262 2026-01-06T02:55:54\nPower Да; Посещение Нет; WO Нет\n4) VO0542 2026-01-21T11:16:09\nPower Да; Посещение Нет; WO Нет\n5) VO0286 2026-01-04T04:49:49\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VO2680; wo Нет;Время 2026-01-21 10:21:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VRN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) VO0101\n2) VO1991\n3) VO1262\n4) VO0286\nНедоступно 3G:\n1) VO0271\n2) VO0542\n3) VO2680\nНедоступно LTE800:\n1) VO2989\n2) VO1262\n3) VO2680\nНедоступно LTE2600:\n1) VO0536\nНедоступно LTE2300:\n1) VO0101\n2) VO0098\n3) VO0542\n",
+      "timestamp": "11:31:40",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:29.033983",
+      "full_timestamp": "2026-01-21T11:31:40.212998",
       "stats": {
         "total_bs": 14,
-        "base_layer_count": 4,
+        "base_layer_count": 5,
         "power_problems": 1,
-        "non_priority_percentage": 72,
-        "base_layer_percentage": 28
+        "non_priority_percentage": 65,
+        "base_layer_percentage": 35
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:29.033983",
+      "collected_at": "2026-01-21T11:31:40.212998",
       "macroregion": "Черноземье"
     },
     "history": [
@@ -2958,6 +3757,23 @@
         "base_layer_percentage": 28,
         "is_historical": true,
         "macroregion": "Черноземье"
+      },
+      {
+        "region_code": "VRN",
+        "region_name": "Воронежская область",
+        "base_layer": "VRN Базовый слой 21.01.2026 11:31:\n\n1) VO0101 2026-01-13T16:23:48\nPower Да; Посещение Нет; WO Нет\n2) VO1991 2026-01-21T04:14:13\nPower Да; Посещение Нет; WO Есть\n3) VO1262 2026-01-06T02:55:54\nPower Да; Посещение Нет; WO Нет\n4) VO0542 2026-01-21T11:16:09\nPower Да; Посещение Нет; WO Нет\n5) VO0286 2026-01-04T04:49:49\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VO2680; wo Нет;Время 2026-01-21 10:21:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "VRN Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) VO0101\n2) VO1991\n3) VO1262\n4) VO0286\nНедоступно 3G:\n1) VO0271\n2) VO0542\n3) VO2680\nНедоступно LTE800:\n1) VO2989\n2) VO1262\n3) VO2680\nНедоступно LTE2600:\n1) VO0536\nНедоступно LTE2300:\n1) VO0101\n2) VO0098\n3) VO0542\n",
+        "base_layer_count": 5,
+        "total_bs_count": 14,
+        "power_problems": 1,
+        "non_priority_percentage": 65,
+        "timestamp": "11:31:40",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:40.212998",
+        "created_at": "2026-01-21T11:31:41.657714",
+        "base_layer_percentage": 35,
+        "is_historical": true,
+        "macroregion": "Черноземье"
       }
     ]
   },
@@ -2966,20 +3782,20 @@
       "success": true,
       "region_code": "KRA",
       "region_name": "Краснодарский край",
-      "base_layer": "KRA Базовый слой 21.01.2026 11:18:\n\n1) KD1382 2025-12-30T16:48:13\nPower Да; Посещение Нет; WO Нет\n2) KD1980 2026-01-13T16:05:25\nPower Да; Посещение Нет; WO Нет\n3) KR2300 2026-01-10T18:45:04\nPower Да; Посещение Нет; WO Нет\n4) KD1060 2025-12-30T22:34:31\nPower Да; Посещение Нет; WO Нет\n5) KR1317 2026-01-21T10:50:52\nPower Нет; Посещение Нет; WO Есть\n6) KR0900 2025-12-23T08:42:55\nPower Да; Посещение Нет; WO Нет\n7) KR1299 2026-01-20T11:27:57\nPower Да; Посещение Нет; WO Нет\n8) KR2800 2026-01-21T10:55:23\nPower Да; Посещение Да; WO Нет\n9) KR2035 2026-01-20T12:36:25\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 7\n\n10 приоритет:\n- KR1049; wo Есть;Время 2026-01-21 09:37:59\n- AD1834; wo Есть;Время 2026-01-21 10:13:25\n\n9 приоритет:\n- KR0377; wo Есть;Время 2026-01-21 10:16:57\n- KD2735; wo Нет;Время 2026-01-21 09:30:02\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "KRA Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) KD1382\n2) KD1980\n3) KR2300\n4) KD1060\n5) KR1317\n6) KR0900\n7) KR1299\n8) KR2800\n9) KR2035\nНедоступно 3G:\n1) KD1980\n2) KR0009\n3) KR1049\n4) KR2300\n5) KR0408\n6) KR1317\n7) KR0412\n8) KR1718\n9) AD1834\n10) KR0377\n11) KD2735\n12) KR0900\nНедоступно LTE800:\n1) KR0412\n2) AD1834\n3) KR1299\nНедоступно LTE2600:\n1) KR1049\n2) KR1317\n3) AD1834\n4) KR0377\nНедоступно LTE2100:\n1) KD1980\n2) KR0009\n3) KR1049\n4) KR2300\n5) KR0412\n6) KR1718\n7) AD1834\n8) KR0377\n9) KR0900\n10) KR2800\n",
-      "timestamp": "11:18:29",
+      "base_layer": "KRA Базовый слой 21.01.2026 11:31:\n\n1) KD1382 2025-12-30T16:48:13\nPower Да; Посещение Нет; WO Нет\n2) KR0091 2026-01-21T11:01:46\nPower Да; Посещение Да; WO Есть\n3) KD1980 2026-01-13T16:05:25\nPower Да; Посещение Нет; WO Нет\n4) KR2300 2026-01-10T18:45:04\nPower Да; Посещение Нет; WO Нет\n5) KD1060 2025-12-30T22:34:31\nPower Да; Посещение Нет; WO Нет\n6) KR1317 2026-01-21T10:50:52\nPower Нет; Посещение Нет; WO Нет\n7) KR0900 2025-12-23T08:42:55\nPower Да; Посещение Нет; WO Нет\n8) KR1299 2026-01-20T11:27:57\nPower Да; Посещение Нет; WO Нет\n9) KR2800 2026-01-21T10:59:57\nPower Да; Посещение Да; WO Нет\n10) KR2035 2026-01-20T12:36:25\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRA Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KD1382\n2) KR0091\n3) KD1980\n4) KR2300\n5) KD1060\n6) KR1317\n7) KR0900\n8) KR1299\n9) KR2800\n10) KR2035\nНедоступно 3G:\n1) KR0091\n2) KD1980\n3) KR0009\n4) KR1508\n5) KR1049\n6) KR2300\n7) KR0408\n8) KR1317\n9) KR0412\n10) KR1718\n11) KR1534\n12) AD1834\n13) KR0377\n14) KD2735\n15) KR0900\nНедоступно LTE800:\n1) KR1508\n2) KR0412\n3) AD1834\n4) KR1299\nНедоступно LTE2600:\n1) KR1508\n2) KR1049\n3) KR1317\n4) KR1534\n5) AD1834\n6) KR0377\nНедоступно LTE2100:\n1) KR0091\n2) KD1980\n3) KR0009\n4) KR1049\n5) KR2300\n6) KR0412\n7) KR1718\n8) KR1534\n9) AD1834\n10) KR0377\n11) KR0900\n12) KR2800\n",
+      "timestamp": "11:31:40",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:29.360845",
+      "full_timestamp": "2026-01-21T11:31:40.548026",
       "stats": {
-        "total_bs": 52,
-        "base_layer_count": 9,
-        "power_problems": 7,
-        "non_priority_percentage": 83,
-        "base_layer_percentage": 17
+        "total_bs": 55,
+        "base_layer_count": 10,
+        "power_problems": 0,
+        "non_priority_percentage": 82,
+        "base_layer_percentage": 18
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:29.360845",
+      "collected_at": "2026-01-21T11:31:40.548026",
       "macroregion": "ЮГ"
     },
     "history": [
@@ -2999,6 +3815,23 @@
         "base_layer_percentage": 17,
         "is_historical": true,
         "macroregion": "ЮГ"
+      },
+      {
+        "region_code": "KRA",
+        "region_name": "Краснодарский край",
+        "base_layer": "KRA Базовый слой 21.01.2026 11:31:\n\n1) KD1382 2025-12-30T16:48:13\nPower Да; Посещение Нет; WO Нет\n2) KR0091 2026-01-21T11:01:46\nPower Да; Посещение Да; WO Есть\n3) KD1980 2026-01-13T16:05:25\nPower Да; Посещение Нет; WO Нет\n4) KR2300 2026-01-10T18:45:04\nPower Да; Посещение Нет; WO Нет\n5) KD1060 2025-12-30T22:34:31\nPower Да; Посещение Нет; WO Нет\n6) KR1317 2026-01-21T10:50:52\nPower Нет; Посещение Нет; WO Нет\n7) KR0900 2025-12-23T08:42:55\nPower Да; Посещение Нет; WO Нет\n8) KR1299 2026-01-20T11:27:57\nPower Да; Посещение Нет; WO Нет\n9) KR2800 2026-01-21T10:59:57\nPower Да; Посещение Да; WO Нет\n10) KR2035 2026-01-20T12:36:25\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "KRA Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) KD1382\n2) KR0091\n3) KD1980\n4) KR2300\n5) KD1060\n6) KR1317\n7) KR0900\n8) KR1299\n9) KR2800\n10) KR2035\nНедоступно 3G:\n1) KR0091\n2) KD1980\n3) KR0009\n4) KR1508\n5) KR1049\n6) KR2300\n7) KR0408\n8) KR1317\n9) KR0412\n10) KR1718\n11) KR1534\n12) AD1834\n13) KR0377\n14) KD2735\n15) KR0900\nНедоступно LTE800:\n1) KR1508\n2) KR0412\n3) AD1834\n4) KR1299\nНедоступно LTE2600:\n1) KR1508\n2) KR1049\n3) KR1317\n4) KR1534\n5) AD1834\n6) KR0377\nНедоступно LTE2100:\n1) KR0091\n2) KD1980\n3) KR0009\n4) KR1049\n5) KR2300\n6) KR0412\n7) KR1718\n8) KR1534\n9) AD1834\n10) KR0377\n11) KR0900\n12) KR2800\n",
+        "base_layer_count": 10,
+        "total_bs_count": 55,
+        "power_problems": 0,
+        "non_priority_percentage": 82,
+        "timestamp": "11:31:40",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:40.548026",
+        "created_at": "2026-01-21T11:31:41.657720",
+        "base_layer_percentage": 18,
+        "is_historical": true,
+        "macroregion": "ЮГ"
       }
     ]
   },
@@ -3007,20 +3840,20 @@
       "success": true,
       "region_code": "ROS",
       "region_name": "Ростовская область",
-      "base_layer": "ROS Базовый слой 21.01.2026 11:18:\n\n1) RO0447 2026-01-05T05:41:44\nPower Да; Посещение Нет; WO Есть\n2) RO1010 2026-01-20T15:16:57\nPower Нет; Посещение Нет; WO Нет\n3) RO2441 2026-01-20T03:28:34\nPower Да; Посещение Нет; WO Есть\n4) RO0500 2026-01-21T10:39:19\nPower Да; Посещение Да; WO Нет\n5) RO0197 2026-01-21T10:23:22\nPower Да; Посещение Нет; WO Нет\n6) RO1738 2026-01-21T10:37:55\nPower Да; Посещение Нет; WO Есть\n7) RO1293 2026-01-21T01:59:22\nPower Да; Посещение Нет; WO Нет\n8) RO2058 2026-01-20T14:26:49\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 5\n\n10 приоритет:\n- RO1010; wo Нет;Время 2026-01-20 20:09:10\n- RO2298; wo Нет;Время 2026-01-21 10:21:59\n- RO2080; wo Нет;Время 2026-01-21 10:37:40\n- RO1647; wo Нет;Время 2026-01-19 05:16:25\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "ROS Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) RO0447\n2) RO1010\n3) RO2441\n4) RO0500\n5) RO0197\n6) RO1738\n7) RO1293\n8) RO2058\nНедоступно 3G:\n1) RO2080\n2) RO0062\n3) RO0500\n4) RO0197\n5) RO2670\n6) RO1293\nНедоступно LTE800:\n1) RO2298\nНедоступно LTE2600:\n1) RO0410\n2) RO0197\n3) RO1293\nНедоступно LTE2100:\n1) RO2080\n2) RO0500\n3) RO0197\n4) RO1293\n",
-      "timestamp": "11:18:29",
+      "base_layer": "ROS Базовый слой 21.01.2026 11:31:\n\n1) RO0447 2026-01-05T05:41:44\nPower Да; Посещение Нет; WO Есть\n2) RO1010 2026-01-20T15:16:57\nPower Нет; Посещение Нет; WO Нет\n3) RO2441 2026-01-20T03:28:34\nPower Да; Посещение Нет; WO Есть\n4) RO0500 2026-01-21T10:39:19\nPower Да; Посещение Да; WO Нет\n5) RO0197 2026-01-21T10:23:22\nPower Да; Посещение Нет; WO Нет\n6) RO1738 2026-01-21T10:37:55\nPower Да; Посещение Нет; WO Есть\n7) RO1293 2026-01-21T01:59:22\nPower Да; Посещение Нет; WO Нет\n8) RO2058 2026-01-20T14:26:49\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ROS Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) RO0447\n2) RO1010\n3) RO2441\n4) RO0500\n5) RO0197\n6) RO1738\n7) RO1293\n8) RO2058\nНедоступно 3G:\n1) RO2080\n2) RO2979\n3) RO0062\n4) RO0500\n5) RO0197\n6) RO2670\n7) RO1293\nНедоступно LTE800:\n1) RO2298\nНедоступно LTE2600:\n1) RO0410\n2) RO0197\n3) RO1293\nНедоступно LTE2100:\n1) RO2080\n2) RO2979\n3) RO0500\n4) RO0197\n5) RO1293\n",
+      "timestamp": "11:31:40",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:29.691349",
+      "full_timestamp": "2026-01-21T11:31:40.897980",
       "stats": {
-        "total_bs": 89,
+        "total_bs": 90,
         "base_layer_count": 8,
-        "power_problems": 5,
+        "power_problems": 0,
         "non_priority_percentage": 92,
         "base_layer_percentage": 8
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:29.691349",
+      "collected_at": "2026-01-21T11:31:40.897980",
       "macroregion": "ЮГ"
     },
     "history": [
@@ -3040,6 +3873,23 @@
         "base_layer_percentage": 8,
         "is_historical": true,
         "macroregion": "ЮГ"
+      },
+      {
+        "region_code": "ROS",
+        "region_name": "Ростовская область",
+        "base_layer": "ROS Базовый слой 21.01.2026 11:31:\n\n1) RO0447 2026-01-05T05:41:44\nPower Да; Посещение Нет; WO Есть\n2) RO1010 2026-01-20T15:16:57\nPower Нет; Посещение Нет; WO Нет\n3) RO2441 2026-01-20T03:28:34\nPower Да; Посещение Нет; WO Есть\n4) RO0500 2026-01-21T10:39:19\nPower Да; Посещение Да; WO Нет\n5) RO0197 2026-01-21T10:23:22\nPower Да; Посещение Нет; WO Нет\n6) RO1738 2026-01-21T10:37:55\nPower Да; Посещение Нет; WO Есть\n7) RO1293 2026-01-21T01:59:22\nPower Да; Посещение Нет; WO Нет\n8) RO2058 2026-01-20T14:26:49\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "ROS Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) RO0447\n2) RO1010\n3) RO2441\n4) RO0500\n5) RO0197\n6) RO1738\n7) RO1293\n8) RO2058\nНедоступно 3G:\n1) RO2080\n2) RO2979\n3) RO0062\n4) RO0500\n5) RO0197\n6) RO2670\n7) RO1293\nНедоступно LTE800:\n1) RO2298\nНедоступно LTE2600:\n1) RO0410\n2) RO0197\n3) RO1293\nНедоступно LTE2100:\n1) RO2080\n2) RO2979\n3) RO0500\n4) RO0197\n5) RO1293\n",
+        "base_layer_count": 8,
+        "total_bs_count": 90,
+        "power_problems": 0,
+        "non_priority_percentage": 92,
+        "timestamp": "11:31:40",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:40.897980",
+        "created_at": "2026-01-21T11:31:41.657726",
+        "base_layer_percentage": 8,
+        "is_historical": true,
+        "macroregion": "ЮГ"
       }
     ]
   },
@@ -3048,20 +3898,20 @@
       "success": true,
       "region_code": "STV",
       "region_name": "Ставропольский край",
-      "base_layer": "STV Базовый слой 21.01.2026 11:18:\n\n1) ST0313 2026-01-21T10:53:06\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- ST1730; wo Нет;Время 2026-01-21 09:36:06\n\n3 приоритет:\n- ST0313; wo Есть;Время 2026-01-21 08:33:01\n- ST0223; wo Нет;Время 2026-01-21 10:46:48\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "STV Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) ST0313\nНедоступно LTE800:\n1) ST1730\n2) ST0538\n3) ST0223\nНедоступно LTE2100:\n1) ST0313\n",
-      "timestamp": "11:18:30",
+      "base_layer": "STV Базовый слой 21.01.2026 11:31:\n\n1) ST0313 2026-01-21T10:53:06\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "STV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) ST0313\nНедоступно LTE800:\n1) ST1730\n2) ST0538\n3) ST0223\nНедоступно LTE2100:\n1) ST0313\n",
+      "timestamp": "11:31:41",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:30.020155",
+      "full_timestamp": "2026-01-21T11:31:41.203312",
       "stats": {
-        "total_bs": 17,
+        "total_bs": 16,
         "base_layer_count": 1,
-        "power_problems": 3,
-        "non_priority_percentage": 95,
-        "base_layer_percentage": 5
+        "power_problems": 0,
+        "non_priority_percentage": 94,
+        "base_layer_percentage": 6
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:30.020155",
+      "collected_at": "2026-01-21T11:31:41.203312",
       "macroregion": "ЮГ"
     },
     "history": [
@@ -3081,6 +3931,23 @@
         "base_layer_percentage": 5,
         "is_historical": true,
         "macroregion": "ЮГ"
+      },
+      {
+        "region_code": "STV",
+        "region_name": "Ставропольский край",
+        "base_layer": "STV Базовый слой 21.01.2026 11:31:\n\n1) ST0313 2026-01-21T10:53:06\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "STV Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) ST0313\nНедоступно LTE800:\n1) ST1730\n2) ST0538\n3) ST0223\nНедоступно LTE2100:\n1) ST0313\n",
+        "base_layer_count": 1,
+        "total_bs_count": 16,
+        "power_problems": 0,
+        "non_priority_percentage": 94,
+        "timestamp": "11:31:41",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:41.203312",
+        "created_at": "2026-01-21T11:31:41.657733",
+        "base_layer_percentage": 6,
+        "is_historical": true,
+        "macroregion": "ЮГ"
       }
     ]
   },
@@ -3089,20 +3956,20 @@
       "success": true,
       "region_code": "VLG",
       "region_name": "Волгоградская область",
-      "base_layer": "VLG Базовый слой 21.01.2026 11:18:\n\n1) VD0776 2026-01-21T10:36:54\nPower Да; Посещение Нет; WO Нет\n2) VD0648 2026-01-21T10:10:42\nPower Нет; Посещение Нет; WO Есть\n3) VD0424 2026-01-21T09:56:37\nPower Нет; Посещение Нет; WO Есть\n4) VD0902 2026-01-20T17:41:35\nPower Да; Посещение Нет; WO Есть\n5) VD0512 2026-01-21T09:56:37\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- VD1484; wo Нет;Время 2026-01-21 09:54:25\n\n3 приоритет:\n- VD0648; wo Есть;Время 2026-01-21 09:53:34\n\n9 приоритет:\n- VD0424; wo Есть;Время 2026-01-21 09:54:21\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "VLG Неприоритетные технологии 21.01.2026 11:18:\n\nНедоступно LTE1800:\n1) VD0648\n2) VD0424\n3) VD0902\nНедоступно 3G:\n1) VD0648\n2) VD0424\n3) VD0512\nНедоступно LTE800:\n1) VD0648\n2) VD0902\n3) VD0512\nНедоступно LTE2100:\n1) VD0648\n",
-      "timestamp": "11:18:30",
+      "base_layer": "VLG Базовый слой 21.01.2026 11:31:\n\n1) VD0776 2026-01-21T10:36:54\nPower Да; Посещение Нет; WO Нет\n2) VD0648 2026-01-21T10:10:42\nPower Нет; Посещение Нет; WO Есть\n3) VD0424 2026-01-21T09:56:37\nPower Нет; Посещение Нет; WO Есть\n4) VD0902 2026-01-20T17:41:35\nPower Да; Посещение Нет; WO Есть\n5) VD0512 2026-01-21T09:56:37\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLG Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) VD0648\n2) VD0424\n3) VD0902\nНедоступно 3G:\n1) VD0648\n2) VD0424\n3) VD0512\n4) VD0031\nНедоступно LTE800:\n1) VD0648\n2) VD0902\n3) VD0512\n4) VD0031\nНедоступно LTE2100:\n1) VD0648\n2) VD0031\n",
+      "timestamp": "11:31:41",
       "date": "2026-01-21",
-      "full_timestamp": "2026-01-21T11:18:30.430945",
+      "full_timestamp": "2026-01-21T11:31:41.553174",
       "stats": {
         "total_bs": 12,
         "base_layer_count": 5,
-        "power_problems": 4,
+        "power_problems": 0,
         "non_priority_percentage": 59,
         "base_layer_percentage": 41
       },
       "is_real_data": true,
-      "collected_at": "2026-01-21T11:18:30.430945",
+      "collected_at": "2026-01-21T11:31:41.553174",
       "macroregion": "ЮГ"
     },
     "history": [
@@ -3119,6 +3986,23 @@
         "date": "2026-01-21",
         "full_timestamp": "2026-01-21T11:18:30.430945",
         "created_at": "2026-01-21T11:18:30.535010",
+        "base_layer_percentage": 41,
+        "is_historical": true,
+        "macroregion": "ЮГ"
+      },
+      {
+        "region_code": "VLG",
+        "region_name": "Волгоградская область",
+        "base_layer": "VLG Базовый слой 21.01.2026 11:31:\n\n1) VD0776 2026-01-21T10:36:54\nPower Да; Посещение Нет; WO Нет\n2) VD0648 2026-01-21T10:10:42\nPower Нет; Посещение Нет; WO Есть\n3) VD0424 2026-01-21T09:56:37\nPower Нет; Посещение Нет; WO Есть\n4) VD0902 2026-01-20T17:41:35\nPower Да; Посещение Нет; WO Есть\n5) VD0512 2026-01-21T09:56:37\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+        "non_priority": "VLG Неприоритетные технологии 21.01.2026 11:31:\n\nНедоступно LTE1800:\n1) VD0648\n2) VD0424\n3) VD0902\nНедоступно 3G:\n1) VD0648\n2) VD0424\n3) VD0512\n4) VD0031\nНедоступно LTE800:\n1) VD0648\n2) VD0902\n3) VD0512\n4) VD0031\nНедоступно LTE2100:\n1) VD0648\n2) VD0031\n",
+        "base_layer_count": 5,
+        "total_bs_count": 12,
+        "power_problems": 0,
+        "non_priority_percentage": 59,
+        "timestamp": "11:31:41",
+        "date": "2026-01-21",
+        "full_timestamp": "2026-01-21T11:31:41.553174",
+        "created_at": "2026-01-21T11:31:41.657739",
         "base_layer_percentage": 41,
         "is_historical": true,
         "macroregion": "ЮГ"
