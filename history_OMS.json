@@ -18,9 +18,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "OMS",
+      "region_name": "Омская область",
+      "base_layer": "OMS Базовый слой 21.01.2026 09:00:\n\n1) OM0493 2026-01-21T08:21:12\nPower Нет; Посещение Нет; WO Есть\n2) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- OM0493; wo Есть;Время 2026-01-16 13:17:05\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "OMS Неприоритетные технологии 21.01.2026 09:00:\n\nНедоступно LTE1800:\n1) OM0493\n2) OM2321\nНедоступно 3G:\n1) OM0493\nНедоступно LTE2600:\n1) OM0493\nНедоступно LTE2100:\n1) OM0493\nНедоступно LTE2300:\n1) OM0493\n",
+      "base_layer_count": 2,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 0,
+      "timestamp": "09:00:17",
+      "date": "2026-01-21",
+      "full_timestamp": "2026-01-21T09:00:17.584389",
+      "created_at": "2026-01-21T09:00:29.695433",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 1,
-  "timestamp": "2026-01-21T08:50:50.242689",
+  "count": 2,
+  "timestamp": "2026-01-21T09:00:31.574403",
   "error": null
 }
