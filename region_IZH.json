@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "IZH",
   "region_name": "Ижевск",
-  "base_layer": "IZH Базовый слой 21.01.2026 07:20:\n\n1) IZ1406 2026-01-21T03:33:42\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "IZH Неприоритетные технологии 21.01.2026 07:20:\n\nНедоступно LTE1800:\n1) IZ1406\n",
-  "timestamp": "07:20:41",
+  "base_layer": "IZH Базовый слой 21.01.2026 07:33:\n\n1) IZ1406 2026-01-21T03:33:42\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "IZH Неприоритетные технологии 21.01.2026 07:33:\n\nНедоступно LTE1800:\n1) IZ1406\nНедоступно 3G:\n1) IZ0324\nНедоступно LTE2100:\n1) IZ0324\n",
+  "timestamp": "07:33:24",
   "date": "2026-01-21",
-  "full_timestamp": "2026-01-21T07:20:41.046997",
+  "full_timestamp": "2026-01-21T07:33:24.073026",
   "stats": {
-    "total_bs": 1,
+    "total_bs": 2,
     "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 0,
-    "base_layer_percentage": 100
+    "non_priority_percentage": 50,
+    "base_layer_percentage": 50
   },
   "is_real_data": true,
-  "collected_at": "2026-01-21T07:20:41.046997",
+  "collected_at": "2026-01-21T07:33:24.073026",
   "macroregion": "Урал"
 }
