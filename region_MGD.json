@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "MGD",
   "region_name": "Магаданская область",
-  "base_layer": "MGD Базовый слой 21.01.2026 09:03:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "MGD Неприоритетные технологии 21.01.2026 09:03:\n\n",
-  "timestamp": "09:03:22",
+  "base_layer": "MGD Базовый слой 21.01.2026 09:16:\n\n1) MD1002 2026-01-21T08:54:45\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MD0546; wo Нет;Время 2026-01-21 08:52:10\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "MGD Неприоритетные технологии 21.01.2026 09:16:\n\nНедоступно LTE1800:\n1) MD1002\nНедоступно LTE800:\n1) MD0546\nНедоступно LTE2300:\n1) MD0546\n",
+  "timestamp": "09:16:09",
   "date": "2026-01-21",
-  "full_timestamp": "2026-01-21T09:03:22.299209",
+  "full_timestamp": "2026-01-21T09:16:09.138366",
   "stats": {
-    "total_bs": 0,
-    "base_layer_count": 0,
-    "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "total_bs": 3,
+    "base_layer_count": 1,
+    "power_problems": 1,
+    "non_priority_percentage": 67,
+    "base_layer_percentage": 33
   },
   "is_real_data": true,
-  "collected_at": "2026-01-21T09:03:22.299209",
+  "collected_at": "2026-01-21T09:16:09.138366",
   "macroregion": "Байкал и Дальний Восток"
 }
