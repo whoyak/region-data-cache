@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "SPS",
   "region_name": "Санкт-Петербург Юг",
-  "base_layer": "SPS Базовый слой 22.01.2026 18:38:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "SPS Неприоритетные технологии 22.01.2026 18:38:\n\nНедоступно 3G:\n1) SP0022\nНедоступно LTE2300:\n1) SP0022\n2) SP0837\n",
-  "timestamp": "18:38:03",
+  "base_layer": "SPS Базовый слой 22.01.2026 18:52:\n\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- SP0022; wo Нет;Время 2026-01-22 18:30:59\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "SPS Неприоритетные технологии 22.01.2026 18:52:\n\nНедоступно LTE2300:\n1) SP0022\n",
+  "timestamp": "18:52:40",
   "date": "2026-01-22",
-  "full_timestamp": "2026-01-22T18:38:03.126481",
+  "full_timestamp": "2026-01-22T18:52:40.383798",
   "stats": {
-    "total_bs": 2,
+    "total_bs": 5,
     "base_layer_count": 0,
-    "power_problems": 0,
+    "power_problems": 1,
     "non_priority_percentage": 100,
     "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-22T18:38:03.126481",
+  "collected_at": "2026-01-22T18:52:40.383798",
   "macroregion": "Северо-запад"
 }
