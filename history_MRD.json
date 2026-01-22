@@ -2398,9 +2398,26 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Черноземье"
+    },
+    {
+      "region_code": "MRD",
+      "region_name": "Мордовия",
+      "base_layer": "MRD Базовый слой 22.01.2026 18:38:\n\n1) MV0075 2026-01-22T17:40:02\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- MV0075; wo Есть;Время 2026-01-22 16:37:59\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MRD Неприоритетные технологии 22.01.2026 18:38:\n\nНедоступно LTE1800:\n1) MV0075\nНедоступно 3G:\n1) MV0075\nНедоступно LTE800:\n1) MV0075\nНедоступно LTE2300:\n1) MV0108\n2) MV0563\n",
+      "base_layer_count": 1,
+      "total_bs_count": 4,
+      "power_problems": 1,
+      "non_priority_percentage": 75,
+      "timestamp": "18:38:14",
+      "date": "2026-01-22",
+      "full_timestamp": "2026-01-22T18:38:14.662536",
+      "created_at": "2026-01-22T18:38:17.648997",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Черноземье"
     }
   ],
-  "count": 141,
-  "timestamp": "2026-01-22T18:20:26.136864",
+  "count": 142,
+  "timestamp": "2026-01-22T18:38:25.218863",
   "error": null
 }
