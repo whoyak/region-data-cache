@@ -1752,9 +1752,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "KHB",
+      "region_name": "Хабаровский край",
+      "base_layer": "KHB Базовый слой 22.01.2026 10:22:\n\n1) HB0620 2026-01-20T08:39:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- HB0757; wo Есть;Время 2026-01-22 09:38:47\n\n10 приоритет:\n- HB0599; wo Нет;Время 2026-01-22 10:00:35\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KHB Неприоритетные технологии 22.01.2026 10:22:\n\nНедоступно LTE1800:\n1) HB0620\nНедоступно LTE2100:\n1) HB0757\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 2,
+      "non_priority_percentage": 67,
+      "timestamp": "10:22:32",
+      "date": "2026-01-22",
+      "full_timestamp": "2026-01-22T10:22:32.801218",
+      "created_at": "2026-01-22T10:22:58.635944",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 103,
-  "timestamp": "2026-01-22T10:09:17.438077",
+  "count": 104,
+  "timestamp": "2026-01-22T10:23:04.316272",
   "error": null
 }
