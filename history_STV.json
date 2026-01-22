@@ -1854,9 +1854,26 @@
       "base_layer_percentage": 30,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "STV",
+      "region_name": "Ставропольский край",
+      "base_layer": "STV Базовый слой 22.01.2026 11:32:\n\n1) ST0566 2026-01-22T10:26:17\nPower Да; Посещение Нет; WO Нет\n2) ST0969 2026-01-22T10:19:16\nPower Да; Посещение Нет; WO Нет\n3) ST0755 2026-01-22T10:26:22\nPower Да; Посещение Нет; WO Нет\n4) ST1689 2026-01-22T10:26:16\nPower Да; Посещение Нет; WO Есть\n5) ST2936 2026-01-22T10:19:16\nPower Да; Посещение Нет; WO Нет\n6) ST0693 2026-01-22T10:19:16\nPower Да; Посещение Нет; WO Нет\n7) ST2332 2026-01-21T16:21:42\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- ST0023; wo Нет;Время 2026-01-22 09:30:00\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "STV Неприоритетные технологии 22.01.2026 11:32:\n\nНедоступно LTE1800:\n1) ST0566\n2) ST0969\n3) ST0755\n4) ST1689\n5) ST2936\n6) ST0693\n7) ST2332\nНедоступно LTE800:\n1) ST0566\n2) ST0090\n3) ST0969\n4) ST0538\n5) ST0755\n6) ST0023\n7) ST1689\n8) ST0693\n9) ST0188\nНедоступно LTE2100:\n1) ST0023\n",
+      "base_layer_count": 7,
+      "total_bs_count": 24,
+      "power_problems": 3,
+      "non_priority_percentage": 71,
+      "timestamp": "11:32:55",
+      "date": "2026-01-22",
+      "full_timestamp": "2026-01-22T11:32:55.339887",
+      "created_at": "2026-01-22T11:32:55.786294",
+      "base_layer_percentage": 29,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
-  "count": 109,
-  "timestamp": "2026-01-22T11:19:15.939794",
+  "count": 110,
+  "timestamp": "2026-01-22T11:33:01.380609",
   "error": null
 }
