@@ -2262,9 +2262,43 @@
       "base_layer_percentage": 25,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KRS",
+      "region_name": "Красноярск",
+      "base_layer": "KRS Базовый слой 22.01.2026 17:00:\n\n1) KA1218 2026-01-21T07:49:54\nPower Да; Посещение Нет; WO Нет\n2) KA2075 2026-01-17T03:56:29\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KA2255; wo Нет;Время 2026-01-22 16:28:48\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRS Неприоритетные технологии 22.01.2026 17:00:\n\nНедоступно LTE1800:\n1) KA1218\nНедоступно 3G:\n1) KA2652\nНедоступно LTE800:\n1) KA2255\n2) KA0513\nНедоступно LTE2100:\n1) KA2652\nНедоступно LTE2300:\n1) KA0493\n2) KA1510\n3) KA0650\n",
+      "base_layer_count": 2,
+      "total_bs_count": 8,
+      "power_problems": 1,
+      "non_priority_percentage": 75,
+      "timestamp": "17:00:27",
+      "date": "2026-01-22",
+      "full_timestamp": "2026-01-22T17:00:27.086000",
+      "created_at": "2026-01-22T17:00:41.168723",
+      "base_layer_percentage": 25,
+      "is_historical": true,
+      "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KRS",
+      "region_name": "Красноярск",
+      "base_layer": "KRS Базовый слой 22.01.2026 17:06:\n\n1) KA1218 2026-01-21T07:49:54\nPower Да; Посещение Нет; WO Нет\n2) KA2075 2026-01-17T03:56:29\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- KA2255; wo Нет;Время 2026-01-22 16:28:48\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRS Неприоритетные технологии 22.01.2026 17:06:\n\nНедоступно LTE1800:\n1) KA1218\nНедоступно 3G:\n1) KA2652\nНедоступно LTE800:\n1) KA2255\n2) KA0513\nНедоступно LTE2100:\n1) KA2652\nНедоступно LTE2300:\n1) KA0493\n2) KA1510\n3) KA0650\n",
+      "base_layer_count": 2,
+      "total_bs_count": 9,
+      "power_problems": 1,
+      "non_priority_percentage": 78,
+      "timestamp": "17:06:27",
+      "date": "2026-01-22",
+      "full_timestamp": "2026-01-22T17:06:27.283257",
+      "created_at": "2026-01-22T17:06:40.188893",
+      "base_layer_percentage": 22,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 133,
-  "timestamp": "2026-01-22T16:52:51.606984",
+  "count": 135,
+  "timestamp": "2026-01-22T17:06:48.534536",
   "error": null
 }
