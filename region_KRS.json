@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KRS",
   "region_name": "Красноярск",
-  "base_layer": "KRS Базовый слой 22.01.2026 09:27:\n\n1) KA1218 2026-01-21T07:49:54\nPower Да; Посещение Нет; WO Нет\n2) KA2075 2026-01-17T03:56:29\nPower Да; Посещение Нет; WO Нет\n3) KA1761 2026-01-22T08:26:44\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KRS Неприоритетные технологии 22.01.2026 09:27:\n\nНедоступно LTE1800:\n1) KA1218\n2) KA1761\nНедоступно 3G:\n1) KA0041\nНедоступно LTE800:\n1) KA2797\n2) KA0041\n3) KA0513\nНедоступно LTE2100:\n1) KA0024\n2) KA0041\nНедоступно LTE2300:\n1) KA0493\n2) KA0638\n3) KA0041\n4) KA1510\n5) KA0650\n",
-  "timestamp": "09:27:08",
+  "base_layer": "KRS Базовый слой 22.01.2026 09:40:\n\n1) KA1218 2026-01-21T07:49:54\nPower Да; Посещение Нет; WO Нет\n2) KA2075 2026-01-17T03:56:29\nPower Да; Посещение Нет; WO Нет\n3) KA1761 2026-01-22T08:26:44\nPower Да; Посещение Нет; WO Нет\n4) KA0588 2026-01-22T09:09:29\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KRS Неприоритетные технологии 22.01.2026 09:40:\n\nНедоступно LTE1800:\n1) KA1218\n2) KA1761\n3) KA0588\nНедоступно 3G:\n1) KA0588\nНедоступно LTE800:\n1) KA2797\n2) KA0513\n3) KA0588\nНедоступно LTE2100:\n1) KA0588\nНедоступно LTE2300:\n1) KA0493\n2) KA0638\n3) KA1510\n4) KA0650\n",
+  "timestamp": "09:40:52",
   "date": "2026-01-22",
-  "full_timestamp": "2026-01-22T09:27:08.554722",
+  "full_timestamp": "2026-01-22T09:40:52.092341",
   "stats": {
     "total_bs": 11,
-    "base_layer_count": 3,
-    "power_problems": 2,
-    "non_priority_percentage": 73,
-    "base_layer_percentage": 27
+    "base_layer_count": 4,
+    "power_problems": 1,
+    "non_priority_percentage": 64,
+    "base_layer_percentage": 36
   },
   "is_real_data": true,
-  "collected_at": "2026-01-22T09:27:08.554722",
+  "collected_at": "2026-01-22T09:40:52.092341",
   "macroregion": "Сибирь"
 }
