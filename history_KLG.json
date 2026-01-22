@@ -2398,9 +2398,26 @@
       "base_layer_percentage": 1,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KLG",
+      "region_name": "Калужская область",
+      "base_layer": "KLG Базовый слой 22.01.2026 18:38:\n\n1) KL0627 2026-01-21T09:18:49\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLG Неприоритетные технологии 22.01.2026 18:38:\n\nНедоступно LTE1800:\n1) KL0627\nНедоступно LTE2300:\n1) KL0484\n2) KL0729\n3) KL0564\n4) KL0203\n5) KL0502\n6) KL0098\n7) KL0075\n8) KL0554\n9) KL0336\n10) KL0690\n11) KL0253\n12) KL0560\n13) KL0571\n14) KL0229\n15) KL0725\n16) KL0381\n17) KL0405\n18) KL0426\n19) KL0717\n20) KL0373\n21) KL0005\n22) KL0503\n23) KL0447\n24) KL0324\n25) KL0014\n26) KL0691\n27) KL0228\n28) KL0658\n29) KL0204\n",
+      "base_layer_count": 1,
+      "total_bs_count": 52,
+      "power_problems": 0,
+      "non_priority_percentage": 99,
+      "timestamp": "18:38:10",
+      "date": "2026-01-22",
+      "full_timestamp": "2026-01-22T18:38:10.895679",
+      "created_at": "2026-01-22T18:38:17.648548",
+      "base_layer_percentage": 1,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 141,
-  "timestamp": "2026-01-22T18:20:26.136827",
+  "count": 142,
+  "timestamp": "2026-01-22T18:38:25.218828",
   "error": null
 }
