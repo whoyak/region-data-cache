@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "OMS",
   "region_name": "Омская область",
-  "base_layer": "OMS Базовый слой 22.01.2026 12:04:\n\n1) OM0206 2026-01-22T11:43:24\nPower Да; Посещение Да; WO Нет\n2) OM0085 2026-01-22T11:34:37\nPower Да; Посещение Да; WO Нет\n3) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "OMS Неприоритетные технологии 22.01.2026 12:04:\n\nНедоступно LTE1800:\n1) OM2321\nНедоступно 3G:\n1) OM0206\n2) OM0085\n",
-  "timestamp": "12:04:31",
+  "base_layer": "OMS Базовый слой 22.01.2026 12:18:\n\n1) OM0991 2026-01-22T12:00:13\nPower Да; Посещение Да; WO Нет\n2) OM0206 2026-01-22T11:43:24\nPower Да; Посещение Да; WO Нет\n3) OM0085 2026-01-22T11:34:37\nPower Да; Посещение Да; WO Нет\n4) OM0795 2026-01-22T12:06:47\nPower Да; Посещение Да; WO Нет\n5) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "OMS Неприоритетные технологии 22.01.2026 12:18:\n\nНедоступно LTE1800:\n1) OM0795\n2) OM2321\nНедоступно 3G:\n1) OM0991\n2) OM0206\n3) OM0085\nНедоступно LTE2100:\n1) OM0795\n",
+  "timestamp": "12:18:28",
   "date": "2026-01-22",
-  "full_timestamp": "2026-01-22T12:04:31.027605",
+  "full_timestamp": "2026-01-22T12:18:28.475908",
   "stats": {
     "total_bs": 5,
-    "base_layer_count": 3,
+    "base_layer_count": 5,
     "power_problems": 0,
-    "non_priority_percentage": 40,
-    "base_layer_percentage": 60
+    "non_priority_percentage": 0,
+    "base_layer_percentage": 100
   },
   "is_real_data": true,
-  "collected_at": "2026-01-22T12:04:31.027605",
+  "collected_at": "2026-01-22T12:18:28.475908",
   "macroregion": "Сибирь"
 }
