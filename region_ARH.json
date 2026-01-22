@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ARH",
   "region_name": "Архангельская область",
-  "base_layer": "ARH Базовый слой 22.01.2026 07:47:\n\n1) AR0610 2026-01-21T20:44:39\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ARH Неприоритетные технологии 22.01.2026 07:47:\n\nНедоступно LTE1800:\n1) AR0610\n",
-  "timestamp": "07:47:34",
+  "base_layer": "ARH Базовый слой 22.01.2026 08:00:\n\n1) AR0120 2026-01-22T07:48:10\nPower Да; Посещение Нет; WO Нет\n2) AR0610 2026-01-21T20:44:39\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ARH Неприоритетные технологии 22.01.2026 08:00:\n\nНедоступно LTE1800:\n1) AR0610\n",
+  "timestamp": "08:00:38",
   "date": "2026-01-22",
-  "full_timestamp": "2026-01-22T07:47:34.999528",
+  "full_timestamp": "2026-01-22T08:00:38.353840",
   "stats": {
     "total_bs": 3,
-    "base_layer_count": 1,
+    "base_layer_count": 2,
     "power_problems": 1,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "non_priority_percentage": 34,
+    "base_layer_percentage": 66
   },
   "is_real_data": true,
-  "collected_at": "2026-01-22T07:47:34.999528",
+  "collected_at": "2026-01-22T08:00:38.353840",
   "macroregion": "Северо-запад"
 }
