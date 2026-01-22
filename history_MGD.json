@@ -1497,9 +1497,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "MGD",
+      "region_name": "Магаданская область",
+      "base_layer": "MGD Базовый слой 22.01.2026 07:06:\n\n1) MD0535 2026-01-22T03:53:36\nPower Да; Посещение Нет; WO Нет\n2) MD0546 2026-01-22T05:58:03\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MD0546; wo Нет;Время 2026-01-22 03:23:44\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "MGD Неприоритетные технологии 22.01.2026 07:06:\n\nНедоступно LTE1800:\n1) MD0535\n2) MD0546\nНедоступно LTE800:\n1) MD0535\n2) MD0546\nНедоступно LTE2300:\n1) MD0535\n2) MD0546\n",
+      "base_layer_count": 2,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 0,
+      "timestamp": "07:06:50",
+      "date": "2026-01-22",
+      "full_timestamp": "2026-01-22T07:06:50.765268",
+      "created_at": "2026-01-22T07:07:12.578772",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 88,
-  "timestamp": "2026-01-22T07:00:49.210643",
+  "count": 89,
+  "timestamp": "2026-01-22T07:07:17.181406",
   "error": null
 }
