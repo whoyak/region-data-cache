@@ -919,9 +919,26 @@
       "base_layer_percentage": 14,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "NSK",
+      "region_name": "Новосибирская область",
+      "base_layer": "NSK Базовый слой 23.01.2026 07:00:\n\n1) NS0131 2026-01-22T17:25:33\nPower Нет; Посещение Нет; WO Есть\n2) NS2376 2026-01-21T17:24:21\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "NSK Неприоритетные технологии 23.01.2026 07:00:\n\nНедоступно LTE1800:\n1) NS0131\n2) NS2376\nНедоступно 3G:\n1) NS0977\n2) NS0131\nНедоступно LTE800:\n1) NS0131\nНедоступно LTE2100:\n1) NS0977\n2) NS0131\nНедоступно LTE2300:\n1) NS2351\n2) NS2055\n3) NS0044\n4) NS0319\n5) NS2071\n6) NS0760\n",
+      "base_layer_count": 2,
+      "total_bs_count": 18,
+      "power_problems": 1,
+      "non_priority_percentage": 89,
+      "timestamp": "07:00:06",
+      "date": "2026-01-23",
+      "full_timestamp": "2026-01-23T07:00:06.536627",
+      "created_at": "2026-01-23T07:00:19.027453",
+      "base_layer_percentage": 11,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 54,
-  "timestamp": "2026-01-23T06:47:10.704712",
+  "count": 55,
+  "timestamp": "2026-01-23T07:00:23.636924",
   "error": null
 }
