@@ -1973,9 +1973,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "IVN",
+      "region_name": "Ивановская область",
+      "base_layer": "IVN Базовый слой 24.01.2026 01:06:\n\n1) IV0067 2026-01-24T00:11:53\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IVN Неприоритетные технологии 24.01.2026 01:06:\n\nНедоступно 3G:\n1) IV0240\n2) IV0067\nНедоступно LTE800:\n1) IV0240\nНедоступно LTE2600:\n1) IV0240\nНедоступно LTE2100:\n1) IV0240\nНедоступно LTE2300:\n1) IV0240\n",
+      "base_layer_count": 1,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 50,
+      "timestamp": "01:06:15",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T01:06:15.230141",
+      "created_at": "2026-01-24T01:06:26.094512",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 116,
-  "timestamp": "2026-01-24T01:01:29.576387",
+  "count": 117,
+  "timestamp": "2026-01-24T01:06:38.296659",
   "error": null
 }
