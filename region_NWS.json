@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NWS",
   "region_name": "Северо-Западный округ Москвы",
-  "base_layer": "NWS Базовый слой 23.01.2026 09:42:\n\n1) MS4458 2026-01-23T09:29:36\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- MS4458; wo Есть;Время 2026-01-22 12:32:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NWS Неприоритетные технологии 23.01.2026 09:42:\n\nНедоступно LTE800:\n1) MO0846\nНедоступно LTE2600:\n1) MO0846\nНедоступно LTE2100:\n1) MS4458\n",
-  "timestamp": "09:42:38",
+  "base_layer": "NWS Базовый слой 23.01.2026 09:54:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NWS Неприоритетные технологии 23.01.2026 09:54:\n\n",
+  "timestamp": "09:54:59",
   "date": "2026-01-23",
-  "full_timestamp": "2026-01-23T09:42:38.878310",
+  "full_timestamp": "2026-01-23T09:54:59.419883",
   "stats": {
-    "total_bs": 13,
-    "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 93,
-    "base_layer_percentage": 7
+    "total_bs": 12,
+    "base_layer_count": 0,
+    "power_problems": 0,
+    "non_priority_percentage": 100,
+    "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-23T09:42:38.878310",
+  "collected_at": "2026-01-23T09:54:59.419883",
   "macroregion": "Москва"
 }
