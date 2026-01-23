@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NEA",
   "region_name": "Северо-Восточный округ Москвы",
-  "base_layer": "NEA Базовый слой 23.01.2026 18:00:\n\n1) MS5149 2026-01-23T17:31:43\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NEA Неприоритетные технологии 23.01.2026 18:00:\n\nНедоступно 3G:\n1) MS5149\nНедоступно LTE800:\n1) MO0282\nНедоступно LTE2600:\n1) MO0282\n",
-  "timestamp": "18:00:25",
+  "base_layer": "NEA Базовый слой 23.01.2026 18:09:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NEA Неприоритетные технологии 23.01.2026 18:09:\n\nНедоступно LTE800:\n1) MO0282\nНедоступно LTE2600:\n1) MO0282\n",
+  "timestamp": "18:09:37",
   "date": "2026-01-23",
-  "full_timestamp": "2026-01-23T18:00:25.318692",
+  "full_timestamp": "2026-01-23T18:09:37.801256",
   "stats": {
-    "total_bs": 9,
-    "base_layer_count": 1,
+    "total_bs": 7,
+    "base_layer_count": 0,
     "power_problems": 0,
-    "non_priority_percentage": 89,
-    "base_layer_percentage": 11
+    "non_priority_percentage": 100,
+    "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-23T18:00:25.318692",
+  "collected_at": "2026-01-23T18:09:37.801256",
   "macroregion": "Москва"
 }
