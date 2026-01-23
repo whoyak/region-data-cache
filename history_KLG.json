@@ -1140,9 +1140,26 @@
       "base_layer_percentage": 3,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KLG",
+      "region_name": "Калужская область",
+      "base_layer": "KLG Базовый слой 23.01.2026 14:54:\n\n1) KL0424 2026-01-23T11:51:04\nPower Нет; Посещение Нет; WO Есть\n2) KL0203 2026-01-23T14:32:44\nPower Да; Посещение Да; WO Нет\n3) KL0210 2026-01-23T14:36:38\nPower Да; Посещение Да; WO Нет\n4) KL0385 2026-01-23T12:21:12\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- KL0424; wo Есть;Время 2026-01-23 11:49:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLG Неприоритетные технологии 23.01.2026 14:54:\n\nНедоступно LTE1800:\n1) KL0210\nНедоступно 3G:\n1) KL0424\nНедоступно LTE2600:\n1) KL0210\nНедоступно LTE2300:\n1) KL0484\n2) KL0729\n3) KL0564\n4) KL0502\n5) KL0098\n6) KL0075\n7) KL0554\n8) KL0336\n9) KL0690\n10) KL0253\n11) KL0052\n12) KL0560\n13) KL0571\n14) KL0229\n15) KL0096\n16) KL0725\n17) KL0381\n18) KL0405\n19) KL0426\n20) KL0717\n21) KL0373\n22) KL0005\n23) KL0503\n24) KL0447\n25) KL0324\n26) KL0014\n27) KL0691\n28) KL0228\n29) KL0432\n30) KL0658\n31) KL0204\n",
+      "base_layer_count": 4,
+      "total_bs_count": 55,
+      "power_problems": 1,
+      "non_priority_percentage": 93,
+      "timestamp": "14:54:53",
+      "date": "2026-01-23",
+      "full_timestamp": "2026-01-23T14:54:53.815296",
+      "created_at": "2026-01-23T14:55:00.924425",
+      "base_layer_percentage": 7,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 67,
-  "timestamp": "2026-01-23T10:22:40.435958",
+  "count": 68,
+  "timestamp": "2026-01-23T14:55:06.413796",
   "error": null
 }
