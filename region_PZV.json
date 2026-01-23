@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "PZV",
   "region_name": "Петрозаводск",
-  "base_layer": "PZV Базовый слой 23.01.2026 10:22:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "PZV Неприоритетные технологии 23.01.2026 10:22:\n\n",
-  "timestamp": "10:22:11",
+  "base_layer": "PZV Базовый слой 23.01.2026 14:54:\n\n1) PZ0191 2026-01-23T14:32:58\nPower Да; Посещение Да; WO Нет\n2) PZ0817 2026-01-23T14:41:20\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- PZ0817; wo Нет;Время 2026-01-23 13:50:57\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "PZV Неприоритетные технологии 23.01.2026 14:54:\n\nНедоступно LTE1800:\n1) PZ0191\n2) PZ0817\nНедоступно LTE2300:\n1) PZ0817\n",
+  "timestamp": "14:54:44",
   "date": "2026-01-23",
-  "full_timestamp": "2026-01-23T10:22:11.034751",
+  "full_timestamp": "2026-01-23T14:54:44.653203",
   "stats": {
-    "total_bs": 0,
-    "base_layer_count": 0,
-    "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "total_bs": 2,
+    "base_layer_count": 2,
+    "power_problems": 1,
+    "non_priority_percentage": 0,
+    "base_layer_percentage": 100
   },
   "is_real_data": true,
-  "collected_at": "2026-01-23T10:22:11.034751",
+  "collected_at": "2026-01-23T14:54:44.653203",
   "macroregion": "Северо-запад"
 }
