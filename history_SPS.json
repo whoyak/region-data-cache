@@ -1229,22 +1229,22 @@
     {
       "region_code": "SPS",
       "region_name": "Санкт-Петербург Юг",
-      "base_layer": "SPS Базовый слой 23.01.2026 16:00:\n\n1) LE0686 2026-01-23T15:36:30\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 3\n\n9 приоритет:\n- LE2224; wo Есть;Время 2026-01-23 15:27:50\n\n10 приоритет:\n- LE0686; wo Нет;Время 2026-01-23 12:14:34\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-      "non_priority": "SPS Неприоритетные технологии 23.01.2026 16:00:\n\nНедоступно 3G:\n1) LE2224\n2) SC0673\n3) LE2646\n4) SP0056\n5) SP0586\nНедоступно LTE2600:\n1) LE2224\nНедоступно LTE2100:\n1) LE2224\n2) SP0586\nНедоступно LTE2300:\n1) LE2224\n",
-      "base_layer_count": 1,
-      "total_bs_count": 8,
-      "power_problems": 3,
-      "non_priority_percentage": 88,
-      "timestamp": "16:00:41",
+      "base_layer": "SPS Базовый слой 23.01.2026 16:04:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- LE2224; wo Есть;Время 2026-01-23 15:27:50\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SPS Неприоритетные технологии 23.01.2026 16:04:\n\nНедоступно 3G:\n1) LE2224\n2) SC0673\n3) LE2646\n4) SP0056\n5) SP0586\nНедоступно LTE2600:\n1) LE2224\nНедоступно LTE2100:\n1) LE2224\n2) SP0586\nНедоступно LTE2300:\n1) LE2224\n",
+      "base_layer_count": 0,
+      "total_bs_count": 5,
+      "power_problems": 1,
+      "non_priority_percentage": 100,
+      "timestamp": "16:04:44",
       "date": "2026-01-23",
-      "full_timestamp": "2026-01-23T16:00:41.191779",
-      "created_at": "2026-01-23T16:00:58.358096",
-      "base_layer_percentage": 12,
+      "full_timestamp": "2026-01-23T16:04:44.181409",
+      "created_at": "2026-01-23T16:04:59.253405",
+      "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Северо-запад"
     }
   ],
   "count": 73,
-  "timestamp": "2026-01-23T16:01:06.938238",
+  "timestamp": "2026-01-23T16:05:07.425796",
   "error": null
 }
