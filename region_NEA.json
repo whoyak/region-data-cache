@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NEA",
   "region_name": "Северо-Восточный округ Москвы",
-  "base_layer": "NEA Базовый слой 24.01.2026 01:20:\n\n1) MR3327 2026-01-24T00:53:38\nPower Да; Посещение Нет; WO Нет\n2) MR1854 2026-01-24T00:53:23\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NEA Неприоритетные технологии 24.01.2026 01:20:\n\nНедоступно 3G:\n1) MR3327\n2) MR1854\nНедоступно LTE2600:\n1) MR3327\n2) MR1854\nНедоступно LTE2100:\n1) MR3327\n2) MR1854\n",
-  "timestamp": "01:20:12",
+  "base_layer": "NEA Базовый слой 24.01.2026 01:34:\n\n1) MR3327 2026-01-24T00:53:38\nPower Да; Посещение Нет; WO Нет\n2) MR1854 2026-01-24T00:53:23\nPower Да; Посещение Нет; WO Нет\n3) MO4147 2026-01-24T01:17:46\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NEA Неприоритетные технологии 24.01.2026 01:34:\n\nНедоступно 3G:\n1) MR3327\n2) MR1854\n3) MO4147\nНедоступно LTE2600:\n1) MR3327\n2) MR1854\n3) MO4147\nНедоступно LTE2100:\n1) MR3327\n2) MR1854\n3) MO4147\n",
+  "timestamp": "01:34:02",
   "date": "2026-01-24",
-  "full_timestamp": "2026-01-24T01:20:12.105921",
+  "full_timestamp": "2026-01-24T01:34:02.925946",
   "stats": {
-    "total_bs": 9,
-    "base_layer_count": 2,
-    "power_problems": 0,
-    "non_priority_percentage": 78,
-    "base_layer_percentage": 22
+    "total_bs": 10,
+    "base_layer_count": 3,
+    "power_problems": 1,
+    "non_priority_percentage": 70,
+    "base_layer_percentage": 30
   },
   "is_real_data": true,
-  "collected_at": "2026-01-24T01:20:12.105921",
+  "collected_at": "2026-01-24T01:34:02.925946",
   "macroregion": "Москва"
 }
