@@ -2313,9 +2313,26 @@
       "base_layer_percentage": 1,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "ROS",
+      "region_name": "Ростовская область",
+      "base_layer": "ROS Базовый слой 24.01.2026 05:32:\n\n1) RO1976 2026-01-24T05:04:40\nPower Нет; Посещение Нет; WO Есть\n2) RO0228 2026-01-24T00:38:04\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 6\n\n9 приоритет:\n- RO0819; wo Нет;Время 2026-01-24 05:06:31\n\n10 приоритет:\n- RO1647; wo Нет;Время 2026-01-23 13:38:48\n- RO0253; wo Нет;Время 2026-01-24 05:06:16\n- RO1201; wo Нет;Время 2026-01-24 05:06:15\n- RO2180; wo Нет;Время 2026-01-24 05:06:29\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ROS Неприоритетные технологии 24.01.2026 05:32:\n\nНедоступно LTE1800:\n1) RO1976\n2) RO0228\nНедоступно 3G:\n1) RO0062\n2) RO2670\nНедоступно LTE2600:\n1) RO0410\n2) RO1816\n",
+      "base_layer_count": 2,
+      "total_bs_count": 77,
+      "power_problems": 6,
+      "non_priority_percentage": 98,
+      "timestamp": "05:32:30",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T05:32:30.576157",
+      "created_at": "2026-01-24T05:32:31.351165",
+      "base_layer_percentage": 2,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
-  "count": 136,
-  "timestamp": "2026-01-24T05:18:51.500677",
+  "count": 137,
+  "timestamp": "2026-01-24T05:32:36.747904",
   "error": null
 }
