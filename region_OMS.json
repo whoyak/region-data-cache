@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "OMS",
   "region_name": "Омская область",
-  "base_layer": "OMS Базовый слой 24.01.2026 09:11:\n\n1) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- OM2096; wo Нет;Время 2026-01-24 08:48:35\n\n9 приоритет:\n- OM2867; wo Нет;Время 2026-01-21 13:49:37\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "OMS Неприоритетные технологии 24.01.2026 09:11:\n\nНедоступно LTE1800:\n1) OM2321\nНедоступно 3G:\n1) OM2096\nНедоступно LTE2600:\n1) OM2096\nНедоступно LTE2100:\n1) OM2096\n",
-  "timestamp": "09:11:47",
+  "base_layer": "OMS Базовый слой 24.01.2026 09:24:\n\n1) OM2321 2026-01-21T05:27:46\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "OMS Неприоритетные технологии 24.01.2026 09:24:\n\nНедоступно LTE1800:\n1) OM2321\n",
+  "timestamp": "09:24:43",
   "date": "2026-01-24",
-  "full_timestamp": "2026-01-24T09:11:47.656334",
+  "full_timestamp": "2026-01-24T09:24:43.214134",
   "stats": {
-    "total_bs": 4,
+    "total_bs": 3,
     "base_layer_count": 1,
-    "power_problems": 2,
-    "non_priority_percentage": 75,
-    "base_layer_percentage": 25
+    "power_problems": 0,
+    "non_priority_percentage": 67,
+    "base_layer_percentage": 33
   },
   "is_real_data": true,
-  "collected_at": "2026-01-24T09:11:47.656334",
+  "collected_at": "2026-01-24T09:24:43.214134",
   "macroregion": "Сибирь"
 }
