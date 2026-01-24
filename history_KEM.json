@@ -137,9 +137,26 @@
       "base_layer_percentage": 75,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "KEM",
+      "region_name": "Кемеровская область",
+      "base_layer": "KEM Базовый слой 24.01.2026 10:29:\n\n1) KE0176 2026-01-24T08:53:23\nPower Да; Посещение Нет; WO Нет\n2) KE1422 2026-01-20T06:10:19\nPower Да; Посещение Нет; WO Нет\n3) KE0895 2025-12-31T18:54:32\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n3 приоритет:\n- KE1152; wo Есть;Время 2026-01-24 09:01:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KEM Неприоритетные технологии 24.01.2026 10:29:\n\nНедоступно LTE1800:\n1) KE0176\n2) KE1422\n3) KE0895\nНедоступно 3G:\n1) KE1152\nНедоступно LTE800:\n1) KE1152\n2) KE0895\nНедоступно LTE2100:\n1) KE1152\n",
+      "base_layer_count": 3,
+      "total_bs_count": 4,
+      "power_problems": 1,
+      "non_priority_percentage": 25,
+      "timestamp": "10:29:01",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T10:29:01.244371",
+      "created_at": "2026-01-24T10:29:12.757500",
+      "base_layer_percentage": 75,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 8,
-  "timestamp": "2026-01-24T10:16:33.796028",
+  "count": 9,
+  "timestamp": "2026-01-24T10:29:15.867382",
   "error": null
 }
