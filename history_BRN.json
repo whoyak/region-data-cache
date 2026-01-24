@@ -885,9 +885,26 @@
       "base_layer_percentage": 0,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "BRN",
+      "region_name": "Барнаул",
+      "base_layer": "BRN Базовый слой 24.01.2026 19:34:\n\nВсего активных POWER на сети: 2\n\n9 приоритет:\n- AL0925; wo Нет;Время 2026-01-24 19:04:24\n\n10 приоритет:\n- AL0977; wo Есть;Время 2026-01-24 19:04:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "BRN Неприоритетные технологии 24.01.2026 19:34:\n\nНедоступно 3G:\n1) AL0925\n2) AL0977\nНедоступно LTE800:\n1) AL0925\n2) AL0977\nНедоступно LTE2100:\n1) AL0925\n2) AL0977\n",
+      "base_layer_count": 0,
+      "total_bs_count": 2,
+      "power_problems": 2,
+      "non_priority_percentage": 100,
+      "timestamp": "19:34:12",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T19:34:12.084957",
+      "created_at": "2026-01-24T19:34:25.761651",
+      "base_layer_percentage": 0,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 52,
-  "timestamp": "2026-01-24T19:21:22.098706",
+  "count": 53,
+  "timestamp": "2026-01-24T19:34:29.087012",
   "error": null
 }
