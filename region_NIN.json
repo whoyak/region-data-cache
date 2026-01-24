@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "NIN",
   "region_name": "Нижний Новгород",
-  "base_layer": "NIN Базовый слой 24.01.2026 13:30:\n\n1) NN0189 2026-01-14T19:44:03\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "NIN Неприоритетные технологии 24.01.2026 13:30:\n\nНедоступно 3G:\n1) NN0189\nНедоступно LTE2600:\n1) NN2368\nНедоступно LTE2300:\n1) NN0834\n2) NN0365\n3) NN1990\n",
-  "timestamp": "13:30:49",
+  "base_layer": "NIN Базовый слой 24.01.2026 13:44:\n\n1) NO2743 2026-01-24T13:27:02\nPower Да; Посещение Нет; WO Нет\n2) NN0189 2026-01-14T19:44:03\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- NN0392; wo Нет;Время 2026-01-24 13:16:18\n- NN2261; wo Нет;Время 2026-01-24 09:28:22\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "NIN Неприоритетные технологии 24.01.2026 13:44:\n\nНедоступно 3G:\n1) NN2261\n2) NN0189\nНедоступно LTE2300:\n1) NN0834\n2) NN0365\n3) NN1990\n",
+  "timestamp": "13:44:11",
   "date": "2026-01-24",
-  "full_timestamp": "2026-01-24T13:30:49.648597",
+  "full_timestamp": "2026-01-24T13:44:11.090956",
   "stats": {
-    "total_bs": 10,
-    "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 90,
-    "base_layer_percentage": 10
+    "total_bs": 9,
+    "base_layer_count": 2,
+    "power_problems": 2,
+    "non_priority_percentage": 78,
+    "base_layer_percentage": 22
   },
   "is_real_data": true,
-  "collected_at": "2026-01-24T13:30:49.648597",
+  "collected_at": "2026-01-24T13:44:11.090956",
   "macroregion": "Волга"
 }
