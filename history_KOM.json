@@ -154,9 +154,26 @@
       "base_layer_percentage": 16,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "KOM",
+      "region_name": "Коми",
+      "base_layer": "KOM Базовый слой 24.01.2026 10:41:\n\n1) KO0351 2026-01-24T10:18:34\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- KO0351; wo Нет;Время 2026-01-24 10:10:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOM Неприоритетные технологии 24.01.2026 10:41:\n\nНедоступно LTE1800:\n1) KO0351\nНедоступно 3G:\n1) KO0048\n2) KO0351\n3) KO0414\n4) KO0076\nНедоступно LTE800:\n1) KO0737\n2) KO0351\nНедоступно LTE2600:\n1) KO0048\nНедоступно LTE2100:\n1) KO0048\n2) KO0414\nНедоступно LTE2300:\n1) KO0048\n",
+      "base_layer_count": 1,
+      "total_bs_count": 6,
+      "power_problems": 4,
+      "non_priority_percentage": 84,
+      "timestamp": "10:41:56",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T10:41:56.278254",
+      "created_at": "2026-01-24T10:42:06.346576",
+      "base_layer_percentage": 16,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 9,
-  "timestamp": "2026-01-24T10:29:15.867392",
+  "count": 10,
+  "timestamp": "2026-01-24T10:42:08.743348",
   "error": null
 }
