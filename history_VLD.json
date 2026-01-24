@@ -2143,9 +2143,26 @@
       "base_layer_percentage": 10,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "VLD",
+      "region_name": "Владивосток",
+      "base_layer": "VLD Базовый слой 24.01.2026 03:26:\n\n1) VV0420 2026-01-24T01:06:47\nPower Да; Посещение Нет; WO Есть\n2) VV0738 2026-01-23T20:58:37\nPower Да; Посещение Нет; WO Есть\n3) VV0759 2026-01-23T05:26:37\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VV2005; wo Нет;Время 2026-01-24 01:44:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLD Неприоритетные технологии 24.01.2026 03:26:\n\nНедоступно LTE1800:\n1) VV0738\n2) VV0759\nНедоступно 3G:\n1) VV2006\n2) VV0759\n3) VV2005\nНедоступно LTE2100:\n1) VV2006\n2) VV0759\n3) VV2005\nНедоступно LTE2300:\n1) VV2020\n2) VV0015\n3) VV2031\n4) VV0038\n5) VV0040\n6) VV0070\n7) VV0416\n8) VV0119\n9) VV0620\n10) VV0106\n11) VV0421\n12) VV2037\n13) VV0019\n14) VV0001\n15) VV0382\n16) VV2032\n17) VV0615\n18) VV2039\n19) VV0006\n20) VV2006\n21) VV0021\n22) VV2023\n23) VV0022\n24) VV0331\n25) VV0142\n26) VV2005\n27) VV0381\n",
+      "base_layer_count": 3,
+      "total_bs_count": 30,
+      "power_problems": 2,
+      "non_priority_percentage": 90,
+      "timestamp": "03:26:32",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T03:26:32.379179",
+      "created_at": "2026-01-24T03:26:56.091469",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 126,
-  "timestamp": "2026-01-24T03:13:31.836013",
+  "count": 127,
+  "timestamp": "2026-01-24T03:27:01.212144",
   "error": null
 }
