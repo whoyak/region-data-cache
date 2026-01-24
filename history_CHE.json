@@ -426,9 +426,26 @@
       "base_layer_percentage": 4,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "CHE",
+      "region_name": "Челябинская область",
+      "base_layer": "CHE Базовый слой 24.01.2026 13:57:\n\n1) CH1015 2026-01-24T13:36:18\nPower Да; Посещение Нет; WO Нет\n2) CH0028 2026-01-16T09:35:10\nPower Да; Посещение Нет; WO Нет\n3) CH2416 2026-01-24T11:43:47\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- CH0814; wo Нет;Время 2026-01-24 13:40:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHE Неприоритетные технологии 24.01.2026 13:57:\n\nНедоступно LTE1800:\n1) CH0028\n2) CH2416\nНедоступно 3G:\n1) CH0370\n2) CH0711\n3) CH0698\n4) CH0879\n5) CH0277\n6) CH2206\n7) CH0420\n8) CH1349\n9) CH2299\n10) CH0562\n11) CH2615\n12) CH1129\n13) CH0313\n14) CH0291\n15) CH2041\n16) CH0085\n17) CH1350\n18) CH2009\n19) CH2409\n20) CH2524\n21) CH1000\nНедоступно LTE800:\n1) CH2423\n2) CH2586\n3) CH2470\n4) CO0102\n5) CH0562\n6) CH2786\n7) CH2236\n8) CH0463\n9) CH0085\n10) CH2396\nНедоступно LTE2600:\n1) CH2890\n2) CH2566\n3) CH0085\nНедоступно LTE2100:\n1) CH0711\n2) CH0698\n3) CH0879\n4) CH0319\n5) CH0428\n6) CH0562\n7) CH1350\n8) CH2409\n9) CH1000\nНедоступно LTE2300:\n1) CH0028\n2) CH0542\n3) CH0545\n4) CH0814\n5) CH0047\n6) CH1090\n7) CH2119\n8) CH2136\n9) CH0360\n10) CH0197\n11) CH0085\n12) CH0097\n13) CH0130\n14) CH2205\n15) CH0567\n16) CH0507\n",
+      "base_layer_count": 3,
+      "total_bs_count": 51,
+      "power_problems": 1,
+      "non_priority_percentage": 95,
+      "timestamp": "13:57:15",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T13:57:15.886243",
+      "created_at": "2026-01-24T13:57:26.453972",
+      "base_layer_percentage": 5,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 25,
-  "timestamp": "2026-01-24T13:44:35.457616",
+  "count": 26,
+  "timestamp": "2026-01-24T13:57:29.478504",
   "error": null
 }
