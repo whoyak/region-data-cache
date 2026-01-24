@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "BRT",
   "region_name": "Бурятия",
-  "base_layer": "BRT Базовый слой 24.01.2026 12:38:\n\n1) BU0795 2026-01-19T21:52:33\nPower Да; Посещение Да; WO Есть\n2) BU0451 2026-01-24T11:55:33\nPower Да; Посещение Да; WO Нет\n3) BU0351 2026-01-23T12:07:03\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "BRT Неприоритетные технологии 24.01.2026 12:38:\n\nНедоступно LTE1800:\n1) BU0795\n",
-  "timestamp": "12:38:28",
+  "base_layer": "BRT Базовый слой 24.01.2026 12:51:\n\n1) BU0795 2026-01-19T21:52:33\nPower Да; Посещение Да; WO Есть\n2) BU0351 2026-01-23T12:07:03\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- BU0245; wo Нет;Время 2026-01-24 12:21:19\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "BRT Неприоритетные технологии 24.01.2026 12:51:\n\nНедоступно LTE1800:\n1) BU0795\nНедоступно 3G:\n1) BU0245\nНедоступно LTE2100:\n1) BU0245\n",
+  "timestamp": "12:51:22",
   "date": "2026-01-24",
-  "full_timestamp": "2026-01-24T12:38:28.808964",
+  "full_timestamp": "2026-01-24T12:51:22.278374",
   "stats": {
-    "total_bs": 3,
-    "base_layer_count": 3,
-    "power_problems": 0,
-    "non_priority_percentage": 0,
-    "base_layer_percentage": 100
+    "total_bs": 4,
+    "base_layer_count": 2,
+    "power_problems": 1,
+    "non_priority_percentage": 50,
+    "base_layer_percentage": 50
   },
   "is_real_data": true,
-  "collected_at": "2026-01-24T12:38:28.808964",
+  "collected_at": "2026-01-24T12:51:22.278374",
   "macroregion": "Байкал и Дальний Восток"
 }
