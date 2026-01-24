@@ -86,9 +86,26 @@
       "base_layer_percentage": 9,
       "is_historical": true,
       "macroregion": "ЮГ"
+    },
+    {
+      "region_code": "VLG",
+      "region_name": "Волгоградская область",
+      "base_layer": "VLG Базовый слой 24.01.2026 09:50:\n\n1) VD0504 2026-01-24T04:50:13\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- VD0494; wo Есть;Время 2026-01-24 03:36:40\n\n9 приоритет:\n- VD0407; wo Нет;Время 2026-01-24 09:20:39\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLG Неприоритетные технологии 24.01.2026 09:50:\n\nНедоступно 3G:\n1) VD0494\n2) VD0407\nНедоступно LTE800:\n1) VD1955\n2) VD0407\n",
+      "base_layer_count": 1,
+      "total_bs_count": 14,
+      "power_problems": 2,
+      "non_priority_percentage": 93,
+      "timestamp": "09:50:17",
+      "date": "2026-01-24",
+      "full_timestamp": "2026-01-24T09:50:17.427628",
+      "created_at": "2026-01-24T09:50:17.531434",
+      "base_layer_percentage": 7,
+      "is_historical": true,
+      "macroregion": "ЮГ"
     }
   ],
-  "count": 5,
-  "timestamp": "2026-01-24T09:37:36.953920",
+  "count": 6,
+  "timestamp": "2026-01-24T09:50:19.969165",
   "error": null
 }
