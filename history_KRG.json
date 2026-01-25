@@ -2619,9 +2619,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "KRG",
+      "region_name": "Курганская область",
+      "base_layer": "KRG Базовый слой 25.01.2026 17:00:\n\n1) KG0212 2026-01-25T15:17:00\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KRG Неприоритетные технологии 25.01.2026 17:00:\n\nНедоступно LTE1800:\n1) KG0212\nНедоступно 3G:\n1) KG0150\n2) KG0212\nНедоступно LTE2100:\n1) KG0212\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 0,
+      "non_priority_percentage": 67,
+      "timestamp": "17:00:38",
+      "date": "2026-01-25",
+      "full_timestamp": "2026-01-25T17:00:38.203110",
+      "created_at": "2026-01-25T17:00:48.972366",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 154,
-  "timestamp": "2026-01-25T16:47:38.494595",
+  "count": 155,
+  "timestamp": "2026-01-25T17:00:59.268757",
   "error": null
 }
