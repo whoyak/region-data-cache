@@ -2143,9 +2143,26 @@
       "base_layer_percentage": 66,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "ULN",
+      "region_name": "Ульяновск",
+      "base_layer": "ULN Базовый слой 25.01.2026 11:08:\n\n1) UL0343 2026-01-25T01:16:25\nPower Да; Посещение Нет; WO Есть\n2) UL0168 2026-01-24T20:37:34\nPower Нет; Посещение Нет; WO Есть\n3) UL1082 2026-01-25T09:58:04\nPower Да; Посещение Нет; WO Нет\n4) UL0294 2026-01-25T01:35:35\nPower Да; Посещение Да; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "ULN Неприоритетные технологии 25.01.2026 11:08:\n\nНедоступно LTE1800:\n1) UL0168\n2) UL1082\nНедоступно LTE2300:\n1) UL1082\n",
+      "base_layer_count": 4,
+      "total_bs_count": 6,
+      "power_problems": 1,
+      "non_priority_percentage": 34,
+      "timestamp": "11:08:07",
+      "date": "2026-01-25",
+      "full_timestamp": "2026-01-25T11:08:07.356458",
+      "created_at": "2026-01-25T11:08:27.113695",
+      "base_layer_percentage": 66,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
-  "count": 126,
-  "timestamp": "2026-01-25T11:01:03.332788",
+  "count": 127,
+  "timestamp": "2026-01-25T11:08:36.966825",
   "error": null
 }
