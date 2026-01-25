@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KRS",
   "region_name": "Красноярск",
-  "base_layer": "KRS Базовый слой 25.01.2026 23:46:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KRS Неприоритетные технологии 25.01.2026 23:46:\n\nНедоступно 3G:\n1) KA2389\nНедоступно LTE2300:\n1) KA0493\n2) KA1510\n3) KA0650\n",
-  "timestamp": "23:46:18",
-  "date": "2026-01-25",
-  "full_timestamp": "2026-01-25T23:46:18.044586",
+  "base_layer": "KRS Базовый слой 26.01.2026 00:00:\n\nВсего активных POWER на сети: 1\n\n9 приоритет:\n- KA0692; wo Нет;Время 2026-01-25 23:33:15\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KRS Неприоритетные технологии 26.01.2026 00:00:\n\nНедоступно 3G:\n1) KA0692\n2) KA2389\nНедоступно LTE800:\n1) KA0692\nНедоступно LTE2600:\n1) KA0692\nНедоступно LTE2300:\n1) KA0493\n2) KA1510\n3) KA0650\n",
+  "timestamp": "00:00:10",
+  "date": "2026-01-26",
+  "full_timestamp": "2026-01-26T00:00:10.775660",
   "stats": {
-    "total_bs": 4,
+    "total_bs": 5,
     "base_layer_count": 0,
-    "power_problems": 0,
+    "power_problems": 1,
     "non_priority_percentage": 100,
     "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-25T23:46:18.044586",
+  "collected_at": "2026-01-26T00:00:10.775660",
   "macroregion": "Сибирь"
 }
