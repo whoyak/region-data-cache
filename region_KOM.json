@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KOM",
   "region_name": "Коми",
-  "base_layer": "KOM Базовый слой 25.01.2026 05:20:\n\n1) KO0678 2026-01-25T00:09:16\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KOM Неприоритетные технологии 25.01.2026 05:20:\n\nНедоступно LTE1800:\n1) KO0678\nНедоступно 3G:\n1) KO0330\nНедоступно LTE800:\n1) KO0330\n",
-  "timestamp": "05:20:37",
+  "base_layer": "KOM Базовый слой 25.01.2026 05:34:\n\n1) KO0678 2026-01-25T00:09:16\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KOM Неприоритетные технологии 25.01.2026 05:34:\n\nНедоступно LTE1800:\n1) KO0678\nНедоступно 3G:\n1) KO0330\n2) KO0169\nНедоступно LTE800:\n1) KO0330\n2) KO0169\nНедоступно LTE2600:\n1) KO0169\nНедоступно LTE2100:\n1) KO0169\n",
+  "timestamp": "05:34:15",
   "date": "2026-01-25",
-  "full_timestamp": "2026-01-25T05:20:37.863853",
+  "full_timestamp": "2026-01-25T05:34:15.905735",
   "stats": {
-    "total_bs": 3,
+    "total_bs": 4,
     "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 67,
-    "base_layer_percentage": 33
+    "power_problems": 2,
+    "non_priority_percentage": 75,
+    "base_layer_percentage": 25
   },
   "is_real_data": true,
-  "collected_at": "2026-01-25T05:20:37.863853",
+  "collected_at": "2026-01-25T05:34:15.905735",
   "macroregion": "Урал"
 }
