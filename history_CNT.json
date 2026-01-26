@@ -3843,9 +3843,26 @@
       "base_layer_percentage": 30,
       "is_historical": true,
       "macroregion": "Москва"
+    },
+    {
+      "region_code": "CNT",
+      "region_name": "Центральный округ Москвы",
+      "base_layer": "CNT Базовый слой 26.01.2026 09:20:\n\n1) MS0290 2026-01-25T02:06:38\nPower Да; Посещение Нет; WO Нет\n2) MS0272 2026-01-26T02:34:33\nPower Да; Посещение Нет; WO Нет\n3) MS2998 2026-01-20T07:29:14\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- MS4818; wo Нет;Время 2026-01-26 08:30:14\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CNT Неприоритетные технологии 26.01.2026 09:20:\n\nНедоступно 3G:\n1) MS0290\n2) MS0272\nНедоступно LTE800:\n1) MS0290\n2) MC2884\nНедоступно LTE2600:\n1) MS0290\n2) MS4818\n3) MS2998\nНедоступно LTE2100:\n1) MS0290\n2) MS2998\n",
+      "base_layer_count": 3,
+      "total_bs_count": 11,
+      "power_problems": 2,
+      "non_priority_percentage": 73,
+      "timestamp": "09:20:50",
+      "date": "2026-01-26",
+      "full_timestamp": "2026-01-26T09:20:50.584532",
+      "created_at": "2026-01-26T09:21:11.291452",
+      "base_layer_percentage": 27,
+      "is_historical": true,
+      "macroregion": "Москва"
     }
   ],
-  "count": 226,
-  "timestamp": "2026-01-26T09:07:02.036936",
+  "count": 227,
+  "timestamp": "2026-01-26T09:21:20.232748",
   "error": null
 }
