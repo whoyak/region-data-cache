@@ -3690,9 +3690,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Сибирь"
+    },
+    {
+      "region_code": "TOM",
+      "region_name": "Томская область",
+      "base_layer": "TOM Базовый слой 26.01.2026 07:28:\n\n1) TO0283 2026-01-26T07:06:23\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- TO0252; wo Нет;Время 2026-01-26 06:50:47\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "TOM Неприоритетные технологии 26.01.2026 07:28:\n\nНедоступно LTE1800:\n1) TO0283\nНедоступно 3G:\n1) TO0252\n",
+      "base_layer_count": 1,
+      "total_bs_count": 2,
+      "power_problems": 1,
+      "non_priority_percentage": 50,
+      "timestamp": "07:28:19",
+      "date": "2026-01-26",
+      "full_timestamp": "2026-01-26T07:28:19.068840",
+      "created_at": "2026-01-26T07:28:30.355204",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Сибирь"
     }
   ],
-  "count": 217,
-  "timestamp": "2026-01-26T07:14:39.598652",
+  "count": 218,
+  "timestamp": "2026-01-26T07:28:37.299386",
   "error": null
 }
