@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "VLG",
   "region_name": "Волгоградская область",
-  "base_layer": "VLG Базовый слой 27.01.2026 00:22:\n\n1) VD1248 2026-01-26T22:42:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "VLG Неприоритетные технологии 27.01.2026 00:22:\n\nНедоступно LTE1800:\n1) VD1248\nНедоступно LTE800:\n1) VD0626\n2) VD2017\n3) VD1248\n4) VD1955\n",
-  "timestamp": "00:22:41",
+  "base_layer": "VLG Базовый слой 27.01.2026 00:31:\n\n1) VD0440 2026-01-27T00:22:24\nPower Да; Посещение Нет; WO Нет\n2) VD1248 2026-01-26T22:42:13\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "VLG Неприоритетные технологии 27.01.2026 00:31:\n\nНедоступно LTE1800:\n1) VD0440\n2) VD1248\nНедоступно 3G:\n1) VD0440\nНедоступно LTE800:\n1) VD0626\n2) VD2017\n3) VD1248\n4) VD1955\n",
+  "timestamp": "00:31:05",
   "date": "2026-01-27",
-  "full_timestamp": "2026-01-27T00:22:41.423534",
+  "full_timestamp": "2026-01-27T00:31:05.476481",
   "stats": {
     "total_bs": 13,
-    "base_layer_count": 1,
+    "base_layer_count": 2,
     "power_problems": 0,
-    "non_priority_percentage": 93,
-    "base_layer_percentage": 7
+    "non_priority_percentage": 85,
+    "base_layer_percentage": 15
   },
   "is_real_data": true,
-  "collected_at": "2026-01-27T00:22:41.423534",
+  "collected_at": "2026-01-27T00:31:05.476481",
   "macroregion": "ЮГ"
 }
