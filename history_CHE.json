@@ -205,9 +205,26 @@
       "base_layer_percentage": 12,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "CHE",
+      "region_name": "Челябинская область",
+      "base_layer": "CHE Базовый слой 26.01.2026 16:33:\n\n1) CH0028 2026-01-16T09:35:10\nPower Да; Посещение Нет; WO Есть\n2) CH2416 2026-01-24T11:43:47\nPower Да; Посещение Нет; WO Есть\n3) CH1087 2026-01-26T09:25:34\nPower Да; Посещение Да; WO Нет\n4) CH2675 2026-01-26T13:58:18\nPower Нет; Посещение Да; WO Есть\n5) CH1881 2026-01-26T15:35:46\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- CH2675; wo Есть;Время 2026-01-26 12:52:41\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "CHE Неприоритетные технологии 26.01.2026 16:33:\n\nНедоступно LTE1800:\n1) CH0028\n2) CH2416\n3) CH2675\n4) CH1881\nНедоступно 3G:\n1) CH0370\n2) CH0711\n3) CH0879\n4) CH0277\n5) CH0420\n6) CH1349\n7) CH2299\n8) CH0562\n9) CH2615\n10) CH0482\n11) CH1129\n12) CH0313\n13) CH0291\n14) CH2041\n15) CH1350\n16) CH0085\n17) CH2009\n18) CH2409\n19) CH2524\n20) CH2675\n21) CH1000\nНедоступно LTE800:\n1) CH2423\n2) CH2586\n3) CH2470\n4) CO0102\n5) CH0259\n6) CH0562\n7) CH2786\n8) CH2236\n9) CH0085\n10) CH2396\nНедоступно LTE2600:\n1) CH0542\n2) CH0085\nНедоступно LTE2100:\n1) CH0711\n2) CH0879\n3) CH0319\n4) CH0428\n5) CH0562\n6) CH1350\n7) CH2409\n8) CH2675\n9) CH1000\nНедоступно LTE2300:\n1) CH0028\n2) CH0047\n3) CH1008\n4) CH0360\n5) CH0197\n6) CH0085\n7) CH0097\n8) CH0130\n9) CH2205\n10) CH2675\n11) CH0567\n",
+      "base_layer_count": 5,
+      "total_bs_count": 50,
+      "power_problems": 1,
+      "non_priority_percentage": 90,
+      "timestamp": "16:33:15",
+      "date": "2026-01-26",
+      "full_timestamp": "2026-01-26T16:33:15.528025",
+      "created_at": "2026-01-26T16:33:27.385536",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 12,
-  "timestamp": "2026-01-26T16:24:29.364862",
+  "count": 13,
+  "timestamp": "2026-01-26T16:33:30.368370",
   "error": null
 }
