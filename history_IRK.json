@@ -545,9 +545,26 @@
       "base_layer_percentage": 18,
       "is_historical": true,
       "macroregion": "Байкал и Дальний Восток"
+    },
+    {
+      "region_code": "IRK",
+      "region_name": "Иркутская область",
+      "base_layer": "IRK Базовый слой 26.01.2026 19:24:\n\n1) YA0594 2025-12-31T04:02:57\nPower Да; Посещение Нет; WO Есть\n2) IR0498 2026-01-26T04:53:11\nPower Да; Посещение Нет; WO Есть\n3) IR1720 2026-01-25T16:01:05\nPower Да; Посещение Нет; WO Есть\n4) YA1055 2026-01-22T23:35:24\nPower Да; Посещение Нет; WO Есть\n5) IR2192 2026-01-24T15:07:40\nPower Да; Посещение Нет; WO Есть\n6) YA1116 2026-01-19T05:06:49\nPower Нет; Посещение Нет; WO Есть\n7) IR2997 2026-01-21T07:06:36\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IRK Неприоритетные технологии 26.01.2026 19:24:\n\nНедоступно LTE1800:\n1) YA0594\n2) IR0498\n3) IR1720\n4) YA1055\nНедоступно LTE800:\n1) IR1530\n2) IR2442\n3) IR0338\n4) IR2192\nНедоступно LTE2100:\n1) IR1886\nНедоступно LTE2300:\n1) IR2014\n2) IR1681\n3) IR1664\n4) IR1982\n5) IR1219\n6) IR2608\n7) IR1487\n8) IR1116\n9) IR1528\n10) IR1482\n11) IO2816\n",
+      "base_layer_count": 7,
+      "total_bs_count": 37,
+      "power_problems": 1,
+      "non_priority_percentage": 82,
+      "timestamp": "19:24:47",
+      "date": "2026-01-26",
+      "full_timestamp": "2026-01-26T19:24:47.518348",
+      "created_at": "2026-01-26T19:25:12.111321",
+      "base_layer_percentage": 18,
+      "is_historical": true,
+      "macroregion": "Байкал и Дальний Восток"
     }
   ],
-  "count": 32,
-  "timestamp": "2026-01-26T19:13:35.055889",
+  "count": 33,
+  "timestamp": "2026-01-26T19:25:15.908200",
   "error": null
 }
