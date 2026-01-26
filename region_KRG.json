@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "KRG",
   "region_name": "Курганская область",
-  "base_layer": "KRG Базовый слой 26.01.2026 07:04:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "KRG Неприоритетные технологии 26.01.2026 07:04:\n\nНедоступно 3G:\n1) KG2254\n2) KG0150\n",
-  "timestamp": "07:04:30",
+  "base_layer": "KRG Базовый слой 26.01.2026 07:14:\n\n1) KG2274 2026-01-26T06:51:56\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "KRG Неприоритетные технологии 26.01.2026 07:14:\n\nНедоступно LTE1800:\n1) KG2274\nНедоступно 3G:\n1) KG0150\n2) KG2274\n3) KG2254\n",
+  "timestamp": "07:14:24",
   "date": "2026-01-26",
-  "full_timestamp": "2026-01-26T07:04:30.335967",
+  "full_timestamp": "2026-01-26T07:14:24.353533",
   "stats": {
-    "total_bs": 2,
-    "base_layer_count": 0,
+    "total_bs": 3,
+    "base_layer_count": 1,
     "power_problems": 0,
-    "non_priority_percentage": 100,
-    "base_layer_percentage": 0
+    "non_priority_percentage": 67,
+    "base_layer_percentage": 33
   },
   "is_real_data": true,
-  "collected_at": "2026-01-26T07:04:30.335967",
+  "collected_at": "2026-01-26T07:14:24.353533",
   "macroregion": "Урал"
 }
