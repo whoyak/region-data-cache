@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "TYV",
   "region_name": "Тыва",
-  "base_layer": "TYV Базовый слой 27.01.2026 12:32:\n\n1) TY0153 2026-01-27T08:29:34\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 1\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "TYV Неприоритетные технологии 27.01.2026 12:32:\n\nНедоступно LTE1800:\n1) TY0153\nНедоступно 3G:\n1) TY0153\n2) TY0013\nНедоступно LTE2100:\n1) TY0153\n2) TY0013\nНедоступно LTE2300:\n1) TY0153\n",
-  "timestamp": "12:32:03",
+  "base_layer": "TYV Базовый слой 27.01.2026 12:40:\n\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "TYV Неприоритетные технологии 27.01.2026 12:40:\n\nНедоступно LTE2100:\n1) TY0018\n",
+  "timestamp": "12:40:53",
   "date": "2026-01-27",
-  "full_timestamp": "2026-01-27T12:32:03.702866",
+  "full_timestamp": "2026-01-27T12:40:53.975239",
   "stats": {
-    "total_bs": 2,
-    "base_layer_count": 1,
-    "power_problems": 1,
-    "non_priority_percentage": 50,
-    "base_layer_percentage": 50
+    "total_bs": 1,
+    "base_layer_count": 0,
+    "power_problems": 0,
+    "non_priority_percentage": 100,
+    "base_layer_percentage": 0
   },
   "is_real_data": true,
-  "collected_at": "2026-01-27T12:32:03.702866",
+  "collected_at": "2026-01-27T12:40:53.975239",
   "macroregion": "Сибирь"
 }
