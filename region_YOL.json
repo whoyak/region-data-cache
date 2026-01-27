@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "YOL",
   "region_name": "Йошкар-Ола",
-  "base_layer": "YOL Базовый слой 27.01.2026 09:01:\n\n1) YO0686 2026-01-27T08:32:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "YOL Неприоритетные технологии 27.01.2026 09:01:\n\nНедоступно LTE1800:\n1) YO0686\nНедоступно LTE800:\n1) YO0686\n2) YO0362\n",
-  "timestamp": "09:01:42",
+  "base_layer": "YOL Базовый слой 27.01.2026 09:06:\n\n1) YO0686 2026-01-27T08:32:35\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- YO0175; wo Нет;Время 2026-01-27 08:41:40\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "YOL Неприоритетные технологии 27.01.2026 09:06:\n\nНедоступно LTE1800:\n1) YO0686\nНедоступно 3G:\n1) YO0175\nНедоступно LTE800:\n1) YO0686\n2) YO0362\n",
+  "timestamp": "09:06:24",
   "date": "2026-01-27",
-  "full_timestamp": "2026-01-27T09:01:42.505139",
+  "full_timestamp": "2026-01-27T09:06:24.161375",
   "stats": {
-    "total_bs": 2,
+    "total_bs": 3,
     "base_layer_count": 1,
-    "power_problems": 0,
-    "non_priority_percentage": 50,
-    "base_layer_percentage": 50
+    "power_problems": 1,
+    "non_priority_percentage": 67,
+    "base_layer_percentage": 33
   },
   "is_real_data": true,
-  "collected_at": "2026-01-27T09:01:42.505139",
+  "collected_at": "2026-01-27T09:06:24.161375",
   "macroregion": "Волга"
 }
