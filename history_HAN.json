@@ -2279,9 +2279,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "HAN",
+      "region_name": "Ханты-Мансийский АО",
+      "base_layer": "HAN Базовый слой 27.01.2026 09:58:\n\n1) HM0016 2026-01-22T10:25:25\nPower Да; Посещение Нет; WO Нет\n2) HM0445 2026-01-24T23:31:45\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "HAN Неприоритетные технологии 27.01.2026 09:58:\n\nНедоступно LTE1800:\n1) HM0016\n2) HM0445\nНедоступно LTE800:\n1) HM0445\nНедоступно LTE2600:\n1) HM1199\n2) HM0445\n3) HM2443\n",
+      "base_layer_count": 2,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 50,
+      "timestamp": "09:58:31",
+      "date": "2026-01-27",
+      "full_timestamp": "2026-01-27T09:58:31.112403",
+      "created_at": "2026-01-27T09:58:42.470345",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 134,
-  "timestamp": "2026-01-27T09:50:07.690048",
+  "count": 135,
+  "timestamp": "2026-01-27T09:58:48.235901",
   "error": null
 }
