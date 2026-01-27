@@ -2313,9 +2313,26 @@
       "base_layer_percentage": 100,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "KOS",
+      "region_name": "Костромская область",
+      "base_layer": "KOS Базовый слой 27.01.2026 10:16:\n\n1) KS0654 2026-01-27T05:25:40\nPower Да; Посещение Нет; WO Есть\n2) KS0077 2026-01-27T09:52:59\nPower Да; Посещение Нет; WO Нет\n3) KS0366 2026-01-27T09:52:02\nPower Да; Посещение Нет; WO Нет\n4) KS0046 2026-01-27T09:53:04\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KOS Неприоритетные технологии 27.01.2026 10:16:\n\nНедоступно LTE1800:\n1) KS0654\n2) KS0077\nНедоступно 3G:\n1) KS0077\n2) KS0046\nНедоступно LTE800:\n1) KS0077\nНедоступно LTE2300:\n1) KS0654\n",
+      "base_layer_count": 4,
+      "total_bs_count": 4,
+      "power_problems": 0,
+      "non_priority_percentage": 0,
+      "timestamp": "10:16:24",
+      "date": "2026-01-27",
+      "full_timestamp": "2026-01-27T10:16:24.117616",
+      "created_at": "2026-01-27T10:16:31.635225",
+      "base_layer_percentage": 100,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 136,
-  "timestamp": "2026-01-27T10:08:01.333957",
+  "count": 137,
+  "timestamp": "2026-01-27T10:16:37.035385",
   "error": null
 }
