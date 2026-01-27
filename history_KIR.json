@@ -2313,9 +2313,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "KIR",
+      "region_name": "Киров",
+      "base_layer": "KIR Базовый слой 27.01.2026 10:16:\n\n1) KI0230 2026-01-27T08:27:09\nPower Да; Посещение Нет; WO Есть\nВсего активных POWER на сети: 2\n\n10 приоритет:\n- KI0316; wo Нет;Время 2026-01-27 09:02:13\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KIR Неприоритетные технологии 27.01.2026 10:16:\n\nНедоступно 3G:\n1) KI0230\nНедоступно LTE800:\n1) KI0316\nНедоступно LTE2300:\n1) KI0230\n2) KI0741\n",
+      "base_layer_count": 1,
+      "total_bs_count": 3,
+      "power_problems": 2,
+      "non_priority_percentage": 67,
+      "timestamp": "10:16:10",
+      "date": "2026-01-27",
+      "full_timestamp": "2026-01-27T10:16:10.417405",
+      "created_at": "2026-01-27T10:16:31.633662",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
-  "count": 136,
-  "timestamp": "2026-01-27T10:08:01.333876",
+  "count": 137,
+  "timestamp": "2026-01-27T10:16:37.035296",
   "error": null
 }
