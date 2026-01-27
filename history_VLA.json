@@ -2925,9 +2925,26 @@
       "base_layer_percentage": 11,
       "is_historical": true,
       "macroregion": "Центр"
+    },
+    {
+      "region_code": "VLA",
+      "region_name": "Владимирская область",
+      "base_layer": "VLA Базовый слой 27.01.2026 15:46:\n\n1) VL0516 2026-01-27T04:56:47\nPower Нет; Посещение Нет; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- VL0516; wo Нет;Время 2026-01-27 04:54:12\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "VLA Неприоритетные технологии 27.01.2026 15:46:\n\nНедоступно 3G:\n1) VL0304\n2) VL0516\nНедоступно LTE2600:\n1) VL0516\nНедоступно LTE2300:\n1) VL0559\n2) VL0197\n3) VL0076\n4) VL0937\n",
+      "base_layer_count": 1,
+      "total_bs_count": 9,
+      "power_problems": 1,
+      "non_priority_percentage": 89,
+      "timestamp": "15:46:00",
+      "date": "2026-01-27",
+      "full_timestamp": "2026-01-27T15:46:00.606648",
+      "created_at": "2026-01-27T15:46:05.728116",
+      "base_layer_percentage": 11,
+      "is_historical": true,
+      "macroregion": "Центр"
     }
   ],
-  "count": 172,
-  "timestamp": "2026-01-27T15:37:10.233581",
+  "count": 173,
+  "timestamp": "2026-01-27T15:46:12.001396",
   "error": null
 }
