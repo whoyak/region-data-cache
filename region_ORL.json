@@ -2,19 +2,19 @@
   "success": true,
   "region_code": "ORL",
   "region_name": "Орловская область",
-  "base_layer": "ORL Базовый слой 27.01.2026 14:51:\n\n1) OR0280 2026-01-27T11:12:33\nPower Да; Посещение Да; WO Есть\n2) OR0159 2026-01-27T14:28:04\nPower Да; Посещение Нет; WO Нет\n3) OR0054 2026-01-27T13:16:24\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 1\n\n10 приоритет:\n- OR0178; wo Нет;Время 2026-01-27 11:54:45\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
-  "non_priority": "ORL Неприоритетные технологии 27.01.2026 14:51:\n\nНедоступно LTE1800:\n1) OR0280\n2) OR0159\n3) OR0054\nНедоступно LTE800:\n1) OR0015\nНедоступно LTE2300:\n1) OR2422\n2) OR0634\n3) OR0912\n4) OR2015\n5) OR0321\n",
-  "timestamp": "14:51:19",
+  "base_layer": "ORL Базовый слой 27.01.2026 15:00:\n\n1) OR0280 2026-01-27T11:12:33\nPower Да; Посещение Да; WO Есть\n2) OR0054 2026-01-27T13:16:24\nPower Да; Посещение Да; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+  "non_priority": "ORL Неприоритетные технологии 27.01.2026 15:00:\n\nНедоступно LTE1800:\n1) OR0280\n2) OR0054\nНедоступно LTE800:\n1) OR0015\nНедоступно LTE2300:\n1) OR2422\n2) OR0634\n3) OR0912\n4) OR2015\n5) OR0321\n",
+  "timestamp": "15:00:22",
   "date": "2026-01-27",
-  "full_timestamp": "2026-01-27T14:51:19.288250",
+  "full_timestamp": "2026-01-27T15:00:22.150848",
   "stats": {
-    "total_bs": 17,
-    "base_layer_count": 3,
-    "power_problems": 1,
-    "non_priority_percentage": 83,
-    "base_layer_percentage": 17
+    "total_bs": 16,
+    "base_layer_count": 2,
+    "power_problems": 0,
+    "non_priority_percentage": 88,
+    "base_layer_percentage": 12
   },
   "is_real_data": true,
-  "collected_at": "2026-01-27T14:51:19.288250",
+  "collected_at": "2026-01-27T15:00:22.150848",
   "macroregion": "Черноземье"
 }
