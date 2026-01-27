@@ -2806,9 +2806,26 @@
       "base_layer_percentage": 50,
       "is_historical": true,
       "macroregion": "Урал"
+    },
+    {
+      "region_code": "IZH",
+      "region_name": "Ижевск",
+      "base_layer": "IZH Базовый слой 27.01.2026 14:41:\n\n1) IZ0319 2026-01-27T11:47:48\nPower Нет; Посещение Нет; WO Нет\n2) IZ0030 2026-01-27T13:39:59\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 4\n\n10 приоритет:\n- IZ0319; wo Нет;Время 2026-01-27 09:39:40\n- IZ1333; wo Нет;Время 2026-01-27 14:07:07\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "IZH Неприоритетные технологии 27.01.2026 14:41:\n\nНедоступно LTE1800:\n1) IZ0319\n2) IZ0030\nНедоступно 3G:\n1) IZ0319\n2) IZ0030\n3) IZ0101\nНедоступно LTE800:\n1) IZ0319\n2) IZ0030\n3) IZ0101\nНедоступно LTE2300:\n1) IZ0319\n2) IZ1333\n",
+      "base_layer_count": 2,
+      "total_bs_count": 4,
+      "power_problems": 4,
+      "non_priority_percentage": 50,
+      "timestamp": "14:41:02",
+      "date": "2026-01-27",
+      "full_timestamp": "2026-01-27T14:41:02.870855",
+      "created_at": "2026-01-27T14:41:26.138779",
+      "base_layer_percentage": 50,
+      "is_historical": true,
+      "macroregion": "Урал"
     }
   ],
-  "count": 165,
-  "timestamp": "2026-01-27T14:32:38.025364",
+  "count": 166,
+  "timestamp": "2026-01-27T14:41:36.652257",
   "error": null
 }
