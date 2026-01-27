@@ -2653,9 +2653,26 @@
       "base_layer_percentage": 33,
       "is_historical": true,
       "macroregion": "Северо-запад"
+    },
+    {
+      "region_code": "KLN",
+      "region_name": "Калининградская область",
+      "base_layer": "KLN Базовый слой 27.01.2026 13:18:\n\n1) KN2238 2026-01-27T12:51:37\nPower Да; Посещение Да; WO Нет\n2) KN2013 2026-01-27T12:48:43\nPower Нет; Посещение Нет; WO Есть\nВсего активных POWER на сети: 3\n\n10 приоритет:\n- KN2276; wo Нет;Время 2026-01-27 11:45:13\n\n9 приоритет:\n- KN2013; wo Есть;Время 2026-01-27 11:09:28\n- KN2182; wo Нет;Время 2026-01-27 12:00:49\n\nОткрытые посещения:\nОткрыто всего посещений: 0\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "KLN Неприоритетные технологии 27.01.2026 13:18:\n\nНедоступно LTE1800:\n1) KN2238\n2) KN2013\nНедоступно 3G:\n1) KN2276\n2) KN2238\n3) KN2013\n4) KN2182\nНедоступно LTE800:\n1) KN2238\nНедоступно LTE2600:\n1) KN2276\n2) KN2013\n3) KN2182\nНедоступно LTE2300:\n1) KN2154\n",
+      "base_layer_count": 2,
+      "total_bs_count": 6,
+      "power_problems": 3,
+      "non_priority_percentage": 67,
+      "timestamp": "13:18:06",
+      "date": "2026-01-27",
+      "full_timestamp": "2026-01-27T13:18:06.052734",
+      "created_at": "2026-01-27T13:18:24.573826",
+      "base_layer_percentage": 33,
+      "is_historical": true,
+      "macroregion": "Северо-запад"
     }
   ],
-  "count": 156,
-  "timestamp": "2026-01-27T13:09:25.759328",
+  "count": 157,
+  "timestamp": "2026-01-27T13:18:32.062866",
   "error": null
 }
