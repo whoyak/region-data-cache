@@ -18,9 +18,26 @@
       "base_layer_percentage": 6,
       "is_historical": true,
       "macroregion": "Волга"
+    },
+    {
+      "region_code": "SAM",
+      "region_name": "Самара",
+      "base_layer": "SAM Базовый слой 10.02.2026 16:10:\n\n1) SR0998 2026-01-17T07:34:29\nPower Да; Посещение Нет; WO Нет\n2) SR0208 2026-02-10T15:45:28\nPower Да; Посещение Нет; WO Нет\n3) SR1284 2026-01-16T23:39:00\nPower Да; Посещение Нет; WO Нет\nВсего активных POWER на сети: 0\n\nОткрытые посещения:\nОткрыто всего посещений: 8\nОткрыто регистраций f gen: 0\n",
+      "non_priority": "SAM Неприоритетные технологии 10.02.2026 16:10:\n\nНедоступно LTE800:\n1) SR0208\nНедоступно LTE2300:\n1) SR0998\n2) SR1284\n",
+      "base_layer_count": 3,
+      "total_bs_count": 30,
+      "power_problems": 0,
+      "non_priority_percentage": 90,
+      "timestamp": "16:10:50",
+      "date": "2026-02-10",
+      "full_timestamp": "2026-02-10T16:10:50.316603",
+      "created_at": "2026-02-10T16:11:16.700467",
+      "base_layer_percentage": 10,
+      "is_historical": true,
+      "macroregion": "Волга"
     }
   ],
-  "count": 1,
-  "timestamp": "2026-02-10T16:01:37.456051",
+  "count": 2,
+  "timestamp": "2026-02-10T16:11:19.587590",
   "error": null
 }
